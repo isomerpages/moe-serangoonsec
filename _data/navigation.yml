@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About us
+    url: /about-us/
+  - title: Distinctive Programmes
+    url: /Distinctive-Programmes/
+  - title: Student Development
+    url: /Student-Development/
+  - title: Academic Programmes
+    url: /Academic-Programmes/
+  - title: Parents & Students
+    url: /Parents-and-Students/
+  - title: Sec 1 PES & CCA 2022
+    url: /sec1/
