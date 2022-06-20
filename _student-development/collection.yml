@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership/Overview.md
       - Student Leadership/SSS Student Leadership Framework.md
       - Student Leadership/Prefectorial Board.md
       - Student Leadership/CCA Leaders.md
