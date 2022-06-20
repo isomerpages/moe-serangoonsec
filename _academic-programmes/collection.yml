@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - Example Title.md
+      - English Language & Literature.md
       - Humanities.md
       - Information Communication & Technology (ICT).md
       - Mathematics.md
