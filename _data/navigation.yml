@@ -5,6 +5,22 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principalsmessage
+      - title: SSS Vision,Mission,Values
+        url: /vmv/
+      - title: SSS School Identity
+        url: /school-identity/
+      - title: School History
+        url: /history/
+      - title: School Stories
+        url: /stories/
+      - title: School Steering Committee
+        url: /steering-committee/
+      - title: School Advisory Committee
+        url: /advisory-committee/
+      - title: Staff
+        url: /staff/
+      - title: Contact Us
+        url: /contact-us/
   - title: Distinctive Programmes
     url: /distinctive-programmes/
     sublinks:
