@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - General Matters/School E Resource Repository (SERR).md
       - General Matters/SSS Learning Hub (School Library).md
       - General Matters/Student Learning Space (SLS).md
       - General Matters/Submission of Electronic Medical Certificate.md
