@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - "General Matters/Parents' Guide to LMS : AsknLearn Portal.md"
       - General Matters/School E Resource Repository (SERR).md
       - General Matters/SSS Learning Hub (School Library).md
       - General Matters/Student Learning Space (SLS).md
