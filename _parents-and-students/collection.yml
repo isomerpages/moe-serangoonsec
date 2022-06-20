@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Post Sec Educational Pathways/For GCE O Level Students.md
       - Post Sec Educational Pathways/For GCE N Level Students.md
       - Post Sec Educational Pathways/Directory of Post Secondary Education
         Institutions.md
