@@ -2,4 +2,5 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Latest News/2019 Overseas Learning Journey (OLJ) to Vietnam.md
       - Latest News/.keep
