@@ -65,10 +65,10 @@ links:
       - title: Science
         url: /science/
   - title: Parents & Students
-    url: /parents-students/
+    url: /parents-and-students/
     sublinks:
       - title: Latest News
-        url: /latest-news/
+        url: /Latest-News/
       - title: Letters to Parents & Guardians
         url: /letters/
       - title: Class Timetables
