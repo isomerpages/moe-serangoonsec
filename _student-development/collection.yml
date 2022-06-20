@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Student Leadership/Prefectorial Board.md
       - Student Leadership/CCA Leaders.md
       - Student Leadership/Class Committee.md
       - Student Leadership/Peer Support Leaders.md
