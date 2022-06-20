@@ -12,34 +12,25 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Announcements
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Important Information
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Serangoon Secondary latest happenings
+          description: ""
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Parents' Space
+      button: More info
       url: /faq/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Students' Space
+      button: More info
+      url: /faq/
+  - infobar:
+      title: Teachers' Space
+      button: More info
+      url: /faq/
 ---
