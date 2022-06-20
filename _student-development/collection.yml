@@ -2,6 +2,8 @@ collections:
   student-development:
     output: true
     order:
+      - Education & Career Guidance/Directory of Post Secondary Education
+        Institutions.md
       - Education & Career Guidance/Secondary 4 and 5 Parent Webinar.md
       - Education & Career Guidance/.keep
       - Student Leadership/Overview.md
