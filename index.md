@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Serangoon
+description: Secondary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -34,3 +34,4 @@ sections:
       button: More info
       url: /more-information-teachers/
 ---
+
