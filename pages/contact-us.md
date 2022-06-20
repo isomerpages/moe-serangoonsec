@@ -22,4 +22,9 @@ contacts:
       - email: serangoon_ss@moe.edu.sg
       - other: ""
     title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: Counselling & student welfare
 ---
