@@ -2,4 +2,5 @@ collections:
   sec-1-pes-and-cca-2022:
     output: true
     order:
+      - Sec 2 subject Allocation Exercise.md
       - Sec 1 Parent Engagement and CCA Orientation 2022.md
