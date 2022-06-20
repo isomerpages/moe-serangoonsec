@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Lower Sec/.keep
       - Upper Sec/Sec 4 & 5 Parent Webinar.md
       - Upper Sec/Sec 3 Academic Sharing on English, Mathematics, Science and
         CCAs & LEAPS 2 System.md
