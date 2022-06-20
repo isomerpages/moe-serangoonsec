@@ -2,18 +2,25 @@ logo: /images/isomer-logo.svg
 links:
   - title: About us
     url: /about-us/
-  - title: Distinctive Programmes
-    url: /Distinctive-Programmes/
-  - title: Student Development
-    url: /Student-Development/
-  - title: Academic Programmes
-    url: /Academic-Programmes/
-  - title: Parents & Students
-    url: /Parents-and-Students/
-  - title: Sec 1 PES & CCA 2022
-    url: /sec1/
-  - title: About us
-    url: /about-us/
     sublinks:
       - title: Principal's Message
         url: /about-us/principalsmessage
+  - title: Distinctive Programmes
+    url: /distinctive-programmes/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
+  - title: Student Development
+    url: /student-development/
+    sublinks: []
+  - title: Academic Programmes
+    url: /academic-programmes/
+    sublinks: []
+  - title: Parents & Students
+    url: /parents-students/
+    sublinks: []
+  - title: Sec 1 PES & CCA 2022
+    url: /sec1/
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
