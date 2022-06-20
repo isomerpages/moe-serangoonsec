@@ -12,3 +12,8 @@ links:
     url: /Parents-and-Students/
   - title: Sec 1 PES & CCA 2022
     url: /sec1/
+  - title: About us
+    url: /about-us/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principalsmessage
