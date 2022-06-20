@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Advisory Committee.md
       - School Steering Committee.md
       - School Stories.md
       - School History.md
