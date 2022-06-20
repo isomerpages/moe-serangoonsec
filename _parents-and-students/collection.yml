@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - General Matters/Submission of Electronic Medical Certificate.md
       - General Matters/.keep
       - Lower Sec/.keep
       - Lower Sec/Sec 2 Subject Allocation Exercise.md
