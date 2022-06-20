@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Parent Support Group.md
       - SSS Alumni/Alumni Recognition.md
       - SSS Alumni/.keep
       - National Digital Literacy Programme.md
