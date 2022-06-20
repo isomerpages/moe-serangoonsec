@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Stories.md
       - School History.md
       - SSS School Identity.md
       - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
