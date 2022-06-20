@@ -24,13 +24,13 @@ sections:
   - infobar:
       title: Parents' Space
       button: More info
-      url: /faq/
+      url: /more-information-parents/
   - infobar:
       title: Students' Space
       button: More info
-      url: /faq/
+      url: /more-information-students/
   - infobar:
       title: Teachers' Space
       button: More info
-      url: /faq/
+      url: /more-information-teachers/
 ---
