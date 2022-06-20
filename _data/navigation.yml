@@ -47,7 +47,23 @@ links:
         url: /student-management/
   - title: Academic Programmes
     url: /academic-programmes/
-    sublinks: []
+    sublinks:
+      - title: Craft & Technology
+        url: /craft-tech/
+      - title: English Language & Literature
+        url: /eng-lit/
+      - title: Humanities
+        url: /humans/
+      - title: Information Comm & Tech (ICT)
+        url: /ict/
+      - title: Mathematics
+        url: /math/
+      - title: Mother Tongue Languages
+        url: /mother-tongue/
+      - title: Physical Education
+        url: /pe/
+      - title: Science
+        url: /science/
   - title: Parents & Students
     url: /parents-students/
     sublinks: []
