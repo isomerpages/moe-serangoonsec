@@ -2,4 +2,5 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Science/Competitions.md
       - Science/.keep
