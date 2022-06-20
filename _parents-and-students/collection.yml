@@ -2,6 +2,8 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Post Sec Educational Pathways/Directory of Post Secondary Education
+        Institutions.md
       - Post Sec Educational Pathways/Secondary 4 and 5 Parent Webinar.md
       - Post Sec Educational Pathways/.keep
       - General Matters/2022 Booklists.md
