@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Learning for Life Prog LLP/Values In Action (VIA).md
       - Learning for Life Prog LLP/.keep
       - STEM Applied Learning Prog ALP/.keep
       - STEM Applied Learning Prog ALP/Sec 1 3D Modelling and Printing
