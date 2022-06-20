@@ -20,7 +20,7 @@ sections:
           url: https://gmail.com
         - title: Serangoon Secondary latest happenings
           description: ""
-          url: /privacy/
+          url: /facebook/
   - infobar:
       title: Parents' Space
       button: More info
