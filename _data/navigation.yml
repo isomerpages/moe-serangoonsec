@@ -66,7 +66,29 @@ links:
         url: /science/
   - title: Parents & Students
     url: /parents-students/
-    sublinks: []
+    sublinks:
+      - title: Latest News
+        url: /latest-news/
+      - title: Letters to Parents & Guardians
+        url: /letters/
+      - title: Class Timetables
+        url: /timetable/
+      - title: 2022 Student Handbook
+        url: /student-handbook/
+      - title: Post Sec Educational Pathways
+        url: /post-sec/
+      - title: General Matters
+        url: /general/
+      - title: Lower Sec Matters
+        url: /lower-sec/
+      - title: Upper Sec Matters
+        url: /upper-sec/
+      - title: Parent Support Group (PSG)
+        url: /psg/
+      - title: SSS Alumni
+        url: /alumni/
+      - title: National Digital Literacy Prog
+        url: /ndlp/
   - title: Sec 1 PES & CCA 2022
     url: /sec1/
     sublinks:
