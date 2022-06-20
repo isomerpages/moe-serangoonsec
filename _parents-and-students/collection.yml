@@ -1,4 +1,5 @@
 collections:
   parents-and-students:
     output: true
-    order: []
+    order:
+      - Latest News/.keep
