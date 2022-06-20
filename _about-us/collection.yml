@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - SSS School Identity.md
       - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
       - Principal's Message.md
