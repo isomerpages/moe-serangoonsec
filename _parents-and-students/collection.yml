@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Post Sec Educational Pathways/.keep
       - General Matters/2022 Booklists.md
       - General Matters/National Digital Literacy Programme (NDLP).md
       - General Matters/Blended Learning.md
