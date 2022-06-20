@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - Staff.md
-      - School Advisory Committee.md
-      - School Steering Committee.md
-      - School Stories.md
-      - School History.md
-      - SSS School Identity.md
-      - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
       - Principal's Message.md
+      - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
+      - SSS School Identity.md
+      - School History.md
+      - School Stories.md
+      - School Steering Committee.md
+      - School Advisory Committee.md
+      - Staff.md
+      - Contact Us.md
