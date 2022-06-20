@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Latest News/Parent Webinars.md
       - Latest News/2021 Sec 1 staRs Programme.md
       - Latest News/2021 Sec 2.md
       - Latest News/2021 Sec 3 staRs Programme.md
