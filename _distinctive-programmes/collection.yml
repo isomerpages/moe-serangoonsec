@@ -2,7 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
-      - Example Title.md
       - STEM Applied Learning Prog ALP/.keep
       - STEM Applied Learning Prog ALP/Sec 1 3D Modelling and Printing
         Programme.md
