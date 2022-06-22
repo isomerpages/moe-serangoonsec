@@ -4,10 +4,6 @@ permalink: /about-us/school-stories/seeking-striving-and-serving-through-ugs/
 description: ""
 third_nav_title: School Stories
 ---
-
-
-
-
 ### Seeking, Striving and Serving Through UGs
 
 Amidst enjoying the activities, our cadets learn important life skills and values such as teamwork and resilience while striving for excellence, and achieve a sense of pride through actively serving the school, community, and country.
@@ -35,3 +31,8 @@ Cadets in our school also serve at various school and community events with prid
 
 Indeed, to borrow our school motto, there are limitless opportunities for a cadet to seek,  strive, and  serve  through our UGs!
 
+![](/images/gif%20img1.jpg)
+
+![](/images/gif%20img2.jpg)
+
+![](/images/gif%20img3.jpg)
