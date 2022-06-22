@@ -1,9 +1,9 @@
 title: Serangoon
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/download.jpg
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#f5a023"
+  secondary-color: "#008aff"
   media-colors:
     - title: media-color-one
       color: "#49759a"
