@@ -34,17 +34,17 @@ links:
     url: /student-development/
     sublinks:
       - title: Character and Citizenship Edu
-        url: /cce/
+        url: /student-development/cce/
       - title: Co-Curricular Activities-CCA
-        url: /cca/
+        url: /student-development/cca/
       - title: Counselling & Student welfare
-        url: /support/
+        url: /student-development/support/
       - title: Education, Career Guidance-ECG
-        url: /ecg/
+        url: /student-development/ecg/
       - title: Student Leadership
-        url: /student-leadership/
+        url: /student-development/student-leadership/
       - title: Student Management
-        url: /student-management/
+        url: /student-development/student-management/
   - title: Academic Programmes
     url: /academic-programmes/
     sublinks:
