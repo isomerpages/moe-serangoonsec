@@ -6,6 +6,7 @@ description: ""
 ### School Advisory Committee
 
 ##### Term of Office: 5 Dec 2020 to 4 Dec 2022
+
 | Role | Name |
 |:---:|:---:|
 | Chairman | ![](/images/Mr%20Desmond%20Fu.jpg)Mr Desmond Fu Siang Chia |
