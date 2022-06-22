@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Stories/Healthy Eating, Healthy Relationships.md
       - School Stories/Project Ablaze.md
       - School Stories/A School That Cares.md
       - School Stories/93 Years of History.md
