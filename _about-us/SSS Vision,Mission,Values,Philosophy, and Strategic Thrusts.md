@@ -4,7 +4,7 @@ permalink: /vmv/
 description: ""
 ---
 ### SSS Vision, Mission, Values, Philosophy, and Strategic Thrusts
-### 
+ 
 
 ##### School Vision
 Resilient Individuals  
