@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Parent & Students Overview.md
       - Letters to Parents & Guardians.md
       - Class Timetables.md
       - 2022 Student Handbook.md
