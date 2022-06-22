@@ -55,15 +55,15 @@ links:
       - title: Humanities
         url: /academic-programmes/humans/
       - title: Information Comm & Tech (ICT)
-        url: /ict/
+        url: /academic-programmes/ict/
       - title: Mathematics
-        url: /math/
+        url: /academic-programmes/math/
       - title: Mother Tongue Languages
-        url: /mother-tongue/
+        url: /academic-programmes/mother-tongue/
       - title: Physical Education
-        url: /pe/
+        url: /academic-programmes/pe/
       - title: Science
-        url: /science/
+        url: /academic-programmes/science/
   - title: Parents & Students
     url: /parents-and-students/
     sublinks:
