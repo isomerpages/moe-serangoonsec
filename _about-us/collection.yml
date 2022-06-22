@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Stories/A School That Cares.md
       - School Stories/93 Years of History.md
       - School Stories/Seeking, Striving and Serving Through UGs.md
       - School Stories/.keep
