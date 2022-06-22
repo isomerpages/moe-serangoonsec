@@ -43,6 +43,13 @@ The zeal with which we pursue our mission is expressed in the symbols and colour
 
 
 
+
+
+
+
+
+
+
 ##### The Symbols
 Eagle - The eagle depicted is the German Eagle that symbolises self-discipline, dignity, esteem, and power.  
   
