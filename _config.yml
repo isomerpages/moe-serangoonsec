@@ -3,7 +3,7 @@ url: ""
 favicon: /images/download.jpg
 colors:
   primary-color: "#f5a023"
-  secondary-color: "#008aff"
+  secondary-color: "#076eb3"
   media-colors:
     - title: media-color-one
       color: "#49759a"
