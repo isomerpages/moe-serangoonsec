@@ -2,6 +2,10 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
+      - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
+      - SSS School Identity.md
+      - School History.md
       - School Stories/.keep
       - School Stories/Seeking, Striving and Serving Through UGs.md
       - School Stories/Setting Our Sights High.md
@@ -10,10 +14,6 @@ collections:
       - School Stories/Project Ablaze.md
       - School Stories/A School That Cares.md
       - School Stories/93 Years of History.md
-      - Principal's Message.md
-      - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
-      - SSS School Identity.md
-      - School History.md
       - School Steering Committee.md
       - School Advisory Committee.md
       - Staff.md
