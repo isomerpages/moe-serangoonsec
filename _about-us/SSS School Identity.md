@@ -34,21 +34,8 @@ Honours to you!
 
 ##### School Emblems
 ##### School Logo
- <img src="/images/download.jpg" style="width:183px;height:195;margin-right:15px;" align = "Left">
+ <img src="/images/download.jpg" style="width:163px;height:175;margin-right:15px;" align = "Left">
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ##### The Symbols
 Eagle - The eagle depicted is the German Eagle that symbolises self-discipline, dignity, esteem, and power.  
