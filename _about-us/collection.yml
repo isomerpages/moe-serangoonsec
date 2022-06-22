@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Stories/.keep
       - Principal's Message.md
       - SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts.md
       - SSS School Identity.md
