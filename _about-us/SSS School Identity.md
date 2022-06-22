@@ -42,7 +42,8 @@ Eagle - The eagle depicted is the German Eagle that symbolises self-discipline, 
   
 Lamp - The lamp, with its radiant and glowing flame, symbolises knowledge acquired through the studying of academic subjects and a pupil's all-round development, well-being, and balanced personality. Together, they symbolise the determination with which we seek to achieve our goals.
 
-###### The Colours
+##### The Colours
+
 Blue signifies the two important and essential qualities of a good character, namely piety and sincerity.  
   
 White embodies everything that is pure and wholesome, particularly, purity in thought, word, and deed.  
