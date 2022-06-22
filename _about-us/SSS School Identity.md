@@ -5,9 +5,8 @@ description: ""
 ---
 ### SSS School Identity
  
-#### School Motto 
+##### School Motto 
 ######  Seek to Grow, Strive to Excel, Serve with Honour
-  
 
 ##### School Song 
 We proudly sing about our school  
@@ -34,8 +33,8 @@ Honours to you!
   
 
 ##### School Emblems
-###### School Logo
-<img src="/images/download.jpg" style="width:183px;height:240px;margin-right:15px;" align = "Left">
+##### School Logo
+ <img src="/images/download.jpg" style="width:183px;height:240px;margin-right:15px;" align = "Left">
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
 
 
