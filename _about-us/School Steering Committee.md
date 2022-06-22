@@ -4,14 +4,15 @@ permalink: /steering-committee/
 description: ""
 ---
 ### School Steering Committee 
-
-![](/images/Untitled%20presentation.png)
+![](/images/abcdef.jpg)
 
 #### Head of Departments / Year Heads / School Staff Developer
-![](/images/Untitled%20presentation%20(1).png)
-![](/images/Untitled%20presentation%20(2).png)
+
+![](/images/2xxxxx.jpg)
+![](/images/3xxxxxx.jpg)
 
 #### Subject Heads / Assistant Year Heads
-![](/images/Untitled%20presentation%20(3).png) 
-![](/images/Untitled%20presentation%20(4).png)
-![](/images/Untitled%20presentation%20(6).png)
+
+![](/images/4xxxxx.jpg)
+![](/images/5xxxxx.jpg)
+![](/images/6xxxxx.jpg)
