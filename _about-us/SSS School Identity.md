@@ -5,9 +5,9 @@ description: ""
 ---
 ### SSS School Identity
  
-##### School Motto 
-###### Seek to Grow, Strive to Excel, Serve with Honour
-###### 
+#### School Motto 
+######  Seek to Grow, Strive to Excel, Serve with Honour
+  
 
 ##### School Song 
 We proudly sing about our school  
