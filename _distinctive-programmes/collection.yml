@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Distinctive Programmes Overview.md
-      - STEM Applied Learning Prog ALP/STEM Applied Learning Program (ALP)
-        overview.md
       - STEM Applied Learning Prog ALP/.keep
       - STEM Applied Learning Prog ALP/Sec 1 3D Modelling and Printing
         Programme.md
