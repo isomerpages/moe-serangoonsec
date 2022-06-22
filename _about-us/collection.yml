@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Stories/Setting Our Sights High.md
       - School Stories/Celebrating Class Punctuality with Breakfast.md
       - School Stories/Healthy Eating, Healthy Relationships.md
       - School Stories/Project Ablaze.md
