@@ -33,5 +33,7 @@ Together, we empower every Serangoon StaR to SHINE, for the growth of self 
 
 ##### Strategic Thrusts
 Strategic Thrust 1: Positive Student Experiences and Well-Being  
+
 Strategic Thrust 2: Learned 21st Century Citizens 
+
 Strategic Thrust 3: Competent and Engaged Staff
