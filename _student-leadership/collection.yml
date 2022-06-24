@@ -2,6 +2,7 @@ collections:
   student-leadership:
     output: true
     order:
+      - CCA Leaders.md
       - Student Leadership.md
       - Overview.md
       - SSS Student Leadership Framework.md
