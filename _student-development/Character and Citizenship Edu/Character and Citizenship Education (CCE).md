@@ -43,7 +43,7 @@ Read more about Mental Health Education and Student Well-Being at Serangoon Seco
 
 #### CCE Lessons
 
-![](/images/cce%20lesson%201-3.gif)
+![](/images/cce%20lesson%201-3%20new.gif)
 
 Students are regularly exposed to articles on contemporary issues, and values are learned in an authentic and relatable context.
 
