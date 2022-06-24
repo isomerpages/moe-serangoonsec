@@ -51,7 +51,7 @@ Students are regularly exposed to articles on contemporary issues, and values ar
 
 Students are guided to form and share fair and substantiated views, and to respect and value the views shared by others.
 
-![](/images/cce%20lesson%205-6.gif)
+**(insert cce lesson 5-6 new gif)**
 
 Learning is collaborative.  Students have the opportunity to share their perspectives and learn from their friends in a safe setting.
 
@@ -59,7 +59,7 @@ Learning is collaborative.  Students have the opportunity to share their perspe
 
 Students enjoy vibrant discussions, where their voices and perspectives are heard and valued. This allows students to learn to express their views coherently, respectfully and confidently.
 
-![](/images/cce%20lesson%208-9%20new.gif)
+**(insert cce lesson 8-9 new. gif)**
 
 Our teachers engage students in the cognitive, behavioural and affective domains.
 
