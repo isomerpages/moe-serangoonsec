@@ -3,7 +3,6 @@ title: Value In Action (VIA)
 permalink: /distinctive-programmes/llp/via
 description: ""
 ---
-
 ### Values in Action (VIA)
 
 Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. VIA fosters student ownership over how they contribute to the community.
@@ -24,7 +23,7 @@ Through the VIA Programme, Serangoon StaRs
 
 #### Sec 2
 
-![](/images/sec%202.gif)
+![](/images/secondary%202.gif)
 
 #### Sec 3
 
