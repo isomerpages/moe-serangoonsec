@@ -2,5 +2,6 @@ collections:
   student-leadership:
     output: true
     order:
+      - Peer Support Leaders.md
       - Student Leadership.md
       - Overview.md
