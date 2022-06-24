@@ -2,6 +2,7 @@ collections:
   student-leadership:
     output: true
     order:
+      - SSS Student Leadership Framework.md
       - Prefectorial Board.md
       - Class Committee.md
       - Peer Support Leaders.md
