@@ -1,4 +1,5 @@
 collections:
   value-in-action:
     output: true
-    order: []
+    order:
+      - Value In Action (VIA) Overview.md
