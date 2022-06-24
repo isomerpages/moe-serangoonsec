@@ -59,7 +59,7 @@ Learning is collaborative.  Students have the opportunity to share their perspe
 
 Students enjoy vibrant discussions, where their voices and perspectives are heard and valued. This allows students to learn to express their views coherently, respectfully and confidently.
 
-![](/images/cce%20lesson%208-9.gif)
+![](/images/cce%20lesson%208-9%20new.gif)
 
 Our teachers engage students in the cognitive, behavioural and affective domains.
 
