@@ -16,3 +16,19 @@ Through the VIA Programme, Serangoon StaRs
 -       learn and apply life skills and leadership principles,
 
 -       grow in their sphere of influence, and reflect on their experience, the values they have put into practice and how they can continue to contribute meaningfully.
+
+#### Sec 1
+
+![](/images/sec%201.gif)
+
+#### Sec 2
+
+![](/images/sec%202.gif)
+
+#### Sec 3
+
+![](/images/sec%203.gif)
+
+#### Sec 4 & 5
+
+![](/images/sec%204%20&%205.gif)
