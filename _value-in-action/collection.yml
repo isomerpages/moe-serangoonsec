@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Value In Action (VIA) Overview.md
+      - Reflections/Our Worms Affair.md
       - Reflections/Sowing Seeds Of Kindness.md
       - Reflections/.keep
