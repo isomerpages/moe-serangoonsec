@@ -28,7 +28,7 @@ Note: Meeting all the criteria does not guarantee the student will be shortliste
 
 All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal.
 
-Parents of applicants from MOE mainstream primary schools may log in directly to [DSA-Sec portal](https://go.gov.sg/apply-dsa-sec). Parents/guardians who are unable to apply online can approach their child's primary school for assistance.
+Parents of applicants from MOE mainstream primary schools may log in directly to **(link unavailable).**
 
 Parents of applicants **not** studying in MOE mainstream primary schools are to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Schools may refer them to MOE website at: [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa).
 
