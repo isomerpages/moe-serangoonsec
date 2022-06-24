@@ -2,6 +2,7 @@ collections:
   student-leadership:
     output: true
     order:
+      - Prefectorial Board.md
       - Class Committee.md
       - Peer Support Leaders.md
       - Student Leadership.md
