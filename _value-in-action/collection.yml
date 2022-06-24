@@ -2,5 +2,5 @@ collections:
   value-in-action:
     output: true
     order:
-      - Reflections/.keep
       - Value In Action (VIA) Overview.md
+      - Reflections/.keep
