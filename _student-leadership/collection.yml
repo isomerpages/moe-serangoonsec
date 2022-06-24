@@ -2,4 +2,4 @@ collections:
   student-leadership:
     output: true
     order:
-      - Student Leadership Overview.md
+      - Student Leadership.md
