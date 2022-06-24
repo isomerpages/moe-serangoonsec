@@ -44,4 +44,4 @@ Students can look forward to engaging themselves in increasingly popular 3D Mode
 
   
 
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website [here]([https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).)
+The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website [click here]([https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec).)
