@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - NPCC/National Police Cadet Corps (NPCC).md
       - NPCC/.keep
       - Girl Guides.md
       - National Cadet Corps (Land).md
