@@ -9,8 +9,7 @@ description: ""
 
 Mental Wellness in Serangoon Secondary School is about providing our students with a safe space to share their challenges and work through their social, emotional, behavioural and mental health issues. We strive to empower our students towards positive help-seeking behaviours to improve their mental well-being.
 
-<img
-		 src="/images/cute%20sun.jpg" style="width:250px;height:250px;margin-right:15px;" align = "left">
+<img src="/images/cute%20sun.jpg" style="width:250px;height:250px;margin-right:15px;" align = "left">
 		 
 Positive help-seeking behaviours demonstrate the courage and strength to seek ways to understand oneself better, to get support for help to make things better and take a step towards improving our well-being and happiness.
 
