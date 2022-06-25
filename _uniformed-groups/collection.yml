@@ -2,6 +2,7 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - National Police Cadet Corps (NPCC).md
       - Red Cross Youth.md
       - Scouts.md
       - Girl Guides.md
