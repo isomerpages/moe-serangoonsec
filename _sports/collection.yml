@@ -1,4 +1,5 @@
 collections:
   sports:
     output: true
-    order: []
+    order:
+      - Basketball (Boys).md
