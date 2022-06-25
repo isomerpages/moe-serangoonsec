@@ -14,3 +14,4 @@ In 1957, it was converted into a secondary school serving residents of Upper Ser
 
 In 2001, Serangoon Secondary moved to its present premises at 11, Upper Serangoon View. Its students hail from the neighbouring Punggol, Sengkang, Hougang, and Upper Serangoon heartlands.
 
+![](/images/photo_2022-06-25_19-13-39.jpg)
