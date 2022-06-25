@@ -2,8 +2,8 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Red Cross/Red Cross Youth.md
-      - Red Cross/.keep
+      - Red Cross Youth/Red Cross Youth.md
+      - Red Cross Youth/.keep
       - Girl Guides.md
       - National Cadet Corps (Land).md
       - National Police Cadet Corps/.keep
