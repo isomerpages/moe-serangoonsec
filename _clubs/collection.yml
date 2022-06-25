@@ -2,5 +2,6 @@ collections:
   clubs:
     output: true
     order:
+      - Clubs/Infocomm Technology Club.md
       - Clubs/Audio Visual Aid (AVA) Club.md
       - Clubs/.keep
