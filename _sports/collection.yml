@@ -2,5 +2,6 @@ collections:
   sports:
     output: true
     order:
+      - Football (Boys).md
       - Netball (Girls).md
       - Basketball (Boys).md
