@@ -43,9 +43,9 @@ description: ""
 |          Grammar          | Use metalanguage for learning and talking about language structures and language in use  Apply knowledge of grammatical rules at word, phrase and sentence levels  Show understanding of how the purposeful use of language shapes meaning in texts                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |         Vocabulary        | Use metalanguage in building and using vocabulary  Demonstrate a rich vocabulary that supports the development of listening, reading, viewing, speaking, writing and representing skills  Use words appropriate for purpose, audience, context and culture                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-##### 2021 Department Programme Highlights
+#### 2021 Department Programme Highlights
 
-###### READING PROGRAMME
+##### READING PROGRAMME
 
 Our reading programme aims to develop good reading habits and instill lifelong passion for reading in our students.
 
