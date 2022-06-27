@@ -47,21 +47,13 @@ Please refer to the following resources to find out more details on NDLP in Sera
 
 | Topic                                                                        |                                                                                                                                   Resource Type                                                                                                                                   |
 |------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| National Digital Literacy Programme (NDLP) Mr Sebastian Jin (Vice-Principal) |                
-<iframe width="385" height="227" src="https://www.youtube.com/embed/oguX5EWNIno" title="NDLP briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-|
+| National Digital Literacy Programme (NDLP) Mr Sebastian Jin (Vice-Principal) |                 <iframe width="385" height="227" src="https://www.youtube.com/embed/oguX5EWNIno" title="NDLP briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                 |
 | Parent Handbook on 1-to-1 Learning                                           |  Parent Handbook on 1-to-1 Learning  ![](/images/ndlpbriefing%20pic.jpg)  This parent handbook shares more information on how owning a personal learning device (PLD) will enhance the child’s learning as well as some digital parenting tips, strategies and resources.         |
-| Students' Experiences in the Use of PLDs  in 1-to-1 Learning Pilot Schools   | 
-<iframe width="359" height="210" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-|
+| Students' Experiences in the Use of PLDs  in 1-to-1 Learning Pilot Schools   | <iframe width="359" height="210" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           |
 |                                                                              |                                                                                                                                                                                                                                                                                   |
-| SSS ICT Talk: PLD and ICT AUP  Mr Gregory Peck (HOD ICT)                     | 
-<iframe width="364" height="204" src="https://www.youtube.com/embed/MOhvczpG0VM" title="SSS ICT Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-|
+| SSS ICT Talk: PLD and ICT AUP  Mr Gregory Peck (HOD ICT)                     | <iframe width="364" height="204" src="https://www.youtube.com/embed/MOhvczpG0VM" title="SSS ICT Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                  |
 |                                                                              |                                                                                                                                                                                                                                                                                   |
-| Parent Webinar on 29 May 2021: Information on Personal Learning Device       |  
-<iframe width="364" height="204" src="https://www.youtube.com/embed/W_Ni0t4tdDc" title="NDLP Information on Personal Learning Device" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-|
+| Parent Webinar on 29 May 2021: Information on Personal Learning Device       |  <iframe width="364" height="204" src="https://www.youtube.com/embed/W_Ni0t4tdDc" title="NDLP Information on Personal Learning Device" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
 
 #### PLD Resource
 You can refer to the [device information kit](/files/SSS%20-%20Student%20Device%20Information%20Kit.pdf) to report any issues with the PLD.
