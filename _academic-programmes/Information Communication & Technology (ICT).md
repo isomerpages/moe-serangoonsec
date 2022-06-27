@@ -6,6 +6,7 @@ description: ""
 ### Information Communication & Technology (ICT)
 
 ##### Department Staff
+
 | Name                     | Designation      |
 |--------------------------|------------------|
 | Mr Adrial Tan Chong Jin  | SH ICT           |
@@ -32,6 +33,7 @@ description: ""
 	Selected Sec 2 and Sec 3 EXP/NA students are provided with opportunities to pursue their interest in programming and apply their knowledge and skills in Infocomm Club programmes.
 	
 ##### Subjects Offered
+
 | Level / Stream                  | Subject                                  |
 |---------------------------------|------------------------------------------|
 |  Sec 1-2NT                      | Computer Applications (CPA)              |
