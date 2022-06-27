@@ -33,4 +33,4 @@ Download the class timetable by clicking on the pdf or scanning the QR code belo
 		 
 <img src="/images/2022%20sem%201%20timetable%20odd%20week%20class.png" style="width:223px;height:240px;margin-right:15px;" align = "left">
 
-[Semester 2 Odd Week Class](/files/2022%20Sem%201%20Even%20Week%20TT%20Class.pdf)
+[Semester 1 Odd Week Class](/files/2022%20Sem%201%20Even%20Week%20TT%20Class.pdf)
