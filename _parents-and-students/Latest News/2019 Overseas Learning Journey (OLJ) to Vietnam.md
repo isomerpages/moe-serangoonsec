@@ -10,7 +10,8 @@ Cultural Immersion Programme <br>
 Ho Chi Minh City, Vietnam <br>
 8 November 2019 to 12 November 2019 
 
-![](/images/OLG%20Vietnam.gif)
+<img src="/images/OLG%20Vietnam.gif" 
+     style="width:75%">
 
 On the 8th to 12th of November 2019, a group of 37 students were led by Mr Christopher Tan, Mrs Sue-Ann Lim, Mr Daniel Fung, Ms Nur Atiqah, and Mr Matt Yee to embark on an Overseas Learning Journey to Ho Chi Minh City, Vietnam. For many of the students, it was their first time travelling to Vietnam. It was certainly an eye opening trip for the team of students and teachers.
 
