@@ -5,4 +5,4 @@ description: ""
 ---
 ### Student Handbook
 
-[Student Handbook 2022](https://online.fliphtml5.com/imxpa/caxa/#p=1)
+[Click here for Student Handbook 2022](https://online.fliphtml5.com/imxpa/caxa/#p=1)
