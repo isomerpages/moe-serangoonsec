@@ -57,6 +57,8 @@ Our reading programme aims to develop good reading habits and instill lifelong p
 
 <img src="/images/deptproghighlight1.jpg" style="width:400px;height:300px;margin-right:15px;" align = "left">Through our morning reading programme, we cultivate a love of reading in our students, by balancing carefully between assigned reading materials and giving students a choice on what to read.
 
+<br> <br> 
+
 ###### 2.**Partnership with NLB – Read for Books Charity Drive 2021**
 
 <img src="/images/deptproghighlight2.jpg" style="width:400px;height:300px;margin-right:15px;" align = "left">
