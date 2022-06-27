@@ -7,7 +7,6 @@ description: ""
 
 ##### Department Members
 
-
 |    HOD   | Mdm Azrina Salleh          |
 |:--------:|----------------------------|
 |   SH/EL  | Mr Vincent Wong            |
@@ -43,6 +42,7 @@ description: ""
 |  Writing & Representing   | Develop writing readiness and penmanship to write accurately and fluently in print and cursive script  Use accurate and consistent spelling  Generate and select ideas for writing and representing for a variety of purposes, audiences, contexts and cultures  Develop, organise and express ideas coherently and cohesively in writing and representing for a variety of purposes, audiences, contexts and cultures  Review, revise, proofread and edit to improve writing and representation Produce a variety of texts for creative, personal, academic, and functional purposes, using an appropriate register and tone                                                       |
 |          Grammar          | Use metalanguage for learning and talking about language structures and language in use  Apply knowledge of grammatical rules at word, phrase and sentence levels  Show understanding of how the purposeful use of language shapes meaning in texts                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |         Vocabulary        | Use metalanguage in building and using vocabulary  Demonstrate a rich vocabulary that supports the development of listening, reading, viewing, speaking, writing and representing skills  Use words appropriate for purpose, audience, context and culture                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
 ##### 2021 Department Programme Highlights
 
 ###### READING PROGRAMME
