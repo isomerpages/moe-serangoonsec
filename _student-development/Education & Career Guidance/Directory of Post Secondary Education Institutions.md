@@ -6,7 +6,7 @@ third_nav_title: Education & Career Guidance
 ---
 ### Directory of Post-Secondary Education Institutions
 
-###### Directory of Junior Colleges & Millennia Institute
+##### Directory of Junior Colleges & Millennia Institute
 
 |                                                   |                                           |                                                                                                                              |
 |---------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ third_nav_title: Education & Career Guidance
 | VICTORIA JUNIOR COLLEGE                           | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)             |                                                                                                                              |
 | YISHUN INNOVA JUNIOR COLLEGE                      | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)                   |                                                                                                                              |
 
-###### Directory of Arts Institutions
+##### Directory of Arts Institutions
 
 |                              |                            |            |
 |------------------------------|----------------------------|------------|
@@ -42,7 +42,7 @@ third_nav_title: Education & Career Guidance
 | LASALLE COLLEGE OF THE ARTS  | [https://www.lasalle.edu.sg](https://www.lasalle.edu.sg) |            |
 | NANYANG ACADEMY OF FINE ARTS | [https://www.nafa.edu.sg](https://www.nafa.edu.sg)    |            |
 
-###### Directory of Polytechnics
+##### Directory of Polytechnics
 
 | Name of Institution   | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Open House / EAE                                                                                |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -52,7 +52,7 @@ third_nav_title: Education & Career Guidance
 | SINGAPORE POLYTECHNIC | [https://www.sp.edu.sg](https://www.sp.edu.sg)                                                                                                                                                                                                                                                                                                                                                                                                                                         | 23 to 29 June 2022  Refer to microsite for more information.                                    |
 | TEMASEK POLYTECHNIC   | [https://www.tp.edu.sg](https://www.tp.edu.sg)                                                                                                                                                                                                                                                                                                                                                                                                                                         | 23 to 29 June 2022  Refer to microsite for more information.                                    |
 
-###### Directory of ITE
+##### Directory of ITE
 
 | Name of Institution                        | Website                                             | Open House / EAE |
 |--------------------------------------------|-----------------------------------------------------|------------------|
