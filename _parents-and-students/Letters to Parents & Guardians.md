@@ -12,11 +12,11 @@ Click [here](/files/Morning%20Assembly%20in%20Term%203.pdf)
 
 The 2022 StaRs Programme Letters to Parents and Guardians for Sec 1 to 3 students may be downloaded below:.
 
-Sec 1 [click here]((/files/StaRs%20Prog%20Letter%20to%20Parents_Sec1.pdf))  [](/files/StaRs%20Prog%20Letter%20to%20Parents_Sec1.pdf) <br>
-Sec 2 [click here]((/files/StaRs%20Prog%20Letter%20to%20Parents_Sec2.pdf))[](/files/StaRs%20Prog%20Letter%20to%20Parents_Sec2.pdf) <br>
-Sec 3 [click here]((/files/StaRs%20Prog%20Letter%20to%20Parents_Sec3.pdf)) [](/files/StaRs%20Prog%20Letter%20to%20Parents_Sec3.pdf)
+Sec 1 [](/files/StaRs%20Prog%20Letter%20to%20Parents_Sec1.pdf) <br>
+Sec 2 [](/files/StaRs%20Prog%20Letter%20to%20Parents_Sec2.pdf) <br>
+Sec 3 [](/files/StaRs%20Prog%20Letter%20to%20Parents_Sec3.pdf)
 
 ##### 2022 Term 2 Letters to Parents and Guardians
 The 2022 Term 2 Letters to Parents and Guardians for all levels may be downloaded below:
 
-For Lower Secondary [click here]((/files/2022%20Term%202%20Letter%20to%20Parents_Lower%20Sec.pdf)) [](/files/2022%20Term%202%20Letter%20to%20Parents_Lower%20Sec.pdf)
+For Lower Secondary [](/files/2022%20Term%202%20Letter%20to%20Parents_Lower%20Sec.pdf)
