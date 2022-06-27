@@ -37,8 +37,8 @@ For Secondary 4 Normal: [here](/files/SSS%202021%20Term%204%20Letter%20Sec%204N.
 ##### 2021 Term 3 Letters to Parents and Guardians
 The 2021 Term 3 Letters to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded below:
 
-For Lower Secondary
-For Upper Secondary
+For Lower Secondary [here](/files/Letter_to_Parents_Term_2_2021_Lower_Sec.pdf) <br>
+For Upper Secondary [here](/files/Letter_to_Parents_Term_2_2021_Upper_Sec.pdf)
 
 ##### 2021 Term 2 Letters to Parents and Guardians
 The 2021 Term 2 Letters to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded below:
