@@ -54,3 +54,13 @@ Please refer to the following resources to find out more details on NDLP in Sera
 | SSS ICT Talk: PLD and ICT AUP  Mr Gregory Peck (HOD ICT)                     | <iframe width="364" height="204" src="https://www.youtube.com/embed/MOhvczpG0VM" title="SSS ICT Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>                                  |
 |                                                                              |                                                                                                                                                                                                                                                                                   |
 | Parent Webinar on 29 May 2021: Information on Personal Learning Device       |  <iframe width="364" height="204" src="https://www.youtube.com/embed/W_Ni0t4tdDc" title="NDLP Information on Personal Learning Device" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
+
+#### PLD Resource
+You can refer to the [device information kit](/files/SSS%20-%20Student%20Device%20Information%20Kit.pdf) to report any issues with the PLD.
+
+#### Feedback on NDLP Briefing 
+Dear Parents/Guardians,  
+  
+If you have any queries on NDLP, please do not hesitate to provide your feedback by clicking on the hyperlink provided in this [form](https://form.gov.sg/#!/6004f8860a4eb30011a65395).
+
+Alternatively, you may contact the school at Tel: 6385 1589 to enquire on NDLP matters.
