@@ -7,6 +7,7 @@ description: ""
 
 ##### Department Members
 -----------------------------------------------------------------
+
 |    HOD   | Mdm Azrina Salleh          |
 |:--------:|----------------------------|
 |   SH/EL  | Mr Vincent Wong            |
@@ -22,6 +23,7 @@ description: ""
 
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-3 students in 2022
 -----------------------------------------------------------------
+
 | Area of Language Learning |                                                                                                                                                                                                                                                                            Learning Outcomes                                                                                                                                                                                                                                                                            |
 |:-------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |     Listening & Viewing   | Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour  Develop listening and viewing skills for understanding by focusing on literal and inferential meaning  Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation  Listen to, view and respond to a variety texts                                                                                                                                                                                                   |
@@ -97,9 +99,3 @@ Watch our team of debaters in action during the post-examination period when the
 <img src="/images/Literature%20Instagram%20Poetry%20Enrichment%20Workshop.jpg" style="width:400px;height:300px;margin-right:15px;" align = "left"> To make the study of Literature come alive for our Serangoon StaRs, 30 Sec 1 students attended an ‘Instagram Poetry’ workshop by local poet Marc Nair.
 <br> <br> <br> <br> <br>
 In the session, students looked at the relationship between poetry and Instagram by analysing a number of Instagram poems in terms of content, audience and visual culture.
-
-
-
-
-
-
