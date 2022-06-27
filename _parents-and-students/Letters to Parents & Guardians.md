@@ -101,3 +101,18 @@ As we reach the end of Term 2, we are glad to share with you that Semester 1 con
 Our end-of-Term 2 letter to parents is attached for your information. In this letter, we also provide resources on engaging your child/ward during School Holidays@Home. Take care and stay safe!
 
 [End-of-Term 2 Letter to Parents.pdf](/files/SSS%2020200504%20End-of-Term%202%20Letter%20to%20Parents.pdf)
+
+##### 2020 Parents/Guardians Letter on School Meal Subsidies to Students on the MOE FAS Scheme During Full Home Based Learning
+Dear Parents/Guardians,
+
+Attached is a Letter to Parents/Guardians containing important information on School Meal Subsidies to students on the MOE Financial Assistance Scheme during Full Home Based Learning:
+
+[Letter To Parents-Meal Subsidies for MOE FAS During FHBL.pdf](/files/LETTER%20TO%20PARENTS-MEAL%20SUBSIDIES%20FOR%20MOE%20FAS%20DURING%20FHBL.pdf)
+
+##### 2020 Term 1 Letters to Parents/Guardians
+Dear Parents/Guardians,
+
+The 2020 Term 1 Letter to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded below. The letters are also made available via Parents Gateway.
+
+For Lower Secondary: [2020 Term1 Letter to Parents_Lower Sec (Uploaded).pdf ](/files/2020%20Term1%20Letter%20to%20Parents_Lower%20Sec%20(Uploaded).pdf) <br>
+For Upper Secondary: [2020 Term1 Letter to Parents_Upper Sec (uploaded).pdf ](/files/2020%20Term1%20Letter%20to%20Parents_Upper%20Sec%20(uploaded)v2.pdf)
