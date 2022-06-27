@@ -26,13 +26,13 @@ For Upper Secondary [here](/files/2022%20Term%202%20Letter%20to%20Parents_Upper%
 The 2022 Term 1 Letters to Parents and Guardians for all levels may be downloaded below:
 
 For Lower Secondary [here](/files/2022%20Term%201%20Letter%20to%20Parents_Lower%20Sec.pdf) <br>
-For Upper Secondary
+For Upper Secondary [here](/files/2022%20Term%201%20Letter%20to%20Parents_Upper%20Sec.pdf)
 
 ##### 2021 Term 4 Letters to Parents and Guardians
 The 2021 Term 4 Letters to Parents and Guardians for all levels may be downloaded below:
-For Secondary 1-3:
-For Secondary 4 Express and Secondary 5 Normal :
-For Secondary 4 Normal:
+For Secondary 1-3: [here](/files/2021%20Term%204%20Letter%20Sec%201%20to%203.pdf) <br>
+For Secondary 4 Express and Secondary 5 Normal :[here](/files/SSS%202021%20Term%204%20Letter%20Sec%204E5N.pdf) <br>
+For Secondary 4 Normal: [here](/files/SSS%202021%20Term%204%20Letter%20Sec%204N.pdf)
 
 ##### 2021 Term 3 Letters to Parents and Guardians
 The 2021 Term 3 Letters to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded below:
