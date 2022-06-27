@@ -93,5 +93,5 @@ Watch our team of debaters in action during the post-examination period when the
 ###### 3.**Literature Instagram Poetry Enrichment Workshop**
 
 <img src="/images/Literature%20Instagram%20Poetry%20Enrichment%20Workshop.jpg" style="width:400px;height:300px;margin-right:15px;" align = "left"> To make the study of Literature come alive for our Serangoon StaRs, 30 Sec 1 students attended an ‘Instagram Poetry’ workshop by local poet Marc Nair.
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br>
 In the session, students looked at the relationship between poetry and Instagram by analysing a number of Instagram poems in terms of content, audience and visual culture.
