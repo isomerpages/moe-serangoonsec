@@ -46,7 +46,7 @@ links:
       - title: Student Management
         url: /student-development/student-management/
   - title: Academic Programmes
-    url: /academic-programmes/
+    url: /academic-programmes/craft-tech
     sublinks:
       - title: Craft & Technology
         url: /academic-programmes/craft-tech/
