@@ -2,10 +2,10 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/School Graduation Certificate.md
-      - Announcements/Positive Parenting Programme (TripleP) webinars.md
-      - Announcements/2021 GCE O Level Results.md
+      - Announcements/.keep
+      - Announcements/Announcements.md
       - Announcements/Information For Students Who Received 2021 GCE 'N' Level
         Results.md
-      - Announcements/Announcements.md
-      - Announcements/.keep
+      - Announcements/2021 GCE O Level Results.md
+      - Announcements/Positive Parenting Programme (TripleP) webinars.md
+      - Announcements/School Graduation Certificate.md
