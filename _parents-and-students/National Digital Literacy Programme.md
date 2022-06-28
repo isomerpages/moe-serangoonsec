@@ -30,3 +30,13 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 
 <img src="/images/NDLP%20Query%20and%20Feedback%20link.jpg" 
      style="width:35%" align = left>
+
+<br> <br> <br> <br> <br> <br>
+
+##### 5.Service Centre Details
+![](/images/Lenovo%20Service%20Centre.jpg)
+
+##### 6.DMA Parent Guides
+1) Click on the links below to access the guides:
+
+2) Please click on the link below to choose your after-school DMA options:
