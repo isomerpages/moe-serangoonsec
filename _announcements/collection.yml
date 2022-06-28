@@ -2,6 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - 2021 GCE O Level Results.md
       - Announcements.md
       - Information For Students Who Received 2021 GCE 'N' Level Results.md
+      - 2021 GCE O Level Results.md
