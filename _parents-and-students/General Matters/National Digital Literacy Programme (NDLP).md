@@ -45,43 +45,6 @@ Please refer to the following resources to find out more details on NDLP in Sera
 
 <br>
 
-	<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-xcqo{background-color:#FD7E00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7omq{background-color:#FD7E00;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-7omq">Topic</th>
-    <th class="tg-xcqo">Resource Type</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">National Digital Literacy Programme (NDLP) Mr Sebastian Jin (Vice-Principal)</td>
-    <td class="tg-0pky">&lt;iframe width="385" height="227" src="https://www.youtube.com/embed/oguX5EWNIno" title="NDLP briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
-
 #### PLD Resource
 You can refer to the [device information kit](/files/SSS%20-%20Student%20Device%20Information%20Kit.pdf) to report any issues with the PLD.
 
