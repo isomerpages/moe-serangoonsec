@@ -44,6 +44,7 @@ Dear Parents/Guardians,
 Please refer to the following resources to find out more details on NDLP in Serangoon Secondary School.
 
 <br>
+(table with videos)
 
 #### PLD Resource
 You can refer to the [device information kit](/files/SSS%20-%20Student%20Device%20Information%20Kit.pdf) to report any issues with the PLD.
