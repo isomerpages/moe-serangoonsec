@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /srss/announcements/
         - title: Important Information
           description: ""
           url: https://gmail.com
@@ -34,4 +34,3 @@ sections:
       button: More info
       url: /more-information-teachers/
 ---
-
