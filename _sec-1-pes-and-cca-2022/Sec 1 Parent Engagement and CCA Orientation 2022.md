@@ -33,10 +33,9 @@ click (error link) to find out more about MOE LEAPS 2.0.
 
 More information on the Sec 1 CCA Selection Exercise can be found on the Sec 1 CCA Orientation microsite. Click [here](https://sites.google.com/students.edu.sg/2022secondary1ccaorientation/home) to access the microsite.
 
-**Further details and Sign-up links: **
+**Further details and Sign-up links:**
 
 | Parent Support Group (PSG): | Click [here](https://form.gov.sg/#!/61d80ad62efd780012bdd388) or scan the QR code below to sign up as a member of the PSG. <img src="/images/OR%20code_PSG.jpg"       style="width:25%"> |
 |---|---|
 | After-School Engagement (Orion StaRs): | Click here (error link) or scan the QR code below to sign up your child/ward for the Orion StaRs programme.<img src="/images/QR%20code_Orion%20Stars.jpg"       style="width:25%"> |
 | Triple P Parenting seminars: | Click here (error link) or scan the QR code below to sign up for the Triple P Parenting seminars. <img src="/images/QR%20code_Triple%20P.jpg"       style="width:25%"> |
-
