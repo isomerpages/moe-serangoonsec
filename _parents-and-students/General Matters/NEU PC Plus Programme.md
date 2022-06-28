@@ -72,8 +72,32 @@ Please [click here](https://www.imda.gov.sg/neupc) for details on the NEU PC Plu
 
 For enquiries on the NEU PC Plus Programme or the outcome of your PC-Bundle scheme application, please contact **IMDA** via email **NEUPC@imda.gov.sg** or call **63773800**.
 
-| Application Forms                    |                        |
-|--------------------------------------|------------------------|
-| Form for Students                    |  www.imda.gov.sg/neupc |
-| Form for MOE FAS* / SPED* Recipients |                        |
-| Fibre Broadband Service              |                        |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Application Forms</th>
+    <th class="tg-0pky"> </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Form for Students</td>
+    <td class="tg-c3ow" rowspan="3"><br><br>www.imda.gov.sg/neupc<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Form for MOE FAS* / SPED* Recipients</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Fibre Broadband Service</td>
+  </tr>
+</tbody>
+</table>
