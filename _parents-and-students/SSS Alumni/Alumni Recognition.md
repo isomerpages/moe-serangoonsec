@@ -8,4 +8,4 @@ third_nav_title: SSS Alumni
 ##### NSF of the Year 2018  
 
 <img src="/images/SAMUEL-ROY%20SUPRAMANIAM.jpg" 
-     style="width:85%" align = left>
+     style="width:65%" align = left>
