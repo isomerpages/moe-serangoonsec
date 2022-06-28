@@ -43,7 +43,7 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 [DMA Parent Guide for Option A Chrome Devices_2sept21](/files/PORC5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20Chrome%20Devices_2%20Sep%2021.pdf) <br>
 [DMA Parent Guide for Option B Chrome Devices_2sept21](/files/PORC6%20-%20DMA%20Parent%20Guide%20for%20Option%20B%20Chrome%20Devices_2%20Sep%2021.pdf) <br> <br>
 
-2) Please click on the link below to choose your after-school DMA options:
+2) Please click on the link below to choose your after-school DMA options: <br>
 [Parent Option Form for After School DMA Settings](https://form.gov.sg/#!/60ac73688389f100127bbbe2)
 
 **NOTE:** DMA Options requests will only be processed on the first working day of the month.
