@@ -84,7 +84,7 @@ For enquiries on the NEU PC Plus Programme or the outcome of your PC-Bundle sche
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Application Forms</th>
+    <th class="tg-0pky"><span style="font-weight:bold">Application Forms</span></th>
     <th class="tg-0pky"> </th>
   </tr>
 </thead>
