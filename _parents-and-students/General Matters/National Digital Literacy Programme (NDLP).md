@@ -45,50 +45,39 @@ Please refer to the following resources to find out more details on NDLP in Sera
 
 <br>
 
-<style type="text/css">
+	<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-xcqo{background-color:#FD7E00;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7omq{background-color:#FD7E00;border-color:inherit;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Topic</th>
-    <th class="tg-c3ow">Resource Type</th>
+    <th class="tg-7omq">Topic</th>
+    <th class="tg-xcqo">Resource Type</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">National Digital Literacy Programme (NDLP)<br>Mr Sebastian Jin<br>(Vice-Principal)</td>
-    <td class="tg-c3ow">&lt;iframe width="385" height="227" src="https://www.youtube.com/embed/oguX5EWNIno" title="NDLP briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</td>
+    <td class="tg-0pky">National Digital Literacy Programme (NDLP) Mr Sebastian Jin (Vice-Principal)</td>
+    <td class="tg-0pky">&lt;iframe width="385" height="227" src="https://www.youtube.com/embed/oguX5EWNIno" title="NDLP briefing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Parent Handbook on 1-to-1 Learning </td>
-    <td class="tg-0pky"><br>Parent Handbook on 1-to-1 Learning<br><br>![](/images/ndlpbriefing%20pic.jpg)<br><br>This parent handbook shares more information on how owning a personal learning device (PLD) will enhance the child’s learning as well as some digital parenting tips, strategies and resources.  </td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Students' Experiences in the Use of PLDs <br>in 1-to-1 Learning Pilot Schools</td>
-    <td class="tg-0pky">&lt;iframe width="359" height="210" src="https://www.youtube.com/embed/atVkNBXMVnY" title="Digital Literacy – Students’ Voxpop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;<br></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">SSS ICT Talk: PLD and ICT AUP <br>Mr Gregory Peck (HOD ICT)<br><br></td>
-    <td class="tg-0pky">&lt;iframe width="364" height="204" src="https://www.youtube.com/embed/MOhvczpG0VM" title="SSS ICT Talk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;<br></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"> </td>
-    <td class="tg-c3ow"> </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Parent Webinar on 29 May 2021: Information on Personal Learning Device<br><br></td>
-    <td class="tg-0pky"> &lt;iframe width="364" height="204" src="https://www.youtube.com/embed/W_Ni0t4tdDc" title="NDLP Information on Personal Learning Device" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
 </tbody>
 </table>
