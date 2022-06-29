@@ -17,10 +17,10 @@ sections:
           url: /srss/announcements/
         - title: Important Information
           description: ""
-          url: https://gmail.com
+          url: /srss/important-information/
         - title: Serangoon Secondary latest happenings
           description: ""
-          url: /facebook/
+          url: /srss/latest-happenings/
   - infobar:
       title: Parents' Space
       button: More info
