@@ -33,6 +33,6 @@ You are required to:
 4.      No loitering and to leave school’s premise **immediately** after you have collected.  <br>
 5.      Do not come to school if you are unwell or showing symptoms of acute respiratory infection.
 
-Please contact Miss Lee at Tel: 63851589 if you require any clarifications.
+Please contact Miss Lee at Tel: 6385 1589 if you require any clarifications.
 
 Thank you.
