@@ -2,4 +2,5 @@ collections:
   parents-space:
     output: true
     order:
+      - Quick Links/Letters to Parents & Guardians.md
       - Quick Links/.keep
