@@ -5,6 +5,8 @@ description: ""
 ---
 ### Teachers' Space
 
+<img src="/images/teacherspace.jpg" style="width:380px;height:280px;margin-;left:15px;" align = "right">
+
 ##### Quick Links
 * [AEM Portal](https://aem.moe.gov.sg/)
 * [Human Resources Portal](https://www.hrp.gov.sg/hrp/#/)
