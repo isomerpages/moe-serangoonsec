@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Extension of School Meal Subsidies to Students on FAS
+        During Full HBL Period from 19 to 28 May 2021.md
       - Announcements/Covid 19 Vaccination Exercise for Students.md
       - Announcements/Parent kit Bonding over the holidays.md
       - Announcements/Arrangements for school reopening in term 3.md
