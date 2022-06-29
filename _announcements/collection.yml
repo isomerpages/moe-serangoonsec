@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Full Home Based Learning (HBL) from 19 May 2021 to 28 May
+        2021.md
       - Announcements/Extension of School Meal Subsidies to Students on FAS
         During Full HBL Period from 19 to 28 May 2021.md
       - Announcements/Covid 19 Vaccination Exercise for Students.md
