@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Character Awards 2021.md
       - Announcements/MOE Parent Kit Journeying Through Challenging Times
         Together.md
       - Announcements/Caring Teacher Award 2022.md
