@@ -2,7 +2,8 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/MOE Parent Kit.md
+      - Announcements/MOE Parent Kit Journeying Through Challenging Times
+        Together.md
       - Announcements/Caring Teacher Award 2022.md
       - Announcements/Travel Declaration for Year End Holidays.md
       - Announcements/Sales of book and uniforms.md
