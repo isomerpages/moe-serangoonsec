@@ -1,0 +1,4 @@
+collections:
+  student-space:
+    output: true
+    order: []
