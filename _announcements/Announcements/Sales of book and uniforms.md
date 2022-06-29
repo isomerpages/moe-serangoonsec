@@ -12,7 +12,7 @@ third_nav_title: Announcements
 
 Dear Parents/Guardians,
 
-**SALE OF BOOKS AND UNIFORMS** 
+##### SALE OF BOOKS AND UNIFORMS
 
 We wish to inform you on the arrangements for the sale of books and uniforms as you prepare your child for the new school year in 2022.  
 
@@ -28,7 +28,6 @@ Mode of payment: PayNow / Credit Card
 
 Note: Last day for online order is **7 December 2021**.  
 
-  
 
 **Appointed vendor for Uniforms (including PE attire and name tag): In-Trend Uniforms** 
 
@@ -64,3 +63,49 @@ Step 1:    Order and pay online at www.bookstores.shinglee.com.sg (available 
 Step 2:    Select self-collection option and book an appointment online.   <br>
 
 Step 3:    Proceed to self-collect the books in school at the allocated date and time slot. **(FAS students are reminded to  bring the Booklist 2022 and FAS Collection Slips, and submit to the vendor)**.
+
+##### Booklist 2022
+Click [here](https://moe-serangoonsec-staging.netlify.app/parents-and-students/general-matters/2022booklist) to access Booklist 2022
+
+##### Self collection of uniforms
+
+Parents/guardians who prefer self-collection of uniforms may order online and opt for self-collection or walk-in directly to the retail store. Please note the following:
+
+* Walk-in or Self-collection of UNIFORMS can be done at the following address: <br>
+	In-Trend Uniforms <br>
+	729 Geylang Road <br>
+	Singapore 389640
+
+* The retail store (shop house) is located within approx. 7 minutes’ walk from CC9/EW8 Paya Lebar MRT station (Exit D)
+*   Only 1 adult can accompany the student into the retail store.
+   *   Business Operation Hours: <br>
+10am to 6pm (Monday to Friday) <br>
+10am to 3pm (Saturdays) <br>
+Closed on Sundays and Public Holidays
+
+##### Steps for self-collection of uniforms:
+Step 1:    Order and pay online at www.intrenduniforms.com (select ‘Serangoon Secondary School’)
+
+*   For 2022 FAS students, please ensure you have the discount code before ordering online at [www.intrenduniforms.com](http://www.intrenduniforms.com/) as no payment is required for FAS students. <br>
+
+Step 2: Select self-collection option and book an appointment online.   
+
+Step 3: Proceed to self-collect the uniforms at In-Trend Uniforms’ retail store at the allocated date and time slot.
+**FAS students are reminded to bring your FAS Collection Slips and submit to the vendor)**
+
+##### For Secondary 3 Students (2022 Cohort):
+
+The Sec 2 Subject Allocation Exercise (SAE) is scheduled to take place from late October to mid-November 2021.  Upon the release of the SAE result, please proceed to order and pay for your books and uniforms online (refer to the above for details). <br>
+
+##### For Enquiries or Assistance, please contact the following: <br>
+
+**Books:** <br>
+Shing Lee Bookstores Pte Ltd
+Tel: 67643102 (from 9am to 5pm, Mondays to Fridays) 
+Email: [bookstores@shinglee.com.sg](mailto:bookstores@shinglee.com.sg) 
+
+**Uniforms:** <br>
+In-Trend Uniforms
+Tel: 67410930 (refer to the above for business operation hours) 
+Email: [sales@itu.com.sg](mailto:sales@itu.com.sg) 
+Thank you for your partnership and support to keep our school safe.
