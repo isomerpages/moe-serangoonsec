@@ -12,8 +12,6 @@ As Singapore moves into Phase 3 (Heightened Alert) with gradual easing of commun
 
 To ease into full resumption of school when Term 3 starts on 28 June 2021, students from primary, secondary, JC and MI will return to school according to the following arrangements: 
 
-<br> <br>
-
 *  From Monday, 28 June 2021, Primary 4 to 6, Secondary 3 to 5, and all JC/MI students will return to school.
 *  Secondary 1 and 2 students will be on Home-Based Learning (HBL) till Wednesday, 30 June 2021, and will          return to school from Thursday, 1 July 2021.
 *  Primary 1 to 3 students will be on HBL for the first week (28 June to 2 July 2021), and schools will continue to       provide instructions and support for students to access online and hardcopy HBL materials.
