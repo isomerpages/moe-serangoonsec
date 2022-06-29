@@ -28,7 +28,7 @@ sections:
   - infobar:
       title: Students' Space
       button: More info
-      url: /more-information-students/quick-links/
+      url: /more-information-students/quick-links//
   - infobar:
       title: Teachers' Space
       button: More info
