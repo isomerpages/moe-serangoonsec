@@ -134,7 +134,7 @@ With your children on a month-long break from school during this period of Phase
 ##### COVID-19 Vaccination Exercise for Students
 2021-06-01
 
-MOE is commencing COVID-19 vaccination for students in schools and Institutes of Higher Learning as part of the national vaccination exercise. For more information, click [here](https://moe-serangoonsec-staging.netlify.app/announcements/covid-19-vaccination-students)
+MOE is commencing COVID-19 vaccination for students in schools and Institutes of Higher Learning as part of the national vaccination exercise. For more information, click [here](https://sites.google.com/moe.edu.sg/ssscovidmatters/home)
 
 ##### Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021
 2021-05-21
