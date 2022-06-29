@@ -4,7 +4,6 @@ permalink: /student-development/cce/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-
 ### Character and Citizenship Education
 
 Anchored on the school’s core values of **S**elf-Directedness, **H**armony, **I**ntegrity, Resilie**N**ce and **E**xcellence, Character and Citizenship Education (CCE) in Serangoon Secondary School engages students in the cognitive, behavioural, and affective domains (i.e. knowing, doing, and being).  By facilitating student engagement and voice, and empowering students to derive personal meaning from school activities, we equip our StaRs with the knowledge, skills, values, and social emotional competencies, and develop character and citizenship dispositions that enable them to grow holistically and learn for life, empowering our students to be Resilient Individuals, Passionate Learners, Active Contributors.
@@ -52,7 +51,7 @@ Students are regularly exposed to articles on contemporary issues, and values ar
 
 Students are guided to form and share fair and substantiated views, and to respect and value the views shared by others.
 
-**(insert cce lesson 5-6 new gif)**
+![](/images/cce56.gif)
 
 Learning is collaborative.  Students have the opportunity to share their perspectives and learn from their friends in a safe setting.
 
@@ -60,8 +59,7 @@ Learning is collaborative.  Students have the opportunity to share their perspe
 
 Students enjoy vibrant discussions, where their voices and perspectives are heard and valued. This allows students to learn to express their views coherently, respectfully and confidently.
 
-**(insert cce lesson 8-9 new. gif)**
-
+![](/images/cce89.gif)
 Our teachers engage students in the cognitive, behavioural and affective domains.
 
 ![](/images/cce%20lesson%2010.jpg)
