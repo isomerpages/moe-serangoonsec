@@ -1,0 +1,4 @@
+collections:
+  srss-latest-happening:
+    output: true
+    order: []
