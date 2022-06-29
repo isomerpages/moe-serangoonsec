@@ -2,21 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/2021 Term 2 Letters to Parents and Guardians.md
-      - Announcements/Travel Declaration for June Holidays.md
-      - Announcements/Full Home Based Learning (HBL) from 19 May 2021 to 28 May
-        2021.md
-      - Announcements/Extension of School Meal Subsidies to Students on FAS
-        During Full HBL Period from 19 to 28 May 2021.md
-      - Announcements/Covid 19 Vaccination Exercise for Students.md
-      - Announcements/Parent kit Bonding over the holidays.md
-      - Announcements/Arrangements for school reopening in term 3.md
-      - Announcements/Character Awards 2021.md
-      - Announcements/MOE Parent Kit Journeying Through Challenging Times
-        Together.md
-      - Announcements/Caring Teacher Award 2022.md
-      - Announcements/Travel Declaration for Year End Holidays.md
-      - Announcements/Sales of book and uniforms.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Information For Students Who Received 2021 GCE 'N' Level
@@ -24,3 +9,18 @@ collections:
       - Announcements/2021 GCE O Level Results.md
       - Announcements/Positive Parenting Programme (TripleP) webinars.md
       - Announcements/School Graduation Certificate.md
+      - Announcements/Sales of book and uniforms.md
+      - Announcements/Travel Declaration for Year End Holidays.md
+      - Announcements/Caring Teacher Award 2022.md
+      - Announcements/MOE Parent Kit Journeying Through Challenging Times
+        Together.md
+      - Announcements/Character Awards 2021.md
+      - Announcements/Arrangements for school reopening in term 3.md
+      - Announcements/Parent kit Bonding over the holidays.md
+      - Announcements/Covid 19 Vaccination Exercise for Students.md
+      - Announcements/Extension of School Meal Subsidies to Students on FAS
+        During Full HBL Period from 19 to 28 May 2021.md
+      - Announcements/Full Home Based Learning (HBL) from 19 May 2021 to 28 May
+        2021.md
+      - Announcements/Travel Declaration for June Holidays.md
+      - Announcements/2021 Term 2 Letters to Parents and Guardians.md
