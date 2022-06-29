@@ -2,7 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Example Title.md
       - Latest News/.keep
       - Latest News/Visit by Ms Sun Xueling.md
       - Latest News/Parent Webinars.md
