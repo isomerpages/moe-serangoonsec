@@ -1,4 +1,5 @@
 collections:
   teachers-space:
     output: true
-    order: []
+    order:
+      - Teachers' Space.md
