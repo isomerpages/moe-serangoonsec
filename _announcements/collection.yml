@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Travel Declaration for June Holidays.md
       - Announcements/Full Home Based Learning (HBL) from 19 May 2021 to 28 May
         2021.md
       - Announcements/Extension of School Meal Subsidies to Students on FAS
