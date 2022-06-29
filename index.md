@@ -20,7 +20,7 @@ sections:
           url: /srss/important-information/
         - title: Serangoon Secondary latest happenings
           description: ""
-          url: /srss/latest-happenings/
+          url: https://www.facebook.com/serangoonsecsg/
   - infobar:
       title: Parents' Space
       button: More info
