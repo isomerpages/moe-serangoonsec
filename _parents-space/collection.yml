@@ -1,6 +1,4 @@
 collections:
   parents-space:
     output: true
-    order:
-      - Quick Links/Quick links.md
-      - Quick Links/.keep
+    order: []
