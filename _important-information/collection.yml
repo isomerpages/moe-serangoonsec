@@ -1,4 +1,5 @@
 collections:
   important-information:
     output: true
-    order: []
+    order:
+      - Important Information.md
