@@ -4,7 +4,6 @@ permalink: /srss/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-
 ### Announcements
 ### 2022 ICA NRIC Biometrics Registration
 
@@ -170,4 +169,4 @@ Thank you for your partnership and support to keep our school safe.
 
 Dear Parents & Guardians
 
-The 2021 Term 2 Letters to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded. [click here]()
+The 2021 Term 2 Letters to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded. [click here](https://moe-serangoonsec-staging.netlify.app/parents-and-students/letters-to-parent-and-guardians/)
