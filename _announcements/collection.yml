@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Arrangements for school reopening in term 3.md
       - Announcements/Character Awards 2021.md
       - Announcements/MOE Parent Kit Journeying Through Challenging Times
         Together.md
