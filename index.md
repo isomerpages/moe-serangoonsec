@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Serangoon
+title: Serangoon Secondary School
 description: Secondary School
 image: /images/isomer-logo.svg
 permalink: /
@@ -34,3 +34,4 @@ sections:
       button: More info
       url: /more-information-teachers/quick-links/
 ---
+
