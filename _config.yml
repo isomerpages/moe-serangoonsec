@@ -1,4 +1,4 @@
-title: Serangoon
+title: Serangoon Secondary School
 url: ""
 favicon: /images/download.jpg
 colors:
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Secondary School
+description: ""
 permalink: none
 baseurl: ""
 exclude:
@@ -52,3 +52,7 @@ plugins:
 staging: https://moe-serangoonsec-staging.netlify.app
 prod: https://moe-serangoonsec-prod.netlify.app
 is_government: true
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
