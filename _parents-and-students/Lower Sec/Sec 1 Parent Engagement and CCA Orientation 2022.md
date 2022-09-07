@@ -12,6 +12,7 @@ Dear Parents/Guardians,
 Information shared during the event can be found below. 
 
 **Webinar recordings:**
+
 | | |
 |:---:|:---:|
 | Webinar Part I:<br><br>Welcome Address, Mdm Tay Siok Hwa, Principal<br><br>·Sec 1 Video Montage<br><br>Sec 1 Matters, Mdm Low Siew Ping, YH/Lower Sec<br><br>Co-Curricular Activities (CCA) & LEAPS 2.0 Briefing, Mdm Goh Sze Wei, HOD/PE & CCA<br><br>CCA Virtual Tour<br><br>Discipline Matters, Mr Yan Tuck Poh, SH/Student Management<br><br>After-School Engagement, Ms Sabrina Teo, HOD/Educational Support<br><br>Parent Support Group, Mdm Cindy Lum, YH/Upper Sec<br><br>Triple P Parenting Programme, Mr Halbert Louis, Methodist Welfare Services | <iframe width="480" height="360" src="https://www.youtube.com/embed/6Z7K2xFUnME" title="Sec 1 PES & CCA Orientation 2022: Webinar Part I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> |
@@ -44,4 +45,3 @@ More information on the Sec 1 CCA Selection Exercise can be found on the Sec 1 C
 | After-School Engagement (Orion StaRs):<br> ![](/images/QR%20codeOrion%20Stars.jpg) | Click here or scan the QR code below to sign up your child/ward for the Orion StaRs programme.<br> ![](/images/QR%20code_triple%20P.jpg) |  |  |  |
 | Triple P Parenting seminars:<br>  | Click here or scan the QR code below to sign up for the Triple P Parenting seminars.<br>|
 |
-
