@@ -81,4 +81,22 @@ One of the highlights was organising our very own Humanities Amazing Race for ou
 
 <img src="/images/awareness.gif" 
      style="width:75%">
+		 
+The Secondary 3 students had the opportunity to make a trip down to Fort Canning for The Singapore Bicentennial Experience that celebrates Singapore’s 700-year history. From Singapore to Singaporeans: The Bicentennial Experience was brought alive by a multi-sensory exhibition that showcases key moments in Singapore since 1299. <br>
+The trip was intended for our Secondary 3 students who study Elective History and Geography to learn about Singapore’s momentous evolution beyond the classroom experience.		 
+
+<img src="/images/awareness2.gif" 
+     style="width:75%">
+
+#### Team
+
+| Humanities Department |  |
+|:---:|:---:|
+| Head of Department: | Christopher Tan (History/SS) |
+| Subject Head:  | Sabrina Teo (Geography)  |
+| School Staff Developer: | Jeff Mak Ka Fai (SS)  |
+| Members: | Cheryl Lau (Geog/Lit) <br>Daniel Fung (History/SS) <br>Gloria Lim (SS/EL)<br>Goh Ling Pin (Geo/EL) <br>Michael Francis Chow (Hist/Geo)<br>Ng Xuemin (Hist/Math) <br>Nur Ashirah (Geo/EL) <br>Timothy Liew (Geog/SS)<br>Timotty Tay (Hist/SS) <br>Yee Liang Chien Matt (SS/EL) <br> Charlene Lim (EL/SS) <br>Jasmine Chan (FCE/Geo)<br>Lim Pei Yee (EL/SS) <br>Sheryl Lim (EL/Geo) <br>Siti Sufiana (EL/SS) |
+|  
+		 
+		 
 
