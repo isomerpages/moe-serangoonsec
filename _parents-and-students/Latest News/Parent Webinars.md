@@ -1,6 +1,6 @@
 ---
 title: Parent Webinars
-permalink: /parents-and-students/Latest-News/parent-webinars
+permalink: /parents-and-students/Latest-News/parent-webinars/
 description: ""
 third_nav_title: Latest News
 ---
@@ -16,7 +16,7 @@ The session aims to update you on the related matters, as we issue your child/wa
 
 <img src="/images/ndp2021qrcode.jpg" 
      style="width:55%">
-Click here (error link) for registration link
+[Click here](https://go.gov.sg/sss-ndlp-bl-pes2021) **website unavailable** for registration link
 
 10.30am to 11.30am- Sec 3 Parent Webinar on Academic Sharing and CCAs & LEAPS 2.0 System.
 
