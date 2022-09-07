@@ -42,6 +42,6 @@ More information on the Sec 1 CCA Selection Exercise can be found on the Sec 1 C
 |  |  |  |  |  |
 |---|---|---|---|---|
 | Parent Support Group (PSG):<br>  |Click here or scan the QR code below to sign up as a member of the PSG.<br> ![](/images/OR%20codePSG.jpg) |  |  |  |
-| After-School Engagement (Orion StaRs):<br> ![](/images/QR%20codeOrion%20Stars.jpg) | Click here or scan the QR code below to sign up your child/ward for the Orion StaRs programme.<br> ![](/images/QR%20code_triple%20P.jpg) |  |  |  |
-| Triple P Parenting seminars:<br>  | Click here or scan the QR code below to sign up for the Triple P Parenting seminars.<br>|
+| After-School Engagement (Orion StaRs):<br>  | Click here or scan the QR code below to sign up your child/ward for the Orion StaRs programme.<br> ![](/images/QR%20codeOrion%20Stars.jpg) |  |  |  |
+| Triple P Parenting seminars:<br>  | Click here or scan the QR code below to sign up for the Triple P Parenting seminars.<br>![](/images/QR%20code_triple%20P.jpg)|
 |
