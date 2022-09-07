@@ -24,6 +24,6 @@ Following your inputs to the Sec 3 Parent Webinar Survey on 5 May, the session a
 
 <img src="images/sec3pesqr.jpg" 
      style="width:55%">
-Click here (error link) for registration link
+[Click here](https://go.gov.sg/sec3parentswebinar)**website unavailable** for registration link
 
 We will also be addressing some of your questions during the webinars. See you.
