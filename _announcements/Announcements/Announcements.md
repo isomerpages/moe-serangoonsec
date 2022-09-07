@@ -55,7 +55,7 @@ Congratulations 2021 GCE O-Level Students!
 
  You’ve completed your secondary school phase. We hope you have learnt to adopt a growth mindset in the process of growing and learning during the 4-5 years stint with SSS. We know that you will continue to embrace this value in your tertiary education. [click here to read more](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/)
  
- ##### Positive Parenting Program® (Triple P) for all parents
+##### Positive Parenting Program® (Triple P) for all parents
  
  2022-01-07
 
