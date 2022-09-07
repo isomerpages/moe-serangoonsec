@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /academic-programmes/humans
+permalink: /academic-programmes/humans/
 description: ""
 ---
 ### Humanities
@@ -80,19 +80,19 @@ This is an exciting competition for students as they get to learn how to make de
 ![](/images/war%20and%20dip%202.jpg)
 
 #### Learning Journeys
-###### Learning Journey 2017
+##### Learning Journey 2017
 In 2017, students went on a Humanities Learning Journey on 23rd and 24th of February 2018, and on 26th October 2018. For the February Learning Journey, the Sec 1 students went to the National Museum and Fort Canning Park. The purpose of heading to the Museum was to collect sources for their Historical Investigation, as well as to develop an understanding on how the Singapore’s history is presented by the Museum. The journey to Fort Canning Park was to help students understand the British defences of Singapore during the colonial period so that they can better appreciate the need for a strong and capable defence in Singapore.
 
 For the October Learning Journey, the Sec 2 students went to the Ford Motor Factory, Bukit Chandu, and the Kranji War Memorial. They went to these places to further develop their knowledge and understanding of the times leading up to the Japanese Occupation. Through this learning journey, the students were able to understand how harsh WW2 was for the people of Singapore and how they should not take Singapore’s safety and security for granted.
 
 In 2017, the Sec 3 Express Pure History students also went on a Learning Journey on the 23rd of October. They went to the Ford Motor Factory and Fort Siloso. The purpose of going to these places was to help reconstruct the battle of Singapore for the students. Through this Learning Journey, the students were able to gain an understanding of the military history of Singapore. They were also able to further understand that history is not limited to their textbooks but that there also exists different types of history that they can uncover as junior historians.
 
-###### Learning Journey 2018
+##### Learning Journey 2018
 In 2018, the Sec 1 students went to the Kranji War Memorial as part of their Humanities Learning Journey. The students have not been to this part of Singapore before, thus it was an eye opener for them. The purpose of this Learning Journey was for students to appreciate and understand about the harshness and realities of WW2 on Singapore. They also learnt that the reason why Singapore is safe today is due to the sacrifices and contributions of those who had lived before us. The students finally learnt that the British did spare significant efforts to defend Singapore.
 
 While the Sec 1 students went to the Kranji War Memorial, the Sec 2 students went to Fort Siloso on the 25th of October 2018. They went to this location so as to learn about the military defence of Singapore. This was an opportunity for them to learn about the Japanese invasion beyond what their textbook taught them. It was a chance for them to step into an actual battle site of the British defence of Singapore. They were given a chance to evaluate why the defences were ineffective or otherwise.
 
-###### Learning Journey 2019
+##### Learning Journey 2019
 On the 30th of May 2019, the Sec 2 Express students went on a Learning Journey to the Kok Fah Hydroponics farm. In the farm, they learnt about high tech farming methods that Singapore currently employs. This has been done to help overcome land shortages and feed its population at the same time. They also visited the Bukit Batok Hill to learn about the battles that the British fought with the invading Japanese forces there.
 
 The Sec 2 Normal Academic students went on a Learning Journey to Fort Canning Park, to examine the historical battle site. They were able to study the powerful defences that the British had placed there to protect Singapore. Following that, the students went to the LTA Gallery to learn about public transportation in Singapore. They learnt on the future plans that would be set in place for public transportation in Singapore, such as RFID MRT fare gates and the new three door type buses.
@@ -101,7 +101,4 @@ On the 23rd and 24th of October, the Sec 1 Express and Normal Academic students 
 
 ![](/images/learningjourney.gif)
 
-(Error links)
-
-
-
+[Learning Journey 2015](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/goog_590457485) | [Learning Journey 2013](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2013) | [Learning Journey 2012 |](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2012) [Learning Journey 2011](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2011) **(Error links)**
