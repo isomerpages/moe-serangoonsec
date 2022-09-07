@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Example Title.md
       - Craft & Technology.md
       - English Language & Literature.md
       - Humanities.md
