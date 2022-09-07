@@ -113,7 +113,7 @@ We go through both ups and downs with our children. What matters most is that we
 Nomination closes on 2 August 2021, 5pm <br>
 eNominations: [https://go.gov.sg/characterawards2021](https://go.gov.sg/characterawards2021) 
 
-or download form here (error link)
+or download form [here](http://serangoonsec-moe-edu-sg-admin.cwp.sg/qql/slot/u179/Announcements/Character%20Awards%202021/Character_Awards_2021_Nomination_Form_Public.docx) **Error link**
 
 ##### MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students
 2021-06-15
