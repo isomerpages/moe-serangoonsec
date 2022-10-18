@@ -33,7 +33,7 @@ Honours to you!
   
 
 ##### School Emblems
-##### School Logo
+##### The School Logo
  <img src="/images/download.jpg" style="width:161px;height:175;margin-right:15px;" align = "Left">
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
 
