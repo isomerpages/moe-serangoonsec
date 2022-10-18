@@ -6,9 +6,9 @@ third_nav_title: School Stories
 ---
 ### Project Ablaze
 
-Through taking part in community-based projects, students in the school learn about the role they can play as active citizens, and how they can contribute to the growth of the community and nation. 
+![](/images/elderly%20gif.gif)
 
-  
+Through taking part in community-based projects, students in the school learn about the role they can play as active citizens, and how they can contribute to the growth of the community and nation. 
 
 It was all business for Secondary Three students of the school, as they ventured for the first time into the homes of the less-privileged elderly living in one-room rental flats – with an important mission.
 
@@ -21,5 +21,3 @@ Once the cleaning mission was completed, the students spent the rest of the af
 The focus of the school’s _Project Ablaze_ is on Community Youth Leadership. Students are given opportunities to lead and serve the community through designing and implementing community-based projects.
 
 At the lower secondary levels, students are sensitised to the needs of their school community and the wider community. At the upper secondary levels, as in the case for these Secondary Three students, they apply their knowledge and skills in student-initiated projects.
-
-![](/images/elderly%20gif.gif)
