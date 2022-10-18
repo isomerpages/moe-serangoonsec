@@ -1,12 +1,12 @@
 ---
 title: Principal's Message
-permalink: /about-us/principalsmessage
+permalink: /about-us/principalsmessage/
 description: ""
 ---
 ### Principal's Message
  
 
-<img src="/images/photo_2022-06-20_12-54-14.jpg" style="width:183px;height:250px;margin-right:15px;" align = "Left">
+<img src="/images/photo_2022-06-20_12-54-14.jpg" style="width:183px;height:250px;margin-right:15px;" align = "Left";>
 Serangoon Secondary School has a long and rich history of nurturing valuable members of our society. The school was founded in 1928 as Serangoon English School, and has produced a number of distinguished alumni, including a cabinet minister, senior civil servants, businessmen, and professionals.
 
 
@@ -18,6 +18,6 @@ We seek to work in partnership with parents and alumni to organise meaningful le
 
   
 
-Mdm Tay Siok Hwa
+*Mdm Tay Siok Hwa*
 
-Principal, Serangoon Secondary School
+**Principal, Serangoon Secondary School**
