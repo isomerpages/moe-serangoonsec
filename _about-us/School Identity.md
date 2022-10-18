@@ -38,14 +38,14 @@ Honours to you!
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
 
 ##### The Symbols
-Eagle - The eagle depicted is the German Eagle that symbolises self-discipline, dignity, esteem, and power.  
+**Eagle** - The eagle depicted is the German Eagle that symbolises self-discipline, dignity, esteem, and power.  
   
-Lamp - The lamp, with its radiant and glowing flame, symbolises knowledge acquired through the studying of academic subjects and a pupil's all-round development, well-being, and balanced personality. Together, they symbolise the determination with which we seek to achieve our goals.
+**Lamp** - The lamp, with its radiant and glowing flame, symbolises knowledge acquired through the studying of academic subjects and a pupil's all-round development, well-being, and balanced personality. Together, they symbolise the determination with which we seek to achieve our goals.
 
 ##### The Colours
 
-Blue signifies the two important and essential qualities of a good character, namely piety and sincerity.  
+**Blue** signifies the two important and essential qualities of a good character, namely piety and sincerity.  
   
-White embodies everything that is pure and wholesome, particularly, purity in thought, word, and deed.  
+**White** embodies everything that is pure and wholesome, particularly, purity in thought, word, and deed.  
   
-Orange represents strength - both in character and physique, integrity - strength and firmness of character, and endurance - the spirit of determination and the ability to persevere to the very end.
+**Orange** represents strength - both in character and physique, integrity - strength and firmness of character, and endurance - the spirit of determination and the ability to persevere to the very end.
