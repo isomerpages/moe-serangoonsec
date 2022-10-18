@@ -81,6 +81,6 @@ description: ""
 |---|---|
 | Mr Abdul Rahim Bin Zainol<br> | SEN Officer<br> |
 | Ms Aimi'Atiqah Bte Shamsuddin | Allied Educator (Teaching & Learning) |
-| <br>Mdm Jade Chee Gek Chin | <br>Senior School Counsellor |
-| <br>Ms Thahira Thasnim Hajamaideen | <br>School Counsellor |
-| <br>Ms Gan Wei Ling Joyce  | <br>Student Welfare Officer |
+| Mdm Jade Chee Gek Chin<br>| Senior School Counsellor<br> |
+| Ms Thahira Thasnim Hajamaideen<br> | School Counsellor<br> |
+| Ms Gan Wei Ling Joyce<br>  | Student Welfare Officer<br> |
