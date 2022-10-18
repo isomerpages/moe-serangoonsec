@@ -34,6 +34,7 @@ Honours to you!
   
 
 ### School Emblems
+
 ##### The School Logo
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
 
