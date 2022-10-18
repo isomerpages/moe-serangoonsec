@@ -8,8 +8,6 @@ notification: Switch to Google Chrome for a better browsing experience!
 sections:
   - hero:
       background: /images/homepage_main_orange.jpg
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Announcements
           description: ""
