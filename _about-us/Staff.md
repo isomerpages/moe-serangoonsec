@@ -16,10 +16,8 @@ description: ""
 | Ms Liam Hsiao Wen | HOD/Mother Tongue Languages |
 | Mdm Goh Sze Wei | HOD/Physical Education & Co-Curricular Activities |
 | Ms Ong Meixue Michelle | HOD/Science |
-| Mdm Woo Wei Wei | School Staff Developer |
 | Mdm Low Siew Ping | Year Head (Lower Sec) |
 | Mdm Cindy Lum | Year Head (Upper Sec)  |
-| Mr Sarabjeet Singh | Assistant Year Head (Sec 1)  |
 | Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2)  |
 | Ms Lee Zhi Li | Assistant Year Head (Sec 3)  |
 | Mr Koh Sien Kok Dennis | SH/Character & Citizenship Education |
