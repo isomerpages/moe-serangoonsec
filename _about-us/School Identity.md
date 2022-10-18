@@ -8,6 +8,7 @@ description: ""
 ##### School Motto 
 Seek to Grow, Strive to Excel, Serve with Honour
 
+
 ##### School Song 
 We proudly sing about our school  
 That shines among the rest.  
