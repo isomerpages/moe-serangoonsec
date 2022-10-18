@@ -17,4 +17,5 @@ We seek to work in partnership with parents and alumni to organise meaningful le
   
 
 *Mdm Tay Siok Hwa*
+
 **Principal, Serangoon Secondary School**
