@@ -2,7 +2,7 @@ collections:
   value-in-action:
     output: true
     order:
-      - Value In Action (VIA).md
+      - Values In Action (VIA).md
       - Reflections/.keep
       - Reflections/Sowing Seeds Of Kindness.md
       - Reflections/Our Worms Affair.md
