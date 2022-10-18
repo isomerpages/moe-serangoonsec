@@ -4,21 +4,6 @@ permalink: /vmv/
 description: ""
 ---
 ### SSS Vision, Mission, Values, Philosophy, and Strategic Thrusts
- 
-
-
-| ##### Vision | ##### Mission | ##### Values |
-| -------- | -------- | -------- |
-| Resilient Individuals  
-Passionate Learners  
-Active Contributors     | Moulding Character
-Igniting Passion
-Building Community    | **S**elf-Directedness  
-**H**armony  
-**I**ntegrity  
-Resilie**N**ce  
-**E**xcellence    |
-
 
 ##### School Vision
 Resilient Individuals  
