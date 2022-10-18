@@ -52,7 +52,7 @@ description: ""
 | 2H3 | Ms Kuan Jing Wei Kimberley<br>Ms Wong Liling |
 | 2H4 | Ms Ho Xuru Cheryl<br>Ms Chew Li Ting |
 | 2H5 | Mr Tan Peng Yau<br>Ms Sun Guizi |
-| 2H6 | Ms Lim Yu Xin Sheryl <br>Ms Ivy Phong<br><br>Mr Lim Zhou Yu Jarrod |
+| 2H6 | Ms Lim Yu Xin Sheryl <br>Ms Ivy Phong<br>Mr Lim Zhou Yu Jarrod |
 | 2H7 | Ms Fong Jia Hui<br>Ms Amala d/o Tavabalan |
 | 2H8 | Mdm Peh Su Fang<br>Mdm Rudrapathy Vijayalakshmi |
 | 3I1 | Ms Quek Hoon Lui<br>Mr Goh Chye Boon Roger |
@@ -68,10 +68,10 @@ description: ""
 | 4N2 | Mr Goh Ling Pin<br>Ms Nur Ashirah Binti Nordali |
 | 4N3 | Mdm Hasrita Bte Hosnin<br>Mr Lee Boon Haw |
 | 4N4 | Mr Muhammad Hidayat Bin Ishak<br>Ms Ang Chian Huey |
-| 4N5 | Mr  Muhd Muzzaffar Shah Bin Razak<br>Ms Dasimah Binte Jalil |
+| 4N5 | Mr Muhd Muzzaffar Shah Bin Razak<br>Ms Dasimah Binte Jalil |
 | 4N6 | Ms Tan Xiaolin<br>Mr Timotty Tay Jun Jie |
-| 4N7  | <br>Mr Lim Tong YangMs Ezyanti Siregar Bte Lukman |
-| 4N8 | <br>Ms Tan Kai Ling SharonMs Joseline Cheok |
+| 4N7  | Mr Lim Tong Yang<br>Ms Ezyanti Siregar Bte Lukman |
+| 4N8 | Ms Tan Kai Ling Sharon<br>Ms Joseline Cheok |
 | 4N9 | Mr Liew Zherui Timothy<br>Mr Fung En Yong Daniel |
 | 5E1 | Mr Adrian Tay<br>Mr Tan Yong Khai |
 
