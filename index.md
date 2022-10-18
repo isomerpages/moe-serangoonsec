@@ -8,7 +8,7 @@ notification: best viewed in Google Chrome
 sections:
   - hero:
       title: Serangoon Secondary School
-      background: /images/homepage_main.jpg
+      background: /images/homepage_main_orange.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
