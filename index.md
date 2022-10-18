@@ -15,7 +15,7 @@ sections:
         - title: Important Information
           description: ""
           url: /srss/important-information/
-        - title: Latest Pappenings
+        - title: Latest Happenings
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
   - infobar:
