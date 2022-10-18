@@ -3,7 +3,7 @@ title: SSS School Identity
 permalink: /school-identity/
 description: ""
 ---
-### SSS School Identity
+### School Identity
  
 ##### School Motto 
 ######  Seek to Grow, Strive to Excel, Serve with Honour
