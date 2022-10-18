@@ -3,7 +3,6 @@ title: Vision, Mission, Values, Philosophy, and Strategic Thrusts
 permalink: /vmv/
 description: ""
 ---
-
 ### Vision, Mission, Values, Philosophy, and Strategic Thrusts
 
 ##### School Vision
