@@ -1,13 +1,13 @@
 logo: /images/download.jpg
 links:
-  - title: About Us
+  - title: About SSS
     url: /about-us/principalsmessage
     sublinks:
       - title: Principal's Message
         url: /about-us/principalsmessage
-      - title: SSS Vision,Mission,Values
+      - title: Vision,Mission,Values
         url: /vmv/
-      - title: SSS School Identity
+      - title: School Identity
         url: /school-identity/
       - title: School History
         url: /history/
