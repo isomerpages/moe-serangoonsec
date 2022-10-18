@@ -4,10 +4,9 @@ title: Serangoon Secondary School
 description: Secondary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: best viewed in Google Chrome
+notification: Switch to Google Chrome for a better browsing experience!
 sections:
   - hero:
-      title: Serangoon Secondary School
       background: /images/homepage_main_orange.jpg
       button: Contact Us
       url: /contact-us/
