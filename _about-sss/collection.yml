@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-sss:
     output: true
     order:
       - Principal's Message.md
