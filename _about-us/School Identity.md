@@ -37,6 +37,7 @@ Honours to you!
  <img src="/images/download.jpg" style="width:161px;height:175;margin-right:15px;" align = "Left">
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
 
+
 ##### The Symbols
 **Eagle** - The eagle depicted is the German Eagle that symbolises self-discipline, dignity, esteem, and power.  
   
