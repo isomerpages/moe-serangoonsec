@@ -5,9 +5,9 @@ description: ""
 third_nav_title: School Stories
 ---
 ### Setting Our Sights High
-The theme for the school's STEM-based Applied Learning Programme is 'Real World Explorations in ICT'. The school’s ALP provides quality learning experiences for its lower secondary students to develop 21CC of critical and inventive thinking through an inquiry-based approach. Students collaborate to explore viable STEM solutions to real-world problems in areas like aerospace and telecommunications using tools and technologies such as 3D Modelling and Printing, and Drones Programming.
+![](/images/drone%20gif.gif)
 
-  
+The theme for the school's STEM-based Applied Learning Programme is 'Real World Explorations in ICT'. The school’s ALP provides quality learning experiences for its lower secondary students to develop 21CC of critical and inventive thinking through an inquiry-based approach. Students collaborate to explore viable STEM solutions to real-world problems in areas like aerospace and telecommunications using tools and technologies such as 3D Modelling and Printing, and Drones Programming.
 
 Rallying round a palm-sized bright yellow drone, a group of Secondary Two students chatter animatedly as one of their peers uses a tablet to skilfully navigate the nifty gadget around a series of obstacles in the hall. 
 
@@ -20,5 +20,3 @@ Although it was the first time they learnt coding, these students were up to the
 Secondary Two student Nur Shakila agrees: “It was fun and amazing when I navigated the drone. I want to continue to learn more.”
 
 The school’s ALP has created greater awareness of STEM careers among students. For those who wish to take it further, they may apply to offer Computing and Mobile Robotics at the upper secondary levels.
-
-![](/images/drone%20gif.gif)
