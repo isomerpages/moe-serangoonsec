@@ -3,11 +3,10 @@ title: School Identity
 permalink: /school-identity/
 description: ""
 ---
-
 ### School Identity
  
 ##### School Motto 
-######  Seek to Grow, Strive to Excel, Serve with Honour
+Seek to Grow, Strive to Excel, Serve with Honour
 
 ##### School Song 
 We proudly sing about our school  
@@ -15,7 +14,7 @@ That shines among the rest.
 With youthful vigour, youthful zest,  
 We'll make our school the best!  
   
-Chorus  
+*Chorus*  
 Forward, march on,  
 Serangoon Secondary School!  
 We will lift our voices and sing,  
@@ -24,7 +23,7 @@ We will serve with pride,
 Honours to you we'll bring!  
 (Repeat)  
   
-Chorus  
+*Chorus*  
 Forward, march on,  
 Serangoon Secondary School!  
 We will lift our voices and sing,  
