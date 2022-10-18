@@ -15,7 +15,7 @@ sections:
         - title: Important Information
           description: ""
           url: /srss/important-information/
-        - title: Serangoon Secondary latest happenings
+        - title: Latest Pappenings
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
   - infobar:
