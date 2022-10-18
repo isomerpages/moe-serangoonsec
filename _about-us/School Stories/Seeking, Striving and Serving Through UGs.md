@@ -4,11 +4,11 @@ permalink: /about-us/school-stories/seeking-striving-and-serving-through-ugs/
 description: ""
 third_nav_title: School Stories
 ---
-
 ### Seeking, Striving and Serving Through UGs
 
-Amidst enjoying the activities, our cadets learn important life skills and values such as teamwork and resilience while striving for excellence, and achieve a sense of pride through actively serving the school, community, and country.
+![](/images/gif%20img1.jpg)
 
+Amidst enjoying the activities, our cadets learn important life skills and values such as teamwork and resilience while striving for excellence, and achieve a sense of pride through actively serving the school, community, and country.
   
 Cadets in kayaks. Not a sight one would traditionally associate with Uniformed Groups -- it’s perhaps more expected of sports groups. But UG cadets in Serangoon Secondary School enjoy an exciting array of outdoor activities that not only build their resilience but also strengthen their character. Kayaking, which cadets take on as part of the combined UG Kayaking Certification course, is only one such example.  
 
@@ -31,8 +31,6 @@ The UGs maintain strong ties with the alumni through their active involvement in
 Cadets in our school also serve at various school and community events with pride and dedication, providing crucial yeoman support.
 
 Indeed, to borrow our school motto, there are limitless opportunities for a cadet to seek,  strive, and  serve  through our UGs!
-
-![](/images/gif%20img1.jpg)
 
 ![](/images/gif%20img2.jpg)
 
