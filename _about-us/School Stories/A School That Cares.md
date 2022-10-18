@@ -6,8 +6,9 @@ third_nav_title: School Stories
 ---
 ### A School That Cares
 
-–In Serangoon Secondary School, you will find teachers who care for their students and are committed to helping them achieve their goals.  
-  
+![](/images/photo_2022-06-25_19-11-21.jpg)
+
+In Serangoon Secondary School, you will find teachers who care for their students and are committed to helping them achieve their goals.  
 
 Visitors to the school on Tuesday, Wednesday, and Thursday mornings will likely be greeted by the sight of some students and their form teachers in deep conversation along the corridors as the rest of the classes get on with their morning reading.
 
@@ -25,5 +26,4 @@ For Rifa Ilyasa Achrinza of 4N7, this is something that he cherishes about the s
 
 Through the efforts of teachers who care for their students and are committed to helping them achieve their goals in life and in their studies, the school is well-positioned to mould successful students who are responsible, respectful and who behave in a thoughtful manner!
 
-![](/images/photo_2022-06-25_19-11-21.jpg)
 ![](/images/photo_2022-06-25_19-11-40.jpg)
