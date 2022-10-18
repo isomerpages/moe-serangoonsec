@@ -3,7 +3,7 @@ title: SSS Vision,Mission,Values,Philosophy, and Strategic Thrusts
 permalink: /vmv/
 description: ""
 ---
-### SSS Vision, Mission, Values, Philosophy, and Strategic Thrusts
+### Vision, Mission, Values, Philosophy, and Strategic Thrusts
 
 ##### School Vision
 Resilient Individuals  
