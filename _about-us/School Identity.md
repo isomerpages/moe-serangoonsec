@@ -36,7 +36,7 @@ Honours to you!
 ### School Emblems
 
 
-<img src="/images/school_logo_tiny.png" style="width:200px;height:200;margin-right:15px;" align = "Left">
+<img src="/images/school_logo_tiny.png" style="width:150px;margin-right:15px;" align = "Left">
 
 
 
