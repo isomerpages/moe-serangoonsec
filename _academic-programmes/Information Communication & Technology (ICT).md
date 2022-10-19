@@ -3,7 +3,7 @@ title: Information Communication & Technology (ICT)
 permalink: /academic-programmes/ict/
 description: ""
 ---
-### Information Communication & Technology (ICT)
+### Information & Communications Technology (ICT)
 
 ##### Department Staff
 
@@ -14,7 +14,7 @@ description: ""
 | Mr Yee Kah Leong         | CPA Teacher      |
 | Mr Sng Kok Lam           | ICT Manager      |
 | Mr Muhammad Imran Samat  | ICT Manager      |
-| Mr Anuarezman Bin Sariff | Desktop Engineer |
+| Mr Anuarezman Sariff | Desktop Engineer |
 | Mr Xu Junxiong, Don      | Desktop Engineer |
 
 ##### Key Programmes
