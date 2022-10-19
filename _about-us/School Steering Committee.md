@@ -28,12 +28,4 @@ description: ""
 |![](/images/KP_blank.jpg)|![](/images/School%20Steering%20Committee/Lum%20Cindy.jpg)|![](/images/KP_blank.jpg)|
 | -------- | -------- | -------- |
 
-
-
-
-
 #### Subject Heads / Assistant Year Heads
-
-![](/images/4xxxxx.jpg)
-![](/images/5xxxxx.jpg)
-![](/images/6xxxxx.jpg)
