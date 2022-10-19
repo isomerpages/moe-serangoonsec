@@ -25,7 +25,7 @@ description: ""
 
 
 
-||![](/images/School%20Steering%20Committee/Lum%20Cindy.jpg)||
+|![](/images/KP_blank.jpg)|![](/images/School%20Steering%20Committee/Lum%20Cindy.jpg)|![](/images/KP_blank.jpg)|
 | -------- | -------- | -------- |
 
 
