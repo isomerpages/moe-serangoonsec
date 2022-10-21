@@ -6,9 +6,9 @@ description: ""
 ### School Steering Committee 
 
 
-|![](/images/School%20Steering%20Committee/Tay%20Siok%20Hwa.jpg)|![](/images/School%20Steering%20Committee/Jin%20Sebastian.jpg)|![](/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg)|
+|![](/images/School%20Steering%20Committee/Tay%20Siok%20Hwa.jpg)|![](/images/KP_blank.jpg)|![](/images/KP_blank.jpg)|
 | -------- | -------- | -------- |
-|![](/images/KP_blank.jpg)|![](/images/KP_blank.jpg)|![](/images/KP_blank.jpg)|
+|![](/images/School%20Steering%20Committee/Jin%20Sebastian.jpg)|![](/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg)|![](/images/KP_blank.jpg)|
 
 
 #### Head of Departments / Year Heads / School Staff Developer
