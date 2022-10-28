@@ -18,7 +18,7 @@ sections:
         - title: Latest Happenings
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
-      background: /images/hero_banner_sch_front.png
+      background: /images/sch_banner.png
   - infobar:
       title: Parents' Space
       button: More info
