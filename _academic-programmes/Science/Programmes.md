@@ -16,6 +16,7 @@ The programme is made up of two sessions that provides experiential learning for
 
 Reflective questions in suitable IT platforms such as Padlet are used to guide the students to reflect and internalize the knowledge. Students would also go through a lesson package in Student Learning Space (SLS) to create awareness on our country’s dependency on external food sources and thus the issue on food security which then leads to the government's effort to move into high technology farming in Singapore. 
 <hr>
+
 **Purpose**
 
 From the programme, students will be able to:
@@ -32,6 +33,7 @@ From the programme, students will be able to:
 
 Here are some highlights of the Science Garden Enrichment Programme 2022:
 <hr>
+
 **Review**
 
 The inaugural Science Garden Enrichment Programme was implemented in 2022 and has received positive feedback from the staff and students. The outdoor learning experience was well received as the hands-on activities excited the students and enabled them to grow vegetables using hydroponics.  
