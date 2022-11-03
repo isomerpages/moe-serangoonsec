@@ -30,8 +30,4 @@ sections:
       title: Teachers' Space
       button: More info
       url: /more-information-teachers/quick-links/
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
