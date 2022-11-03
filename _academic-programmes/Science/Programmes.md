@@ -8,7 +8,7 @@ third_nav_title: Science
 
 ##### Science Garden Enrichment Programme 2022
 
-**Context **
+**Context**
 
 The Science Garden Enrichment Programme aims to bring about the joy of learning in Science beyond the curriculum through the use of the Science Garden to demonstrate application of Science.
 
