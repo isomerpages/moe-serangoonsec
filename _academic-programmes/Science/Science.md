@@ -8,9 +8,13 @@ third_nav_title: Science
 
 Passionate, Proficient and Prepared for the future
 
+<hr>
+
 ### Mission
 
 To ignite a passion for Science in every Serangoon StaR and to nurture students to be future-ready, proficient and socially responsible citizens of character.
+
+<hr>
 
 ### Science Curriculum
 
@@ -23,7 +27,10 @@ The curriculum goals of the department are referenced from the Science Curriculu
 ![](/images/science_page_graphic_1.png)
 
 ###### Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
- 
+
+<hr>
+
+
 #### Science Department Teaching and Learning (T&amp;L) Framework
 
 The department’s T&amp;L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
@@ -37,8 +44,11 @@ The department’s T&amp;L framework is guided by the school vision and school p
  ![](/images/science_page_graphic_2.png)
 ###### Source: Academy of Singapore Teachers (AST)
 
+<hr>
+
 #### 2022 Science Department Team
 
+<br>
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:125.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EDEDED;mso-background-themecolor:
