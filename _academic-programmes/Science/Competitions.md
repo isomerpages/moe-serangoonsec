@@ -47,5 +47,3 @@ We are proud to announce that out of the students who participated, 11 students 
 In addition, we have Lee David Aiden Tan from 2H8 who was awarded a certificate of distinction, and Tristan Yew Kit from 2H5, who was awarded a certificate of high distinction.
 
 Well done to all the participants!
-
-
