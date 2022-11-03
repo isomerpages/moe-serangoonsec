@@ -1,87 +1,22 @@
 ---
 title: Competitions
-permalink: /academic-programmes/science/competitions
+permalink: /academic-programmes/science/competitions/
 description: ""
 third_nav_title: Science
 ---
-### Competitions
+##### Scientists-in-School (SiS) Programme 2022
 
-##### 1.Shell NXplorers 2020  
+Scientists-in-School (SiS) Programme is a programme jointly organised by the Agency for Science, Technology and Research (A*STAR) and Ministry of Education, Singapore (MOE). The programme aims to engage students in STEM research and activities, thereby extending their knowledge beyond the school curriculum and deepening the joyful learning of science. 
 
-NXplorers is an innovative educational programme that introduces young people to the complex and creative thinking needed to bring about positive change.
+A group of enthusiastic Secondary 3 students with a keen interest in science have embarked on their journey as young scientists under the guidance of Dr Liu Huajun, a Materials Science scientist from A*STAR.
 
-The programme aims to build awareness, develop knowledge and provide thinking tools and complex problem solving skills to the leaders of the future.
+To further enrich students’ learning experience, students went on a learning journey to ASTAR’s Institute of Materials Research and Engineering on 25 August 2022. They visited the cleanrooms where the silicon wafers are fabricated and are introduced to various machines used in the manufacturing of semiconductors. They even experienced the wearing of cleanroom-approved apparel over their school uniforms and witnessed the scientists at work. 
 
-In this programme, a group of 5 Secondary 3 students explored issues relating to food, water and energy, and proposed various plans for positive action for change. This has helped them to develop skills such as systems thinking and complex problem solving.
+Here is a quote from Heng Song Wei of 3I8: “I got to learn many new things that we won't learn in normal school curriculum.” This shows how the programme has inspired a joy of learning in students beyond the classroom through Dr Liu’s engaging laboratory sessions and extensive knowledge in the applications of Materials Science. 
 
-![](/images/xplorers1.jpeg)
+The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh of 3I8, “**"We must continuously keep learning and never give up."**”
 
-![](/images/xplorers2.jpeg)
+##### IgnITE Challenge 2022
 
-##### 2. Elementz Science Research Competition 2019
-A group of 4 students from the Secondary 2 level represented the school in this year’s Elementz Competition. The objectives of this competition are to generate interest in scientific study through investigative-type projects in science, and provide a platform for schools in the North Zone to exhibit and share their findings. The students also had to create a poster to showcase their findings of the project, stating its purpose, method, main findings and conclusion(s).
-
-This year, our students compared the use of various packaging materials which are commonly used in the market, such as paper, styrofoam and plastic. Eggs were used to represent a fragile item, which were then wrapped and dropped from a fixed height. Breakages for each material were recorded before reaching a conclusion.
-
-![](/images/DIUG7498.jpg)
-
-![](/images/DSC_9773.jpg)
-
-##### 3. UNSW ICAS Science 2019
-The University of New South Wales (UNSW) International Competitions and Assessment for Schools (ICAS) Science assesses students’ skills in the key scientific areas of:
-
-*   **Observing and measuring** – Noting and measuring features of items and phenomena
-*   **Interpreting data** – Interpreting diagrams, tables and graphs
-*   **Applying data** – Including inferring, predicting and concluding
-*   **Investigating** – Experimental design, use of controls and notion of ‘fair test’
-*   **Higher-order skills** – Including reasoning and problem solving
-
-A selected group of Secondary Two students took part in the assessment and obtained the following awards:
-
-|         Name         | Class |  Award  |
-|:--------------------:|:-----:|:-------:|
-| Soon Hao Ming Marcus |  2H2  |  Credit |
-|    Calyn Ngo Enqi    |  2H5  |  Credit |
-|   Xiao Yirui Seth    |  2H5  | Credit  |
-|   Aw Kang Xian Adam  |  2H6  |  Credit |
-|    Ryabchikov Gleb   |  2H7  |  Credit |
-|    Yang Shun Wen     |  2H7  |  Credit |
-|    See Han Yu Chloe  |  2H7  |   Merit |
-
-![](/images/DSC.jpg)
-
-##### 4.ignITE Challenge 2019
-
-The ignITE Skills Challenge is a national-level skills competition organised by the Institute of Technical Education, Singapore, with support from the Ministry of Education and Singapore Science Centre. This national competition is organised for ‘N’ Level students in Singapore. The aim is to excite secondary school students about the value of vocational and skills education.
-
-2 teams of students, led by their teachers, took part in 2 different challenges. Not only did they have fun through learning various skills during the workshops organised, they also had the opportunity to apply these skills to solve the problems posed to them during the challenges.
-
-The teams of students and teachers are:
-
-###### Team 1:
-Challenge: Mad Mocktail Strikes Again! (ITE College West, 18 April 2019)<br>
-Teachers i/c: Mr Marvin Lo, Mr Roger Goh
-
-|           Name           | Class |
-|:------------------------:|:-----:|
-|     SAJIB KUMAR DHALI    |  3I1B |
-| KOH JIP WEE (XU JINGWEI) |  3I1B |
-|      LEE CHONG WEI       |  3I4  |
-
-###### Team 2:
-Challenge: Drone Racer (ITE College East, 17 April 2019) <br>
-Teachers i/c: Mr Lim Tong Yang, Ms Michelle Ong
-
-|               Name               | Class |
-|:--------------------------------:|:-----:|
-|        LUM YIP HON, DERREN       |  3I2  |
-| DIMACALI WINONA BERNADINE PEREZ  |  3I4  |
-|        JESSIE LIM SHENG EN       |  3I4  |
-
-![](/images/drone%20racer.gif)
-
-
-
-
-
-
+Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
+We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
