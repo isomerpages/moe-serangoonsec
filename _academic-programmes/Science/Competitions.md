@@ -4,7 +4,7 @@ permalink: /academic-programmes/science/competitions/
 description: ""
 third_nav_title: Science
 ---
-##### Scientists-in-School (SiS) Programme 2022
+#### Scientists-in-School (SiS) Programme 2022
 
 Scientists-in-School (SiS) Programme is a programme jointly organised by the Agency for Science, Technology and Research (A*STAR) and Ministry of Education, Singapore (MOE). The programme aims to engage students in STEM research and activities, thereby extending their knowledge beyond the school curriculum and deepening the joyful learning of science. 
 
@@ -16,7 +16,7 @@ Here is a quote from Heng Song Wei of 3I8: “I got to learn many new things tha
 
 The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh of 3I8, “**"We must continuously keep learning and never give up."**”
 
-##### IgnITE Challenge 2022
+#### IgnITE Challenge 2022
 
 Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
 
@@ -261,7 +261,7 @@ We would like to affirm the efforts of all 21 students who participated in the I
   height:20.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:9.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">3I2</span></p></td></tr></tbody></table>
 
-##### Singapore Junior Physics Olympiad (SJPO) 2022
+#### Singapore Junior Physics Olympiad (SJPO) 2022
 
 In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
 
@@ -385,7 +385,7 @@ Well done to all the participants!
   color:black">Individual: Participation</span></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Team: Participation</span></p></td></tr></tbody></table>
 
-##### Singapore Junior Chemistry Olympiad (SJChO) 2022
+#### Singapore Junior Chemistry Olympiad (SJChO) 2022
 
 In Term 2 and 3 this year, a team of 10 Secondary 4 students took part in the Singapore Junior Chemistry Olympiad (SJChO). The SJChO is a competition for secondary school students, aimed at encouraging the study and appreciation of chemistry beyond the school curriculum. This annual competition provides a platform for students to challenge themselves in their chemical knowledge and skills.
 
@@ -518,7 +518,7 @@ We would like to affirm the efforts of all 10 students!
   height:20.1pt" valign="top" width="216"><p style="margin-bottom:0in;text-align:center" align="center" class="MsoNormal"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">CERTIFICATE OF PARTICIPATION</span></p></td></tr></tbody></table>
 
-##### ICAS Science Assessment 2022
+#### ICAS Science Assessment 2022
 
 In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
 
