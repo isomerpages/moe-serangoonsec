@@ -14,7 +14,9 @@ To further enrich students’ learning experience, students went on a learning j
 
 Here is a quote from Heng Song Wei of 3I8: “I got to learn many new things that we won't learn in normal school curriculum.” This shows how the programme has inspired a joy of learning in students beyond the classroom through Dr Liu’s engaging laboratory sessions and extensive knowledge in the applications of Materials Science. 
 
-The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh of 3I8, “**"We must continuously keep learning and never give up."**”
+The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh of 3I8, **"We must continuously keep learning and never give up."**
+
+<hr>
 
 #### IgnITE Challenge 2022
 
@@ -261,6 +263,8 @@ We would like to affirm the efforts of all 21 students who participated in the I
   height:20.0pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:9.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">3I2</span></p></td></tr></tbody></table>
 
+<hr>
+
 #### Singapore Junior Physics Olympiad (SJPO) 2022
 
 In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
@@ -384,6 +388,8 @@ Well done to all the participants!
   padding:0in 0in 0in 0in;height:20.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Individual: Participation</span></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Team: Participation</span></p></td></tr></tbody></table>
+
+<hr>
 
 #### Singapore Junior Chemistry Olympiad (SJChO) 2022
 
@@ -517,6 +523,8 @@ We would like to affirm the efforts of all 10 students!
   background:white;mso-background-themecolor:background1;padding:0in 0in 0in 0in;
   height:20.1pt" valign="top" width="216"><p style="margin-bottom:0in;text-align:center" align="center" class="MsoNormal"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">CERTIFICATE OF PARTICIPATION</span></p></td></tr></tbody></table>
+
+<hr>
 
 #### ICAS Science Assessment 2022
 
