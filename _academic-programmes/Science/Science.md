@@ -20,10 +20,9 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
 
+![](/images/science_page_graphic_1.png)
 
- 
-
-Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
+###### Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
  
 #### Science Department Teaching and Learning (T&amp;L) Framework
 
@@ -35,11 +34,7 @@ The department’s T&amp;L framework is guided by the school vision and school p
 
 * INnovate using Science. 
 
-
- 
-
-Source: Academy of Singapore Teachers (AST)
+ ![](/images/science_page_graphic_2.png)
+###### Source: Academy of Singapore Teachers (AST)
 
 #### 2022 Science Department Team
-
-
