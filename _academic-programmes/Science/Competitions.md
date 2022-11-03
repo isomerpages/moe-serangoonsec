@@ -19,4 +19,5 @@ The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh o
 ##### IgnITE Challenge 2022
 
 Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
+
 We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
