@@ -4,36 +4,48 @@ permalink: /academic-programmes/science/
 description: ""
 third_nav_title: Science
 ---
-### Science
+### Vision
 
-![](/images/diagram.jpg)
+Passionate, Proficient and Prepared for the future
 
-##### Vision
-Passionate, Proficient and Prepared for the future.
+### Mission
 
-##### Mission
-The Science department aims to ignite a passion for Science in every student and to nurture them to be future-ready, proficient and socially responsible citizens of character.
+To ignite a passion for Science in every Serangoon StaR and to nurture students to be future-ready, proficient and socially responsible citizens of character.
 
-##### 2021 Science Department Team
-![](/images/Science%20Dept%20Team%202021.jpg)
+### Science Curriculum
 
-##### Physics
-The O-Level Physics syllabus provides students with a coherent understanding of energy, matter, and their interrelationships. It focuses on investigating natural phenomena and then applying patterns, models (including mathematical ones), principles, theories and laws to explain the physical behaviour of the universe. The theories and concepts presented in this syllabus belong to a branch of physics commonly referred to as classical physics. Modern physics, developed to explain the quantum properties at the atomic and sub-atomic level, is built on knowledge of these classical theories and concepts.
+The curriculum goals of the department are referenced from the Science Curriculum Framework, where we aim to: 
 
-##### Chemistry
-The O-Level Chemistry syllabus is designed to place less emphasis on factual material and greater emphasis on the understanding and application of scientific concepts and principles. This approach has been adapted in recognition of the need for students to develop skills that will be of long term value in an increasingly technological world rather than focusing on large quantities of factual materials, which may have only short term relevance. The syllabus emphasises on:
+* enthuse and nurture all students to be scientifically literate, which can help them to make informed decisions and take responsible actions in their daily lives. 
 
-(i) the finite life of the world’s resources and hence the need for recycling and conservation,
+* provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
 
-(ii) economic considerations in the chemical industry, such as the availability and cost of raw materials and energy,
 
-(iii) the social, environmental, health and safety issues relating to the chemical industry and
+ 
 
-(iv) the importance of chemicals in industry and in everyday life
+Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
+ 
+#### Science Department Teaching and Learning (T&L) Framework
 
-##### Biology
-The O-Level Biology syllabus is designed to have less emphasis on factual material, but a much greater emphasis on the understanding and application of scientific concepts and principles. This approach has been adopted in recognition of the need for students to develop skills that will be of long-term value in an increasingly complex and globalised world, rather than focusing on large quantities of factual material, which may have only short-term relevance.
+The department’s T&L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
 
-##### Science curriculum
-![](/images/Science%20Students%202021.jpg)
+* be INspired by Science, 
+
+* INquire like Scientists, and 
+
+* INnovate using Science. 
+
+
+ 
+
+Source: Academy of Singapore Teachers (AST)
+
+#### 2022 Science Department Team
+
+
+
+
+
+
+
 
