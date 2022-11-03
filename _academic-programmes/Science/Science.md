@@ -138,5 +138,3 @@ The department’s T&amp;L framework is guided by the school vision and school p
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="352"><p style="line-height:115%" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG">Mdm Geetha</span></p></td></tr></tbody></table>
-
-
