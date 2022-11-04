@@ -7,9 +7,6 @@ third_nav_title: Science
 ### Secondary 1 Interdisciplinary Project Work
 
 
-
-
-
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
