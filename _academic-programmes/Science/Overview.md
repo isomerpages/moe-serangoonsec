@@ -4,7 +4,6 @@ permalink: /academic-programmes/science/
 description: ""
 third_nav_title: Science
 ---
-
 ### Vision
 
 Passionate, Proficient and Prepared for the future
@@ -62,8 +61,6 @@ The department’s T&amp;L framework is guided by the school vision and school p
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="352"><p style="line-height:115%" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG">Ms Fu Shin Hui</span></p></td></tr></tbody></table>
-
-<br>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:125.75pt;border:solid windowtext 1.0pt;
@@ -137,8 +134,6 @@ The department’s T&amp;L framework is guided by the school vision and school p
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="352"><p style="line-height:115%" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif" lang="EN-SG">Roger Goh</span></p></td></tr></tbody></table>
-
-<br>
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:125.75pt;border:solid windowtext 1.0pt;
