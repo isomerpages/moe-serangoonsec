@@ -4,8 +4,6 @@ permalink: /academic-programmes/Science/project-work/
 description: ""
 third_nav_title: Science
 ---
-
-
 ### Secondary 1 Interdisciplinary Project Work
 
 The Secondary 1 Interdisciplinary Project Work is an alternative assessment task which was designed and implemented as collaborative effort between the Humanities, Science and English Language departments
