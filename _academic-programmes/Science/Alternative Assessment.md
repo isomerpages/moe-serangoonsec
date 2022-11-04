@@ -4,6 +4,8 @@ permalink: /academic-programmes/Science/permalink/
 description: ""
 third_nav_title: Science
 ---
+#### Alternative Assessment
+
 ##### Chemistry
 
 In relation to what they have learnt on separation techniques and as part of their Alternative Assessment, our Secondary 3 Chemistry students experienced how forensic science is used to solve crimes. 
