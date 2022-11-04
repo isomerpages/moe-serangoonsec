@@ -4,9 +4,7 @@ permalink: /academic-programmes/Science/permalink/
 description: ""
 third_nav_title: Science
 ---
-#### Alternative Assessment
-
-##### Chemistry
+### Chemistry
 
 In relation to what they have learnt on separation techniques and as part of their Alternative Assessment, our Secondary 3 Chemistry students experienced how forensic science is used to solve crimes. 
 
@@ -16,7 +14,7 @@ By using authentic learning in the Alternative Assessment, the learning experien
 
 <hr>
 
-##### Physics
+### Physics
 
 <p>The Sec 3 Physics students were tasked to work together in groups to design and build a simple Rube Goldberg machine for their performance task. They also engaged in scientific research to align the design of their machine to scientific concepts from the Newtonian mechanics topics.</p>
 
