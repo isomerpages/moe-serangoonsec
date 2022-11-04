@@ -8,10 +8,9 @@ third_nav_title: Science
 
 **Rescuing Eating Accidents!**
 
-Just like many Singaporeans, many of us love to eat and some accidents will inevitably happen during our eating sprees! In relation to what they have learnt on biological molecules and as part of their Alternative Assessment, our Secondary 3 Biology students investigated on the effectiveness of 5 commonly used detergents in removing chilli oil, chocolate, tumeric, soy sauce and milk coffee stains on clothes.
+Just like many Singaporeans, many of us love to eat and some accidents will inevitably happen during our eating sprees! In relation to what they have learnt on biological molecules and as part of their Alternative Assessment, our Secondary 3 Biology students investigated on the effectiveness of 5 commonly used detergents in removing chilli oil, chocolate, turmeric, soy sauce and milk coffee stains on clothes.
 
 This is their maiden attempt at planning, designing and implementing a scientific investigation from scratch, culminating in the creation of a poster and a presentation in class. Our students found the experience authentic and would recommend the continuation of such an activity for their juniors! So which detergent is most effective in removing each type of food stain? Look for some of the answers in the posters below!
-
 
 <hr>
 
