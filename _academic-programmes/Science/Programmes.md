@@ -4,9 +4,7 @@ permalink: /academic-programmes/science/programmes/
 description: ""
 third_nav_title: Science
 ---
-### Programmes
-
-##### Science Garden Enrichment Programme 2022
+### Science Garden Enrichment Programme 2022
 
 **Context**
 
