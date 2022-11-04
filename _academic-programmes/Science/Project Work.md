@@ -15,3 +15,22 @@ It aims to integrate the application of inter-subject disciplinary knowledge and
 In this Project Work, the Secondary 1 students applied their knowledge of Separation Techniques, learnt in Science, to construct a water filtration system. They then applied their knowledge of water quality parameters to evaluate the effectiveness of their filtration systems. Their findings were&nbsp; then communicated through an oral presentation.
 
 Through this project work, students learnt important skills such as teamwork, data analysis and communication skills which will serve them well in the future.
+
+Click on the thumbnails below to view more photos:
+
+<style\>  
+img {  border: 1px solid #ddd; /\* Gray border \*/  
+  border-radius: 4px;  /\* Rounded border \*/  
+  padding: 5px; /\* Some padding \*/  
+  width: 150px; /\* Set a small width \*/}  
+  
+/\* Add a hover effect (blue shadow) \*/  
+img:hover {  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);}  
+</style\>  
+<body\>  
+  
+<a target\="\_blank" href\="![](/images/Sec%201%20Science%20Project%20Work/IPW1.jpg)"\>  
+  <img src\="![](/images/Sec%201%20Science%20Project%20Work/IPW1.jpg)" alt\="IPW1"\>  
+</a\>  
+  
+</body\>
