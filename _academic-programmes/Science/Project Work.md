@@ -6,9 +6,7 @@ third_nav_title: Science
 ---
 ### Secondary 1 Interdisciplinary Project Work
 
-![](/images/Sec%201%20Science%20Project%20Work/IPW5.jpg)
 
-[Click here to see more photos of our students in action!](https://photos.app.goo.gl/vRWatGV1Dvm3icLRA)
 
 The Secondary 1 Interdisciplinary Project Work is an alternative assessment task which was designed and implemented as collaborative effort between the Humanities, Science and English Language departments
 
