@@ -16,7 +16,7 @@ This is their maiden attempt at planning, designing and implementing a scientifi
 
 | Chocolate Poster | Milk Coffee Poster | Soy Sauce Poster | Chilli Oil Poster |
 | -------- | -------- | -------- | -------- |
-| Text     | [](/files/Science/2%20Milk%20Coffee%20Poster.pdf)     | [](/files/Science/3%20Soy%20Sauce%20Poster.pdf)     | [](/files/Science/4%20Chilli%20Oil%20Poster.pdf) 
+| [](/files/Science/1%20Chocolate%20Poster.pdf)     | [](/files/Science/2%20Milk%20Coffee%20Poster.pdf)     | [](/files/Science/3%20Soy%20Sauce%20Poster.pdf)     | [](/files/Science/4%20Chilli%20Oil%20Poster.pdf) 
 
 <hr>
 
