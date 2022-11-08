@@ -56,7 +56,6 @@ The department’s T&amp;L framework is guided by the school vision and school p
 
 **Subject Units**
 
-
 | Biology | Chemistry | Physics |
 | -------- | -------- | -------- |
 |Kok Chuan Tin|Yogeswari d/o Selvaraja|Caelyn Lim|
