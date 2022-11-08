@@ -67,9 +67,8 @@ The department’s T&amp;L framework is guided by the school vision and school p
 ||Tan Yong Khai|Roger Goh|
 ||Yan Tuck Poh||
 
+<br>
 
-
-||Technical Support Officers (TSOs)||
+|Technical Support Officers (TSOs)|||
 | -------- | -------- | -------- |
-|Mrs Guna||Mdm Geetha|
-
+|Mrs Guna|Mdm Geetha||
