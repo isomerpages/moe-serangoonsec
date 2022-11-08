@@ -5,7 +5,7 @@ description: ""
 ---
 ### Principal's Message
  
-<img src="![](/images/School%20Steering%20Committee/Tay%20Siok%20Hwa_v2.jpg)" style="width:183px;height:250px;margin-right:15px;" align = "Right">
+<img src="![](/images/School%20Steering%20Committee/Tay%20Siok%20Hwa.jpg)" style="width:180px;height:250px;margin-right:20px;" align = "Left">
 
 Serangoon Secondary School has a long and rich history of nurturing valuable members of our society. The school was founded in 1928 as Serangoon English School, and has produced a number of distinguished alumni, including a cabinet minister, senior civil servants, businessmen, and professionals.
 
