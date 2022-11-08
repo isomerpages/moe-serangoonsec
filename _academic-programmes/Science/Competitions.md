@@ -26,6 +26,23 @@ Ending the term on a celebratory note, the Science department is pleased to anno
 
 
 
+|![](/images/IgnITE%20Finals%202022/img_01.png)| ![](/images/IgnITE%20Finals%202022/img_02.png)| ![](/images/IgnITE%20Finals%202022/img_03.png)|
+| -------- | -------- | -------- |
+|![](/images/IgnITE%20Finals%202022/img_04.png)| ![](/images/IgnITE%20Finals%202022/img_05.png)| ![](/images/IgnITE%20Finals%202022/img_06.png)|
+
+
+
+|![](/images/IgnITE%20Finals%202022/img_07.png)| ![](/images/IgnITE%20Finals%202022/img_08.png)| ![](/images/IgnITE%20Finals%202022/img_09.png)|
+| -------- | -------- | -------- |
+|![](/images/IgnITE%20Finals%202022/img_10.png)| ![](/images/IgnITE%20Finals%202022/img_11.png)| ![](/images/IgnITE%20Finals%202022/img_12.png)|
+
+![](/images/IgnITE%20Finals%202022/img_13.png)
+
+
+
+
+
+
 We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="599" style="width:449.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
