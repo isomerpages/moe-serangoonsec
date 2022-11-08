@@ -5,7 +5,8 @@ description: ""
 ---
 ### Principal's Message
  
- ![](/images/page_banner_setup.png)        
+<img src="/images/School%20Steering%20Committee/Tay%20Siok%20Hwa\_v2.jpg" style="width:183px;height:250px;margin-right:15px;" align = "Right">
+
 Serangoon Secondary School has a long and rich history of nurturing valuable members of our society. The school was founded in 1928 as Serangoon English School, and has produced a number of distinguished alumni, including a cabinet minister, senior civil servants, businessmen, and professionals.
 
 As Serangoon Secondary’s 27th Principal, I work closely with all stakeholders to ensure that our students leave our school portals equipped with the knowledge, values, and skills needed to contribute to our society. The world we live in is fast-changing, interconnected, and highly demanding - knowledge which our students obtain in the classroom today may well be obsolete by the time they enter the workforce. It is therefore no longer sufficient to teach students; we must instead focus on teaching them to acquire knowledge. We recognise that students must be taught how to learn and to have the passion for learning. This can be accomplished by our Applied Learning Programme (ALP) and Learning for Life Programme (LLP), which all students participate in.
