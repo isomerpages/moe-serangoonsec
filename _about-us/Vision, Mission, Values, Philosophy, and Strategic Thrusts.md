@@ -6,14 +6,14 @@ description: ""
 ### Vision, Mission, Values, Philosophy, and Strategic Thrusts
 
 ##### School Vision
-Resilient Individuals  
-Passionate Learners  
-Active Contributors
+* Resilient Individuals  
+* Passionate Learners  
+* Active Contributors
 
 ##### School Mission
-Moulding Character
-Igniting Passion
-Building Community 
+* Moulding Character
+* Igniting Passion
+* Building Community 
 
 ##### School Values
 **S**elf-Directedness  
