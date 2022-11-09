@@ -10,7 +10,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -31,7 +31,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -52,7 +52,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -73,7 +73,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -94,7 +94,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -115,7 +115,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -135,7 +135,7 @@ img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  width: 50px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
