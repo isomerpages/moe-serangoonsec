@@ -3,9 +3,7 @@ title: Principal's Message
 permalink: /about-us/principalsmessage/
 description: ""
 ---
-### Principal's Message
- 
-
+![](/images/page_banner_setup.png)
 
 Serangoon Secondary School has a long and rich history of nurturing valuable members of our society. The school was founded in 1928 as Serangoon English School, and has produced a number of distinguished alumni, including a cabinet minister, senior civil servants, businessmen, and professionals.
 
