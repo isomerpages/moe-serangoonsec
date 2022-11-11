@@ -21,7 +21,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img src="/images/Sample%20Images/number1_tn.png">
+  <img src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -42,7 +42,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
+  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -63,7 +63,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
+  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -84,7 +84,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
+  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -105,10 +105,10 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
+  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
-
+<br>
 
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
