@@ -108,7 +108,7 @@ img:hover {
   <img src="/images/Sample%20Images/number5.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; float: left; margin-right: 0.5%">
 </a>
 
-<p style="clear: both;">
+<br>
 
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
