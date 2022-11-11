@@ -8,35 +8,35 @@ description: ""
 <table>
   <tr>
     <td><a target="_blank" href="/images/Sample%20Images/number1.png">
-<img src="/images/Sample%20Images/number1.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number1_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/Sample%20Images/number2.png">
-<img src="/images/Sample%20Images/number2.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number2_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/Sample%20Images/number3.png">
-<img src="/images/Sample%20Images/number3.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number3_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="/images/Sample%20Images/number4.png">
-<img src="/images/Sample%20Images/number4.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number4_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/Sample%20Images/number5.png">
-<img src="/images/Sample%20Images/number5.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number5_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/Sample%20Images/number6.png">
-<img src="/images/Sample%20Images/number6.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number6_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
  <tr>
     <td><a target="_blank" href="/images/Sample%20Images/number7.png">
-<img src="/images/Sample%20Images/number7.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number7_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/Sample%20Images/number1.png">
-<img src="/images/Sample%20Images/number1.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number1_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/Sample%20Images/number2.png">
-<img src="/images/Sample%20Images/number2.png" style="width:150px; height:100px; Float: Left">
+<img src="/images/Sample%20Images/number2_tn.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
 </table>
