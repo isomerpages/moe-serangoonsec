@@ -5,6 +5,113 @@ description: ""
 ---
 ### School History
 
+```
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 100px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="/images/Sample%20Images/number1.png">
+  <img src="/images/Sample%20Images/number1_tn.png" alt="Forest">
+</a>
+
+</body>
+
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 100px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="/images/Sample%20Images/number1.png">
+  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+</a>
+
+</body>
+
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 100px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="/images/Sample%20Images/number1.png">
+  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+</a>
+
+</body>
+
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 100px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="/images/Sample%20Images/number1.png">
+  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+</a>
+
+</body>
+
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 100px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
+
+<a target="_blank" href="/images/Sample%20Images/number1.png">
+  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+</a>
+
+</body>
+```
+
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
 In 1937, three more standards were added; with this, the school provided education up to Standard Eight (equivalent of present-day Secondary Three). The boys and girls who successfully completed Standard Eight went on to Raffles Institution and Raffles Girls’ School respectively, where they would sit for the School Certificate of Examinations (equivalent to the O-Level examinations today). Serangoon English School remained a feeder school until the eve of the Japanese Occupation of Singapore.
