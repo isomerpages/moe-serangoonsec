@@ -21,7 +21,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img src="/images/Sample%20Images/number1.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; float: left; margin-right: 0.5%">
+  <img src="/images/Sample%20Images/number1.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; align: left; margin-right: 0.5%">
 </a>
 
 
@@ -42,7 +42,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number2.png" target="_blank">
-    <img src="/images/Sample%20Images/number2.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; float: left; margin-right: 0.5%;">
+    <img src="/images/Sample%20Images/number2.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; align: left; margin-right: 0.5%;">
 </a>
 
 
@@ -63,7 +63,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number3.png" target="_blank">
-    <img src="/images/Sample%20Images/number3.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; float: left; margin-right: 0.5%">
+    <img src="/images/Sample%20Images/number3.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; align: left; margin-right: 0.5%">
 </a>
 
 
@@ -84,7 +84,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number4.png" target="_blank">
-  <img src="/images/Sample%20Images/number4.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; float: left; margin-right: 0.5%">
+  <img src="/images/Sample%20Images/number4.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; align: left; margin-right: 0.5%">
 </a>
 
 
@@ -105,7 +105,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number5.png" target="_blank">
-  <img src="/images/Sample%20Images/number5.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; float: left; margin-right: 0.5%">
+  <img src="/images/Sample%20Images/number5.png" style="width:200px; height:180px; border:0.5px solid Gainsboro; padding: 5px; align: left; margin-right: 0.5%">
 </a>
 
 <br>
