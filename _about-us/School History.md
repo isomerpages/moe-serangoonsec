@@ -4,7 +4,6 @@ permalink: /history/
 description: ""
 ---
 ```
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -107,43 +106,43 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number1.png" style="width:100%">
+  <img src="/images/Sample%20Images/number1.png" style="width:100%">
   <div class="text">This is Image No. 1</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number2.png" style="width:100%">
+  <img src="/images/Sample%20Images/number2.png" style="width:100%">
   <div class="text">This is Image No. 2</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number3.png" style="width:100%">
+  <img src="/images/Sample%20Images/number3.png" style="width:100%">
   <div class="text">This is Image No. 3</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number4.png" style="width:100%">
+  <img src="/images/Sample%20Images/number4.png" style="width:100%">
   <div class="text">This is Image No. 4</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number5.png" style="width:100%">
+  <img src="/images/Sample%20Images/number5.png" style="width:100%">
   <div class="text">This is Image No. 5</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number6.png" style="width:100%">
+  <img src="/images/Sample%20Images/number6.png" style="width:100%">
   <div class="text">This is Image No. 6</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">7 / 7</div>
-  <img src="C:\Users\s8510979j\Desktop\sample_pix\number7.png" style="width:100%">
+  <img src="/images/Sample%20Images/number7.png" style="width:100%">
   <div class="text">This is Image No. 7</div>
 </div>
 
