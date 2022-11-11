@@ -21,7 +21,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
+  <img src="/images/Sample%20Images/number1_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -41,8 +41,8 @@ img:hover {
 </style>
 
 
-<a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
+<a href="/images/Sample%20Images/number2.png" target="_blank">
+    <img src="/images/Sample%20Images/number2_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -62,8 +62,8 @@ img:hover {
 </style>
 
 
-<a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
+<a href="/images/Sample%20Images/number3.png" target="_blank">
+    <img src="/images/Sample%20Images/number3_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -83,8 +83,8 @@ img:hover {
 </style>
 
 
-<a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
+<a href="/images/Sample%20Images/number4.png" target="_blank">
+  <img src="/images/Sample%20Images/number4_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 
@@ -104,8 +104,8 @@ img:hover {
 </style>
 
 
-<a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img alt="Forest" src="/images/Mdm%20Tay%20Siok%20Hwa.jpg" style="width:190px; height:280px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
+<a href="/images/Sample%20Images/number5.png" target="_blank">
+  <img src="/images/Sample%20Images/number5_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 </a>
 
 <br>
