@@ -4,8 +4,7 @@ permalink: /school-identity/
 description: ""
 ---
 ### School Identity
- 
-<p><center>
+
 	
 ##### School Motto 
 
