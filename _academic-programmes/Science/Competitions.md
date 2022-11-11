@@ -70,10 +70,10 @@ Ending the term on a celebratory note, the Science department is pleased to anno
 </a></td>
   </tr>
 <tr>
+    <td></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_13.png">
 <img src="/images/IgnITE%20Finals%202022/img_13.png" style="width:150px; height:100px; Float: Left">
 </a></td>
-    <td></td>
     <td></td>
   </tr>
 </table>
