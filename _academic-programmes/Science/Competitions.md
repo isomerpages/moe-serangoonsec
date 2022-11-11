@@ -584,6 +584,8 @@ We would like to affirm the efforts of all 10 students!
 
 ### ICAS Science Assessment 2022
 
+
+
 In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
 
 We are proud to announce that out of the students who participated, 11 students were awarded a certificate of participation, 5 students were awarded a certificate of merit and 6 students were awarded a certificate of credit.
