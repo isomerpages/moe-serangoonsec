@@ -21,7 +21,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img src="/images/Sample%20Images/number1_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px">
+  <img src="/images/Sample%20Images/number1_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
 </a>
 
 
@@ -42,7 +42,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number2.png" target="_blank">
-    <img src="/images/Sample%20Images/number2_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px">
+    <img src="/images/Sample%20Images/number2_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
 </a>
 
 
@@ -63,7 +63,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number3.png" target="_blank">
-    <img src="/images/Sample%20Images/number3_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px">
+    <img src="/images/Sample%20Images/number3_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
 </a>
 
 
@@ -84,7 +84,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number4.png" target="_blank">
-  <img src="/images/Sample%20Images/number4_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px">
+  <img src="/images/Sample%20Images/number4_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
 </a>
 
 
@@ -105,10 +105,10 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number5.png" target="_blank">
-  <img src="/images/Sample%20Images/number5_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px">
+  <img src="/images/Sample%20Images/number5_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
 </a>
 
-<br>
+<p style="clear: both;">
 
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
