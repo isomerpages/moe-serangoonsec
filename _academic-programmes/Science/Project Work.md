@@ -14,7 +14,7 @@ The Secondary 1 Interdisciplinary Project Work is an alternative assessment task
 <table>
   <tr>
     <td><img src="/images/Sec%201%20Science%20Project%20Work/IPW2.jpg" style="width:300px; Float: Left"></td>
-    <td><img src="/images/Sec%201%20Science%20Project%20Work/IPW3.jpg" style="width:250px; height: 238px; Float: Left"></td>
+    <td><img src="/images/Sec%201%20Science%20Project%20Work/IPW3.jpg" style="width:250px; height: 400px; Float: Left"></td>
   </tr>
 </table>
 
