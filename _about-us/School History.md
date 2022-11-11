@@ -21,7 +21,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number1.png" target="_blank">
-  <img src="/images/Sample%20Images/number1_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
+  <img src="/images/Sample%20Images/number1.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 10%; margin-bottom: 0.5em">
 </a>
 
 
@@ -42,7 +42,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number2.png" target="_blank">
-    <img src="/images/Sample%20Images/number2_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
+    <img src="/images/Sample%20Images/number2.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 10%; margin-bottom: 0.5em">
 </a>
 
 
@@ -63,7 +63,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number3.png" target="_blank">
-    <img src="/images/Sample%20Images/number3_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
+    <img src="/images/Sample%20Images/number3.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 10%; margin-bottom: 0.5em">
 </a>
 
 
@@ -84,7 +84,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number4.png" target="_blank">
-  <img src="/images/Sample%20Images/number4_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
+  <img src="/images/Sample%20Images/number4.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 10%; margin-bottom: 0.5em">
 </a>
 
 
@@ -105,7 +105,7 @@ img:hover {
 
 
 <a href="/images/Sample%20Images/number5.png" target="_blank">
-  <img src="/images/Sample%20Images/number5_tn.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em">
+  <img src="/images/Sample%20Images/number5.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; float: left; width: 30%; margin-right: 10%; margin-bottom: 0.5em">
 </a>
 
 <p style="clear: both;">
