@@ -8,11 +8,10 @@ description: ""
 
 ##### School Motto 
 
-Seek to Grow, Strive to Excel, Serve with Honour
-
+<center>Seek to Grow, Strive to Excel, Serve with Honour</center>
 
 ##### School Song 
-We proudly sing about our school  
+<center>We proudly sing about our school  
 That shines among the rest.  
 With youthful vigour, youthful zest,  
 We'll make our school the best!  
@@ -32,12 +31,12 @@ Serangoon Secondary School!
 We will lift our voices and sing,  
 We will seek, we will strive,  
 We will serve with pride,  
-Honours to you!  
+Honours to you!</center>
   
 
 ### School Emblems
 
-<img src="/images/school_logo_tiny.png" style="width:185px;margin-left:20px;" align = "Center">
+<img src="/images/school_logo_tiny.png" style="width:185px;" align = "Center">
 
 ##### The School Logo
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
