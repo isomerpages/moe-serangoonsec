@@ -5,9 +5,9 @@ description: ""
 ---
 ### School History
 
-<img src="/images/Sample%20Images/number1.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/Sample%20Images/number1.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; Float: Left Margin-right: 1%">
 
-<img src="/images/Sample%20Images/number2.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/Sample%20Images/number2.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; Float: Left Margin-right: 1%">
 
 <br>
 
