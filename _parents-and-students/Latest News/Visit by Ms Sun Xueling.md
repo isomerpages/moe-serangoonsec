@@ -1,16 +1,16 @@
 ---
 title: Visit by Ms Sun Xueling
-permalink: /parents-and-students/Latest-News/visit-by-ms-sunxueling
+permalink: /parents-and-students/Latest-News/visit-by-ms-sunxueling/
 description: ""
 third_nav_title: Latest News
 ---
 ### Visit by Ms. Sun Xueling
 
 ##### Visit by Ms. Sun Xueling, Minister of State in the Ministry of Education and the Ministry of Social and Family Development
------------------------------------------------------
-On 18 February 2021, our school had the privilege of hosting a visit by Minister of State Ms. Sun Xueling.
 
 ![](/images/MOS_Visit_18%20Feb%2021_01.jpg)
+
+On 18 February 2021, our school had the privilege of hosting a visit by Minister of State Ms. Sun Xueling.
 
 As part of the visit, MOS Sun joined Secondary 2H5 for a CCE lesson on mental well-being, heard firsthand from our Peer Support Leaders on peer helping and peer influencing, and learned more from our Subject Head (Student Well-Being) and Senior School Counsellor on our school’s efforts to promote the mental well-being of our Serangoon StaRs.
 
