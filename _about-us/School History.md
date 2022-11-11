@@ -40,8 +40,6 @@ description: ""
 </a></td>
   </tr>
 </table>
-
-<p style="clear: both;">
 	
 <br>
 
