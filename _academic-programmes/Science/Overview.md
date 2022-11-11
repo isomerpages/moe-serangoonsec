@@ -24,7 +24,9 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
 
-![](/images/science_page_graphic_1.png)
+<a target="_blank" href="/images/science_page_graphic_1.png">
+<img src="/images/science_page_graphic_1.png" style="width:400px; border:0.5px solid Gainsboro; padding: 5px; Align: Center">
+</a>
 
 ###### Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
 
@@ -33,7 +35,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 #### Science Department Teaching and Learning (T&amp;L) Framework
 
-The department’s T&amp;L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
+The department’s T&L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
 
 * be INspired by Science, 
 
@@ -41,7 +43,10 @@ The department’s T&amp;L framework is guided by the school vision and school p
 
 * INnovate using Science. 
 
- ![](/images/science_page_graphic_2.png)
+<a target="_blank" href="/images/science_page_graphic_2.png">
+<img src="/images/science_page_graphic_2.png" style="width:400px; border:0.5px solid Gainsboro; padding: 5px; Align: Center">
+</a>
+
 ###### Source: Academy of Singapore Teachers (AST)
 
 <hr>
@@ -71,4 +76,3 @@ The department’s T&amp;L framework is guided by the school vision and school p
 |Technical Support Officers (TSOs)|||
 | -------- | -------- | -------- |
 |Mrs Guna|Mdm Geetha||
-
