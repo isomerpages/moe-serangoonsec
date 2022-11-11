@@ -5,13 +5,12 @@ description: ""
 ---
 ### School History
 
-```
 <style>
 img {
   border: 1px solid #ddd; /* Gray border */
   border-radius: 4px;  /* Rounded border */
   padding: 5px; /* Some padding */
-  width: 100px; /* Set a small width */
+  width: 30px; /* Set a small width */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -19,34 +18,13 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 </style>
-<body>
 
-<a target="_blank" href="/images/Sample%20Images/number1.png">
-  <img src="/images/Sample%20Images/number1_tn.png" alt="Forest">
+
+<a href="/images/Sample%20Images/number1.png" target="_blank">
+  <img src="/images/Sample%20Images/number1_tn.png">
 </a>
 
-</body>
 
-<style>
-img {
-  border: 1px solid #ddd; /* Gray border */
-  border-radius: 4px;  /* Rounded border */
-  padding: 5px; /* Some padding */
-  width: 100px; /* Set a small width */
-}
-
-/* Add a hover effect (blue shadow) */
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
-}
-</style>
-<body>
-
-<a target="_blank" href="/images/Sample%20Images/number1.png">
-  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
-</a>
-
-</body>
 
 <style>
 img {
@@ -61,13 +39,13 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 </style>
-<body>
 
-<a target="_blank" href="/images/Sample%20Images/number1.png">
-  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+
+<a href="/images/Sample%20Images/number1.png" target="_blank">
+  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
 </a>
 
-</body>
+
 
 <style>
 img {
@@ -82,13 +60,13 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 </style>
-<body>
 
-<a target="_blank" href="/images/Sample%20Images/number1.png">
-  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+
+<a href="/images/Sample%20Images/number1.png" target="_blank">
+  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
 </a>
 
-</body>
+
 
 <style>
 img {
@@ -103,14 +81,34 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 </style>
-<body>
 
-<a target="_blank" href="/images/Sample%20Images/number1.png">
-  <img src="/images/Sample%20Images/number1_tn.png" width: 50px alt="Forest">
+
+<a href="/images/Sample%20Images/number1.png" target="_blank">
+  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
 </a>
 
-</body>
-```
+
+
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 100px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+
+
+<a href="/images/Sample%20Images/number1.png" target="_blank">
+  <img alt="Forest" src="/images/Sample%20Images/number1_tn.png">
+</a>
+
+
 
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
