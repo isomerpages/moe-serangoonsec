@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Identity
  
-<center>
+<p><center>
 	
 ##### School Motto 
 
@@ -56,3 +56,5 @@ The zeal with which we pursue our mission is expressed in the symbols and colour
 **White** embodies everything that is pure and wholesome, particularly, purity in thought, word, and deed.  
   
 **Orange** represents strength - both in character and physique, integrity - strength and firmness of character, and endurance - the spirit of determination and the ability to persevere to the very end.
+	
+</center></p>
