@@ -16,11 +16,11 @@ description: ""
 * Building Community 
 
 ##### School Values
-**S**elf-Directedness  
-**H**armony  
-**I**ntegrity  
-Resilie**N**ce  
-**E**xcellence
+* **S**elf-Directedness  
+* **H**armony  
+* **I**ntegrity  
+* Resilie**N**ce  
+* **E**xcellence
 
 ##### School Philosophy
 Together, we empower every Serangoon StaR to SHINE, for the growth of self and the good of others.
