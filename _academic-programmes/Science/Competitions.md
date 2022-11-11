@@ -27,51 +27,51 @@ Ending the term on a celebratory note, the Science department is pleased to anno
 <table>
   <tr>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_01.png">
-<img src="/images/IgnITE%20Finals%202022/img_01.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_01.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_02.png">
-<img src="/images/IgnITE%20Finals%202022/img_02.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_02.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_03.png">
-<img src="/images/IgnITE%20Finals%202022/img_03.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_03.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_04.png">
-<img src="/images/IgnITE%20Finals%202022/img_04.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_04.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_05.png">
-<img src="/images/IgnITE%20Finals%202022/img_05.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_05.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_06.png">
-<img src="/images/IgnITE%20Finals%202022/img_06.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_06.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
  <tr>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_07.png">
-<img src="/images/IgnITE%20Finals%202022/img_07.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_07.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_08.png">
-<img src="/images/IgnITE%20Finals%202022/img_08.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_08.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_09.png">
-<img src="/images/IgnITE%20Finals%202022/img_09.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_09.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
 <tr>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_10.png">
-<img src="/images/IgnITE%20Finals%202022/img_10.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_10.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_11.png">
-<img src="/images/IgnITE%20Finals%202022/img_11.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_11.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_12.png">
-<img src="/images/IgnITE%20Finals%202022/img_12.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_12.png" style="width:150px; height:100px; Float: Left">
 </a></td>
   </tr>
 <tr>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_13.png">
-<img src="/images/IgnITE%20Finals%202022/img_13.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/IgnITE%20Finals%202022/img_13.png" style="width:150px; height:100px; Float: Left">
 </a></td>
     <td></td>
     <td></td>
