@@ -27,7 +27,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 <img src="/images/science_page_graphic_1.png" style="width:700px; border:0.5px solid Gainsboro; padding: 5px; Align: Center">
 
-<figcaption>Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</figcaption>
+<figcaption style="align: Center">Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</figcaption>
 
 
 
@@ -47,7 +47,7 @@ The department’s T&L framework is guided by the school vision and school philo
 
 <img src="/images/science_page_graphic_2.png" style="width:800px; border:0.5px solid Gainsboro; padding: 5px; Align: Center" >
 
-<figcaption>Source: Academy of Singapore Teachers (AST)</figcaption>
+<figcaption style="align: Center">Source: Academy of Singapore Teachers (AST); </figcaption>
 
 <hr>
 
