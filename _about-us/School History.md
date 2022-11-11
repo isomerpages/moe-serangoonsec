@@ -8,7 +8,6 @@ description: ""
 <img src="/images/Sample%20Images/number2.png" style="width:100px; height:80px; border:0.5px solid Gainsboro; padding: 5px; align: left">
 
 
-
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
 In 1937, three more standards were added; with this, the school provided education up to Standard Eight (equivalent of present-day Secondary Three). The boys and girls who successfully completed Standard Eight went on to Raffles Institution and Raffles Girls’ School respectively, where they would sit for the School Certificate of Examinations (equivalent to the O-Level examinations today). Serangoon English School remained a feeder school until the eve of the Japanese Occupation of Singapore.
