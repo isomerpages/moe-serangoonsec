@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Identity
 
-	
+
 ##### School Motto 
 
 Seek to Grow, Strive to Excel, Serve with Honour
