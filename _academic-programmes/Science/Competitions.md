@@ -24,24 +24,59 @@ The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh o
 
 Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
 
-
-
-|![](/images/IgnITE%20Finals%202022/img_01.png)| ![](/images/IgnITE%20Finals%202022/img_02.png)| ![](/images/IgnITE%20Finals%202022/img_03.png)|
-| -------- | -------- | -------- |
-|![](/images/IgnITE%20Finals%202022/img_04.png)| ![](/images/IgnITE%20Finals%202022/img_05.png)| ![](/images/IgnITE%20Finals%202022/img_06.png)|
-
-
-
-|![](/images/IgnITE%20Finals%202022/img_07.png)| ![](/images/IgnITE%20Finals%202022/img_08.png)| ![](/images/IgnITE%20Finals%202022/img_09.png)|
-| -------- | -------- | -------- |
-|![](/images/IgnITE%20Finals%202022/img_10.png)| ![](/images/IgnITE%20Finals%202022/img_11.png)| ![](/images/IgnITE%20Finals%202022/img_12.png)|
-
-![](/images/IgnITE%20Finals%202022/img_13.png)
-
-
-
-
-
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_01.png">
+<img src="/images/IgnITE%20Finals%202022/img_01.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_02.png">
+<img src="/images/IgnITE%20Finals%202022/img_02.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_03.png">
+<img src="/images/IgnITE%20Finals%202022/img_03.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_04.png">
+<img src="/images/IgnITE%20Finals%202022/img_04.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_05.png">
+<img src="/images/IgnITE%20Finals%202022/img_05.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_06.png">
+<img src="/images/IgnITE%20Finals%202022/img_06.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+  </tr>
+ <tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_07.png">
+<img src="/images/IgnITE%20Finals%202022/img_07.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_08.png">
+<img src="/images/IgnITE%20Finals%202022/img_08.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_09.png">
+<img src="/images/IgnITE%20Finals%202022/img_09.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+  </tr>
+<tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_10.png">
+<img src="/images/IgnITE%20Finals%202022/img_10.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_11.png">
+<img src="/images/IgnITE%20Finals%202022/img_11.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_12.png">
+<img src="/images/IgnITE%20Finals%202022/img_12.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+  </tr>
+<tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_13.png">
+<img src="/images/IgnITE%20Finals%202022/img_13.png" style="width:150px; height:100px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
 
