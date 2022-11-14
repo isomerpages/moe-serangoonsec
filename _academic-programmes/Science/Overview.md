@@ -45,7 +45,7 @@ The department’s T&L framework is guided by the school vision and school philo
 * INnovate using Science. 
 
 
-<img src="/images/science_page_graphic_2.png" style="width:700px; border:0.5px solid Gainsboro; padding: 5px; Align: Left" >
+<img src="/images/science_page_graphic_2.png" style="width:900px; border:0.5px solid Gainsboro; padding: 5px; Align: Left" >
 
 <figcaption>Source: Academy of Singapore Teachers (AST); </figcaption>
 
