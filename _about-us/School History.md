@@ -5,44 +5,6 @@ description: ""
 ---
 ### School History
 
-<table>
-  <tr>
-    <td><a target="_blank" href="/images/Sample%20Images/number1.png">
-<img src="/images/Sample%20Images/number1_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-    <td><a target="_blank" href="/images/Sample%20Images/number2.png">
-<img src="/images/Sample%20Images/number2_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-    <td><a target="_blank" href="/images/Sample%20Images/number3.png">
-<img src="/images/Sample%20Images/number3_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="/images/Sample%20Images/number4.png">
-<img src="/images/Sample%20Images/number4_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-    <td><a target="_blank" href="/images/Sample%20Images/number5.png">
-<img src="/images/Sample%20Images/number5_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-    <td><a target="_blank" href="/images/Sample%20Images/number6.png">
-<img src="/images/Sample%20Images/number6_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-  </tr>
- <tr>
-    <td><a target="_blank" href="/images/Sample%20Images/number7.png">
-<img src="/images/Sample%20Images/number7_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-    <td><a target="_blank" href="/images/Sample%20Images/number1.png">
-<img src="/images/Sample%20Images/number1_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-    <td><a target="_blank" href="/images/Sample%20Images/number2.png">
-<img src="/images/Sample%20Images/number2_tn.png" style="width:150px; height:100px; Float: Left">
-</a></td>
-  </tr>
-</table>
-	
-<br>
-
 Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building on Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution.
 
 In 1937, three more standards were added; with this, the school provided education up to Standard Eight (equivalent of present-day Secondary Three). The boys and girls who successfully completed Standard Eight went on to Raffles Institution and Raffles Girls’ School respectively, where they would sit for the School Certificate of Examinations (equivalent to the O-Level examinations today). Serangoon English School remained a feeder school until the eve of the Japanese Occupation of Singapore.
