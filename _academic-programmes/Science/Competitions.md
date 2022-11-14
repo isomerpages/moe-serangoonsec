@@ -149,6 +149,8 @@ We are proud to announce that out of the students who participated, Jesslyn Rich
 
 We would like to affirm the efforts of all 10 students!
 
+![](/images/SJChO%202022/sjcho_table.png)
+
 <hr>
 
 ### ICAS Science Assessment 2022
