@@ -53,11 +53,16 @@ The department’s T&L framework is guided by the school vision and school philo
 
 #### 2022 Science Department Team
 
-
-
-| HOD Science || SH Chemistry |
-| -------- | -------- | -------- |
-|Ms Michelle Ong||Ms Fu Shin Hui|
+<table>
+  <tr>
+    <td><b>HOD Science</b></td>
+    <td>Ms Michelle Ong</td>
+  </tr>
+ <tr>
+    <td><b>SH Chemistry</b></td>
+    <td>Ms Fu Shin Hui</td>
+  </tr>
+</table>
 
 **Subject Units**
 
