@@ -109,6 +109,20 @@ We would like to affirm the efforts of all 21 students who participated in the I
 
 ### Singapore Junior Physics Olympiad (SJPO) 2022
 
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/SJPO%202022/01.jpg">
+<img src="/images/SJPO%202022/01_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SJPO%202022/02.jpg">
+<img src="/images/SJPO%202022/02_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SJPO%202022/03.jpg">
+<img src="/images/SJPO%202022/03_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+</table>
+
 In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
 
 We are proud to announce that out of the students who participated, three students were awarded a certificate of participation in both the individual and team categories, six students were awarded an Honourable Mention in at least one category, while four students were awarded an Honourable Mention in both the team and individual categories.
