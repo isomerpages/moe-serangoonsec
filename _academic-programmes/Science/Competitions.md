@@ -16,7 +16,7 @@ Here is a quote from Heng Song Wei of 3I8: “I got to learn many new things tha
 
 The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh of 3I8, **"We must continuously keep learning and never give up."**
 
-Click on the thumbnails below to view images of the learning journey:
+**Click on the thumbnails below to view images of the learning journey:**
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ Click on the thumbnails below to view images of the learning journey:
 
 Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
 
-Click on the thumbnails below to view images of the Challenge:
+**Click on the thumbnails below to view images of the Challenge:**
 
 <table>
   <tr>
@@ -109,7 +109,11 @@ Click on the thumbnails below to view images of the Challenge:
 
 We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
 
-![](/images/IgnITE%20Finals%202022/ignite_table.png)
+<a target="_blank" href="/images/IgnITE%20Finals%202022/ignite_table.png">
+<img src="/images/IgnITE%20Finals%202022/ignite_table.png" style="width:300px">
+</a>
+
+<br>
 
 <hr>
 
@@ -117,13 +121,16 @@ We would like to affirm the efforts of all 21 students who participated in the I
 
 In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
 
-![](/images/SJPO%202022/sjpo_table.png)
+<a target="_blank" href="/images/SJPO%202022/sjpo_table.png">
+<img src="/images/SJPO%202022/sjpo_table.png" style="width:300px">
+</a>
+
 
 We are proud to announce that out of the students who participated, three students were awarded a certificate of participation in both the individual and team categories, six students were awarded an Honourable Mention in at least one category, while four students were awarded an Honourable Mention in both the team and individual categories.
 
 Well done to all the participants!
 
-Click on the thumbnails below to view images of the participants:
+**Click on the thumbnails below to view images of the participants:**
 
 <table>
   <tr>
@@ -149,7 +156,11 @@ We are proud to announce that out of the students who participated, Jesslyn Rich
 
 We would like to affirm the efforts of all 10 students!
 
-![](/images/SJChO%202022/sjcho_table.png)
+<a target="_blank" href="/images/SJChO%202022/sjcho_table.png">
+<img src="/images/SJChO%202022/sjcho_table.png" style="width:300px">
+</a>
+
+<br>
 
 <hr>
 
@@ -163,7 +174,7 @@ In addition, we have Lee David Aiden Tan from 2H8 who was awarded a certificate 
 
 Well done to all the participants!
 
-Click on the thumbnails below to view images of the participants:
+**Click on the thumbnails below to view images of the participants:**
 
 <table>
   <tr>
@@ -186,3 +197,7 @@ Click on the thumbnails below to view images of the participants:
 </a></td>
   </tr>
 </table>
+
+<a target="_blank" href="/images/ICAS%202022/icas_table.png">
+<img src="/images/ICAS%202022/icas_table.png" style="width:300px">
+</a>
