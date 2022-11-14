@@ -1,8 +1,9 @@
 ---
 title: Chinese Instrumental Ensemble
-permalink: /student-development/cca/chinese-instrumental-ensemble
+permalink: /student-development/cca/chinese-instrumental-ensemble/
 description: ""
 ---
+
 ### Chinese Instrumental Ensemble
 
 ![](/images/CE001.jpg)

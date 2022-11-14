@@ -1,12 +1,14 @@
 ---
 title: NEU PC Plus Programme
-permalink: /parents-and-students/General-Matters/neu-pc-plus-prog
+permalink: /parents-and-students/General-Matters/neu-pc-plus-prog/
 description: ""
 third_nav_title: General Matters
 ---
+
 ### NEU PC Plus Programme
 
 #### Home Access Programme
+
 Low-income Singaporean households with school-going children or households with MOE FAS / SPED FAS recipients who already have a Personal Learning Device (PLD) or computer, but do not have broadband at home and wish to **apply for broadband only** may apply for the IMDA’s **Home Access programme** which provides low income Singaporean families with 2 years of subsidised fibre broadband connectivity.
 
 Families with at least one family member who is an existing beneficiary of the following government assistance schemes are eligible for Auto Inclusion:
@@ -28,13 +30,11 @@ For enquiries on the IMDA’s Home Access Programme or the outcome of your Home 
 For Home Access via **online application:**
 <br>Apply [here](https://eservice.imda.gov.sg/das/homepage)
 
-The **main applicant must be above 21 years old** and required to:  
+The **main applicant must be above 21 years old** and required to:
 
 \- Login using **SingPass**
 
 \- Provide the Names (as per their NRIC), NRIC/birth certificate/FIN numbers and contact numbers of all family member staying at same address in online application
-
-  
 
 For Home Access via **hardcopy application:**
 
@@ -46,9 +46,8 @@ PSA Building Post Office P.O. Box 316 <br>
 Singapore 911141
 
 #### NEU PC Plus Programme
-The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price. 
 
-  
+The NEU PC Plus Programme offers low-income households with student or person with disabilities the opportunity to own a brand new computer at an affordable price.
 
 Under this programme, the **PC-Bundle scheme** provides a two-tier subsidy whereby successful applicants can own a PC-Bundle which includes:
 
@@ -64,11 +63,9 @@ Under this programme, the **PC-Bundle scheme** provides a two-tier subsidy whe
 
 ·       Warranty
 
-Students who do **not** already have a **Personal Learning Device (PLD)** or PC and wish to apply for the **PC-Bundle scheme** can download soft copies of the Form (see below) or pick up a copy of the application form from the school’s General Office. 
+Students who do **not** already have a **Personal Learning Device (PLD)** or PC and wish to apply for the **PC-Bundle scheme** can download soft copies of the Form (see below) or pick up a copy of the application form from the school’s General Office.
 
-  
 Please [click here](https://www.imda.gov.sg/neupc) for details on the NEU PC Plus Programme
-
 
 For enquiries on the NEU PC Plus Programme or the outcome of your PC-Bundle scheme application, please contact **IMDA** via email **NEUPC@imda.gov.sg** or call **63773800**.
 

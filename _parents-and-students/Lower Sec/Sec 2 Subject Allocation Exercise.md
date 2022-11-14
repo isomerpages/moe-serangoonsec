@@ -1,9 +1,10 @@
 ---
 title: Sec 2 Subject Allocation Exercise
-permalink: /parents-and-students/Lower-Sec/sec2-subject-allocation
+permalink: /parents-and-students/Lower-Sec/sec2-subject-allocation/
 description: ""
 third_nav_title: Lower Sec
 ---
+
 ### Sec 2 Subject Allocation Exercise
 
 Dear Parents/Guardians and Sec 2 StaRs,
@@ -14,7 +15,7 @@ Thank you for attending our Sec 2 Parent Webinar on ‘Upper Secondary Subject 
 
 Dear Parents/Guardians and Sec 2 StaRs,
 
-Thank you for attending our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria for 2023’ on 12 March 2022.  
+Thank you for attending our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria for 2023’ on 12 March 2022.
 
 Please refer to the following video for a recording of the Webinar:
 

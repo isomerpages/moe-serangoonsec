@@ -1,8 +1,9 @@
 ---
 title: Girl Guides
-permalink: /student-development/cca/girl-guides
+permalink: /student-development/cca/girl-guides/
 description: ""
 ---
+
 ### Girl Guides
 
 ![](/images/Girl%20Guide%201.jpg)

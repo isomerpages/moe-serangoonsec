@@ -1,14 +1,15 @@
 ---
 title: 2019 Overseas Learning Journey (OLJ) to Vietnam
-permalink: /parents-and-students/Latest-News/2019-OLV-Vietnam
+permalink: /parents-and-students/Latest-News/2019-OLV-Vietnam/
 description: ""
 third_nav_title: Latest News
 ---
+
 ### 2019 Overseas Learning Journey (OLJ) to Vietnam
 
 Cultural Immersion Programme <br>
 Ho Chi Minh City, Vietnam <br>
-8 November 2019 to 12 November 2019 
+8 November 2019 to 12 November 2019
 
 <img src="/images/OLG%20Vietnam.gif" 
      style="width:75%">
@@ -34,5 +35,5 @@ The trip was very fun, interesting and also educational. The most memorable even
 
 The trip was fun, the most memorable event was the Cu Ci tunnel because it was something that happened in the Vietnam war. The value I learned was harmony as we get to interact with some of the Vietnamese students by playing games with them. I would recommend the juniors to go for the trip as they would learn something new, and the differences between Singapore and Vietnam. The traffic in Vietnam it is more crowded than in Singapore. I previously thought that Vietnam was not really well developed but now I think that Vietnam is well developed. <br> - **Dannish 2H1B**
 
-During our trip to Vietnam, we get to know a lot about their culture such as their language, how they interact with each other, how is their living conditions and also get to know more about their food and their lifestyle through their actions. I feel that the things or the way they live makes Vietnam today. One thing that I can reflect on during our trip to Vietnam is that we must be grateful of the things that we eat and have in Singapore. We also cannot waste our food such as rice because in Vietnam, the farmers there takes 3 months to grow and harvest the rice from the plantation. Through this trip to Vietnam, I learned to be self-directed and honest because if we do a little mistake such as not paying attention to the teacher-in-charge, we will not be able to do things right at the right timing. In conclusion, we must respect each other by paying attention to the teacher who are handling us and to respect the culture in Vietnam. 
+During our trip to Vietnam, we get to know a lot about their culture such as their language, how they interact with each other, how is their living conditions and also get to know more about their food and their lifestyle through their actions. I feel that the things or the way they live makes Vietnam today. One thing that I can reflect on during our trip to Vietnam is that we must be grateful of the things that we eat and have in Singapore. We also cannot waste our food such as rice because in Vietnam, the farmers there takes 3 months to grow and harvest the rice from the plantation. Through this trip to Vietnam, I learned to be self-directed and honest because if we do a little mistake such as not paying attention to the teacher-in-charge, we will not be able to do things right at the right timing. In conclusion, we must respect each other by paying attention to the teacher who are handling us and to respect the culture in Vietnam.
 <br> - **Noorayuni 3I4**

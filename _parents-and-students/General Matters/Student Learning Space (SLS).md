@@ -1,9 +1,10 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /parents-and-students/General-Matters/student-learning-space
+permalink: /parents-and-students/General-Matters/student-learning-space/
 description: ""
 third_nav_title: General Matters
 ---
+
 ### Student Learning Space (SLS)
 
 ##### Sec 1 SLS Account Management - Guide for Sec 1 Students
@@ -29,11 +30,10 @@ Mondays - Fridays: 4:00 pm - 9:00 pm <br>
 Saturdays: 9:00 am - 9:00 pm <br>
 \*Closed on Sundays & Public Holidays
 
-Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.  
-  
-  
-**SLS Login Instructions and Self-help Tips for Students**  
-  
+Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of school and form class.
+
+**SLS Login Instructions and Self-help Tips for Students**
+
 Students can download and read the following pdf documents to resolve SLS login and password issues.
 
 [SLS Login Instructions and FAQs](/files/SLS%20Login%20Instructions%20and%20FAQs.pdf) <br>

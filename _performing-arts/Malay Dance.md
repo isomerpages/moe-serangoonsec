@@ -1,8 +1,9 @@
 ---
 title: Malay Dance
-permalink: /student-development/cca/malay-dance
+permalink: /student-development/cca/malay-dance/
 description: ""
 ---
+
 ### Malay Dance
 
 ![](/images/Malay%20Dance%201.jpg)

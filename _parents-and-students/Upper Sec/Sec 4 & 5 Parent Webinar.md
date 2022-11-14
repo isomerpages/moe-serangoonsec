@@ -1,9 +1,10 @@
 ---
 title: Sec 4 & 5 Parent Webinar
-permalink: /parents-and-students/Upper-Sec/sec4n5-webinar
+permalink: /parents-and-students/Upper-Sec/sec4n5-webinar/
 description: ""
 third_nav_title: Upper Sec
 ---
+
 ### Sec 4 & 5 Parent Webinar
 
 Dear Parents/Guardians,
@@ -15,12 +16,12 @@ The following slides contain useful information on how you can prepare your chil
 [03 Sec 4NA Sharing](/files/03%20Sec%204NA%20Sharing.pdf) <br>
 [04 Sec 4NT Sharing](/files/04%20Sec%204NT%20Sharing.pdf)
 
-On 12 March 2022 (Saturday), a Parent Engagement Webinar was held for parents of our Secondary 4 and 5 students.  
-  
+On 12 March 2022 (Saturday), a Parent Engagement Webinar was held for parents of our Secondary 4 and 5 students.
+
 Objectives of the webinar are:  
 (1) to provide information on the current educational landscape as well as the post-secondary pathways available,  
-(2) to partner parents in providing supervision and guidance to their child in preparation for the upcoming national examinations.  
-  
+(2) to partner parents in providing supervision and guidance to their child in preparation for the upcoming national examinations.
+
 Please refer to the videos below for the recording of the Secondary 4 and 5 Parent Webinar and breakout sessions.
 
 **4NA Breakout Session** <br>

@@ -1,8 +1,9 @@
 ---
 title: Basketball (Boys)
-permalink: /student-development/cca/basketball-boys
+permalink: /student-development/cca/basketball-boys/
 description: ""
 ---
+
 ### Basketball (Boys)
 
 ##### Serangoon Secondary School Basketball
@@ -10,9 +11,9 @@ description: ""
 ###### General Information
 
 | Teachers' In Charge | Mr Roger Goh Mr Wang Xiao Long Ms Charlene Lim Ms Chan Wei Meng Mr Andrew Kng |
-|---------------------|-------------------------------------------------------------------------------|
+| ------------------- | ----------------------------------------------------------------------------- |
 | Coach               | Mr Kelvin Liow @ coachkelsg                                                   |
-| Training Day        | Every Wednesday 3.00pm to 5.00pm  Every Friday 2.30pm to 4.30pm               |
+| Training Day        | Every Wednesday 3.00pm to 5.00pm Every Friday 2.30pm to 4.30pm                |
 | Training Venue      | School Indoor Sports Hall                                                     |
 
 ###### Our Training
@@ -41,14 +42,14 @@ description: ""
 ###### Students Achievements (Eagles Award)
 
 | Wee Jia Zhe Aden                   |
-|------------------------------------|
+| ---------------------------------- |
 | Lim Shi Kai                        |
 | Lau Xue Yu                         |
 | Muhammad Saafiuddi Bin Abdul Malek |
 | Muhammad Zulkifli Bin Abdullah     |
 | Roysius Ong Chee Xiang             |
 | Ngoo Juin Chieh Tristan            |
-|  Wang Junheng                      |
+| Wang Junheng                       |
 
 ###### Engaging Students’ Heart – Values In Action @ Jiaying Senior Activity Centre (Hougang Branch)
 

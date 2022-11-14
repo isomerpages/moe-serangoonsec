@@ -1,8 +1,9 @@
 ---
 title: Floorball (Boys & Girls)
-permalink: /student-development/cca/floorball
+permalink: /student-development/cca/floorball/
 description: ""
 ---
+
 ### Floorball (Boys & Girls)
 
 ![](/images/Floorball001.jpg)

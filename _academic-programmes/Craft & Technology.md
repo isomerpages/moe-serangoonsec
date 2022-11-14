@@ -1,23 +1,22 @@
 ---
 title: Craft & Technology
-permalink: /academic-programmes/craft-tech
+permalink: /academic-programmes/craft-tech/
 description: ""
 ---
+
 ### Craft & Technology
 
 ##### Our Team
 
 ![](/images/01_CraftnTechnology_Dept.jpg)
 
-The department comprises three subjects – Art, Design & Technology, and Nutrition & Food Science. We strive to equip our students with relevant knowledge and foster good values through our subjects, providing them with opportunities to nurture creativity and develop life skills in the process.  
-
-  
+The department comprises three subjects – Art, Design & Technology, and Nutrition & Food Science. We strive to equip our students with relevant knowledge and foster good values through our subjects, providing them with opportunities to nurture creativity and develop life skills in the process.
 
 A project-based approach is used for all three subjects to make learning authentic and fun for our students. This approach ensures a balance between creative processes and creation of products, providing opportunities for innovation and creative thinking as students explore different possibilities and alternative solutions. Values and life skills like perseverance, time-management and self-evaluation are also nurtured in the process.
 
 ![](/images/ct%20framework2.jpg)
 
-##### Our Vision  
+##### Our Vision
 
 Innovate and create with skills for life
 
@@ -27,13 +26,13 @@ In 2018, through the NAC-AMS scheme, the art unit came together to learn printma
 
 ![](/images/CraftnTech_Mission.jpg)
 
-#### Our Programmes  
+#### Our Programmes
 
 ###### Art Curriculum
 
-Art is about Perceiving, Communication and Appreciating. Our curriculum strives to expose students to a variety of art materials and techniques while a theme-based approach provides them the opportunity to make meaningful artworks that visually express their creative ideas and personal opinions. 
+Art is about Perceiving, Communication and Appreciating. Our curriculum strives to expose students to a variety of art materials and techniques while a theme-based approach provides them the opportunity to make meaningful artworks that visually express their creative ideas and personal opinions.
 
-In Lower Sec, students are taught painting, pencil illustration as well as sculpture-making skills, they deal with themes like ‘Fantasy Landscape’, ‘A Surreal Space’ and ‘Our Beautiful World’. Art appreciation is also integrated into lessons to expose students to artists’ works and to develop their visual literacy. 
+In Lower Sec, students are taught painting, pencil illustration as well as sculpture-making skills, they deal with themes like ‘Fantasy Landscape’, ‘A Surreal Space’ and ‘Our Beautiful World’. Art appreciation is also integrated into lessons to expose students to artists’ works and to develop their visual literacy.
 
 Students at Upper Sec embark on longer term projects. Apart from enhancing the skills they garnered in lower secondary, they are given opportunities to pick up other art forms like digital art, print-making and mixed-media illustration.
 
@@ -69,23 +68,15 @@ Spreading the message of healthy eating through their peers was an memorable exp
 
 To take learning out of the classrooms, facilitated learning journeys related to the three subjects are conducted throughout a student’s 4-5 years' stay in SSS. They include:
 
-*   Science Centre – D&T Awards  
-    
-*   Tertiary Institutions (NAFA, Nanyang Polytechnic)  
-    
-*   Singapore Art Museum  
-    
-*   National Gallery  
-    
-*   National Museum  
-    
-*   National Design Centre  
-    
-*   NTUC Supermarket Tour  
-    
-*   Hay Diary Milk Farm  
-    
-*   Farmart Edu Tour
+- Science Centre – D&T Awards
+- Tertiary Institutions (NAFA, Nanyang Polytechnic)
+- Singapore Art Museum
+- National Gallery
+- National Museum
+- National Design Centre
+- NTUC Supermarket Tour
+- Hay Diary Milk Farm
+- Farmart Edu Tour
 
 ![](/images/depts.gif)
 
@@ -93,12 +84,9 @@ To take learning out of the classrooms, facilitated learning journeys related to
 
 To stretch students with a keen interest in one of the subjects, we took part in the following competitions in 2017 and 2018.
 
-*   DT Awards (Cert of Participation)  
-    
-*   UOB Painting of the Year  
-    
-*   NYP-Swensen's Ice Cream Competition  (Cert of Participation)  
-    
-*   Design Competition on Neighbourliness by Punggol NPC
+- DT Awards (Cert of Participation)
+- UOB Painting of the Year
+- NYP-Swensen's Ice Cream Competition  (Cert of Participation)
+- Design Competition on Neighbourliness by Punggol NPC
 
 ![](/images/competition.jpg)

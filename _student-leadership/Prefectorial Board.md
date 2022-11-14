@@ -1,8 +1,9 @@
 ---
 title: Prefectorial Board
-permalink: /distinctive-programmes/llp/student-leadership/prefectorial-board
+permalink: /distinctive-programmes/llp/student-leadership/prefectorial-board/
 description: ""
 ---
+
 ### Prefectorial Board
 
 **Our Vision:**
@@ -22,18 +23,14 @@ For the progression of our school
 
 To mould character, ignite passion and build community
 
-  
+In Serangoon Secondary School, we seek to develop our prefects as:
 
-In Serangoon Secondary School, we seek to develop our prefects as:  
+- **Committed leaders**, who work for the good of others and the growth of self.
+- **Lifelong learners**, with a passionate heart to serve.
+- **United leaders**, who work together to achieve a common goal for the school.
+- **Willing individuals**, standing together for the good of the school.
 
-*   **Committed leaders**, who work for the good of others and the growth of self. 
-*   **Lifelong learners**, with a passionate heart to serve.
-*   **United leaders**, who work together to achieve a common goal for the school.
-*   **Willing individuals**, standing together for the good of the school.
-
-  
-
-Students who display strong leadership potential and contribute actively to the school and in the classroom in Secondary 1 are selected and invited to join the Prefectorial Board in Serangoon Secondary School as Trainee Prefects. They are nominated by their peers, teachers and school staff who interact with them on a daily basis.  
+Students who display strong leadership potential and contribute actively to the school and in the classroom in Secondary 1 are selected and invited to join the Prefectorial Board in Serangoon Secondary School as Trainee Prefects. They are nominated by their peers, teachers and school staff who interact with them on a daily basis.
 
 Trainee Prefects will be mentored by their seniors to prepare them for their future roles and responsibilities, and trainee prefects who have successfully completed their year of traineeship will be invested at the annual Student Leaders’ Investiture.
 
@@ -57,14 +54,10 @@ Back Row: Veer Paranjpye (3I9), Tan Yan Hao (3I9), Natasha Binte Rajak (3I5), Ch
 
 Our teachers guiding the Prefectorial Board are as follows:
 
-*   Mdm Goh Sze Wei
-*   Ms Moritza Lim
-*   Ms Ang Chian Huey  
-    
-*   Ms Ezyanti Siregar Lukman  
-    
-*   Ms Fong Jia Hui  
-    
-*   Mr Low Chee Lum Benjamin  
-    
-*   Mr Sin Kah Fai Denny
+- Mdm Goh Sze Wei
+- Ms Moritza Lim
+- Ms Ang Chian Huey
+- Ms Ezyanti Siregar Lukman
+- Ms Fong Jia Hui
+- Mr Low Chee Lum Benjamin
+- Mr Sin Kah Fai Denny

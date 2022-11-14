@@ -1,9 +1,10 @@
 ---
 title: Sec 2 Drones Programming
-permalink: /distinctive-programmes/stem/sec2-drone-programming
+permalink: /distinctive-programmes/stem/sec2-drone-programming/
 description: ""
 third_nav_title: STEM Applied Learning Prog ALP
 ---
+
 ### Sec 2 Drones Programming
 
 All Sec 2 EXP/NA/NT students learn basic block programming using a coding platform to get the drones to fly and overcome real life obstacles.
@@ -25,4 +26,5 @@ All Sec 2 EXP/NA/NT students learn basic block programming using a coding plat
 ![](/images/drones%20obstacle%20challenge%20gif.gif)
 
 ##### Flight Video
+
 [video not on youtube]

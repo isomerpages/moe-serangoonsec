@@ -1,14 +1,15 @@
 ---
 title: Sec 3 Academic Sharing on English, Mathematics, Science and CCAs & LEAPS
   2 System
-permalink: /parents-and-students/Upper-Sec/academic-sharing
+permalink: /parents-and-students/Upper-Sec/academic-sharing/
 description: ""
 third_nav_title: Upper Sec
 ---
+
 ### Sec 3 Academic Sharing on English, Mathematics and Science and CCAs &amp; LEAPS 2.0 System
 
-Dear Parents/Guardians,  
-  
+Dear Parents/Guardians,
+
 Thank you for your participation and support for the Sec 3 Parent Webinar on 28 May. Please find the recording and slides here, for your reference.
 
 [Sec 3 Parent Webinar Slides](/files/Sec%203%20Parent%20Webinar%20Slides.pdf)

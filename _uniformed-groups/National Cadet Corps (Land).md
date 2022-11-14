@@ -1,8 +1,9 @@
 ---
 title: National Cadet Corps (Land)
-permalink: /student-development/cca/NCC
+permalink: /student-development/cca/NCC/
 description: ""
 ---
+
 ### National Cadet Corps (Land)
 
 ![](/images/NCC001.jpg)
@@ -18,7 +19,7 @@ description: ""
 ##### Teachers In Charge
 
 | Ms Candice Lim   |
-|------------------|
+| ---------------- |
 | Mr Hidayat       |
 | Mr Ong Chee Meng |
 | Mr Goh Ling Pin  |

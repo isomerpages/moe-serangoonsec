@@ -1,8 +1,9 @@
 ---
 title: Concert Band
-permalink: /student-development/cca/concert-band
+permalink: /student-development/cca/concert-band/
 description: ""
 ---
+
 ### Concert Band
 
 ![](/images/Band001a.jpg)

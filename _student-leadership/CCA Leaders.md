@@ -1,8 +1,9 @@
 ---
 title: CCA Leaders
-permalink: /distinctive-programmes/llp/student-leadership/cca-leaders
+permalink: /distinctive-programmes/llp/student-leadership/cca-leaders/
 description: ""
 ---
+
 ### CCA Leaders
 
 Our CCA leaders work closely with the CCA teachers-in-charge and instructors/coaches in the planning and execution of the CCA programme. They work closely with members to achieve CCA-specific goals. They play an important role in upholding discipline and forge camaraderie amongst members.

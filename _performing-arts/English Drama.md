@@ -1,8 +1,9 @@
 ---
 title: English Drama
-permalink: /student-development/cca/english-drama
+permalink: /student-development/cca/english-drama/
 description: ""
 ---
+
 ### English Drama
 
 ![](/images/Drama001.jpg)

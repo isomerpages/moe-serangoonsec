@@ -1,8 +1,9 @@
 ---
 title: Football (Boys)
-permalink: /student-development/cca/football-boys
+permalink: /student-development/cca/football-boys/
 description: ""
 ---
+
 ### Football (Boys)
 
 ##### Handing over of captaincy 2021

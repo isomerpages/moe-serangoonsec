@@ -1,8 +1,9 @@
 ---
 title: Modern Dance
-permalink: /student-development/cca/modern-dance
+permalink: /student-development/cca/modern-dance/
 description: ""
 ---
+
 ### Modern Dance
 
 ![](/images/moderndance1.jpeg)

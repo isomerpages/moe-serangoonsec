@@ -1,8 +1,9 @@
 ---
 title: Choir
-permalink: /student-development/cca/choir
+permalink: /student-development/cca/choir/
 description: ""
 ---
+
 ### Choir
 
 ![](/images/Slide1.jpg)

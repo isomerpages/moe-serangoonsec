@@ -1,8 +1,9 @@
 ---
 title: Netball (Girls)
-permalink: /student-development/cca/netball-girls
+permalink: /student-development/cca/netball-girls/
 description: ""
 ---
+
 ### Netball (Girls)
 
 ![](/images/Netball001.jpg)

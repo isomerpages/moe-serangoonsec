@@ -1,9 +1,10 @@
 ---
 title: 2021 Sec 4 & 5 staRs Programme
-permalink: /parents-and-students/Latest-News/sec4n5-stars-prog
+permalink: /parents-and-students/Latest-News/sec4n5-stars-prog/
 description: ""
 third_nav_title: Latest News
 ---
+
 ### 2021 Sec 4 & 5 StaRs Programme
 
 ![](/images/sec4%20and%205%20stars%20programme.gif)

@@ -1,9 +1,10 @@
 ---
 title: 2021 GCE O Level Results
-permalink: /announcements/o-level-results
+permalink: /announcements/o-level-results/
 description: ""
 third_nav_title: Announcements
 ---
+
 ### 2021 GCE O-Level Results
 
 Dear parents,
@@ -16,7 +17,7 @@ For more resources on providing social and emotional support, affirming your tee
 
 For ECG counselling services, students may contact the ECG Counsellor in their schools or the ECG Centre @ MOE (Grange Road) for online or phone counselling appointments from 5 to 21 January 2022 via
 
-•       Email: [moe\_ecg@moe.gov.sg](mailto:moe_ecg@moe.gov.sg)
+•       Email: [moe_ecg@moe.gov.sg](mailto:moe_ecg@moe.gov.sg)
 
 •       Appointment booking form: [https://go.gov.sg/moe-ecg-centre](https://go.gov.sg/moe-ecg-centre)
 

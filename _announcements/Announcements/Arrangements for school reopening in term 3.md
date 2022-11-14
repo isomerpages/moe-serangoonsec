@@ -1,21 +1,22 @@
 ---
 title: Arrangements for school reopening in term 3
-permalink: /announcements/arrangements
+permalink: /announcements/arrangements/
 description: ""
 third_nav_title: Announcements
 ---
+
 ### MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students
 
 Dear Parents/Guardians,
 
 As Singapore moves into Phase 3 (Heightened Alert) with gradual easing of community Safe Management Measures (SMMs), the Ministry of Education (MOE) will progressively bring students back to school after the June holidays.
 
-To ease into full resumption of school when Term 3 starts on 28 June 2021, students from primary, secondary, JC and MI will return to school according to the following arrangements: 
+To ease into full resumption of school when Term 3 starts on 28 June 2021, students from primary, secondary, JC and MI will return to school according to the following arrangements:
 
-*  From Monday, 28 June 2021, Primary 4 to 6, Secondary 3 to 5, and all JC/MI students will return to school.
-*  Secondary 1 and 2 students will be on Home-Based Learning (HBL) till Wednesday, 30 June 2021, and will          return to school from Thursday, 1 July 2021.
-*  Primary 1 to 3 students will be on HBL for the first week (28 June to 2 July 2021), and schools will continue to       provide instructions and support for students to access online and hardcopy HBL materials.
-*  All levels of students will return to school from Tuesday, 6 July 2021 onwards. (Monday, 5 July 2021, is a school holiday).
+- From Monday, 28 June 2021, Primary 4 to 6, Secondary 3 to 5, and all JC/MI students will return to school.
+- Secondary 1 and 2 students will be on Home-Based Learning (HBL) till Wednesday, 30 June 2021, and will          return to school from Thursday, 1 July 2021.
+- Primary 1 to 3 students will be on HBL for the first week (28 June to 2 July 2021), and schools will continue to       provide instructions and support for students to access online and hardcopy HBL materials.
+- All levels of students will return to school from Tuesday, 6 July 2021 onwards. (Monday, 5 July 2021, is a school holiday).
 
 MOE Kindergartens and school-based Student Care Centres will resume fully from 28 June 2021 to facilitate care arrangements.
 

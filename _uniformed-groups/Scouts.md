@@ -1,8 +1,9 @@
 ---
 title: Scouts
-permalink: /student-development/cca/scouts
+permalink: /student-development/cca/scouts/
 description: ""
 ---
+
 ### Scouts
 
 ![](/images/scouts1.jpg)

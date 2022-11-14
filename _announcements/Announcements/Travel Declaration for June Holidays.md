@@ -1,10 +1,12 @@
 ---
 title: Travel Declaration for June Holidays
-permalink: /announcements/travel-declaration-mye-holiday
+permalink: /announcements/travel-declaration-mye-holiday/
 description: ""
 third_nav_title: Announcements
 ---
+
 ### Travel Declaration for June Holidays
+
 2021-05-14
 
 Dear Parent/Guardian,

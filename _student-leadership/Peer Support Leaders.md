@@ -1,8 +1,9 @@
 ---
 title: Peer Support Leaders
-permalink: /distinctive-programmes/llp/student-leadership/peer-support-leaders
+permalink: /distinctive-programmes/llp/student-leadership/peer-support-leaders/
 description: ""
 ---
+
 ### Peer Support Leaders
 
 Peer Support Leaders (PSLs) reside within the class but their influence extends beyond the classroom. They contribute to build a caring and enabling environment through:
