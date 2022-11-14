@@ -109,6 +109,8 @@ The department’s T&L framework is guided by the school vision and school philo
   </tr>
 </table>
 
+<br>
+
 <table>
  <tr>
     <td><b>Technical Support Officers</b></td>
