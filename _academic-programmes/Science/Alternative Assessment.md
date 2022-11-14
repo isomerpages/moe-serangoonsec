@@ -21,7 +21,7 @@ This is their maiden attempt at planning, designing and implementing a scientifi
   </tr>
   <tr>
     <td><a target="_blank" href="/files/Science/1%20Chocolate%20Poster.pdf">
-<img src="/images/Biology%20AA%202022/01.png" style="width:150px; height:89px">
+<img src="/images/Biology%20AA%202022/01.png" style="width:150px">
 </a></td>
     <td><a target="_blank" href="/files/Science/2%20Milk%20Coffee%20Poster.pdf">
 <img src="/images/Biology%20AA%202022/02.png" style="width:150px">
