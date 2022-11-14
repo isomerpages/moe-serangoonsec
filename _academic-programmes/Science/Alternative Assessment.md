@@ -14,10 +14,10 @@ This is their maiden attempt at planning, designing and implementing a scientifi
 
 <table>
   <tr>
-    <td>Chocolate Poster</td>
-    <td>Milk Coffee Poster</td>
-    <td>Soy Sauce Poster</td>
-   <td>Chilli Oil Poster</td>
+    <td><b>Chocolate Poster</b></td>
+    <td><b>Milk Coffee Poster</b></td>
+    <td><b>Soy Sauce Poster</b></td>
+   <td><b>Chilli Oil Poster</b></td>
   </tr>
   <tr>
     <td><a target="_blank" href="/files/Science/1%20Chocolate%20Poster.pdf">
