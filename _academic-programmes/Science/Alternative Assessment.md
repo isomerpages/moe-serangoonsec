@@ -81,6 +81,59 @@ By using authentic learning in the Alternative Assessment, the learning experien
 
 ### Physics
 
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/01.png">
+<img src="/images/Physics%20AA%202022/01_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/02.png">
+<img src="/images/Physics%20AA%202022/02_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/03.png">
+<img src="/images/Physics%20AA%202022/03_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/04.png">
+<img src="/images/Physics%20AA%202022/04_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/05.png">
+<img src="/images/Physics%20AA%202022/05_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/06.png">
+<img src="/images/Physics%20AA%202022/06_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+   <tr>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/07.png">
+<img src="/images/Physics%20AA%202022/07_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/08.png">
+<img src="/images/Physics%20AA%202022/08_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/09.png">
+<img src="/images/Physics%20AA%202022/09_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/10.png">
+<img src="/images/Physics%20AA%202022/04_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/11.png">
+<img src="/images/Physics%20AA%202022/05_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/Physics%20AA%202022/12.png">
+<img src="/images/Physics%20AA%202022/12_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+    <td></td>
+    <td><a target="_blank" href="/images/Chemistry%20AA%202022/13.png">
+<img src="/images/Chemistry%20AA%202022/13_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td></td>
+  </tr>
+</table>
+
 The Sec 3 Physics students were tasked to work together in groups to design and build a simple Rube Goldberg machine for their performance task. They also engaged in scientific research to align the design of their machine to scientific concepts from the Newtonian mechanics topics.
 
 This task has helped to provide opportunities for students to work collaboratively with others and enhance their content mastery and problem-solving skills.
