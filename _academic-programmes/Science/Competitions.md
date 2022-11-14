@@ -6,6 +6,31 @@ third_nav_title: Science
 ---
 ### Scientists-in-School (SiS) Programme 2022
 
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/SiS%202022/01.jpg">
+<img src="/images/SiS%202022/01_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/02.jpg">
+<img src="/images/SiS%202022/02_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/03.jpg">
+<img src="/images/SiS%202022/03_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/SiS%202022/04.jpg">
+<img src="/images/SiS%202022/04_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/05.jpg">
+<img src="/images/SiS%202022/05_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/06.jpg">
+<img src="/images/SiS%202022/06_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+</table>
+
 Scientists-in-School (SiS) Programme is a programme jointly organised by the Agency for Science, Technology and Research (A*STAR) and Ministry of Education, Singapore (MOE). The programme aims to engage students in STEM research and activities, thereby extending their knowledge beyond the school curriculum and deepening the joyful learning of science. 
 
 A group of enthusiastic Secondary 3 students with a keen interest in science have embarked on their journey as young scientists under the guidance of Dr Liu Huajun, a Materials Science scientist from A*STAR.
@@ -107,21 +132,21 @@ We would like to affirm the efforts of all 10 students!
 <table>
   <tr>
     <td><a target="_blank" href="/images/ICAS%202022/IMG_01_resized.png">
-<img src="/images/ICAS%202022/IMG_01_tn.png" style="width:150px; height:150px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/ICAS%202022/IMG_01_tn.png" style="width:150px; height:150px">
 </a></td>
     <td><a target="_blank" href="/images/ICAS%202022/IMG_02_resized.png">
-<img src="/images/ICAS%202022/IMG_02_tn.png" style="width:150px; height:150px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/ICAS%202022/IMG_02_tn.png" style="width:150px; height:150px">
 </a></td>
     <td><a target="_blank" href="/images/ICAS%202022/IMG_03_resized.png">
-<img src="/images/ICAS%202022/IMG_03_tn.png" style="width:150px; height:150px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/ICAS%202022/IMG_03_tn.png" style="width:150px; height:150px">
 </a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="/images/ICAS%202022/IMG_04_resized.png">
-<img src="/images/ICAS%202022/IMG_04_tn.png" style="width:150px; height:150px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/ICAS%202022/IMG_04_tn.png" style="width:150px; height:150px">
 </a></td>
     <td><a target="_blank" href="/images/ICAS%202022/IMG_05_resized.png">
-<img src="/images/ICAS%202022/IMG_05_tn.png" style="width:150px; height:150px; border:0.5px solid Gainsboro; padding: 5px; Float: Left">
+<img src="/images/ICAS%202022/IMG_05_tn.png" style="width:150px; height:150px">
 </a></td>
   </tr>
 </table>
