@@ -12,6 +12,29 @@ Just like many Singaporeans, many of us love to eat and some accidents will inev
 
 This is their maiden attempt at planning, designing and implementing a scientific investigation from scratch, culminating in the creation of a poster and a presentation in class. Our students found the experience authentic and would recommend the continuation of such an activity for their juniors! So which detergent is most effective in removing each type of food stain? Look for some of the answers in the posters below!
 
+<table>
+  <tr>
+    <td>Chocolate Poster</td>
+    <td>Milk Coffee Poster</td>
+    <td>Soy Sauce Poster</td>
+   <td>Chilli Oil Poster</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/files/Science/1%20Chocolate%20Poster.pdf">
+<img src="/images/Biology%20AA%202022/01.png" style="width:150px; height:89px">
+</a></td>
+    <td><a target="_blank" href="/files/Science/2%20Milk%20Coffee%20Poster.pdf">
+<img src="/images/Biology%20AA%202022/02.png" style="width:150px">
+</a></td>
+    <td><a target="_blank" href="/files/Science/3%20Soy%20Sauce%20Poster.pdf">
+<img src="/images/Biology%20AA%202022/03.png" style="width:150px">
+</a></td>
+   <td><a target="_blank" href="/files/Science/4%20Chilli%20Oil%20Poster.pdf">
+<img src="/images/Biology%20AA%202022/04.png" style="width:150px">
+</a></td>
+  </tr>
+</table>
+
 <hr>
 
 ### Chemistry
