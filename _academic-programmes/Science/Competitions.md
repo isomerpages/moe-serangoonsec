@@ -121,7 +121,7 @@ We are proud to announce that out of the students who participated, three studen
 
 Well done to all the participants!
 
-Click on the thumbnails below to view images of the Olympiad:
+Click on the thumbnails below to view images of the participants:
 
 <table>
   <tr>
@@ -151,6 +151,16 @@ We would like to affirm the efforts of all 10 students!
 
 ### ICAS Science Assessment 2022
 
+In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
+
+We are proud to announce that out of the students who participated, 11 students were awarded a certificate of participation, 5 students were awarded a certificate of merit and 6 students were awarded a certificate of credit.
+
+In addition, we have Lee David Aiden Tan from 2H8 who was awarded a certificate of distinction, and Tristan Yew Kit from 2H5, who was awarded a certificate of high distinction.
+
+Well done to all the participants!
+
+Click on the thumbnails below to view images of the participants:
+
 <table>
   <tr>
     <td><a target="_blank" href="/images/ICAS%202022/IMG_01_resized.png">
@@ -172,11 +182,3 @@ We would like to affirm the efforts of all 10 students!
 </a></td>
   </tr>
 </table>
-
-In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
-
-We are proud to announce that out of the students who participated, 11 students were awarded a certificate of participation, 5 students were awarded a certificate of merit and 6 students were awarded a certificate of credit.
-
-In addition, we have Lee David Aiden Tan from 2H8 who was awarded a certificate of distinction, and Tristan Yew Kit from 2H5, who was awarded a certificate of high distinction.
-
-Well done to all the participants!
