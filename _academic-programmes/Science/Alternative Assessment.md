@@ -41,10 +41,10 @@ This is their maiden attempt at planning, designing and implementing a scientifi
 
 <table>
   <tr>
-    <td><a target="_blank" href="/images/Chemistry%20AA%202022/01.jpg">
+    <td><a target="_blank" href="/images/Chemistry%20AA%202022/01.jpeg">
 <img src="/images/Chemistry%20AA%202022/01_tn.png" style="width:150px; height:150px">
 </a></td>
-    <td><a target="_blank" href="/images/Chemistry%20AA%202022/02.jpg">
+    <td><a target="_blank" href="/images/Chemistry%20AA%202022/02.jpeg">
 <img src="/images/Chemistry%20AA%202022/02_tn.png" style="width:150px; height:150px">
 </a></td>
     <td><a target="_blank" href="/images/Chemistry%20AA%202022/03.jpg">
