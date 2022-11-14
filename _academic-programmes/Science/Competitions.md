@@ -168,6 +168,10 @@ We would like to affirm the efforts of all 10 students!
 
 In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
 
+<a target="_blank" href="/images/ICAS%202022/icas_table.png">
+<img src="/images/ICAS%202022/icas_table.png" style="width:300px">
+</a>
+
 We are proud to announce that out of the students who participated, 11 students were awarded a certificate of participation, 5 students were awarded a certificate of merit and 6 students were awarded a certificate of credit.
 
 In addition, we have Lee David Aiden Tan from 2H8 who was awarded a certificate of distinction, and Tristan Yew Kit from 2H5, who was awarded a certificate of high distinction.
@@ -197,7 +201,3 @@ Well done to all the participants!
 </a></td>
   </tr>
 </table>
-
-<a target="_blank" href="/images/ICAS%202022/icas_table.png">
-<img src="/images/ICAS%202022/icas_table.png" style="width:300px">
-</a>
