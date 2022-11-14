@@ -110,10 +110,8 @@ Ending the term on a celebratory note, the Science department is pleased to anno
 We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
 
 <a target="_blank" href="/images/IgnITE%20Finals%202022/ignite_table.png">
-<img src="/images/IgnITE%20Finals%202022/ignite_table.png" style="width:300px">
+<img src="/images/IgnITE%20Finals%202022/ignite_table.png" style="width:500px">
 </a>
-
-<br>
 
 <hr>
 
@@ -122,7 +120,7 @@ We would like to affirm the efforts of all 21 students who participated in the I
 In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
 
 <a target="_blank" href="/images/SJPO%202022/sjpo_table.png">
-<img src="/images/SJPO%202022/sjpo_table.png" style="width:300px">
+<img src="/images/SJPO%202022/sjpo_table.png" style="width:500px">
 </a>
 
 
@@ -157,10 +155,8 @@ We are proud to announce that out of the students who participated, Jesslyn Rich
 We would like to affirm the efforts of all 10 students!
 
 <a target="_blank" href="/images/SJChO%202022/sjcho_table.png">
-<img src="/images/SJChO%202022/sjcho_table.png" style="width:300px">
+<img src="/images/SJChO%202022/sjcho_table.png" style="width:500px">
 </a>
-
-<br>
 
 <hr>
 
@@ -169,7 +165,7 @@ We would like to affirm the efforts of all 10 students!
 In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
 
 <a target="_blank" href="/images/ICAS%202022/icas_table.png">
-<img src="/images/ICAS%202022/icas_table.png" style="width:300px">
+<img src="/images/ICAS%202022/icas_table.png" style="width:500px">
 </a>
 
 We are proud to announce that out of the students who participated, 11 students were awarded a certificate of participation, 5 students were awarded a certificate of merit and 6 students were awarded a certificate of credit.
