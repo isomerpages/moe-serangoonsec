@@ -101,15 +101,15 @@ By using authentic learning in the Alternative Assessment, the learning experien
 <img src="/images/Physics%20AA%202022/05_tn.png" style="width:150px; height:150px">
 </a></td>
     <td><a target="_blank" href="/images/Physics%20AA%202022/06.png">
-<img src="/images/Physics%20AA%202022/06_tn.png" style="width:150px; height:150px">
+<img src="/images/Physics%20AA%202022/06_tn.png" style="width:150px; height:150px; border:0.5px solid gray">
 </a></td>
   </tr>
    <tr>
     <td><a target="_blank" href="/images/Physics%20AA%202022/07.png">
-<img src="/images/Physics%20AA%202022/07_tn.png" style="width:150px; height:150px">
+<img src="/images/Physics%20AA%202022/07_tn.png" style="width:150px; height:150px; border:0.5px solid gray">
 </a></td>
     <td><a target="_blank" href="/images/Physics%20AA%202022/08.png">
-<img src="/images/Physics%20AA%202022/08_tn.png" style="width:150px; height:150px">
+<img src="/images/Physics%20AA%202022/08_tn.png" style="width:150px; height:150px; border:0.5px solid gray">
 </a></td>
     <td><a target="_blank" href="/images/Physics%20AA%202022/09.png">
 <img src="/images/Physics%20AA%202022/09_tn.png" style="width:150px; height:150px">
@@ -123,7 +123,7 @@ By using authentic learning in the Alternative Assessment, the learning experien
 <img src="/images/Physics%20AA%202022/05_tn.png" style="width:150px; height:150px">
 </a></td>
     <td><a target="_blank" href="/images/Physics%20AA%202022/12.png">
-<img src="/images/Physics%20AA%202022/12_tn.png" style="width:150px; height:150px">
+<img src="/images/Physics%20AA%202022/12_tn.png" style="width:150px; height:150px; border:0.5px solid gray">
 </a></td>
   </tr>
 	<tr>
