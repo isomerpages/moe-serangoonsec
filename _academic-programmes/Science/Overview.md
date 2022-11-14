@@ -64,20 +64,58 @@ The department’s T&L framework is guided by the school vision and school philo
   </tr>
 </table>
 
-**Subject Units**
+##### Subject Units
 
-| Biology | Chemistry | Physics |
-| -------- | -------- | -------- |
-|Kok Chuan Tin|Yogeswari d/o Selvaraja|Caelyn Lim|
-|Ng Siew Kheng|Ang Chian Huey|Lim Tong Yang|
-|Peh Su Fang|Chong Jiaqi, Joey|Lim Zhou Yu, Jarrod|
-|Sin Ka Fai Denny|Fong Jia Hui|Ong Chee Meng|
-||Tan Boon Hwee|Quek Hoon Lui Bel|
-||Tan Yong Khai|Roger Goh|
-||Yan Tuck Poh||
+<table>
+ <tr>
+    <td><b>Biology</b></td>
+    <td><b>Chemistry</b></td>
+    <td><b>Physics</b></td>
+  </tr>
+ <tr>
+    <td>Kok Chuan Tin</td>
+    <td>Yogeswari d/o Selvaraja</td>
+    <td>Caelyn Lim</td>
+  </tr>
+<tr>
+    <td>Ng Siew Kheng</td>
+    <td>Ang Chian Huey</td>
+    <td>Lim Tong Yang</td>
+  </tr>
+<tr>
+    <td>Peh Su Fang</td>
+    <td>Chong Jiaqi, Joey</td>
+    <td>Lim Zhou Yu, Jarrod</td>
+  </tr>
+<tr>
+    <td>Sin Ka Fai Denny</td>
+    <td>Fong Jia Hui</td>
+    <td>Ong Chee Meng</td>
+  </tr>
+<tr>
+    <td></td>
+    <td>Tan Boon Hwee</td>
+    <td>Quek Hoon Lui Bel</td>
+  </tr>
+<tr>
+    <td></td>
+    <td>Tan Yong Khai</td>
+    <td>Roger Goh</td>
+  </tr>
+<tr>
+    <td></td>
+    <td>Yan Tuck Poh</td>
+    <td></td>
+  </tr>
+</table>
 
-<br>
-
-|Technical Support Officers (TSOs)|||
-| -------- | -------- | -------- |
-|Mrs Guna|Mdm Geetha||
+<table>
+ <tr>
+    <td><b>Technical Support Officers</b></td>
+    <td>Mrs Guna</td>
+  </tr>
+ <tr>
+	 <td><b>(TSOs)</b></td>
+    <td>Mdm Geetha</td>
+  </tr>
+</table>
