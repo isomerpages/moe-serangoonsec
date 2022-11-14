@@ -127,8 +127,8 @@ By using authentic learning in the Alternative Assessment, the learning experien
 </a></td>
   </tr>
     <td></td>
-    <td><a target="_blank" href="/images/Chemistry%20AA%202022/13.png">
-<img src="/images/Chemistry%20AA%202022/13_tn.png" style="width:150px; height:150px">
+    <td><a target="_blank" href="/images/Physics%20AA%202022/13.png">
+<img src="/images/Physics%20AA%202022/13_tn.png" style="width:150px; height:150px">
 </a></td>
     <td></td>
   </tr>
