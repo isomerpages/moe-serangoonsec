@@ -109,7 +109,7 @@ Click on the thumbnails below to view images of the Challenge:
 
 We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
 
-
+![](/images/IgnITE%20Finals%202022/ignite_table.png)
 
 <hr>
 
