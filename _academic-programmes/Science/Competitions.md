@@ -51,6 +51,8 @@ Click on the thumbnails below to view images of the learning journey:
 
 Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
 
+Click on the thumbnails below to view images of the Challenge:
+
 <table>
   <tr>
     <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_01.png">
@@ -111,6 +113,14 @@ We would like to affirm the efforts of all 21 students who participated in the I
 
 ### Singapore Junior Physics Olympiad (SJPO) 2022
 
+In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
+
+We are proud to announce that out of the students who participated, three students were awarded a certificate of participation in both the individual and team categories, six students were awarded an Honourable Mention in at least one category, while four students were awarded an Honourable Mention in both the team and individual categories.
+
+Well done to all the participants!
+
+Click on the thumbnails below to view images of the Olympiad:
+
 <table>
   <tr>
     <td><a target="_blank" href="/images/SJPO%202022/01.jpg">
@@ -124,12 +134,6 @@ We would like to affirm the efforts of all 21 students who participated in the I
 </a></td>
   </tr>
 </table>
-
-In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
-
-We are proud to announce that out of the students who participated, three students were awarded a certificate of participation in both the individual and team categories, six students were awarded an Honourable Mention in at least one category, while four students were awarded an Honourable Mention in both the team and individual categories.
-
-Well done to all the participants!
 
 <hr>
 
