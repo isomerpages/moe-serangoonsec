@@ -10,7 +10,9 @@ third_nav_title: Science
 
 Just like many Singaporeans, many of us love to eat and some accidents will inevitably happen during our eating sprees! In relation to what they have learnt on biological molecules and as part of their Alternative Assessment, our Secondary 3 Biology students investigated on the effectiveness of 5 commonly used detergents in removing chilli oil, chocolate, turmeric, soy sauce and milk coffee stains on clothes.
 
-This is their maiden attempt at planning, designing and implementing a scientific investigation from scratch, culminating in the creation of a poster and a presentation in class. Our students found the experience authentic and would recommend the continuation of such an activity for their juniors! So which detergent is most effective in removing each type of food stain? Look for some of the answers in the posters below!
+This is their maiden attempt at planning, designing and implementing a scientific investigation from scratch, culminating in the creation of a poster and a presentation in class. Our students found the experience authentic and would recommend the continuation of such an activity for their juniors! So which detergent is most effective in removing each type of food stain? 
+
+**Look for some of the answers in the posters below!**
 
 <table>
   <tr>
@@ -45,7 +47,7 @@ The lessons and assessment was designed based on e-pedagogy. In groups, students
 
 By using authentic learning in the Alternative Assessment, the learning experience of students was enhanced as they were intrinsically motivated to learn and apply what they have learnt.
 
-Click on the thumbnails below to see our students in action!
+**Click on the thumbnails below to see our students in action!**
 
 <table>
   <tr>
@@ -87,7 +89,7 @@ The Sec 3 Physics students were tasked to work together in groups to design and 
 
 This task has helped to provide opportunities for students to work collaboratively with others and enhance their content mastery and problem-solving skills.
 
-Click on the thumbnails below to see our students' work!
+**Click on the thumbnails below to see our students' work!**
 
 <table>
   <tr>
