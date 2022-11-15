@@ -46,7 +46,7 @@ description: ""
   </tr>
 </table>
 
-<br>
+<hr>
 
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-3 students in 2022
 
