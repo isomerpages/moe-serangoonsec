@@ -46,6 +46,8 @@ description: ""
   </tr>
 </table>
 
+<br>
+
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-3 students in 2022
 
 <table>
@@ -119,6 +121,8 @@ description: ""
 </td>
   </tr>
 </table>
+	
+<br>
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 4-5 students in 2022
 
