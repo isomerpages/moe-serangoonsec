@@ -1,0 +1,199 @@
+---
+title: Competitions
+permalink: /academic-programmes/science/competitions/
+description: ""
+third_nav_title: Science
+---
+### Scientists-in-School (SiS) Programme 2022
+
+Scientists-in-School (SiS) Programme is a programme jointly organised by the Agency for Science, Technology and Research (A*STAR) and Ministry of Education, Singapore (MOE). The programme aims to engage students in STEM research and activities, thereby extending their knowledge beyond the school curriculum and deepening the joyful learning of science. 
+
+A group of enthusiastic Secondary 3 students with a keen interest in science have embarked on their journey as young scientists under the guidance of Dr Liu Huajun, a Materials Science scientist from A*STAR.
+
+To further enrich students’ learning experience, students went on a learning journey to ASTAR’s Institute of Materials Research and Engineering on 25 August 2022. They visited the cleanrooms where the silicon wafers are fabricated and are introduced to various machines used in the manufacturing of semiconductors. They even experienced the wearing of cleanroom-approved apparel over their school uniforms and witnessed the scientists at work. 
+
+Here is a quote from Heng Song Wei of 3I8: “I got to learn many new things that we won't learn in normal school curriculum.” This shows how the programme has inspired a joy of learning in students beyond the classroom through Dr Liu’s engaging laboratory sessions and extensive knowledge in the applications of Materials Science. 
+
+The most valuable lesson for our Serangoon StaRs is aptly summed by Ausdin Toh of 3I8, **"We must continuously keep learning and never give up."**
+
+**Click on the thumbnails below to view images of the learning journey:**
+
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/SiS%202022/01.jpg">
+<img src="/images/SiS%202022/01_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/02.jpg">
+<img src="/images/SiS%202022/02_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/03.jpg">
+<img src="/images/SiS%202022/03_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/SiS%202022/04.jpg">
+<img src="/images/SiS%202022/04_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/05.jpg">
+<img src="/images/SiS%202022/05_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SiS%202022/06.jpg">
+<img src="/images/SiS%202022/06_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+</table>
+
+<hr>
+
+### IgnITE Challenge 2022
+
+![](/images/IgnITE%20Finals%202022/ignITE%20Finals%202022.png)
+
+Ending the term on a celebratory note, the Science department is pleased to announce the result of the IgnITE Challenge 2022, that is organised by the Institute of Technical Education (ITE).  The IgnITE Skills Challenge is an annual competition that introduces students to technical skills and fosters a deeper understanding of courses offered by ITE. Out of the 7 teams from our school, two teams from 3I3 and 3I4  qualified for the Finals round of the Artificial Intelligence(AI) Car and Mad Mocktail Challenges respectively. We are proud to share that the team from 3I3 had been awarded the Silver medal for designing and programming the fastest and most accurate car in the AI Car Challenge. 
+
+**Click on the thumbnails below to view images of the Challenge:**
+
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_01.png">
+<img src="/images/IgnITE%20Finals%202022/img_01_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_02.png">
+<img src="/images/IgnITE%20Finals%202022/img_02_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_03.png">
+<img src="/images/IgnITE%20Finals%202022/img_03_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_04.png">
+<img src="/images/IgnITE%20Finals%202022/img_04_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_05.png">
+<img src="/images/IgnITE%20Finals%202022/img_05_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_06.png">
+<img src="/images/IgnITE%20Finals%202022/img_06_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+  </tr>
+ <tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_07.png">
+<img src="/images/IgnITE%20Finals%202022/img_07_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_08.png">
+<img src="/images/IgnITE%20Finals%202022/img_08_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_09.png">
+<img src="/images/IgnITE%20Finals%202022/img_09_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+  </tr>
+<tr>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_10.png">
+<img src="/images/IgnITE%20Finals%202022/img_10_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_11.png">
+<img src="/images/IgnITE%20Finals%202022/img_11_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_12.png">
+<img src="/images/IgnITE%20Finals%202022/img_12_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+  </tr>
+<tr>
+    <td></td>
+    <td><a target="_blank" href="/images/IgnITE%20Finals%202022/img_13.png">
+<img src="/images/IgnITE%20Finals%202022/img_13_tn.png" style="width:150px; height:100px; Float: Left">
+</a></td>
+    <td></td>
+  </tr>
+</table>
+
+We would like to affirm the efforts of all 21 students who participated in the IgnITE Skills Challenges 2022 and displayed the values of resilience and excellence. We also would like to thank the group of teacher-mentors for guiding the students over the past two months, and making learning beyond the classroom so enjoyable and memorable!
+
+<a target="_blank" href="/images/IgnITE%20Finals%202022/ignite_table.png">
+<img src="/images/IgnITE%20Finals%202022/ignite_table.png" style="width:500px">
+</a>
+
+<hr>
+
+### Singapore Junior Physics Olympiad (SJPO) 2022
+
+In Term 2 this year, a team of 13 Secondary 4 students took part in the Singapore Junior Physics Olympiad (SJPO). The SJPO is a competition for secondary school students, aimed at encouraging the study and appreciation of physics beyond the school curriculum. This annual competition provides opportunities for students to solve novel physics problems that require critical and inventive thinking.
+
+<a target="_blank" href="/images/SJPO%202022/sjpo_table.png">
+<img src="/images/SJPO%202022/sjpo_table.png" style="width:500px">
+</a>
+
+
+We are proud to announce that out of the students who participated, three students were awarded a certificate of participation in both the individual and team categories, six students were awarded an Honourable Mention in at least one category, while four students were awarded an Honourable Mention in both the team and individual categories.
+
+Well done to all the participants!
+
+**Click on the thumbnails below to view images of the participants:**
+
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/SJPO%202022/01.jpg">
+<img src="/images/SJPO%202022/01_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SJPO%202022/02.jpg">
+<img src="/images/SJPO%202022/02_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/SJPO%202022/03.jpg">
+<img src="/images/SJPO%202022/03_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+</table>
+
+<hr>
+
+### Singapore Junior Chemistry Olympiad (SJChO) 2022
+
+In Term 2 and 3 this year, a team of 10 Secondary 4 students took part in the Singapore Junior Chemistry Olympiad (SJChO). The SJChO is a competition for secondary school students, aimed at encouraging the study and appreciation of chemistry beyond the school curriculum. This annual competition provides a platform for students to challenge themselves in their chemical knowledge and skills.
+
+We are proud to announce that out of the students who participated, Jesslyn Richelle Hu was awarded a Certificate of Merit in the competition. 
+
+We would like to affirm the efforts of all 10 students!
+
+<a target="_blank" href="/images/SJChO%202022/sjcho_table.png">
+<img src="/images/SJChO%202022/sjcho_table.png" style="width:500px">
+</a>
+
+<hr>
+
+### ICAS Science Assessment 2022
+
+In Term 3 this year, a group of 25 Secondary 2 students from our school took part in ICAS Science Assessment. The ICAS Science Assessment is a 1-hour test where students solve higher-order thinking questions on various fields of Science, such as Chemistry, Physics, Biology and Astronomy.
+
+<a target="_blank" href="/images/ICAS%202022/icas_table.png">
+<img src="/images/ICAS%202022/icas_table.png" style="width:500px">
+</a>
+
+We are proud to announce that out of the students who participated, 11 students were awarded a certificate of participation, 5 students were awarded a certificate of merit and 6 students were awarded a certificate of credit.
+
+In addition, we have Lee David Aiden Tan from 2H8 who was awarded a certificate of distinction, and Tristan Yew Kit from 2H5, who was awarded a certificate of high distinction.
+
+Well done to all the participants!
+
+**Click on the thumbnails below to view images of the participants:**
+
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/ICAS%202022/IMG_01_resized.png">
+<img src="/images/ICAS%202022/IMG_01_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/ICAS%202022/IMG_02_resized.png">
+<img src="/images/ICAS%202022/IMG_02_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/ICAS%202022/IMG_03_resized.png">
+<img src="/images/ICAS%202022/IMG_03_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/images/ICAS%202022/IMG_04_resized.png">
+<img src="/images/ICAS%202022/IMG_04_tn.png" style="width:150px; height:150px">
+</a></td>
+    <td><a target="_blank" href="/images/ICAS%202022/IMG_05_resized.png">
+<img src="/images/ICAS%202022/IMG_05_tn.png" style="width:150px; height:150px">
+</a></td>
+  </tr>
+</table>

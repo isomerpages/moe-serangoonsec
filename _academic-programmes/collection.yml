@@ -1,0 +1,18 @@
+collections:
+  academic-programmes:
+    output: true
+    order:
+      - Craft & Technology.md
+      - English Language & Literature.md
+      - Humanities.md
+      - Information & Communications Technology (ICT).md
+      - Mathematics.md
+      - Mother Tongue Languages.md
+      - Physical Education.md
+      - Science/.keep
+      - Science/Overview.md
+      - Science/Competitions.md
+      - Science/Programmes.md
+      - Science/Learning Journeys & Workshops.md
+      - Science/Project Work.md
+      - Science/Alternative Assessment.md

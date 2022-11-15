@@ -1,0 +1,20 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Vision, Mission, Values, Philosophy, and Strategic Thrusts.md
+      - School Identity.md
+      - School History.md
+      - School Stories/.keep
+      - School Stories/Seeking, Striving and Serving Through UGs.md
+      - School Stories/Setting Our Sights High.md
+      - School Stories/Celebrating Class Punctuality with Breakfast.md
+      - School Stories/Healthy Eating, Healthy Relationships.md
+      - School Stories/Project Ablaze.md
+      - School Stories/A School That Cares.md
+      - School Stories/93 Years of History.md
+      - School Steering Committee.md
+      - School Advisory Committee.md
+      - Staff.md
+      - Contact Us.md

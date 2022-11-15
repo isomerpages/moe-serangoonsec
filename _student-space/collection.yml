@@ -1,0 +1,5 @@
+collections:
+  student-space:
+    output: true
+    order:
+      - Students' Space.md

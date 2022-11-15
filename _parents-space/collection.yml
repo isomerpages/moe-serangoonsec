@@ -1,0 +1,5 @@
+collections:
+  parents-space:
+    output: true
+    order:
+      - Parents' Space.md

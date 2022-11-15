@@ -1,13 +1,93 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/download.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /about-us/principalsmessage
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principalsmessage
+      - title: Vision, Mission, Values
+        url: /vmv/
+      - title: School Identity
+        url: /school-identity/
+      - title: School History
+        url: /history/
+      - title: School Stories
+        url: /about-us/school-stories/seeking-striving-and-serving-through-ugs/
+      - title: School Steering Committee
+        url: /steering-committee/
+      - title: School Advisory Committee
+        url: /advisory-committee/
+      - title: Staff
+        url: /staff/
+      - title: Contact Us
+        url: /contact-us/
+  - title: Distinctive Programmes
+    url: /distinctive-programmes/stem-applied-learning-programme/
+    sublinks:
+      - title: Applied Learning Prog (ALP)
+        url: /distinctive-programmes/stem-applied-learning-programme/
+      - title: Learning for Life Prog (LLP)
+        url: /distinctive-programmes/llp/
+      - title: Direct School Admission (DSA)
+        url: /distinctive-programmes/dsa/
+  - title: Student Development
+    url: /student-development/cce/
+    sublinks:
+      - title: Character and Citizenship Edu
+        url: /student-development/cce/
+      - title: Co-Curricular Activities (CCA)
+        url: /student-development/cca/
+      - title: Counselling & Student Welfare
+        url: /student-development/support/
+      - title: Edu & Career Guidance (ECG)
+        url: /student-development/ecg/
+      - title: Student Leadership
+        url: /student-development/student-leadership/
+      - title: Student Management
+        url: /student-development/student-management/
+  - title: Academic Programmes
+    url: /academic-programmes/craft-tech
+    sublinks:
+      - title: Craft & Technology
+        url: /academic-programmes/craft-tech/
+      - title: English Language & Literature
+        url: /academic-programmes/eng-lit
+      - title: Humanities
+        url: /academic-programmes/humans/
+      - title: Info & Comm Technology (ICT)
+        url: /academic-programmes/ict/
+      - title: Mathematics
+        url: /academic-programmes/math/
+      - title: Mother Tongue Languages
+        url: /academic-programmes/mother-tongue/
+      - title: Physical Education
+        url: /academic-programmes/pe/
+      - title: Science
+        url: /academic-programmes/science/
+  - title: Parents & Students
+    url: /parents-and-students/Latest-News/visit-by-ms-sunxueling
+    sublinks:
+      - title: Latest News
+        url: /parents-and-students/Latest-News/visit-by-ms-sunxueling
+      - title: Letters to Parents & Guardians
+        url: /parents-and-students/letters-to-parent-and-guardians/
+      - title: Class Timetables
+        url: /parents-and-students/class-timetable/
+      - title: 2022 Student Handbook
+        url: /parents-and-students/Student-Handbook/
+      - title: Post Sec Educational Pathways
+        url: /parents-and-students/Post-Sec-Educational-Pathways/
+      - title: General Matters
+        url: /parents-and-students/General-Matters/2022booklist
+      - title: Lower Sec Matters
+        url: /parents-and-students/Lower-Sec/sec2-subject-allocation
+      - title: Upper Sec Matters
+        url: /parents-and-students/Upper-Sec/sec-3-parent-webinar
+      - title: Parent Support Group (PSG)
+        url: /parents-and-students/psg/
+      - title: SSS Alumni
+        url: /parents-and-students/SSS-Alumni/
+      - title: National Digital Literacy Prog
+        url: /parents-and-students/ndlp/
+  - title: Sec 1 PES & CCA 2022
+    url: /sec1/sec1-parent-engagement-and-cca-orientation2022

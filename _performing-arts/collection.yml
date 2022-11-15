@@ -1,0 +1,10 @@
+collections:
+  performing-arts:
+    output: true
+    order:
+      - Chinese Instrumental Ensemble.md
+      - Choir.md
+      - Concert Band.md
+      - English Drama.md
+      - Malay Dance.md
+      - Modern Dance.md

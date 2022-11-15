@@ -1,0 +1,18 @@
+collections:
+  distinctive-programmes:
+    output: true
+    order:
+      - STEM Applied Learning Prog ALP/STEM Applied Learning Prog (ALP)
+        Overview.md
+      - STEM Applied Learning Prog ALP/.keep
+      - STEM Applied Learning Prog ALP/Sec 1 3D Modelling and Printing
+        Programme.md
+      - STEM Applied Learning Prog ALP/Sec 2 Drones Programming.md
+      - STEM Applied Learning Prog ALP/InfoComm Technology Club Programmes.md
+      - Learning for Life Prog LLP/.keep
+      - Learning for Life Prog LLP/Learning Life Programme Overview.md
+      - Learning for Life Prog LLP/Student Leadership.md
+      - Learning for Life Prog LLP/Values In Action (VIA).md
+      - Direct School Admission DSA/Direct Admission DSA.md
+      - Direct School Admission DSA/.keep
+      - Direct School Admission DSA/Criteria and Selection Process.md
