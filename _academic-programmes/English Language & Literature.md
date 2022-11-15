@@ -3,6 +3,9 @@ title: English Language & Literature
 permalink: /academic-programmes/eng-lit/
 description: ""
 ---
+### English Language & Literature
+
+##### Department Members
 <table>
   <tr>
     <td><b>HOD</b></td>
@@ -40,8 +43,9 @@ description: ""
     <td><b></b></td>
     <td>Ms Lim Yu Xin Sheryl</td>
   </tr>
+</table>
 
-<br>
+#### EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023
 
 <table>
   <tr>
@@ -113,8 +117,9 @@ description: ""
            </ol>
 </td>
   </tr>
+</table>
 	
-<hr>
+#### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
 
 <table>
   <tr>
