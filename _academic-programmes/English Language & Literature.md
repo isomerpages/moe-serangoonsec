@@ -3,23 +3,48 @@ title: English Language & Literature
 permalink: /academic-programmes/eng-lit/
 description: ""
 ---
-
 ### English Language & Literature
 
 ##### Department Members
 
-|   HOD    | Mdm Azrina Salleh          |
-| :------: | -------------------------- |
-|  SH/EL   | Mr Vincent Wong            |
-|  SH/Lit  | Ms Jean Ong Rui Yun        |
-| Teachers | Ms Siti Nur Sufiana Hashim |
-|          | Ms Moritza Lim Fang Min    |
-|          | Ms Chan Wei Meng           |
-|          | Ms Wang Tiying             |
-|          | Mdm Lim Pei Yee            |
-|          | Ms Charlene Lim            |
-|          | Mr Lance Tan Yong-Wen      |
-|          | Ms Lim Yu Xin Sheryl       |
+<table>
+  <tr>
+    <td><b>HOD</b></td>
+    <td>Ms Azrina Salleh</td>
+  </tr>
+ <tr>
+    <td><b>SH / EL</b></td>
+    <td>Mr Vincent Wong</td>
+  </tr>
+ <tr>
+    <td><b>SH / Lit</b></td>
+    <td>Ms Jean Ong Rui Yun</td>
+  </tr>
+ <tr>
+    <td><b>Teachers</b></td>
+    <td>Ms Chan Wei Meng</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Siti Nur Sufiana Hashim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mdm Lim Pei Yee</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Charlene Lim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Lance Tan Yong-Wen</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Lim Yu Xin Sheryl</td>
+  </tr>
+</table>
 
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-3 students in 2022
 
