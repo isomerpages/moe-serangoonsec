@@ -11,17 +11,6 @@ third_nav_title: Science
 
 The Secondary 1 Interdisciplinary Project Work is an alternative assessment task which was designed and implemented as collaborative effort between the Humanities, Science and English Language departments.
 
-<table>
-  <tr>
-    <td><a target="_blank" href="/images/Sec%201%20Science%20Project%20Work/IPW2.jpg">
-<img src="/images/Sec%201%20Science%20Project%20Work/IPW2_tn.png" style="width:150px; height:150px">
-</a></td>
-    <td><a target="_blank" href="/images/Sec%201%20Science%20Project%20Work/IPW3.jpg">
-<img src="/images/Sec%201%20Science%20Project%20Work/IPW3_tn.png" style="width:150px; height:150px">
-</a></td>
-  </tr>
-</table>
-
 
 It aims to integrate the application of inter-subject disciplinary knowledge and skills for Science, English Language and Geography in an authentic setting to make learning more purposeful, relevant and joyful.
 
