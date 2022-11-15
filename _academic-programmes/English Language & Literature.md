@@ -46,7 +46,7 @@ description: ""
   </tr>
 </table>
 
-<hr>
+<br>
 
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-3 students in 2022
 
@@ -122,4 +122,77 @@ description: ""
   </tr>
 </table>
 	
-<br>
+<hr>
+
+<table>
+  <tr>
+    <td><b>Area of Language Learning</b></td>
+    <td><b>Learning Outcomes</b></td>
+  </tr>
+ <tr>
+    <td><b>Listening & Viewing</b></td>
+    <td>
+            <ol>
+                    <li>Demonstrate positive listening and viewing attitudes and behaviour by showing attentiveness and understanding</li>
+                    <li>Use appropriate skills and strategies to process meaning from texts</li>
+                    <li>Use appropriate skills and strategies to evaluate texts</li>
+                    <li>Listen to and view a variety of literary selections and informational/functional texts</li>
+           </ol>
+</td>
+  </tr>
+ <tr>
+    <td><b>Reading & Viewing</b></td>
+    <td>
+            <ol>
+                    <li>Use reading readiness and word identification skills</li>
+                    <li>Process and comprehend age-/year level appropriate texts at literal and inferential levels</li>
+                    <li>Apply critical reading and viewing by focusing on implied meaning, higher-order thinking, judgement and evaluation</li>
+                    <li>Apply close and critical reading and viewing to a variety of literary selections and informational/functional texts, from print and non-print sources, for learning in the literary/ content areas and to understand how lexical and grammatical items are used in context</li>
+                    <li>LO5b: Sustain reading and viewing widely for pleasure, personal development and learning in the literary/content areas (Secondary)</li>
+           </ol>
+<tr>
+    <td><b>Speaking & Representing</b></td>
+    <td>
+            <ol>
+                    <li>Demonstrate knowledge of spoken grammar and register</li>
+                    <li>Speak with accurate pronunciation and appropriate intonation</li>
+                    <li>Plan and present information and ideas for a variety of purposes</li>
+                    <li>Use appropriate skills, strategies and language to convey and construct meaning during interactions</li>
+                    <li>Produce spontaneous and planned spoken texts that are grammatically accurate, fluent, coherent and cohesive </li>
+           </ol>
+</td>
+  </tr>
+<tr>
+     <td><b>Writing & Representing</b></td>
+    <td>
+            <ol>
+                    <li>Develop writing readiness and penmanship to write accurately and fluently in print and cursive script</li>
+                    <li>Use accurate and consistent spelling</li>
+                    <li>Generate and select ideas for writing and representing for a variety of purposes, audiences, contexts and cultures</li>
+                    <li>Develop, organise and express ideas coherently and cohesively in writing and representing for a variety of purposes, audiences, contexts and cultures</li>
+                    <li>Review, revise, proofread and edit to improve writing and representation</li>
+                    <li>Produce a variety of texts for creative, personal, academic, and functional purposes, using an appropriate register and tone</li>
+           </ol>
+</td>
+  </tr>
+<tr>
+    <td><b>Grammar</b></td>
+    <td>
+            <ol>
+                    <li>Use metalanguage for learning and talking about language structures and language in use</li>
+                    <li>Apply knowledge of grammatical rules at word, phrase and sentence levels</li>
+                    <li>Show understanding of how the purposeful use of language shapes meaning in texts</li>
+           </ol>
+</td>
+  </tr>
+<tr>
+    <td><b>Vocabulary</b></td>
+    <td>
+            <ol>
+                    <li>Use metalanguage in building and using vocabulary</li>
+                    <li>Demonstrate a rich vocabulary that supports the development of listening, reading, viewing, speaking, writing and representing skills</li>
+                    <li>Use words appropriate for purpose, audience, context and culture</li>
+           </ol>
+</td>
+  </tr>
+</table>
