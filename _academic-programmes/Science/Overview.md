@@ -25,7 +25,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
 
 
-<img src="/images/science_page_graphic_1.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+<img src="/images/science_page_graphic_1.png" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 <figcaption>Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</figcaption>
 
@@ -45,7 +45,7 @@ The department’s T&L framework is guided by the school vision and school philo
 * INnovate using Science. 
 
 
-<img src="/images/science_page_graphic_2.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left" >
+<img src="/images/science_page_graphic_2.png" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left" >
 
 <figcaption>Source: Academy of Singapore Teachers (AST); </figcaption>
 
