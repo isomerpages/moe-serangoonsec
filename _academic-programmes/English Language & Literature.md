@@ -3,10 +3,6 @@ title: English Language & Literature
 permalink: /academic-programmes/eng-lit/
 description: ""
 ---
-### English Language & Literature
-
-##### Department Members
-
 <table>
   <tr>
     <td><b>HOD</b></td>
@@ -47,8 +43,6 @@ description: ""
 </table>
 
 <br>
-
-##### EL Learning Outcomes (Syllabus 2020) for Sec 1-3 students in 2022
 
 <table>
   <tr>
