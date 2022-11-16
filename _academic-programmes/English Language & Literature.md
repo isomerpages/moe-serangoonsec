@@ -50,6 +50,8 @@ description: ""
 
 ![](/images/Sample%20Images/number1_tn.png)
 
+```
+<html>
 <table>
   <tr>
     <td><b>Area of Language Learning</b></td>
@@ -121,6 +123,8 @@ description: ""
 </td>
   </tr>
 </table>
+</html>
+```
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
 
