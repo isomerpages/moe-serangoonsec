@@ -6,6 +6,7 @@ description: ""
 ### English Language & Literature
 
 ##### Department Members
+
 <table>
   <tr>
     <td><b>HOD</b></td>
@@ -45,9 +46,7 @@ description: ""
   </tr>
 </table>
 
-#### EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023
-
-<hr>
+<b><u>EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023</u></b>
 
 <table>
   <tr>
@@ -121,9 +120,7 @@ description: ""
   </tr>
 </table>
 	
-#### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
-
-<hr>
+<b><u>EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023</u></b>
 
 <table>
   <tr>
