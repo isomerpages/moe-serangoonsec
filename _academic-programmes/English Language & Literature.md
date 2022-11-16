@@ -48,9 +48,6 @@ description: ""
 
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023
 
-![](/images/Sample%20Images/number1_tn.png)
-
-```
 <html>
 <table>
   <tr>
@@ -124,14 +121,11 @@ description: ""
   </tr>
 </table>
 </html>
-```
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
 
-![](/images/Sample%20Images/number1_tn.png)
-
-```
-<table>
+<html>
+	<table>
   <tr>
     <td><b>Area of Language Learning</b></td>
     <td><b>Learning Outcomes</b></td>
@@ -203,4 +197,4 @@ description: ""
 </td>
   </tr>
 </table>
-```
+</html>
