@@ -130,6 +130,7 @@ description: ""
 
 ![](/images/Sample%20Images/number1_tn.png)
 
+```
 <table>
   <tr>
     <td><b>Area of Language Learning</b></td>
@@ -202,3 +203,4 @@ description: ""
 </td>
   </tr>
 </table>
+```
