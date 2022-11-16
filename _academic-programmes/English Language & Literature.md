@@ -46,7 +46,9 @@ description: ""
   </tr>
 </table>
 
-<b><u>EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023</u></b>
+##### EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023
+
+![](/images/Sample%20Images/number1_tn.png)
 
 <table>
   <tr>
@@ -119,8 +121,10 @@ description: ""
 </td>
   </tr>
 </table>
-	
-<b><u>EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023</u></b>
+
+##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
+
+![](/images/Sample%20Images/number1_tn.png)
 
 <table>
   <tr>
