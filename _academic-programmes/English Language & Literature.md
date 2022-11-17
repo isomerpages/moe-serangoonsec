@@ -69,6 +69,10 @@ description: ""
 || 3.     | Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures   |
 || 4.     | Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures    |
 || 5.     | Review, revise, edit and proofread to improve writing and representing  |
+| Grammar | 1.     | Use metalanguage for learning and talking about language structures and language in use     |
+|| 2.     | Apply knowledge of grammatical rules at word and phrase levels    |
+|| 3.     | Apply knowledge of grammatical rules at sentence level   |
+|| 4.     | Show understanding of how the purposeful use of language shapes meaning in texts    |
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
 
