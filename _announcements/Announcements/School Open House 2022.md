@@ -4,7 +4,7 @@ permalink: /announcements/Announcements/open-house-2022/
 description: ""
 third_nav_title: Announcements
 ---
-#### School Open House 2022
+### School Open House 2022
 
 <a target="_blank" href="/images/Announcements/Open%20House%202022.jpg">
 <img src="/images/Announcements/Open%20House%202022.jpg" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
