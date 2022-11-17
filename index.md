@@ -17,7 +17,6 @@ sections:
         - title: Latest Happenings
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
-      background: /images/hero_banner_sch_front_v3.png
       title: You're invited to our Open House!
       subtitle: Click below to find out more.
       url: https://moe-serangoonsec-staging.netlify.app/srss/announcements/
