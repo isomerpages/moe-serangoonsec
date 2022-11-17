@@ -59,11 +59,11 @@ description: ""
 || 2.     | Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning    |
 || 3.     | Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement    |
 || 4.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
-| Reading & Viewing | 1.     | Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour     |
-|| 2.     | Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning    |
-|| 3.     | Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement    |
-|| 4.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
-|| 5.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
+| Speaking & Representing | 1.     | Develop knowledge and awareness of the features of speaking and representing     |
+|| 2.     | Develop accuracy and fluency in speaking and representing    |
+|| 3.     | Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures   |
+|| 4.     | Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures    |
+|| 5.     | Monitor, review, revise and refine responsibly before, during and after speaking and representing   |
 
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
