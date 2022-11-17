@@ -73,6 +73,9 @@ description: ""
 || 2.     | Apply knowledge of grammatical rules at word and phrase levels    |
 || 3.     | Apply knowledge of grammatical rules at sentence level   |
 || 4.     | Show understanding of how the purposeful use of language shapes meaning in texts    |
+| Vocabulary | 1.     | Develop word consciousness and use metalanguage in building vocabulary knowledge     |
+|| 2.     | Build rich vocabulary knowledge that supports the development of listening, reading, viewing, speaking, writing and representing skills    |
+|| 3.     | Use words appropriate for purpose, audience, context and culture  |
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
 
