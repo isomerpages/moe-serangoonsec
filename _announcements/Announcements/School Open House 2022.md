@@ -14,7 +14,7 @@ Dear Parents and P6 Students,
 
 We would like to invite you to attend our physical Open House on 26 November 2022 (Saturday) from 0900hrs to 12hrs.
 
-For more information, please visit our microsite at https://go.gov.sg/sssopenhouse2022
+For more information, please visit our microsite at [https://go.gov.sg/sssopenhouse2022](https://go.gov.sg/sssopenhouse2022)
 
 See you on 26 November! 
 
