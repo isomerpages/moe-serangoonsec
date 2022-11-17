@@ -49,7 +49,6 @@ description: ""
 ##### EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023
 
 
-
 | Area of Language Learning | | Learning Outcomes |
 | -------- | -------- | -------- |
 | Listening & Viewing | 1.     | Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour     |
@@ -60,6 +59,11 @@ description: ""
 || 2.     | Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning    |
 || 3.     | Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement    |
 || 4.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
+| Reading & Viewing | 1.     | Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour     |
+|| 2.     | Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning    |
+|| 3.     | Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement    |
+|| 4.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
+|| 5.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
 
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
