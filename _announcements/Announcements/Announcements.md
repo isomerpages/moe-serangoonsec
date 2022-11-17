@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Announcements
 ---
 ### Announcements
+
+### School Open House 2022
+
+
+
 ### 2022 ICA NRIC Biometrics Registration
 
 Dear Parent / Guardian,
