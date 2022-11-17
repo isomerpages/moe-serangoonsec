@@ -6,50 +6,21 @@ third_nav_title: Announcements
 ---
 ### Announcements
 
-#### School Open House 2022
-
-<a target="_blank" href="/images/Announcements/Open%20House%202022.jpg">
-<img src="/images/Announcements/Open%20House%202022.jpg" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
-</a>
-
-Dear Parents and P6 Students,
-
-We would like to invite you to attend our physical Open House on 26 November 2022 (Saturday) from 0900hrs to 12hrs.
-
-For more information, please visit our microsite at https://go.gov.sg/sssopenhouse2022
-
-See you on 26 November! 
+26/11/2022: [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/)
 
 <hr>
 
-### 2022 ICA NRIC Biometrics Registration
+29/04/2022: [2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/)
 
-Dear Parent / Guardian,
+<hr>
 
-Please refer to the attachment (below) for details for the School NRIC Biometrics Registration on **29 April (Friday).**
+17/12/2021: [Information For Students Who Received 2021 GCE 'N' Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/)
 
-[Nric Biometrics Registration](/files/NRIC%20Registration%20Letter%20to%20Parents%20V1_PG%202022.pdf)
+<hr>
 
-**Useful ICA weblinks** <br>
-NRIC Registration [online](go.gov.sg/icreg) with SingPass <br>
-ICA Helpline: [click here](https://www.ica.gov.sg/contact-us)
+04/05/2022: [Travel Declaration for 2022 Mid-Year Holidays](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/td-2022-mid/)
 
-##### Information For Students Who Received 2021 GCE 'N' Level Results
-2021-12-17 <br>
-Congratulations to all our Class of 2021 Serangoon Stars who received their GCE N-Level results earlier this afternoon! [click here to read more](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/)
-
-##### Travel Declaration for 2022 Mid-Year Holidays
-2022-05-04
-
-Dear Parent/Guardian,  
-  
-To ensure schools continue to be a healthy and safe environment for all, we require parents/guardians to make **a travel declaration for your child/ward only if he/she intends to travel** for the mid-year holidays.
-
-Please declare your child/ward’s travel plan(s) for the holidays **by 27 May 2022 (Friday)**.  If your child/ward is **not travelling** during the holidays, **no action is required** on your side.  Please refer to the attached letter for details.
-
-Thank you for your partnership and support to keep our school safe
-
-[Click here to read more on Travel Declaration for 2022 Mid-Year Holidays](/files/SSS_Hardcopy%20Ltr%20to%20Parents%20n%20Guardians%20Not%20Using%20PG-2022%20Mid-Year%20Hols.pdf)
+<hr>
 
 ##### Staggered School Dismissal Timings on 31 Jan 2022
 2022-01-26
