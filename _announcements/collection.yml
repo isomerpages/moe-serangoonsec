@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Staggered School Dismissal Timings on 31 Jan 2022.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/School Open House 2022.md
@@ -10,6 +9,7 @@ collections:
       - Announcements/Information For Students Who Received 2021 GCE 'N' Level
         Results.md
       - Announcements/Travel Declaration for 2022 Mid Year Holidays.md
+      - Announcements/Staggered School Dismissal Timings on 31 Jan 2022.md
       - Announcements/2021 GCE O Level Results.md
       - Announcements/Positive Parenting Programme (TripleP) webinars.md
       - Announcements/School Graduation Certificate.md
