@@ -4,7 +4,6 @@ permalink: /announcements/information-n-level-results/
 description: ""
 third_nav_title: Announcements
 ---
-
 ### Information for Students Who Received 2021 GCE N Level Results
 
 Dear 4N Serangoon StaRs, <br>
@@ -31,3 +30,5 @@ All the best for your post-secondary education journey.
 [Student Resource_N-Level](/files/Student%20Resource_N-Level.pdf)
 
 [A guide to post secondary exercise_080112021](/files/A-Guide-to-Post-Secondary-Exercise_080112021.pdf)
+
+<hr>
