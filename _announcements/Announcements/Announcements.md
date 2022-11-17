@@ -22,19 +22,9 @@ third_nav_title: Announcements
 
 <hr>
 
-##### Staggered School Dismissal Timings on 31 Jan 2022
-2022-01-26
+26/01/2022: [Staggered School Dismissal Timings on 31 Jan 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/staggered-dismissal-2022/)
 
-Dear parents / guardians,  
-  
-The school will be celebrating CNY on Monday, 31 Jan 2022. Staggered dismissal timings for students are as follows:  
-  
-S1: 0930hr  
-S2: 0940hr  
-S3: 0950hr  
-S4/5: 1000hr  
-  
-Wishing you and your family a Happy Lunar New Year in advance.
+<hr>
 
 ##### 2021 GCE O-Level Results
 2022-01-12
