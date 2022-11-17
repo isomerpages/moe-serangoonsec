@@ -64,7 +64,11 @@ description: ""
 || 3.     | Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures   |
 || 4.     | Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures    |
 || 5.     | Monitor, review, revise and refine responsibly before, during and after speaking and representing   |
-
+| Writing & Representing | 1.     | Develop writing readiness and handwriting to write accurately and fluently     |
+|| 2.     | Use accurate and consistent spelling    |
+|| 3.     | Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures   |
+|| 4.     | Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures    |
+|| 5.     | Review, revise, edit and proofread to improve writing and representing  |
 
 ##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
 
