@@ -9,7 +9,7 @@ third_nav_title: Announcements
 #### School Open House 2022
 
 <a target="_blank" href="/images/Announcements/Open%20House%202022.jpg">
-<img src="/images/Announcements/Open%20House%202022.jpg" style="width:400px; border:0.5px solid Gainsboro; padding: 5px">
+<img src="/images/Announcements/Open%20House%202022.jpg" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
 </a>
 
 Dear Parents and P6 Students,
