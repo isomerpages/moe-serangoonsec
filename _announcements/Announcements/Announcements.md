@@ -6,8 +6,6 @@ third_nav_title: Announcements
 ---
 ### Announcements
 
-
-
 | Date | Event ||
 | -------- | -------- | -------- |
 | 26/11/2022:     | [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/)    ||
