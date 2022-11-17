@@ -6,6 +6,15 @@ third_nav_title: Announcements
 ---
 ### Announcements
 
+
+
+| Date | Event ||
+| -------- | -------- | -------- |
+| 26/11/2022:     | [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/)    ||
+| 29/04/2022: | [2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/) |  |
+| 26/11/2022:     | [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/)    ||
+
+
 26/11/2022: [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/)
 
 29/04/2022: [2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/)
