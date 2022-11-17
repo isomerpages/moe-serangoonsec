@@ -21,6 +21,7 @@ sections:
       subtitle: Click below to find out more.
       url: https://moe-serangoonsec-staging.netlify.app/srss/announcements/
       button: Open House 2022
+      background: /images/sch_banner_v2.png
   - infobar:
       title: Parents' Space
       button: More info
