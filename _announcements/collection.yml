@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/School Open House 2022.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/Information For Students Who Received 2021 GCE 'N' Level
