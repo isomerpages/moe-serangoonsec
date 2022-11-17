@@ -11,7 +11,6 @@ third_nav_title: Announcements
 <a target="_blank" href="/images/Announcements/Open%20House%202022.jpg">
 <img src="/images/Announcements/Open%20House%202022.jpg" style="width:400px; border:0.5px solid Gainsboro; padding: 5px">
 </a>
-<figcaption><b>Click to enlarge image</b></figcaption>
 
 Dear Parents and P6 Students,
 
