@@ -6,7 +6,7 @@ third_nav_title: Announcements
 ---
 ### Announcements
 
-### School Open House 2022
+#### School Open House 2022
 
 <a target="_blank" href="/images/Announcements/Open%20House%202022.jpg">
 <img src="/images/Announcements/Open%20House%202022.jpg" style="width:400px; border:0.5px solid Gainsboro; padding: 5px">
