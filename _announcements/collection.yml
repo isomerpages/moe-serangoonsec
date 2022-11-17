@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Staggered School Dismissal Timings on 31 Jan 2022.md
       - Announcements/.keep
       - Announcements/Announcements.md
       - Announcements/School Open House 2022.md
