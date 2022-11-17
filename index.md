@@ -19,7 +19,7 @@ sections:
           url: https://www.facebook.com/serangoonsecsg/
       title: You're invited to our Open House!
       subtitle: Click below to find out more.
-      url: https://moe-serangoonsec-staging.netlify.app/srss/announcements/
+      url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
       button: Open House 2022
       background: /images/sch_banner_v2.png
   - infobar:
