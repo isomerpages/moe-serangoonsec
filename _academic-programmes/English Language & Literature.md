@@ -100,6 +100,7 @@ description: ""
 || 3.     | Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures   |
 || 4.     | Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures    |
 || 5.     | Review, revise, edit and proofread to improve writing and representing  |
+|| 6.     | Review, revise, edit and proofread to improve writing and representing  |
 |<b>Grammar | 1.     | Use metalanguage for learning and talking about language structures and language in use     |
 || 2.     | Apply knowledge of grammatical rules at word and phrase levels    |
 || 3.     | Apply knowledge of grammatical rules at sentence level   |
