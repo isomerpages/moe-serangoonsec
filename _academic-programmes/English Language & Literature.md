@@ -192,9 +192,35 @@ As part of our department’s focus on oracy skills, a group of Sec 3 students t
 
 **III.	Inter-Class Writing Competition**
 
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/English%20Language%20&%20Literature/10.png">
+<img src="/images/English%20Language%20&%20Literature/10.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
+</a></td>
+    <td><a target="_blank" href="/images/English%20Language%20&%20Literature/11.png">
+<img src="/images/English%20Language%20&%20Literature/11.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
+	</a></td>
+  </tr>
+  <tr>
+    <td>Secondary 3 Winners</td>
+    <td>Secondary 4 Winners</td>
+  </tr>
+</table>
+
 To promote the love of writing among our students, we organised inter-class writing competitions for the different levels this year. Our budding writers had a go at writing flash fiction and full length essays.
 
 **IV.	Literature Instagram Poetry Enrichment Workshop**
+
+<table>
+  <tr>
+    <td><a target="_blank" href="/images/English%20Language%20&%20Literature/12.png">
+<img src="/images/English%20Language%20&%20Literature/12.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
+</a></td>
+    <td><a target="_blank" href="/images/English%20Language%20&%20Literature/13.png">
+<img src="/images/English%20Language%20&%20Literature/13.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
+	</a></td>
+  </tr>
+</table>
 
 To make the study of Literature come alive, selected Sec 1 students attended an ‘Instagram Poetry’ workshop by local poet-cum-writer Theophilus Kwek on 3 June in a tie-in with this year’s Words Go Round (WGR) programme.
 
