@@ -23,15 +23,8 @@ third_nav_title: Announcements
 | -------- | -------- | -------- |
 | 17/12/2021:     | [Information For Students Who Received 2021 GCE 'N' Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/)   ||
 | 29/11/2021:     | [Reminder to Collect School Graduation Certificate (SGC) by 31 MARCH 2022](https://moe-serangoonsec-staging.netlify.app/announcements/graduation-certificate/)   ||
+| 29/10/2021:     | [Sale of Books and Uniforms 2021](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform/)   ||
 
-
-##### Sale of Books and Uniforms
-2021-10-29
-
-Dear Parents/Guardians,
-
-We wish to inform you on the arrangements for the sale of books and uniforms as you prepare your child for the new school year in 2022...<br>
-[click here to read more](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform)
 
 ##### Travel Declaration for Year-End Holidays
 2021-09-20
