@@ -149,7 +149,14 @@ Armed with their mobile devices, our StaRs vlogged their experience as they expl
 **TALENT DEVELOPMENT & ENRICHMENT PROGRAMMES
 
 **I.	Online Singapore Secondary School Debating Championship 2022**
-	
+
+<a target="_blank" href="/images/English%20Language%20&%20Literature/04.png">
+<img src="/images/English%20Language%20&%20Literature/04.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; float:left">
+</a>
+<a target="_blank" href="/images/English%20Language%20&%20Literature/05.png">
+<img src="/images/English%20Language%20&%20Literature/05.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; float:left">
+	</a>
+
 A small group of students with a passion for debating is trained every year for the Singapore Secondary School Debating Championship. This year, we ranked 11th out of 26 schools that took part in Division III of the championship. One of our students also emerged among the Top 20 Speakers in the division. 
 
 Watch our team of debaters in action in 2021 EL Debating Showcase post-exam activity.
