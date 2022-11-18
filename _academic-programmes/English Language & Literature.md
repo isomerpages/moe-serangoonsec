@@ -144,3 +144,14 @@ Watch our team of debaters in action in 2021 EL Debating Showcase post-exam acti
 
 Watch the debate here: [2021 EL Debating Showcase](https://youtu.be/I9NMhuGCQA8)
 
+**II.	Post-Exam Activity - EL Oratorical Showcase 2022**
+
+As part of our department’s focus on oracy skills, a group of Sec 3 students took part in the 3E and 3NA Oratorical Showcases as part of their post-exam activity this year where three students were crowned Best Orators of each competition.
+
+**III.	Inter-Class Writing Competition**
+
+To promote the love of writing among our students, we organised inter-class writing competitions for the different levels this year. Our budding writers had a go at writing flash fiction and full length essays.
+
+**IV.	Literature Instagram Poetry Enrichment Workshop**
+
+	
