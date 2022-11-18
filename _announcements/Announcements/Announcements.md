@@ -25,15 +25,7 @@ third_nav_title: Announcements
 | 29/11/2021:     |2.|[Reminder to Collect School Graduation Certificate (SGC) by 31 MARCH 2022](https://moe-serangoonsec-staging.netlify.app/announcements/graduation-certificate/)|
 | 29/10/2021:     |3.|[Sale of Books and Uniforms 2021](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform/)|
 | 20/09/2021:     |4.|[Travel Declaration for Year-End Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-eoy-hol/)|
-
-
-##### Caring Teacher Awards (CTA) 2022
-2021-09-14
-
-Dear Parents/Guardians,
-
-The Caring Teacher Awards (CTA) is a biennial event that pays tribute to teachers who show care and concern for the holistic development of their students... <br>
-[click here to read more](https://moe-serangoonsec-staging.netlify.app/announcements/caring-teacher-award-2022)
+| 14/09/2021:     |5.|[Caring Teacher Awards (CTA) 2022](https://moe-serangoonsec-staging.netlify.app/announcements/caring-teacher-award-2022/)|
 
 ##### MOE Parent Kit Journeying Through Challenging Times, Together
 2021-08-30
