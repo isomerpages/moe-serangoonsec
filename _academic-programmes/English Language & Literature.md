@@ -154,4 +154,6 @@ To promote the love of writing among our students, we organised inter-class writ
 
 **IV.	Literature Instagram Poetry Enrichment Workshop**
 
-	
+To make the study of Literature come alive, selected Sec 1 students attended an ‘Instagram Poetry’ workshop by local poet-cum-writer Theophilus Kwek on 3 June in a tie-in with this year’s Words Go Round (WGR) programme.
+
+At the workshop, our budding poets explored the school premises to find inspiration to write a poem about a space in school that holds a personal significance to them. They then got other participants to guess where in the school their poem was set.
