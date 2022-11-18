@@ -26,24 +26,10 @@ third_nav_title: Announcements
 | 29/10/2021:     |3.|[Sale of Books and Uniforms 2021](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform/)|
 | 20/09/2021:     |4.|[Travel Declaration for Year-End Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-eoy-hol/)|
 | 14/09/2021:     |5.|[Caring Teacher Awards (CTA) 2022](https://moe-serangoonsec-staging.netlify.app/announcements/caring-teacher-award-2022/)|
-| 30/08/2021:     |6.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
+| 15/06/2021:     |6.|[MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students](https://moe-serangoonsec-staging.netlify.app/announcements/arrangements/)|
+| 08/06/2021:     |7.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
 
 
-##### MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students
-2021-06-15
-
-Dear Parents/Guardians,
-
-As Singapore moves into Phase 3 (Heightened Alert) with gradual easing of community Safe Management Measures (SMMs), the Ministry of Education (MOE) will progressively bring students back to school after the June holidays...<br>
-[click to read more](https://moe-serangoonsec-staging.netlify.app/announcements/arrangements)
-
-##### Parent Kit - Bonding Over the Holidays
-2021-06-08
-
-Dear Parents/Guardians, 
-
-With your children on a month-long break from school during this period of Phase 2A (Heightened Alert), there are still plenty of things you can do to bond as a family and...<br>
-[click to read more](https://moe-serangoonsec-staging.netlify.app/announcements/parent-kit-bonding)
 
 ##### COVID-19 Vaccination Exercise for Students
 2021-06-01
