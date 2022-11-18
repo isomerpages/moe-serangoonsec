@@ -90,10 +90,10 @@ description: ""
 || 3.     |Apply critical reading and viewing by focusing on implied meaning, higher-order thinking, judgement and evaluation|
 || 4.     |Apply close and critical reading and viewing to a variety of literary selections and informational/functional texts, from print and non-print sources, for learning in the literary/ content areas and to understand how lexical and grammatical items are used in context|
 || 5.     |LO5b: Sustain reading and viewing widely for pleasure, personal development and learning in the literary/content areas (Secondary)|
-|<b>Speaking & Representing | 1.     | Develop knowledge and awareness of the features of speaking and representing     |
-|| 2.     | Develop accuracy and fluency in speaking and representing    |
-|| 3.     | Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures   |
-|| 4.     | Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures    |
+|<b>Speaking & Representing | 1.     |Demonstrate knowledge of spoken grammar and register|
+|| 2.     |Speak with accurate pronunciation and appropriate intonation|
+|| 3.     |Plan and present information and ideas for a variety of purposes|
+|| 4.     |Use appropriate skills, strategies and language to convey and construct meaning during interactions|
 || 5.     | Monitor, review, revise and refine responsibly before, during and after speaking and representing   |
 |<b>Writing & Representing | 1.     | Develop writing readiness and handwriting to write accurately and fluently     |
 || 2.     | Use accurate and consistent spelling    |
