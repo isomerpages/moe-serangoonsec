@@ -28,13 +28,9 @@ third_nav_title: Announcements
 | 14/09/2021:     |5.|[Caring Teacher Awards (CTA) 2022](https://moe-serangoonsec-staging.netlify.app/announcements/caring-teacher-award-2022/)|
 | 15/06/2021:     |6.|[MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students](https://moe-serangoonsec-staging.netlify.app/announcements/arrangements/)|
 | 08/06/2021:     |7.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
+| 01/06/2021:     |8.|[COVID-19 Vaccination Exercise for Students](https://sites.google.com/moe.edu.sg/ssscovidmatters/home?pli=1)|
 
 
-
-##### COVID-19 Vaccination Exercise for Students
-2021-06-01
-
-MOE is commencing COVID-19 vaccination for students in schools and Institutes of Higher Learning as part of the national vaccination exercise. For more information, click [here](https://sites.google.com/moe.edu.sg/ssscovidmatters/home)
 
 ##### Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021
 2021-05-21
