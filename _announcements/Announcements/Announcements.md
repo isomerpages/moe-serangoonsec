@@ -29,13 +29,6 @@ third_nav_title: Announcements
 | 30/08/2021:     |6.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
 
 
-##### Character Awards 2021
-2021-07-12 <br>
-Nomination closes on 2 August 2021, 5pm <br>
-eNominations: [https://go.gov.sg/characterawards2021](https://go.gov.sg/characterawards2021) 
-
-or download form [here](http://serangoonsec-moe-edu-sg-admin.cwp.sg/qql/slot/u179/Announcements/Character%20Awards%202021/Character_Awards_2021_Nomination_Form_Public.docx) **Error link**
-
 ##### MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students
 2021-06-15
 
