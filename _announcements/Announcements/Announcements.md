@@ -19,7 +19,7 @@ third_nav_title: Announcements
 
 ##### 2021 Events
 
-| Date | Event ||
+| Date ||Event|
 | -------- | -------- | -------- |
 | 17/12/2021:     |1.|[Information For Students Who Received 2021 GCE 'N' Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/) |
 | 29/11/2021:     |2.|[Reminder to Collect School Graduation Certificate (SGC) by 31 MARCH 2022](https://moe-serangoonsec-staging.netlify.app/announcements/graduation-certificate/)|
