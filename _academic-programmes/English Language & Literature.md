@@ -101,10 +101,9 @@ description: ""
 || 4.     |Develop, organise and express ideas coherently and cohesively in writing and representing for a variety of purposes, audiences, contexts and cultures|
 || 5.     |Review, revise, proofread and edit to improve writing and representation|
 || 6.     |Produce a variety of texts for creative, personal, academic, and functional purposes, using an appropriate register and tone|
-|<b>Grammar | 1.     | Use metalanguage for learning and talking about language structures and language in use     |
-|| 2.     | Apply knowledge of grammatical rules at word and phrase levels    |
-|| 3.     | Apply knowledge of grammatical rules at sentence level   |
-|| 4.     | Show understanding of how the purposeful use of language shapes meaning in texts    |
-|<b>Vocabulary | 1.     | Develop word consciousness and use metalanguage in building vocabulary knowledge     |
-|| 2.     | Build rich vocabulary knowledge that supports the development of listening, reading, viewing, speaking, writing and representing skills    |
-|| 3.     | Use words appropriate for purpose, audience, context and culture  |
+|<b>Grammar | 1.     |Use metalanguage for learning and talking about language structures and language in use     |
+|| 2.     |Apply knowledge of grammatical rules at word, phrase and sentence levels|
+|| 3.     |Show understanding of how the purposeful use of language shapes meaning in texts|
+|<b>Vocabulary | 1.     |Use metalanguage in building and using vocabulary|
+|| 2.     |Demonstrate a rich vocabulary that supports the development of listening, reading, viewing, speaking, writing and representing skills|
+|| 3.     |Use words appropriate for purpose, audience, context and culture|
