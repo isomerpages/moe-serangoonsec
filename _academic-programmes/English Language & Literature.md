@@ -110,7 +110,7 @@ description: ""
 	
 ##### 2022 Department Programme Highlights
 	
-###### READING PROGRAMME
+**READING PROGRAMME**
 
 Our reading programme aims to develop good reading habits and instill lifelong passion for reading in our students.
 
