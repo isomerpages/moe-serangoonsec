@@ -11,7 +11,7 @@ third_nav_title: Announcements
 | Date |  |Event|
 | -------- | -------- | -------- |
 | 26/11/2022:     |1.| [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/) <b>(NEW!)</b>  |
-| 28/10/2022:     |2.| [Sales of Books and Uniforms 2023](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/sbu-2022/) <b>(NEW!)</b>  |
+| 28/10/2022:     |2.| [Sales of Books and Uniforms 2023](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/sbu-2023/) <b>(NEW!)</b>  |
 | 04/05/2022:     |3.|[Travel Declaration for 2022 Mid-Year Holidays](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/td-2022-mid/)|
 | 29/04/2022: |4.|[2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/)|
 | 26/01/2022:     |5.|[Staggered School Dismissal Timings on 31 Jan 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/staggered-dismissal-2022/)|
