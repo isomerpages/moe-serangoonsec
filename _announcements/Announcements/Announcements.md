@@ -23,15 +23,6 @@ third_nav_title: Announcements
 | -------- | -------- | -------- |
 | 17/12/2021:     | [Information For Students Who Received 2021 GCE 'N' Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/)   ||
  
-##### Positive Parenting Program® (Triple P) for all parents
- 
- 2022-01-07
-
-Dear Parent/Guardian, 
-
-**Methodist Welfare Services Family Support Programme (MWS FSP)** has been appointed by **Ministry of Social and Family Development (MSF)** to partner with your child’s school, Serangoon Secondary School to conduct a secular parenting programme. We are pleased to invite you to attend our **fully-subsidised,** **Positive Parenting Program® (TripleP) Level 2 webinars via Zoom.**
-
-[click here to read more](https://moe-serangoonsec-staging.netlify.app/announcements/triplep-webinars/)
 
 #####  REMINDER TO COLLECT SCHOOL GRADUATION CERTIFICATE (SGC) BY 31 MARCH 2022
 
