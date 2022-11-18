@@ -202,8 +202,8 @@ As part of our department’s focus on oracy skills, a group of Sec 3 students t
 	</a></td>
   </tr>
   <tr>
-    <td>Secondary 3 Winners</td>
-    <td>Secondary 4 Winners</td>
+    <td><center>Secondary 3 Winners</center></td>
+    <td><center>Secondary 4 Winners</center></td>
   </tr>
 </table>
 
