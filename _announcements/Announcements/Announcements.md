@@ -15,6 +15,7 @@ third_nav_title: Announcements
 | 29/04/2022: | [2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/) ||
 | 26/01/2022:     | [Staggered School Dismissal Timings on 31 Jan 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/staggered-dismissal-2022/)   ||
 | 12/01/2022:    | [2021 GCE O-Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/o-level-results/)
+| 07/01/2022:     | [Positive Parenting Program® (Triple P) for all parents](https://moe-serangoonsec-staging.netlify.app/announcements/triplep-webinars/)   ||
 
 ##### 2021 Events
 
