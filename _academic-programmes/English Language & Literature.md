@@ -129,3 +129,7 @@ Through inter-departmental collaborations, we aim to extend students’ learning
 This year, we embarked on a level-wide Science-EL Project Work for our Sec 1 students. Students were guided in oral communication skills – e.g. preparing a script, accurate pronunciation, addressing the audience – for their Project Work class presentation, which formed part of their school-based assessment.
 
 **II.	Humanities-EL Learning Journeys 2022**
+
+As part of post-exam activities this year, we collaborated with the Humanities Department to organise Learning Journeys for Sec 1 and 2 students. Our Sec 1 StaRs had the chance to visit the Kranji War Memorial where they saw for themselves the 4,461 gravestones lined up proudly on a slope to honour the fallen heroes of WWII. Meanwhile, our Sec 2 StaRs enjoyed a scenic treetop walk enroute to the historic coastal fort of Fort Siloso where they learnt more about British defence of Southern Singapore during WWII. 
+
+Armed with their mobile devices, our StaRs vlogged their experience as they explored these sites.
