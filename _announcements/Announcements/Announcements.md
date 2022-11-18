@@ -30,14 +30,10 @@ third_nav_title: Announcements
 | 08/06/2021:     |7.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
 | 01/06/2021:     |8.|[COVID-19 Vaccination Exercise for Students](https://sites.google.com/moe.edu.sg/ssscovidmatters/home?pli=1)|
 | 21/05/2021:     |9.|[Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021](https://moe-serangoonsec-staging.netlify.app/announcements/extention-of-school-meal-subsidies-on-fas/)|
+| 17/05/2021:     |9.|[MOE: Full Home-Based Learning (HBL) from 19 May 2021 to 28 May 2021 for primary, secondary, JC and MI students](https://moe-serangoonsec-staging.netlify.app/announcements/full-hbl/)|
 
 
 
-##### MOE: Full Home-Based Learning (HBL) from 19 May 2021 to 28 May 2021 for primary, secondary, JC and MI students
-2021-05-17 <br>
-Dear Parents/Guardians, <br>
-With the sharp increase in the number of community cases, including the spike in unlinked cases on 16 May 2021, there is a need to reduce interactions and ...<br>
-[click to read more](https://moe-serangoonsec-staging.netlify.app/announcements/full-hbl)
 
 ##### Travel Declaration for June Holidays
 2021-05-14
