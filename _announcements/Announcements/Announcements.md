@@ -32,12 +32,6 @@ third_nav_title: Announcements
 | 21/05/2021:     |9.|[Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021](https://moe-serangoonsec-staging.netlify.app/announcements/extention-of-school-meal-subsidies-on-fas/)|
 
 
-##### Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021
-2021-05-21
-
-Dear Parent/Guardian,
-1\. To provide added support to our secondary students on the MOE, School-Based and SAC Financial Assistance Scheme (FAS) during the 7 school days of full Home-Based Learning (HBL)...<br>
-[click to read more](https://moe-serangoonsec-staging.netlify.app/announcements/extention-of-school-meal-subsidies-on-fas)
 
 ##### MOE: Full Home-Based Learning (HBL) from 19 May 2021 to 28 May 2021 for primary, secondary, JC and MI students
 2021-05-17 <br>
