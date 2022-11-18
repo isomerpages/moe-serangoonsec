@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Sale of Books and Uniforms 2023.md
       - Announcements/.keep
       - Announcements/Announcements.md
+      - Announcements/Sale of Books and Uniforms 2023.md
       - Announcements/School Open House 2022.md
       - Announcements/Travel Declaration for 2022 Mid Year Holidays.md
       - Announcements/2022 ICA NRIC Biometrics Registration.md
