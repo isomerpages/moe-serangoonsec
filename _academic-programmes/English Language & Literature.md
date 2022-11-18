@@ -94,7 +94,7 @@ description: ""
 || 2.     |Speak with accurate pronunciation and appropriate intonation|
 || 3.     |Plan and present information and ideas for a variety of purposes|
 || 4.     |Use appropriate skills, strategies and language to convey and construct meaning during interactions|
-|| 5.     | Monitor, review, revise and refine responsibly before, during and after speaking and representing   |
+|| 5.     |Produce spontaneous and planned spoken texts that are grammatically accurate, fluent, coherent and cohesive |
 |<b>Writing & Representing | 1.     | Develop writing readiness and handwriting to write accurately and fluently     |
 || 2.     | Use accurate and consistent spelling    |
 || 3.     | Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures   |
