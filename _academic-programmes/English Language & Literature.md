@@ -178,6 +178,14 @@ Watch the debate here: [2021 EL Debating Showcase](https://youtu.be/I9NMhuGCQA8)
 <img src="/images/English%20Language%20&%20Literature/07.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
 	</a></td>
   </tr>
+  <tr>
+    <td><a target="_blank" href="/images/English%20Language%20&%20Literature/08.png">
+<img src="/images/English%20Language%20&%20Literature/08.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
+</a></td>
+    <td><a target="_blank" href="/images/English%20Language%20&%20Literature/09.png">
+<img src="/images/English%20Language%20&%20Literature/09.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
+	</a></td>
+  </tr>
 </table>	
 
 As part of our department’s focus on oracy skills, a group of Sec 3 students took part in the 3E and 3NA Oratorical Showcases as part of their post-exam activity this year where three students were crowned Best Orators of each competition.
