@@ -126,4 +126,6 @@ Through inter-departmental collaborations, we aim to extend students’ learning
 
 **I.	Sec 1 Geography-Science-EL Inter-Disciplinary Project Work 2022**
 
+This year, we embarked on a level-wide Science-EL Project Work for our Sec 1 students. Students were guided in oral communication skills – e.g. preparing a script, accurate pronunciation, addressing the audience – for their Project Work class presentation, which formed part of their school-based assessment.
 
+**II.	Humanities-EL Learning Journeys 2022**
