@@ -133,3 +133,14 @@ This year, we embarked on a level-wide Science-EL Project Work for our Sec 1 stu
 As part of post-exam activities this year, we collaborated with the Humanities Department to organise Learning Journeys for Sec 1 and 2 students. Our Sec 1 StaRs had the chance to visit the Kranji War Memorial where they saw for themselves the 4,461 gravestones lined up proudly on a slope to honour the fallen heroes of WWII. Meanwhile, our Sec 2 StaRs enjoyed a scenic treetop walk enroute to the historic coastal fort of Fort Siloso where they learnt more about British defence of Southern Singapore during WWII. 
 
 Armed with their mobile devices, our StaRs vlogged their experience as they explored these sites.
+	
+**TALENT DEVELOPMENT & ENRICHMENT PROGRAMMES
+
+I.	Online Singapore Secondary School Debating Championship 2022**
+	
+A small group of students with a passion for debating is trained every year for the Singapore Secondary School Debating Championship. This year, we ranked 11th out of 26 schools that took part in Division III of the championship. One of our students also emerged among the Top 20 Speakers in the division. 
+
+Watch our team of debaters in action in 2021 EL Debating Showcase post-exam activity.
+
+Watch the debate here: [2021 EL Debating Showcase](https://youtu.be/I9NMhuGCQA8)
+
