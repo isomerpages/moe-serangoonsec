@@ -116,6 +116,10 @@ Our reading programme aims to develop good reading habits and instill lifelong p
 
 **I.	Read and SHINE daily morning reading programme**
 
+<a target="_blank" href="/images/English%20Language%20&%20Literature/01.png">
+<img src="/images/English%20Language%20&%20Literature/01.png" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
+</a>
+
 Through our morning reading programme, we cultivate a love of reading in our students, by balancing carefully between assigned reading materials and giving students a choice on what to read. 
 
 This year, we also collaborated with all IP departments on a weekly subject content reading via class Padlets. Students read articles and view related videos to broaden & deepen their perspectives and to integrate learning across the different subjects.
@@ -126,9 +130,17 @@ Through inter-departmental collaborations, we aim to extend students’ learning
 
 **I.	Sec 1 Geography-Science-EL Inter-Disciplinary Project Work 2022**
 
+<a target="_blank" href="/images/English%20Language%20&%20Literature/02.png">
+<img src="/images/English%20Language%20&%20Literature/02.png" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
+</a>
+
 This year, we embarked on a level-wide Science-EL Project Work for our Sec 1 students. Students were guided in oral communication skills – e.g. preparing a script, accurate pronunciation, addressing the audience – for their Project Work class presentation, which formed part of their school-based assessment.
 
 **II.	Humanities-EL Learning Journeys 2022**
+
+<a target="_blank" href="/images/English%20Language%20&%20Literature/03.png">
+<img src="/images/English%20Language%20&%20Literature/03.png" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
+</a>
 
 As part of post-exam activities this year, we collaborated with the Humanities Department to organise Learning Journeys for Sec 1 and 2 students. Our Sec 1 StaRs had the chance to visit the Kranji War Memorial where they saw for themselves the 4,461 gravestones lined up proudly on a slope to honour the fallen heroes of WWII. Meanwhile, our Sec 2 StaRs enjoyed a scenic treetop walk enroute to the historic coastal fort of Fort Siloso where they learnt more about British defence of Southern Singapore during WWII. 
 
