@@ -107,3 +107,23 @@ description: ""
 |<b>Vocabulary | 1.     |Use metalanguage in building and using vocabulary|
 || 2.     |Demonstrate a rich vocabulary that supports the development of listening, reading, viewing, speaking, writing and representing skills|
 || 3.     |Use words appropriate for purpose, audience, context and culture|
+	
+##### 2022 Department Programme Highlights
+	
+###### READING PROGRAMME
+
+Our reading programme aims to develop good reading habits and instill lifelong passion for reading in our students.
+
+**I.	Read and SHINE daily morning reading programme**
+
+Through our morning reading programme, we cultivate a love of reading in our students, by balancing carefully between assigned reading materials and giving students a choice on what to read. 
+
+This year, we also collaborated with all IP departments on a weekly subject content reading via class Padlets. Students read articles and view related videos to broaden & deepen their perspectives and to integrate learning across the different subjects.
+
+###### INTER-DEPARTMENTAL COLLABORATIONS
+
+Through inter-departmental collaborations, we aim to extend students’ learning of English beyond the English classroom and provide students with authentic and varied language experiences.   
+
+**I.	Sec 1 Geography-Science-EL Inter-Disciplinary Project Work 2022**
+
+
