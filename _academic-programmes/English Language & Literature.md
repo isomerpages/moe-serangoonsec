@@ -95,12 +95,12 @@ description: ""
 || 3.     |Plan and present information and ideas for a variety of purposes|
 || 4.     |Use appropriate skills, strategies and language to convey and construct meaning during interactions|
 || 5.     |Produce spontaneous and planned spoken texts that are grammatically accurate, fluent, coherent and cohesive |
-|<b>Writing & Representing | 1.     |1.	Develop writing readiness and penmanship to write accurately and fluently in print and cursive script|
-|| 2.     |2.	Use accurate and consistent spelling|
-|| 3.     |3.	Generate and select ideas for writing and representing for a variety of purposes, audiences, contexts and cultures|
-|| 4.     |4.	Develop, organise and express ideas coherently and cohesively in writing and representing for a variety of purposes, audiences, contexts and cultures|
-|| 5.     |5.	Review, revise, proofread and edit to improve writing and representation|
-|| 6.     |6.	Produce a variety of texts for creative, personal, academic, and functional purposes, using an appropriate register and tone|
+|<b>Writing & Representing | 1.     |Develop writing readiness and penmanship to write accurately and fluently in print and cursive script|
+|| 2.     |Use accurate and consistent spelling|
+|| 3.     |Generate and select ideas for writing and representing for a variety of purposes, audiences, contexts and cultures|
+|| 4.     |Develop, organise and express ideas coherently and cohesively in writing and representing for a variety of purposes, audiences, contexts and cultures|
+|| 5.     |Review, revise, proofread and edit to improve writing and representation|
+|| 6.     |Produce a variety of texts for creative, personal, academic, and functional purposes, using an appropriate register and tone|
 |<b>Grammar | 1.     | Use metalanguage for learning and talking about language structures and language in use     |
 || 2.     | Apply knowledge of grammatical rules at word and phrase levels    |
 || 3.     | Apply knowledge of grammatical rules at sentence level   |
