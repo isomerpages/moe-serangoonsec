@@ -10,9 +10,9 @@ third_nav_title: Announcements
 
 | Date | Event ||
 | -------- | -------- | -------- |
-| 26/11/2022:     | [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/)    ||
-| 29/04/2022: | [2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/) |  |
+| 26/11/2022:     | [School Open House 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/) <b>(NEW!)</b>  ||
 | 04/05/2022:     | [Travel Declaration for 2022 Mid-Year Holidays](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/td-2022-mid/)   ||
+| 29/04/2022: | [2022 ICA NRIC Biometrics Registration](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/nric-biometrics-reg/) ||
 | 26/01/2022:     | [Staggered School Dismissal Timings on 31 Jan 2022](https://moe-serangoonsec-staging.netlify.app/announcements/announcements/staggered-dismissal-2022/)   ||
 | 12/01/2022:    | [2021 GCE O-Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/o-level-results/)
 
