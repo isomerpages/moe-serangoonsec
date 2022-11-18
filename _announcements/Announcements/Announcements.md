@@ -32,11 +32,4 @@ third_nav_title: Announcements
 | 21/05/2021:     |9.|[Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021](https://moe-serangoonsec-staging.netlify.app/announcements/extention-of-school-meal-subsidies-on-fas/)|
 | 17/05/2021:     |10.|[MOE: Full Home-Based Learning (HBL) from 19 May 2021 to 28 May 2021 for primary, secondary, JC and MI students](https://moe-serangoonsec-staging.netlify.app/announcements/full-hbl/)|
 | 14/05/2021:     |11.|[Travel Declaration for June Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-mye-holiday/)|
-
-
-##### 2021 Term 2 Letters to Parents and Guardians
-2021-03-30
-
-Dear Parents & Guardians
-
-The 2021 Term 2 Letters to Parents and Guardians for the Lower Secondary and Upper Secondary levels may be downloaded. [click here](https://moe-serangoonsec-staging.netlify.app/parents-and-students/letters-to-parent-and-guardians/)
+| 30/03/2021:     |11.|[2021 Term 2 Letters to Parents and Guardians](https://moe-serangoonsec-staging.netlify.app/parents-and-students/letters-to-parent-and-guardians/)|
