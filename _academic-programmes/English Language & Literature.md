@@ -81,13 +81,13 @@ description: ""
 
 | Area of Language Learning | | Learning Outcomes |
 | -------- | -------- | -------- |
-|<b> Listening & Viewing | 1.     | Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour     |
-|| 2.     | Develop listening and viewing skills for understanding by focusing on literal and inferential meaning    |
-|| 3.     | Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation    |
-|| 4.     | Listen to, view and respond to a variety texts    |
-|<b>Reading & Viewing | 1.     | Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour     |
-|| 2.     | Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning    |
-|| 3.     | Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement    |
+|<b> Listening & Viewing | 1.     |Demonstrate positive listening and viewing attitudes and behaviour by showing attentiveness and understanding|
+|| 2.     |Use appropriate skills and strategies to process meaning from texts|
+|| 3.     |Use appropriate skills and strategies to evaluate texts|
+|| 4.     |Listen to and view a variety of literary selections and informational/functional texts|
+|<b>Reading & Viewing | 1.     |Use reading readiness and word identification skills|
+|| 2.     |Process and comprehend age-/year level appropriate texts at literal and inferential levels|
+|| 3.     |Apply critical reading and viewing by focusing on implied meaning, higher-order thinking, judgement and evaluation|
 || 4.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
 |<b>Speaking & Representing | 1.     | Develop knowledge and awareness of the features of speaking and representing     |
 || 2.     | Develop accuracy and fluency in speaking and representing    |
