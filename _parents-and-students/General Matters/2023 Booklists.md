@@ -30,4 +30,4 @@ third_nav_title: General Matters
 
 ##### Secondary 5
 
-[Secondary 5 Normal (A) Booklist](/files/Booklists/Serangoon%20Secondary%20School%20Booklist%202023%20S5.pdf)
+[Secondary 5 Booklist](/files/Booklists/Serangoon%20Secondary%20School%20Booklist%202023%20S5.pdf)
