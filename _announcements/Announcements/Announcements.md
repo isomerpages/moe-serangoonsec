@@ -24,15 +24,8 @@ third_nav_title: Announcements
 | 17/12/2021:     |1.|[Information For Students Who Received 2021 GCE 'N' Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/) |
 | 29/11/2021:     |2.|[Reminder to Collect School Graduation Certificate (SGC) by 31 MARCH 2022](https://moe-serangoonsec-staging.netlify.app/announcements/graduation-certificate/)|
 | 29/10/2021:     |3.|[Sale of Books and Uniforms 2021](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform/)|
+| 20/09/2021:     |4.|[Travel Declaration for Year-End Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-eoy-hol/)|
 
-
-##### Travel Declaration for Year-End Holidays
-2021-09-20
-
-Dear Parent/Guardian,
-
-To ensure schools continue to be a healthy and safe environment for all, we require parents/guardians to make **a travel declaration for your child/ward**... <br>
-[click here to read more](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-eoy-hol/)
 
 ##### Caring Teacher Awards (CTA) 2022
 2021-09-14
