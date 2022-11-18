@@ -26,14 +26,8 @@ third_nav_title: Announcements
 | 29/10/2021:     |3.|[Sale of Books and Uniforms 2021](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform/)|
 | 20/09/2021:     |4.|[Travel Declaration for Year-End Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-eoy-hol/)|
 | 14/09/2021:     |5.|[Caring Teacher Awards (CTA) 2022](https://moe-serangoonsec-staging.netlify.app/announcements/caring-teacher-award-2022/)|
+| 30/08/2021:     |6.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
 
-##### MOE Parent Kit Journeying Through Challenging Times, Together
-2021-08-30
-
-Dear Parents/Guardians,
-
-We go through both ups and downs with our children. What matters most is that we are there to journey with them - whether it be celebrating with them in their moments of joy.... <br>
-[click to read more](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit)
 
 ##### Character Awards 2021
 2021-07-12 <br>
