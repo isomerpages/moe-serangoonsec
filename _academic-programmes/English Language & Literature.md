@@ -120,7 +120,7 @@ Through our morning reading programme, we cultivate a love of reading in our stu
 
 This year, we also collaborated with all IP departments on a weekly subject content reading via class Padlets. Students read articles and view related videos to broaden & deepen their perspectives and to integrate learning across the different subjects.
 
-###### INTER-DEPARTMENTAL COLLABORATIONS
+**INTER-DEPARTMENTAL COLLABORATIONS**
 
 Through inter-departmental collaborations, we aim to extend students’ learning of English beyond the English classroom and provide students with authentic and varied language experiences.   
 
