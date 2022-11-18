@@ -136,7 +136,7 @@ Armed with their mobile devices, our StaRs vlogged their experience as they expl
 	
 **TALENT DEVELOPMENT & ENRICHMENT PROGRAMMES
 
-I.	Online Singapore Secondary School Debating Championship 2022**
+**I.	Online Singapore Secondary School Debating Championship 2022**
 	
 A small group of students with a passion for debating is trained every year for the Singapore Secondary School Debating Championship. This year, we ranked 11th out of 26 schools that took part in Division III of the championship. One of our students also emerged among the Top 20 Speakers in the division. 
 
