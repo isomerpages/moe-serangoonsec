@@ -189,7 +189,7 @@ The trip was intended for our Secondary 3 students who study Elective History an
 <img src="/images/awareness2.gif" 
      style="width:75%">
 
-#### Team
+##### Department Members
 
 | Humanities Department |  |
 |:---:|:---:|
