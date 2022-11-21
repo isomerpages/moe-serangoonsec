@@ -5,7 +5,8 @@ description: ""
 ---
 ### Humanities
 
-![](/images/Humanities%20Department%202014%20updated.jpg)
+
+<img src="/images/Humanities%20Department%202014%20updated.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 #### Humanities Curriculum Innovations
 SSSnap – card game created by the department to allow the students to understand political cartoons better.
@@ -196,4 +197,4 @@ The trip was intended for our Secondary 3 students who study Elective History an
 | Subject Head:  | Sabrina Teo (Geography)  |
 | School Staff Developer: | Jeff Mak Ka Fai (SS)  |
 | Members: | Cheryl Lau (Geog/Lit) <br>Daniel Fung (History/SS) <br>Gloria Lim (SS/EL)<br>Goh Ling Pin (Geo/EL) <br>Michael Francis Chow (Hist/Geo)<br>Ng Xuemin (Hist/Math) <br>Nur Ashirah (Geo/EL) <br>Timothy Liew (Geog/SS)<br>Timotty Tay (Hist/SS) <br>Yee Liang Chien Matt (SS/EL) <br> Charlene Lim (EL/SS) <br>Jasmine Chan (FCE/Geo)<br>Lim Pei Yee (EL/SS) <br>Sheryl Lim (EL/Geo) <br>Siti Sufiana (EL/SS) |
-|  
+|
