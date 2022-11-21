@@ -4,9 +4,11 @@ permalink: /academic-programmes/Science/learning-journeys-workshops/
 description: ""
 third_nav_title: Science
 ---
-
-
 ### Secondary 2 Science Learning Journey – Visit to Kok Fah Farm
+
+
+![](/images/Visit%20to%20Kok%20Fah%20Farm%202022/01.png)
+
 
 As part of the Learning Week activities in Term 4, our Secondary 2 students visited Kok Fah farm, which practises high-tech agriculture.
 
