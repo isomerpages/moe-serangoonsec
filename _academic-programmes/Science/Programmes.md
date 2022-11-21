@@ -42,6 +42,8 @@ The inaugural Science Garden Enrichment Programme was implemented in 2022 and ha
 
 *“I have learnt that Singapore imports 90% of food from overseas. Singapore is trying to grow our own food by 30%. I want to grow more plants outside my house and try out the easy-to-grow plants.”* **- Prytiqa Hafiza Binte Muhammad Nazri, 2I4**
 
+**Click on the thumbnails below to see our students in action!**
+
 <table>
   <tr>
     <td><a target="_blank" href="/images/Science%20Garden%20Enrichment%202022/01.png">
