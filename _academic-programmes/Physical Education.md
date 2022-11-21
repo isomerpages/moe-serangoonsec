@@ -25,7 +25,8 @@ To nurture lifeskills and values through a love for physical activities in each 
 * Every StaR to display values and uphold character in sports.
 
 ##### Physical Education Programme
-![](/images/PE02.jpg)
+
+<img src="/images/PE02.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 The purpose of Physical Education is to enable students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living. Through our PE programme, StaRs will be equipped with the knowledge and skills to play seven sports by the time they graduate. They will also learn about health and fitness management, healthy eating, and weight management as well as taking responsibility of their own safety in physical activities under the Physical Health and Fitness component. In Outdoor Education, students engage their sense of adventure through exploration of both natural and urban environments in their immediate surroundings.  
 
