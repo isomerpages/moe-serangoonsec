@@ -11,9 +11,9 @@ description: ""
 
 
 
-|||
+|Designation | Name |
 | -------- | -------- |
-|<b>Head Of Department (HOD)<b>|Mr Christopher Tan <br>(History / Social Studies)|
+|<b>Head Of Department (HOD)</b>|Mr Christopher Tan <br>(History / Social Studies)|
 |<b>Subject Head (SH)<b>|Ms Sabrina Teo <br>(Geography)|
 |<b>Teachers<b>|Mr Jeff Mak Ka Fai <br>(Social Studies)|
 ||Ms Cheryl Lau <br>(Geography / Literature)|
@@ -30,6 +30,7 @@ description: ""
 ||Ms Lim Pei Yee <br>(English Language / Social Studies)|
 ||Ms Sheryl Lim <br>(English Language / Geography)|
 ||Ms Siti Nur Sufiana Binte Hashim <br>(English Language / Social Studies)|
+
 <hr>
 
 #### Humanities Curriculum Innovations
