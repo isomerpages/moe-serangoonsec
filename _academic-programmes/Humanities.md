@@ -14,9 +14,22 @@ description: ""
 |||
 | -------- | -------- |
 |<b>Head Of Department (HOD)|Mr Christopher Tan (History / Social Studies)|
-|<b>Subject Head (SH)|Ms Sabrina Teo (Geography))|
-
-
+|<b>Subject Head (SH)|Ms Sabrina Teo (Geography)|
+|<b>Teachers|Mr Jeff Mak Ka Fai (Social Studies)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Mr Daniel Fung (History / Social Studies)|
+||Ms Gloria Lim (Social Studies / English Language)|
+||Mr Goh Ling Pin (Geography / English Language)|
+||Mr Michael Francis Chow (History / Geography)|
+||Ms Ng Xuemin (History / Mathematics)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
+||Ms Cheryl Lau (Geography / Literature)|
 <hr>
 
 #### Humanities Curriculum Innovations
