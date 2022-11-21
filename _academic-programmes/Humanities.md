@@ -9,8 +9,6 @@ description: ""
 
 #### Department Members
 
-
-
 |Designation | Name |
 | -------- | -------- |
 |<b>Head Of Department (HOD)</b>|Mr Christopher Tan <br>(History / Social Studies)|
