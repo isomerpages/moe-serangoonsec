@@ -3,19 +3,23 @@ collections:
     output: true
     order:
       - Announcements/.keep
-      - Announcements/Announcements.md
-      - Announcements/Information For Students Who Received 2021 GCE 'N' Level
-        Results.md
+      - Announcements/Event List.md
+      - Announcements/School Open House 2022.md
+      - Announcements/Sale of Books and Uniforms 2023.md
+      - Announcements/Travel Declaration for 2022 Mid Year Holidays.md
+      - Announcements/2022 ICA NRIC Biometrics Registration.md
+      - Announcements/Staggered School Dismissal Timings on 31 Jan 2022.md
       - Announcements/2021 GCE O Level Results.md
       - Announcements/Positive Parenting Programme (TripleP) webinars.md
+      - Announcements/Information For Students Who Received 2021 GCE 'N' Level
+        Results.md
       - Announcements/School Graduation Certificate.md
-      - Announcements/Sales of book and uniforms.md
+      - Announcements/Sales of Books and Uniforms.md
       - Announcements/Travel Declaration for Year End Holidays.md
       - Announcements/Caring Teacher Award 2022.md
+      - Announcements/Arrangements for school reopening in term 3.md
       - Announcements/MOE Parent Kit Journeying Through Challenging Times
         Together.md
-      - Announcements/Character Awards 2021.md
-      - Announcements/Arrangements for school reopening in term 3.md
       - Announcements/Parent kit Bonding over the holidays.md
       - Announcements/Covid 19 Vaccination Exercise for Students.md
       - Announcements/Extension of School Meal Subsidies to Students on FAS

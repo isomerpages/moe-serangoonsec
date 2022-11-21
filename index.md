@@ -4,7 +4,7 @@ title: Serangoon Secondary School
 description: Secondary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: ":: Welcome to Serangoon Secondary School! ::"
 sections:
   - hero:
       key_highlights:
@@ -17,7 +17,11 @@ sections:
         - title: Latest Happenings
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
-      background: /images/hero_banner_sch_front_v3.png
+      title: You're invited to our Open House!
+      subtitle: Click below to find out more.
+      url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
+      button: Open House 2022
+      background: /images/sch_banner_v2.png
   - infobar:
       title: Parents' Space
       button: More info

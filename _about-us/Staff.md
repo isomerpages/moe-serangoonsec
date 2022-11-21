@@ -8,30 +8,30 @@ description: ""
 
 | Name  | Designation |
 |---|---|
-| Ms Faith Wong-Yeo Sok Yee | HOD/Character & Citizenship Education |
-| Ms Teo Wei Ping Sabrina | HOD/Educational Support |
-| Mdm Azrina Bte Md Salleh | HOD/English Language & Literature |
-| Mr Christopher Tan | HOD/Humanities |
-| Mdm Koh Poh Ling | HOD/Mathematics |
-| Ms Liam Hsiao Wen | HOD/Mother Tongue Languages |
-| Mdm Goh Sze Wei | HOD/Physical Education & Co-Curricular Activities |
-| Ms Ong Meixue Michelle | HOD/Science |
+| Ms Faith Wong-Yeo Sok Yee | HOD / Character & Citizenship Education |
+| Ms Teo Wei Ping Sabrina | HOD / Educational Support |
+| Mdm Azrina Bte Md Salleh | HOD / English Language & Literature |
+| Mr Christopher Tan | HOD / Humanities |
+| Mdm Koh Poh Ling | HOD / Mathematics |
+| Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
+| Mdm Goh Sze Wei | HOD / Physical Education & Co-Curricular Activities |
+| Ms Ong Meixue Michelle | HOD / Science |
 | Mdm Low Siew Ping | Year Head (Lower Sec) |
 | Mdm Cindy Lum | Year Head (Upper Sec)  |
 | Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2)  |
 | Ms Lee Zhi Li | Assistant Year Head (Sec 3)  |
-| Mr Koh Sien Kok Dennis | SH/Character & Citizenship Education |
-| Ms Fu Shin Hui | SH/Chemistry |
-| Ms Guo Kaiqi Jenny | SH/Chinese Language |
-| Mr Kng Zhiying | SH/Design & Technology |
-| Mr Kamal Bin Jupri | SH/Educational Support  |
-| Mr Vincent Wong | SH/English Language |
-| Mr Adrial Tan Chong Jin  | SH/Information & Communications Technology  |
-| Ms Ong Rui Yun Jean | SH/Literature |
-| Mr Heng Tze Wei | SH/Mathematics |
-| Ms Teo Zhi Hui Geraldine | SH/Physical Education & Co-Curricular Activities |
-| Mr Yan Tuck Poh | SH/Student Management |
-| Ms Moritza Lim Fang Min | SH/Student Well-Being |
+| Mr Koh Sien Kok Dennis | SH / Character & Citizenship Education |
+| Ms Fu Shin Hui | SH / Chemistry |
+| Ms Guo Kaiqi Jenny | SH / Chinese Language |
+| Mr Kng Zhiying | SH / Design & Technology |
+| Mr Kamal Bin Jupri | SH / Educational Support  |
+| Mr Vincent Wong | SH / English Language |
+| Mr Adrial Tan Chong Jin  | SH / Information & Communications Technology  |
+| Ms Ong Rui Yun Jean | SH / Literature |
+| Mr Heng Tze Wei | SH / Mathematics |
+| Ms Teo Zhi Hui Geraldine | SH / Physical Education & Co-Curricular Activities |
+| Mr Yan Tuck Poh | SH / Student Management |
+| Ms Moritza Lim Fang Min | SH / Student Well-Being |
 
 #### Classes and Form Teachers 2022
 

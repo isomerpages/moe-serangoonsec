@@ -1,9 +1,10 @@
 ---
-title: Sales of book and uniforms
+title: Sales of Books and Uniforms
 permalink: /announcements/book-and-uniform/
 description: ""
 third_nav_title: Announcements
 ---
+
 
 ### Sale of Books and Uniforms
 
