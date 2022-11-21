@@ -12,7 +12,7 @@ Through the visit, it was envisioned that students could learn more about effort
 
 As part of the visit, the students were brought on a tour to a greenhouse where research and development into various crops was carried out. The students also tried their hands at planting their own pots of microgreens.
 
-**Click on the thumbnails below to see our students in action!**
+**Click on the thumbnails below to see our StaRs in action!**
 
 <table>
   <tr>
@@ -47,7 +47,7 @@ The workshop aims to allow students to apply scientific content learnt during th
 
 In the workshop, students first learnt about molluscs, their anatomical features, and the important role that they play in the ecosystem. Next, they got the chance to try dissecting squids, while learning more about the various parts of the squid in the process.
 
-**Click on the thumbnails below to see our students in action!**
+**Click on the thumbnails below to see our StaRs in action!**
 
 <table>
   <tr>
