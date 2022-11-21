@@ -11,15 +11,15 @@ description: ""
 
 <table>
   <tr>
-    <td><b>HOD</b></td>
+    <td><b>Head Of Department</b></td>
     <td>Mdm Koh Poh Ling</td>
   </tr>
  <tr>
-    <td><b>MTT</b></td>
+    <td><b>Master Teacher</b></td>
     <td>Dr Foo Kum Fong</td>
   </tr>
  <tr>
-    <td><b>SH</b></td>
+    <td><b>Subject Head</b></td>
     <td>Mr Heng Tze Wei</td>
   </tr>
  <tr>
