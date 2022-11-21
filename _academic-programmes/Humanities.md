@@ -197,11 +197,11 @@ As a present from students from all our schools to Singapore for her 50th birth
 
 Our school is proud to be part of the SG50 e-book project. The team of students that have created this section of the E-book was mentored and guided by the Humanities Department. The details of the E-book are as follows:
 
-Theme : Memorable Spaces
+**Theme :** Memorable Spaces
 
-Decade : 1975-1984
+**Decade :** 1975-1984
 
-Topic : Creation of Hougang New Town
+**Topic :** Creation of Hougang New Town
 
 You may access our school’s contribution via the following link :
 
@@ -268,12 +268,4 @@ The trip was intended for our Secondary 3 students who study Elective History an
 <img src="/images/awareness2.gif" 
      style="width:75%">
 
-##### Department Members
-
-| Humanities Department |  |
-|:---:|:---:|
-| <b>Head of Department: | Christopher Tan (History/SS) |
-| <b>Subject Head:  | Sabrina Teo (Geography)  |
-| <b>School Staff Developer: | Jeff Mak Ka Fai (SS)  |
-| <b>Members: | Cheryl Lau (Geog/Lit) <br>Daniel Fung (History/SS) <br>Gloria Lim (SS/EL)<br>Goh Ling Pin (Geo/EL) <br>Michael Francis Chow (Hist/Geo)<br>Ng Xuemin (Hist/Math) <br>Nur Ashirah (Geo/EL) <br>Timothy Liew (Geog/SS)<br>Timotty Tay (Hist/SS) <br>Yee Liang Chien Matt (SS/EL) <br> Charlene Lim (EL/SS) <br>Jasmine Chan (FCE/Geo)<br>Lim Pei Yee (EL/SS) <br>Sheryl Lim (EL/Geo) <br>Siti Sufiana (EL/SS) |
-|
+<hr>
