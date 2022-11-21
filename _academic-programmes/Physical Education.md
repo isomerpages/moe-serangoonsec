@@ -7,19 +7,22 @@ description: ""
 
 ![](/images/Where%20star%20shine.jpg)
 
-###### Our Vision
-----------------------------------------------
+##### Our Vision
+<hr>
+
 Every StaR active and SHINE in Sport
 
-###### Our Mission
-----------------------------------------------
+##### Our Mission
+<hr>
+
 To nurture lifeskills and values through a love for physical activities in each StaR
 
-###### Our Goals
-----------------------------------------------
-Every StaR to adopt a healthy lifestyle.<br>
-Every StaR to demonstrate physical skills competently.<br>
-Every StaR to display values and uphold character in sports.
+##### Our Goals
+<hr>
+
+* Every StaR to adopt a healthy lifestyle.
+* Every StaR to demonstrate physical skills competently.
+* Every StaR to display values and uphold character in sports.
 
 ##### Physical Education Programme
 ![](/images/PE02.jpg)
