@@ -5,8 +5,9 @@ description: ""
 ---
 ### Mathematics
 
-##### Department Members
-![](/images/Name%20List%20of%20Math%20Dept_06.jpg)
+<img src="/images/maths_house3.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+
+#### Department Members
 
 <table>
   <tr>
@@ -71,46 +72,41 @@ description: ""
   </tr>
  <tr>
     <td><b></b></td>
-    <td>M</td>
+    <td>Ms Ng Xuemin</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mr Dennis Koh (SH / CCE)</td>
+    <td>Ms Ang Chian Huey</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Lim Yu Xin Sheryl</td>
+    <td>Ms Tan Kai Ling Sharon</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Mr Tan Kian Chong</td>
+    <td>Ms Koh Mui Hong</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Mr Sam Chee Fai</td>
+    <td>Mr A Jaisavarana</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Ms Lim Pei Jun Candice</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Phong Aihui Ivy</td>
+    <td>Mdm Nurazlina Binte Samadi</td>
   </tr>
 </table>
 
-
-
-
-<img src="/images/maths_house3.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+<hr>
 
 #### Our Vision
 Every student is passionate about Mathematics
+<hr>
 
 #### Our Mission
 *   To provide a level of mastery in Mathematics for all students that will serve them well in life  
     
 *   To enable students with interest and ability to pursue Mathematics at the highest possible level
+<hr>
 
 #### Our Curriculum
 ###### Key Objectives
@@ -125,12 +121,15 @@ The department places a strong emphasis on how students learn. We believe in pro
 *   Use of ICT to facilitate the learning of concepts and skills 
 *   Relating Mathematics to the real world context 
 *   Learning of Mathematics in a fun way
+<hr>
 
-#### Our support for students learning Mathematics in Serangoon Secondary School
+#### Our Support for Students Learning Mathematics
+
 * Mastery Learning Programme
 * Foundation Mathematics Bridging Programme
 * SBB/OOS Bridging Programme
 * Secondary 1 Math Games Day
+<hr>
 
 #### Our Programme Highlights
 
@@ -146,16 +145,20 @@ Students applying their learning of Mathematical concepts by playing the Mathema
 
 ![](/images/programme_05.jpg)
 ![](/images/programme_06.jpg)
-Students apply their learning in Mathematics by solving problem in real-life using household objects and stationary through their performance tasks,
+Students apply their learning in Mathematics by solving problem in real-life using household objects and stationary through their performance tasks.
+<hr>
 
 #### Principles of Accounts (POA)
 ##### Introduction
 Principles of Accounts introduces students to the world of business. Students will learn the basics of financial accounting and develop their abilities to prepare and analyse accounting information to provide insights about the performance and position of a business as well as to communicate and use the information for decision-making. In the learning process, students will also realise the importance of professional ethics in the business environment. These thinking skills, values and approaches to problem solving are enduring and valuable for any field of work that the students may endeavour to undertake in an increasingly complex world.
+<hr>
 
-##### Our support for students learning POA in Serangoon Secondary School
+##### Our Support for Students Learning POA
+
 Students will learn POA through a variety of experiences such as:
 * Mastery Learning Programme
 * Hands-on activities
 * Reading of articles
 * Working collaboratively
 * Learning through videos
+<hr>
