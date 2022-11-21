@@ -13,23 +13,23 @@ description: ""
 
 |||
 | -------- | -------- |
-|<b>Head Of Department (HOD)|Mr Christopher Tan (History / Social Studies)|
-|<b>Subject Head (SH)|Ms Sabrina Teo (Geography)|
-|<b>Teachers|Mr Jeff Mak Ka Fai (Social Studies)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Mr Daniel Fung (History / Social Studies)|
-||Ms Gloria Lim (Social Studies / English Language)|
-||Mr Goh Ling Pin (Geography / English Language)|
-||Mr Michael Francis Chow (History / Geography)|
-||Ms Ng Xuemin (History / Mathematics)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
-||Ms Cheryl Lau (Geography / Literature)|
+|<b>Head Of Department (HOD)|Mr Christopher Tan <br>(History / Social Studies)|
+|<b>Subject Head (SH)|Ms Sabrina Teo <br>(Geography)|
+|<b>Teachers|Mr Jeff Mak Ka Fai <br>(Social Studies)|
+||Ms Cheryl Lau <br>(Geography / Literature)|
+||Mr Daniel Fung <br>(History / Social Studies)|
+||Ms Gloria Lim <br>(Social Studies / English Language)|
+||Mr Goh Ling Pin <br>(Geography / English Language)|
+||Mr Michael Francis Chow <br>(History / Geography)|
+||Ms Ng Xuemin <br>(History / Mathematics)|
+||Ms Nur Ashirah Binte Nordali <br>(Geography / English Language)|
+||Mr Timothy Liew <br>(Geography / Social Studies)|
+||Mr Timotty Tay <br>(History / Social Studies)|
+||Mr Yee Liang Chien Matt <br>(Social Studies / English Language)|
+||Ms Charlene Lim <br>(English Language / Social Studies)|
+||Ms Lim Pei Yee <br>(English Language / Social Studies)|
+||Ms Sheryl Lim <br>(English Language / Geography)|
+||Ms Siti Nur Sufiana Binte Hashim <br>(English Language / Social Studies)|
 <hr>
 
 #### Humanities Curriculum Innovations
