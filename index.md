@@ -34,8 +34,4 @@ sections:
       title: Teachers' Space
       button: More info
       url: /more-information-teachers/quick-links/
-  - resources:
-      title: SRSS @ SocMed
-      subtitle: SRSS @ Social Media
-      button: FB
 ---
