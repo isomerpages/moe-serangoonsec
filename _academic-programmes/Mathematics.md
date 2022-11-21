@@ -5,7 +5,7 @@ description: ""
 ---
 ### Mathematics
 
-![](/images/maths_house3.jpg)
+<img src="/images/maths_house3.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 #### Our Vision
 Every student is passionate about Mathematics
