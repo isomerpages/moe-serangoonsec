@@ -9,76 +9,13 @@ description: ""
 
 #### Department Members
 
-<table>
-  <tr>
-    <td><b>Head Of Department (HOD)</b></td>
-    <td>Mr Christopher Tan (History / Social Studies)</td>
-  </tr>
- <tr>
-    <td><b>Subject Head (SH)</b></td>
-    <td>Ms Sabrina Teo (Geography)</td>
 
- <tr>
-    <td><b>Teachers</b></td>
-    <td>Mr Jeff Mak Ka Fai (Social Studies)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Cheryl Lau (Geography / Literature)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Daniel Fung (History / Social Studies)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Gloria Lim (Social Studies / English Language)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Goh Ling Pin (Geography / English Language)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Michael Francis Chow (History / Geography)</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Ng Xuemin (History / Mathematics)</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Nur Ashirah Binte Nordali (Geography / English Language)</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mr Timothy Liew (Geography / Social Studies)</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mr Timotty Tay (History / Social Studies)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Yee Liang Chien Matt (Social Studies / English Language)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Charlene Lim (English Language / Social Studies)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Lim Pei Yee (English Language / Social Studies)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Sheryl Lim (English Language / Geography)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Siti Nur Sufiana Binte Hashim (English Language / Social Studies)</td>
-  </tr>
-</table>
+
+|||
+| -------- | -------- |
+|<b>Head Of Department (HOD)|Mr Christopher Tan (History / Social Studies)|
+|<b>Subject Head (SH)|Ms Sabrina Teo (Geography))|
+
 
 <hr>
 
