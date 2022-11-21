@@ -20,7 +20,7 @@ description: ""
 
  <tr>
     <td><b>Teachers</b></td>
-    <td>Mr Jeff Mak Ka Fai (SS)</td>
+    <td>Mr Jeff Mak Ka Fai (Social Studies)</td>
   </tr>
  <tr>
     <td><b></b></td>
@@ -28,15 +28,15 @@ description: ""
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mr Kamal Bin Jupri (SH / Educational Support)</td>
+    <td>Mr Daniel Fung (History / Social Studies)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Lee Zhi Li (AYH)</td>
+    <td>Ms Gloria Lim (Social Studies / English Language)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mr Dennis Koh (SH / CCE)</td>
+    <td>Mr Goh Ling Pin (Geography / English Language)</td>
   </tr>
  <tr>
     <td><b></b></td>
