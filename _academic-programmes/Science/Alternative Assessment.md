@@ -47,7 +47,7 @@ The lessons and assessment was designed based on e-pedagogy. In groups, students
 
 By using authentic learning in the Alternative Assessment, the learning experience of students was enhanced as they were intrinsically motivated to learn and apply what they have learnt.
 
-**Click on the thumbnails below to see our students in action!**
+**Click on the thumbnails below to see our StaRs in action!**
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ The Sec 3 Physics students were tasked to work together in groups to design and 
 
 This task has helped to provide opportunities for students to work collaboratively with others and enhance their content mastery and problem-solving skills.
 
-**Click on the thumbnails below to see our students' work!**
+**Click on the thumbnails below to see our StaRs' work!**
 
 <table>
   <tr>
