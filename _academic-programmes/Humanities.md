@@ -7,21 +7,17 @@ description: ""
 
 <img src="/images/Humanities%20Department%202014%20updated.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
-##### Department Members
+#### Department Members
 
 <table>
   <tr>
-    <td><b>HOD</b></td>
-    <td>Mdm Koh Poh Ling</td>
+    <td><b>Head Of Department (HOD)</b></td>
+    <td>Mr Christopher Tan (History / SS)</td>
   </tr>
  <tr>
-    <td><b>MTT</b></td>
-    <td>Dr Foo Kum Fong</td>
-  </tr>
- <tr>
-    <td><b>SH</b></td>
-    <td>Mr Heng Tze Wei</td>
-  </tr>
+    <td><b>Subject Head (SH)</b></td>
+    <td>Ms Sabrina Teo (Geography)</td>
+
  <tr>
     <td><b>Teachers</b></td>
     <td>Mrs Faith Wong Yeo Sok Yee (HOD CCE)</td>
