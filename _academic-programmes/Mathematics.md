@@ -5,98 +5,6 @@ description: ""
 ---
 ### Mathematics
 
-<img src="/images/maths_house3.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-
-#### Department Members
-
-<table>
-  <tr>
-    <td><b>Head Of Department</b></td>
-    <td>Mdm Koh Poh Ling</td>
-  </tr>
- <tr>
-    <td><b>Master Teacher</b></td>
-    <td>Dr Foo Kum Fong</td>
-  </tr>
- <tr>
-    <td><b>Subject Head</b></td>
-    <td>Mr Heng Tze Wei</td>
-  </tr>
- <tr>
-    <td><b>Teachers</b></td>
-    <td>Mrs Faith Wong Yeo Sok Yee (HOD CCE)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mdm Low Siew Ping (YH / Lower Secondary)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Kamal Bin Jupri (SH / Educational Support)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Lee Zhi Li (AYH)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Dennis Koh (SH / CCE)</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Lim Yu Xin Sheryl</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mr Tan Kian Chong</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mr Sam Chee Fai</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Lim Pei Jun Candice</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Phong Aihui Ivy</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Muhammad Bin Roslee</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Kwek Cher Wei Dennis</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Ng Xuemin</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Ang Chian Huey</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Tan Kai Ling Sharon</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Koh Mui Hong</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mr A Jaisavarana</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mdm Nurazlina Binte Samadi</td>
-  </tr>
-</table>
-
-<hr>
 
 #### Our Vision
 Every student is passionate about Mathematics
@@ -109,18 +17,25 @@ Every student is passionate about Mathematics
 <hr>
 
 #### Our Curriculum
-###### Key Objectives
-*   Enable students to acquire mathematical concepts and skills
-*   Develop cognitive and meta cognitive skills (Processes, self-directed learning)
-*   Develop positive attitudes towards Mathematics (confidence, interest, appreciation, perseverance)
+##### Key Objectives
+* Enable students to acquire mathematical concepts and skills
 
-###### Learning Experience
-The department places a strong emphasis on how students learn. We believe in providing Learning Experiences in Mathematics through
-*   Inductive approach in discovering mathematical concepts and skills  
-    
-*   Use of ICT to facilitate the learning of concepts and skills 
-*   Relating Mathematics to the real world context 
-*   Learning of Mathematics in a fun way
+* Develop cognitive and metacognitive skills (Processes, self-directed learning)
+
+* Develop positive attitudes towards Mathematics (confidence, interest, appreciation, perseverance, beliefs)
+
+
+#### Learning Experience
+The department places a strong emphasis on how students learn. We believe in providing Learning Experiences in Mathematics through:
+
+* Inductive approach in discovering mathematical concepts and skills
+
+* e-Pedagogy 
+
+* Relating Mathematics to the real-world context 
+
+* Learning of Mathematics in a fun way
+
 <hr>
 
 #### Our Support for Students Learning Mathematics
@@ -128,7 +43,7 @@ The department places a strong emphasis on how students learn. We believe in pro
 * Mastery Learning Programme
 * Foundation Mathematics Bridging Programme
 * SBB/OOS Bridging Programme
-* Secondary 1 Math Games Day
+* Secondary 1 Math Learning Day
 <hr>
 
 #### Our Programme Highlights
