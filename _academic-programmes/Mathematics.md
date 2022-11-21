@@ -5,6 +5,17 @@ description: ""
 ---
 ### Mathematics
 
+##### Department Members
+![](/images/Name%20List%20of%20Math%20Dept_06.jpg)
+
+
+
+| HOD / Mathematics | Mdm Koh Poh Ling |
+| -------- | -------- |
+| Text     | Text     |
+
+
+
 <img src="/images/maths_house3.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 #### Our Vision
@@ -28,9 +39,6 @@ The department places a strong emphasis on how students learn. We believe in pro
 *   Use of ICT to facilitate the learning of concepts and skills 
 *   Relating Mathematics to the real world context 
 *   Learning of Mathematics in a fun way
-
-#### Our Mathematics Department Team
-![](/images/Name%20List%20of%20Math%20Dept_06.jpg)
 
 #### Our support for students learning Mathematics in Serangoon Secondary School
 * Mastery Learning Programme
