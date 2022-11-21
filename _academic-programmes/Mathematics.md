@@ -49,6 +49,54 @@ description: ""
     <td><b></b></td>
     <td>Mr Tan Kian Chong</td>
   </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr Sam Chee Fai</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Lim Pei Jun Candice</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Phong Aihui Ivy</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Muhammad Bin Roslee</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Kwek Cher Wei Dennis</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>M</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Dennis Koh (SH / CCE)</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Lim Yu Xin Sheryl</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr Tan Kian Chong</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr Sam Chee Fai</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Lim Pei Jun Candice</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Phong Aihui Ivy</td>
+  </tr>
 </table>
 
 
