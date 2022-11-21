@@ -5,8 +5,98 @@ description: ""
 ---
 ### Humanities
 
-
 <img src="/images/Humanities%20Department%202014%20updated.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+
+##### Department Members
+
+<table>
+  <tr>
+    <td><b>HOD</b></td>
+    <td>Mdm Koh Poh Ling</td>
+  </tr>
+ <tr>
+    <td><b>MTT</b></td>
+    <td>Dr Foo Kum Fong</td>
+  </tr>
+ <tr>
+    <td><b>SH</b></td>
+    <td>Mr Heng Tze Wei</td>
+  </tr>
+ <tr>
+    <td><b>Teachers</b></td>
+    <td>Mrs Faith Wong Yeo Sok Yee (HOD CCE)</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mdm Low Siew Ping (YH / Lower Secondary)</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Kamal Bin Jupri (SH / Educational Support)</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Lee Zhi Li (AYH)</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Dennis Koh (SH / CCE)</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Lim Yu Xin Sheryl</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr Tan Kian Chong</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr Sam Chee Fai</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Lim Pei Jun Candice</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Phong Aihui Ivy</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Muhammad Bin Roslee</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Kwek Cher Wei Dennis</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Ng Xuemin</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Ang Chian Huey</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Tan Kai Ling Sharon</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Ms Koh Mui Hong</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr A Jaisavarana</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mdm Nurazlina Binte Samadi</td>
+  </tr>
+</table>
+
+<hr>
 
 #### Humanities Curriculum Innovations
 SSSnap – card game created by the department to allow the students to understand political cartoons better.
