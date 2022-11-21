@@ -4,8 +4,7 @@ permalink: /srss/announcements/
 description: ""
 third_nav_title: Announcements
 ---
-
-## Announcements
+### Event List
 
 ##### 2022 Events
 
