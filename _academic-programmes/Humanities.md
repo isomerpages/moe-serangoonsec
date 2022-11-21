@@ -12,7 +12,7 @@ description: ""
 <table>
   <tr>
     <td><b>Head Of Department (HOD)</b></td>
-    <td>Mr Christopher Tan (History / SS)</td>
+    <td>Mr Christopher Tan (History / Social Studies)</td>
   </tr>
  <tr>
     <td><b>Subject Head (SH)</b></td>
@@ -40,19 +40,19 @@ description: ""
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Lim Yu Xin Sheryl</td>
+    <td>Mr Michael Francis Chow (History / Geography)</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Mr Tan Kian Chong</td>
+    <td>Ms Ng Xuemin (History / Mathematics)</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Mr Sam Chee Fai</td>
+    <td>Ms Nur Ashirah Binte Nordali (Geography / English Language)</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Ms Lim Pei Jun Candice</td>
+    <td>Mr Timothy Liew</td>
   </tr>
 	<tr>
     <td><b></b></td>
