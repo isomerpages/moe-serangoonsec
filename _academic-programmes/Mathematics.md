@@ -23,27 +23,31 @@ description: ""
   </tr>
  <tr>
     <td><b>Teachers</b></td>
-    <td>Ms Chan Wei Meng</td>
+    <td>Mrs Faith Wong Yeo Sok Yee (HOD CCE)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Siti Nur Sufiana Hashim</td>
+    <td>Mdm Low Siew Ping (YH / Lower Secondary)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mdm Lim Pei Yee</td>
+    <td>Mr Kamal Bin Jupri (SH / Educational Support)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Charlene Lim</td>
+    <td>Ms Lee Zhi Li (AYH)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mr Lance Tan Yong-Wen</td>
+    <td>Mr Dennis Koh (SH / CCE)</td>
   </tr>
  <tr>
     <td><b></b></td>
     <td>Ms Lim Yu Xin Sheryl</td>
+  </tr>
+	<tr>
+    <td><b></b></td>
+    <td>Mr Tan Kian Chong</td>
   </tr>
 </table>
 
