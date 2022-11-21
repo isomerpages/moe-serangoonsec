@@ -20,11 +20,11 @@ description: ""
 
  <tr>
     <td><b>Teachers</b></td>
-    <td>Mrs Faith Wong Yeo Sok Yee (HOD CCE)</td>
+    <td>Mr Jeff Mak Ka Fai (SS)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mdm Low Siew Ping (YH / Lower Secondary)</td>
+    <td>Ms Cheryl Lau (Geography / Literature)</td>
   </tr>
  <tr>
     <td><b></b></td>
