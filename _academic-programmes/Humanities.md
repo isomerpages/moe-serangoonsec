@@ -60,35 +60,23 @@ description: ""
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mr Muhammad Bin Roslee</td>
+    <td>Mr Yee Liang Chien Matt (Social Studies / English Language)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mr Kwek Cher Wei Dennis</td>
+    <td>Ms Charlene Lim (English Language / Social Studies)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Ng Xuemin</td>
+    <td>Ms Lim Pei Yee (English Language / Social Studies)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Ang Chian Huey</td>
+    <td>Ms Sheryl Lim (English Language / Geography)</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Tan Kai Ling Sharon</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Ms Koh Mui Hong</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mr A Jaisavarana</td>
-  </tr>
-	<tr>
-    <td><b></b></td>
-    <td>Mdm Nurazlina Binte Samadi</td>
+    <td>Ms Siti Sufiana (English Language / Social Studies)</td>
   </tr>
 </table>
 
