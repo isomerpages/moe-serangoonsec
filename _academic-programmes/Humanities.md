@@ -13,9 +13,9 @@ description: ""
 
 |||
 | -------- | -------- |
-|<b>Head Of Department (HOD)|Mr Christopher Tan <br>(History / Social Studies)|
-|<b>Subject Head (SH)|Ms Sabrina Teo <br>(Geography)|
-|<b>Teachers|Mr Jeff Mak Ka Fai <br>(Social Studies)|
+|<b>Head Of Department (HOD)<b>|Mr Christopher Tan <br>(History / Social Studies)|
+|<b>Subject Head (SH)<b>|Ms Sabrina Teo <br>(Geography)|
+|<b>Teachers<b>|Mr Jeff Mak Ka Fai <br>(Social Studies)|
 ||Ms Cheryl Lau <br>(Geography / Literature)|
 ||Mr Daniel Fung <br>(History / Social Studies)|
 ||Ms Gloria Lim <br>(Social Studies / English Language)|
