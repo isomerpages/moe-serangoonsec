@@ -52,11 +52,11 @@ description: ""
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Mr Timothy Liew</td>
+    <td>Mr Timothy Liew (Geography / Social Studies)</td>
   </tr>
 	<tr>
     <td><b></b></td>
-    <td>Ms Phong Aihui Ivy</td>
+    <td>Mr Timotty Tay (History / Social Studies)</td>
   </tr>
  <tr>
     <td><b></b></td>
