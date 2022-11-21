@@ -8,11 +8,45 @@ description: ""
 ##### Department Members
 ![](/images/Name%20List%20of%20Math%20Dept_06.jpg)
 
+<table>
+  <tr>
+    <td><b>HOD</b></td>
+    <td>Mdm Koh Poh Ling</td>
+  </tr>
+ <tr>
+    <td><b>MTT</b></td>
+    <td>Dr Foo Kum Fong</td>
+  </tr>
+ <tr>
+    <td><b>SH</b></td>
+    <td>Mr Heng Tze Wei</td>
+  </tr>
+ <tr>
+    <td><b>Teachers</b></td>
+    <td>Ms Chan Wei Meng</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Siti Nur Sufiana Hashim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mdm Lim Pei Yee</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Charlene Lim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Lance Tan Yong-Wen</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Lim Yu Xin Sheryl</td>
+  </tr>
+</table>
 
-
-| HOD / Mathematics | Mdm Koh Poh Ling |
-| -------- | -------- |
-| Text     | Text     |
 
 
 
