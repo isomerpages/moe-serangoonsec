@@ -9,15 +9,15 @@ description: ""
 
 <table>
   <tr>
-    <td><b>HOD</b></td>
+    <td><b>Head Of Department (HOD)</b></td>
     <td>Ms Azrina Salleh</td>
   </tr>
  <tr>
-    <td><b>SH / EL</b></td>
+    <td><b>Subject Head (SH) / English Language</b></td>
     <td>Mr Vincent Wong</td>
   </tr>
  <tr>
-    <td><b>SH / Lit</b></td>
+    <td><b>Subject Head (SH) / Literature</b></td>
     <td>Ms Jean Ong Rui Yun</td>
   </tr>
  <tr>

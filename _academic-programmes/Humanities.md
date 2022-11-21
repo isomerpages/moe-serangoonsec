@@ -5,18 +5,44 @@ description: ""
 ---
 ### Humanities
 
-![](/images/Humanities%20Department%202014%20updated.jpg)
+<img src="/images/Humanities%20Department%202014%20updated.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+
+#### Department Members
+
+|Designation | Name |
+| -------- | -------- |
+|<b>Head Of Department (HOD)</b>|Mr Christopher Tan <br>(History / Social Studies)|
+|<b>Subject Head (SH)<b>|Ms Sabrina Teo <br>(Geography)|
+|<b>Teachers<b>|Mr Jeff Mak Ka Fai <br>(Social Studies)|
+||Ms Cheryl Lau <br>(Geography / Literature)|
+||Mr Daniel Fung <br>(History / Social Studies)|
+||Ms Gloria Lim <br>(Social Studies / English Language)|
+||Mr Goh Ling Pin <br>(Geography / English Language)|
+||Mr Michael Francis Chow <br>(History / Geography)|
+||Ms Ng Xuemin <br>(History / Mathematics)|
+||Ms Nur Ashirah Binte Nordali <br>(Geography / English Language)|
+||Mr Timothy Liew <br>(Geography / Social Studies)|
+||Mr Timotty Tay <br>(History / Social Studies)|
+||Mr Yee Liang Chien Matt <br>(Social Studies / English Language)|
+||Ms Charlene Lim <br>(English Language / Social Studies)|
+||Ms Lim Pei Yee <br>(English Language / Social Studies)|
+||Ms Sheryl Lim <br>(English Language / Geography)|
+||Ms Siti Nur Sufiana Binte Hashim <br>(English Language / Social Studies)|
+
+<hr>
 
 #### Humanities Curriculum Innovations
-SSSnap – card game created by the department to allow the students to understand political cartoons better.
+**SSSnap** – card game created by the department to allow the students to understand political cartoons better.
 
 ![](/images/poster%20sssnap%20final.jpg)
 
-Geography Blog - Our Education Minister, Mr Heng Swee Keat, mentioned in his opening speech in the Humanities Conference 2012 on the use of blogs as a curriculum innovation in the teaching of the Humanities.
+**Geography Blog** - Our Education Minister, Mr Heng Swee Keat, mentioned in his opening speech in the Humanities Conference 2012 on the use of blogs as a curriculum innovation in the teaching of the Humanities.
 
 ![](/images/poster%20blog%20final.jpg)
 
 **‘The Serangoon View’** (theserangoonview.wordpress.com) is initiated by our Geography Unit. It provides various links to our curriculum topics and opened up our Geographical views beyond classrooms, through each link.
+
+<hr>
 
 #### Humanities Games
 The Humanities Board Game was created to infuse the fun element into learning. The games allow students to apply critical thinking skills, revise and apply the knowledge they have learned and most importantly, have fun while learning.
@@ -25,8 +51,9 @@ The Humanities Board Game was created to infuse the fun element into learning. T
 
 #### Competitions
 The department believes in sending students for Humanities competitions so as to stretch their potential.
+<hr>
 
-##### National Stamp Collecting Competition
+#### National Stamp Collecting Competition
 As a department effort, teachers and students work hand-in-hand to take part in the National Stamp Collecting Competition. This competition gave students opportunities to explore the culture and the history behind the stamps of different countries. Secondary Three students were identified and given the opportunity to learn more about concepts in the humanities as they explored ideas and crafted a narrative with the use of stamps and other philatelic materials. The students were exposed to a rich world outside of their usual classroom environment. As a result of both the students’ and teacher’s dedication, Serangoon Secondary School emerged the national champion of this competition for the third year!
 
 2017: 2 Gold with Special Prize, 1 Silver with Special Prize and 2 Silver<br>
@@ -34,8 +61,9 @@ As a department effort, teachers and students work hand-in-hand to take part in 
 2019: 2 Gold with Special Prize, 1 Gold, 1 Silver with Prize, 1 Silver
 
 ![](/images/nscc.gif)
+<hr>
 
-##### National Earthquake Competition
+#### National Earthquake Competition
 
 Organised by Singapore Polytechnic, School of Architecture and the Built Environment
 
@@ -51,6 +79,7 @@ Photos: Our participants hard at work to build their model.
 
 ![](/images/Comp_05.jpg)
 Some of the models showcased by other schools.
+<hr>
 
 ##### NUS Geography Challenge 2019 – Semi finalists
 Organised by Geography Department, National University of Singapore
@@ -117,11 +146,11 @@ As a present from students from all our schools to Singapore for her 50th birth
 
 Our school is proud to be part of the SG50 e-book project. The team of students that have created this section of the E-book was mentored and guided by the Humanities Department. The details of the E-book are as follows:
 
-Theme : Memorable Spaces
+**Theme :** Memorable Spaces
 
-Decade : 1975-1984
+**Decade :** 1975-1984
 
-Topic : Creation of Hougang New Town
+**Topic :** Creation of Hougang New Town
 
 You may access our school’s contribution via the following link :
 
@@ -188,12 +217,4 @@ The trip was intended for our Secondary 3 students who study Elective History an
 <img src="/images/awareness2.gif" 
      style="width:75%">
 
-#### Team
-
-| Humanities Department |  |
-|:---:|:---:|
-| Head of Department: | Christopher Tan (History/SS) |
-| Subject Head:  | Sabrina Teo (Geography)  |
-| School Staff Developer: | Jeff Mak Ka Fai (SS)  |
-| Members: | Cheryl Lau (Geog/Lit) <br>Daniel Fung (History/SS) <br>Gloria Lim (SS/EL)<br>Goh Ling Pin (Geo/EL) <br>Michael Francis Chow (Hist/Geo)<br>Ng Xuemin (Hist/Math) <br>Nur Ashirah (Geo/EL) <br>Timothy Liew (Geog/SS)<br>Timotty Tay (Hist/SS) <br>Yee Liang Chien Matt (SS/EL) <br> Charlene Lim (EL/SS) <br>Jasmine Chan (FCE/Geo)<br>Lim Pei Yee (EL/SS) <br>Sheryl Lim (EL/Geo) <br>Siti Sufiana (EL/SS) |
-|  
+<hr>

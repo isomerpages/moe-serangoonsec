@@ -3,7 +3,6 @@ title: Information & Communications Technology (ICT)
 permalink: /academic-programmes/ict/
 description: ""
 ---
-
 ### Information & Communications Technology (ICT)
 
 ##### Department Staff
@@ -16,7 +15,6 @@ description: ""
 | Mr Sng Kok Lam           | ICT Manager      |
 | Mr Muhammad Imran Samat  | ICT Manager      |
 | Mr Anuarezman Sariff | Desktop Engineer |
-| Mr Xu Junxiong, Don      | Desktop Engineer |
 
 ##### Key Programmes
 ###### 1\. STEM Applied Learning Programme (ALP) in:
@@ -42,7 +40,7 @@ description: ""
 |  Sec 3-4NT (Selected Students)  | GCE N-Level Mobile Robotics (MR)         |
 |  Sec 3-4EXP (Selected Students) | GCE O-Level Computing (CP)               |
 
-###### MOE / ITE Applied Subjects
+##### MOE / ITE Applied Subjects
 Selected Sec 3 Express and Sec 3 Normal Technical students will have opportunities to pursue their interest and apply their knowledge and skills in MOE or MOE-ITE applied subjects, such as, Computing and Mobile Robotics.
 
 In Computing, students develop and apply computational thinking skills to formulate computing solutions. The extension of learning in Computing is to allow students to participate in Advanced Elective Modules (AEMs) offered by polytechnics.

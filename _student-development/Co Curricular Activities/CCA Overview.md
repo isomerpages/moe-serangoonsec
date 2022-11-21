@@ -4,7 +4,6 @@ permalink: /student-development/cca/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ### Co-Curricular Activities
 
 Co-Curricular Activities (CCAs) provide an important platform in developing students' talents and interests. They play an important role in providing an all-rounded education. Our students are given many opportunities to discover their potential and achieve value-added performance. The commendable achievements of the school in CCAs have led our students to believe in their capacity to excel. This strong belief in their talents and abilities is an important mindset for the 21st century.
@@ -19,7 +18,7 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 
 - [Girl Guides](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/girl-guides)
 - [National Cadet Corps (NCC Land)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/national-cadet-corps-land)
-- [National Police Cadet Corps (NPCC)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/national-police-cadet-corps)
+- [National Police Cadet Corps (NPCC)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/npcc)
 - [Red Cross Youth](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/red-cross-youth)
 - [Scouts](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/scouts)
 
