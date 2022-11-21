@@ -193,8 +193,8 @@ The trip was intended for our Secondary 3 students who study Elective History an
 
 | Humanities Department |  |
 |:---:|:---:|
-| Head of Department: | Christopher Tan (History/SS) |
-| Subject Head:  | Sabrina Teo (Geography)  |
-| School Staff Developer: | Jeff Mak Ka Fai (SS)  |
-| Members: | Cheryl Lau (Geog/Lit) <br>Daniel Fung (History/SS) <br>Gloria Lim (SS/EL)<br>Goh Ling Pin (Geo/EL) <br>Michael Francis Chow (Hist/Geo)<br>Ng Xuemin (Hist/Math) <br>Nur Ashirah (Geo/EL) <br>Timothy Liew (Geog/SS)<br>Timotty Tay (Hist/SS) <br>Yee Liang Chien Matt (SS/EL) <br> Charlene Lim (EL/SS) <br>Jasmine Chan (FCE/Geo)<br>Lim Pei Yee (EL/SS) <br>Sheryl Lim (EL/Geo) <br>Siti Sufiana (EL/SS) |
+| <b>Head of Department: | Christopher Tan (History/SS) |
+| <b>Subject Head:  | Sabrina Teo (Geography)  |
+| <b>School Staff Developer: | Jeff Mak Ka Fai (SS)  |
+| <b>Members: | Cheryl Lau (Geog/Lit) <br>Daniel Fung (History/SS) <br>Gloria Lim (SS/EL)<br>Goh Ling Pin (Geo/EL) <br>Michael Francis Chow (Hist/Geo)<br>Ng Xuemin (Hist/Math) <br>Nur Ashirah (Geo/EL) <br>Timothy Liew (Geog/SS)<br>Timotty Tay (Hist/SS) <br>Yee Liang Chien Matt (SS/EL) <br> Charlene Lim (EL/SS) <br>Jasmine Chan (FCE/Geo)<br>Lim Pei Yee (EL/SS) <br>Sheryl Lim (EL/Geo) <br>Siti Sufiana (EL/SS) |
 |
