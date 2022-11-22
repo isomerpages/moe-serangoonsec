@@ -8,15 +8,9 @@ third_nav_title: Co Curricular Activities
 
 ##### Handing over of captaincy 2021
 
-![](/images/Handling%20over%20of%20Captaincy%202021.jpg)
 
-![](/images/Football02.jpg)
 
-![](/images/Football03.jpg)
 
-![](/images/Football04.jpg)
-
-![](/images/Football05.jpg)
 
 ![](/images/football%206.jpg)
 
