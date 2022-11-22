@@ -25,7 +25,7 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 ##### Clubs
 
 - [Audio Visual Aid (AVA) Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/avap-club/)
-- [Infocomm Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/ict-club/)
+- [Infocomm Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/icc/)
 
 ##### Performing Arts
 
