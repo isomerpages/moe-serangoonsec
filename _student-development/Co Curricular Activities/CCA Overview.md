@@ -16,29 +16,29 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 
 ##### Uniformed Groups
 
-- [Girl Guides](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/girl-guides)
-- [National Cadet Corps (NCC Land)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/national-cadet-corps-land)
-- [National Police Cadet Corps (NPCC)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/npcc)
-- [Red Cross Youth](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/red-cross-youth)
-- [Scouts](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/scouts)
+- [Girl Guides](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/girl-guides/)
+- [National Cadet Corps (NCC Land)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/ncc-land/)
+- [National Police Cadet Corps (NPCC)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/npcc/)
+- [Red Cross Youth](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/rcy/)
+- [Scouts](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/scouts/)
 
 ##### Clubs
 
-- [Audio Visual Aid (AVA) Club](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/clubs/audio-visual-aid-ava-club)
-- [Infocomm Technology Club](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/clubs/infocomm-technology-club)
+- [Audio Visual Aid (AVA) Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/avap-club/)
+- [Infocomm Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/icc/)
 
 ##### Performing Arts
 
-- [Chinese Instrumental Ensemble](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/chinese-instrumental-ensemble)
-- [Choir](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/choir)
-- [Concert Band](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/concert-band)
-- [English Drama](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/performing-arts/english-drama)
-- [Malay Dance](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/malay-dance)
-- [Modern Dance](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/performing-arts/modern-dance)
+- [Chinese Instrumental Ensemble](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/chinese-ensemble/)
+- [Choir](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/choir/)
+- [Concert Band](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/concert-band/)
+- [English Drama](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/english-drama/)
+- [Malay Dance](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/malay-dance/)
+- [Modern Dance](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/modern-dance/)
 
 ##### Sports
 
-- [Basketball (Boys)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/sports/basketball-boys)
-- [Floorball (Boys & Girls)](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/sports/floorball-boys-n-girls)
-- [Football (Boys)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/sports/football-boys)
-- [Netball (Girls)](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/sports/netball-girls)
+- [Basketball (Boys)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/basketball/)
+- [Floorball (Boys & Girls)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/floorball/)
+- [Football (Boys)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/football/)
+- [Netball (Girls)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/netball/)

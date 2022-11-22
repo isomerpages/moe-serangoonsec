@@ -1,9 +1,10 @@
 ---
 title: Girl Guides
-permalink: /student-development/Co-Curricular-Activities/permalink/
+permalink: /student-development/Co-Curricular-Activities/girl-guides/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+
 ![](/images/Girl%20Guide%201.jpg)
 
 ![](/images/Girl%20Guide%202.jpg)

@@ -1,9 +1,10 @@
 ---
-title: Infocomm Technology Club
-permalink: /student-development/cca/infocomm-club/
+title: Infocomm Club
+permalink: /student-development/Co-Curricular-Activities/icc/
 description: ""
-third_nav_title: Clubs
+third_nav_title: Co Curricular Activities
 ---
+
 ### Infocomm Technology Club
 
 ![](/images/Infocomm%20Club/Slide1.png)

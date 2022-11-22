@@ -9,25 +9,25 @@ description: ""
 
 #### Department Members
 
-|Designation | Name |
-| -------- | -------- |
-|<b>Head Of Department (HOD)</b>|Mr Christopher Tan <br>(History / Social Studies)|
-|<b>Subject Head (SH)<b>|Ms Sabrina Teo <br>(Geography)|
-|<b>Teachers<b>|Mr Jeff Mak Ka Fai <br>(Social Studies)|
-||Ms Cheryl Lau <br>(Geography / Literature)|
-||Mr Daniel Fung <br>(History / Social Studies)|
-||Ms Gloria Lim <br>(Social Studies / English Language)|
-||Mr Goh Ling Pin <br>(Geography / English Language)|
-||Mr Michael Francis Chow <br>(History / Geography)|
-||Ms Ng Xuemin <br>(History / Mathematics)|
-||Ms Nur Ashirah Binte Nordali <br>(Geography / English Language)|
-||Mr Timothy Liew <br>(Geography / Social Studies)|
-||Mr Timotty Tay <br>(History / Social Studies)|
-||Mr Yee Liang Chien Matt <br>(Social Studies / English Language)|
-||Ms Charlene Lim <br>(English Language / Social Studies)|
-||Ms Lim Pei Yee <br>(English Language / Social Studies)|
-||Ms Sheryl Lim <br>(English Language / Geography)|
-||Ms Siti Nur Sufiana Binte Hashim <br>(English Language / Social Studies)|
+|Designation | Name | Subject(s) |
+| -------- | -------- | -------- |
+|<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies|
+|<b>Subject Head (SH)<b>|Ms Sabrina Teo |Geography|
+|<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies|
+||Ms Cheryl Lau|Geography / Literature|
+||Mr Daniel Fung|History / Social Studies|
+||Ms Gloria Lim|Social Studies / English Language|
+||Mr Goh Ling Pin|Geography / English Language|
+||Mr Michael Francis Chow|History / Geography|
+||Ms Ng Xuemin|History / Mathematics|
+||Ms Nur Ashirah Binte Nordali|Geography / English Language|
+||Mr Timothy Liew|Geography / Social Studies|
+||Mr Timotty Tay|History / Social Studies|
+||Mr Yee Liang Chien Matt|Social Studies / English Language|
+||Ms Charlene Lim|English Language / Social Studies|
+||Ms Lim Pei Yee|English Language / Social Studies|
+||Ms Sheryl Lim|English Language / Geography|
+||Ms Siti Nur Sufiana Binte Hashim|English Language / Social Studies|
 
 <hr>
 
