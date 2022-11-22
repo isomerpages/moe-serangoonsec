@@ -53,8 +53,12 @@ To develop positive attitudes (beliefs, interests, appreciation, confidence, per
 <img src="/images/Mathematics/02.png" style="width:400px">
 <figcaption><center>Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.</center></figcaption>
 
-<img src="/images/Mathematics/03.png" style="width:400px">
-<img src="/images/Mathematics/04.png" style="width:400px">
+
+
+|<img src="/images/Mathematics/03.png" style="width:400px">|<img src="/images/Mathematics/04.png" style="width:400px">|
+| -------- | -------- |
+|||
+
 <figcaption><center>Students applying their learning of Mathematical concepts through playing mathematics game cards designed by the department teachers.</center></figcaption>
 
 <hr>
