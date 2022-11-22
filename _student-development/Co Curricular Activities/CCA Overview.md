@@ -31,9 +31,9 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 
 - [Chinese Instrumental Ensemble](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/chinese-ensemble/)
 - [Choir](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/choir/)
-- [Concert Band](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/concert-band)
-- [English Drama](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/performing-arts/english-drama)
-- [Malay Dance](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/malay-dance)
+- [Concert Band](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/concert-band/)
+- [English Drama](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/english-drama/)
+- [Malay Dance](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/malay-dance/)
 - [Modern Dance](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/performing-arts/modern-dance)
 
 ##### Sports
