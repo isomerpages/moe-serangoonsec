@@ -24,13 +24,13 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 
 ##### Clubs
 
-- [Audio Visual Aid (AVA) Club](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/clubs/audio-visual-aid-ava-club)
-- [Infocomm Technology Club](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/clubs/infocomm-technology-club)
+- [Audio Visual Aid (AVA) Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/avap-club/)
+- [Infocomm Club](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/ict-club/)
 
 ##### Performing Arts
 
-- [Chinese Instrumental Ensemble](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/chinese-instrumental-ensemble)
-- [Choir](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/choir)
+- [Chinese Instrumental Ensemble](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/chinese-ensemble/)
+- [Choir](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/choir/)
 - [Concert Band](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/concert-band)
 - [English Drama](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/performing-arts/english-drama)
 - [Malay Dance](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/performing-arts/malay-dance)
