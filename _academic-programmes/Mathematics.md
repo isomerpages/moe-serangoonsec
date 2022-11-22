@@ -60,7 +60,9 @@ Students applying their learning of Mathematical concepts by playing the mathema
 
 #### Principles of Accounts (POA)
 ##### Introduction
-Principles of Accounts introduces students to the world of business. Students will learn the basics of financial accounting and develop their abilities to prepare and analyse accounting information to provide insights about the performance and position of a business as well as to communicate and use the information for decision-making. In the learning process, students will also realise the importance of professional ethics in the business environment. These thinking skills, values and approaches to problem solving are enduring and valuable for any field of work that the students may endeavour to undertake in an increasingly complex world.
+Principles of Accounts introduces students to the world of business. Students will learn the basics of financial accounting and develop their abilities to prepare and analyse accounting information to provide insights about the performance and position of a business as well as to communicate and use the information for decision-making. 
+
+In the learning process, students will also realise the importance of professional ethics in the business environment. These thinking skills, values and approaches to problem solving are enduring and valuable for any field of work that the students may endeavour to undertake in an increasingly complex world.
 <hr>
 
 ##### Our Support for Students Learning POA
@@ -71,4 +73,6 @@ Students will learn POA through a variety of experiences such as:
 * Reading of articles
 * Working collaboratively
 * Learning through videos
+
+Students describing and identifying the ledger account card chosen.
 <hr>
