@@ -4,8 +4,7 @@ permalink: /student-development/Co-Curricular-Activities/icc/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
-### Infocomm Technology Club
+### Infocomm Club
 
 ![](/images/Infocomm%20Club/Slide1.png)
 ![](/images/Infocomm%20Club/Slide2.png)
