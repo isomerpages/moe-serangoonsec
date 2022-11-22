@@ -8,11 +8,17 @@ third_nav_title: Co Curricular Activities
 
 ##### Handing over of captaincy 2022
 
+![](/images/Football/01.png)
 
+##### B Division Team
+![](/images/Football/02.png)
 
+##### C Division Team
+![](/images/Football/03.png)
 
+<hr>
 
-![](/images/football%206.jpg)
+![](/images/Football/04.png)
 
 ![](/images/football%207.jpg)
 
