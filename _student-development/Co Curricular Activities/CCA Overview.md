@@ -38,7 +38,7 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 
 ##### Sports
 
-- [Basketball (Boys)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/sports/basketball-boys)
-- [Floorball (Boys & Girls)](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/sports/floorball-boys-n-girls)
-- [Football (Boys)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/sports/football-boys)
-- [Netball (Girls)](https://serangoonsec-moe-edu-sg-admin.cwp.sg/student-development/co-curricular-activities/sports/netball-girls)
+- [Basketball (Boys)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/basketball/)
+- [Floorball (Boys & Girls)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/floorball/)
+- [Football (Boys)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/football/)
+- [Netball (Girls)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/netball/)
