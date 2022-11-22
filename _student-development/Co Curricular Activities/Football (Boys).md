@@ -6,7 +6,6 @@ third_nav_title: Co Curricular Activities
 ---
 ### Football (Boys)
 
-##### Handing over of captaincy 2021
 
 
 
