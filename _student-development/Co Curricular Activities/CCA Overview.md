@@ -17,7 +17,7 @@ To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs a
 ##### Uniformed Groups
 
 - [Girl Guides](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/girl-guides/)
-- [National Cadet Corps (NCC Land)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/national-cadet-corps-land)
+- [National Cadet Corps (NCC Land)](https://www.serangoonsec.moe.edu.sg/student-development/Co-Curricular-Activities/ncc-land/)
 - [National Police Cadet Corps (NPCC)](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/npcc)
 - [Red Cross Youth](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/red-cross-youth)
 - [Scouts](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities/uniformed-groups/scouts)
