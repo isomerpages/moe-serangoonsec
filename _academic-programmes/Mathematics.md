@@ -47,14 +47,14 @@ The department places a strong emphasis on how students learn. We believe in pro
 
 To develop positive attitudes (beliefs, interests, appreciation, confidence, perseverance) and joy of learning Mathematics in students, students are given opportunities to learn Mathematics through playing of games and working on collaborative tasks.
 
+![](/images/Mathematics/01.png)
+<figcaption>Students working collaboratively on mathematical exploratory tasks.</figcaption>
 
-Students working collaboratively on mathematical exploratory tasks.
+![](/images/Mathematics/02.png)
+<figcaption>Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.</figcaption>
 
 
-Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.
-
-
-Students applying their learning of Mathematical concepts by playing the mathematics game cards designed by the department teachers.
+<figcaption>Students applying their learning of Mathematical concepts by playing the mathematics game cards designed by the department teachers.</figcaption>
 
 <hr>
 
