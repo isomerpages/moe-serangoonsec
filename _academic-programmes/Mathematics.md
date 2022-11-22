@@ -53,7 +53,8 @@ To develop positive attitudes (beliefs, interests, appreciation, confidence, per
 ![](/images/Mathematics/02.png)
 <figcaption>Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.</figcaption>
 
-
+![](/images/Mathematics/03.png)
+![](/images/Mathematics/04.png)
 <figcaption>Students applying their learning of Mathematical concepts by playing the mathematics game cards designed by the department teachers.</figcaption>
 
 <hr>
@@ -74,5 +75,6 @@ Students will learn POA through a variety of experiences such as:
 * Working collaboratively
 * Learning through videos
 
-Students describing and identifying the ledger account card chosen.
+![](/images/Mathematics/05.png)
+<figcaption>Students describing and identifying the ledger account card chosen.</figcaption>
 <hr>
