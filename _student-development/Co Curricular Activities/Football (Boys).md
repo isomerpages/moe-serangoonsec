@@ -4,7 +4,6 @@ permalink: /student-development/Co-Curricular-Activities/football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ### Football (Boys)
 
 ##### Handing over of captaincy 2021
@@ -26,5 +25,3 @@ third_nav_title: Co Curricular Activities
 ![](/images/football%208.jpg)
 
 ![](/images/football%209.jpg)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KbV51O_3NHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
