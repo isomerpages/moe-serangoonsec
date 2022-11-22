@@ -130,8 +130,6 @@ On the 23rd and 24th of October, the Sec 1 Express and Normal Academic students 
 
 ![](/images/learningjourney.gif)
 
-[Learning Journey 2015](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/goog_590457485) | [Learning Journey 2013](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2013) | [Learning Journey 2012 |](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2012) [Learning Journey 2011](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2011) **(Error links)**
-
 #### Humanities Publications
 
 ##### SG50 Booklet    
