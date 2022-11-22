@@ -48,14 +48,14 @@ The department places a strong emphasis on how students learn. We believe in pro
 To develop positive attitudes (beliefs, interests, appreciation, confidence, perseverance) and joy of learning Mathematics in students, students are given opportunities to learn Mathematics through playing of games and working on collaborative tasks.
 
 <img src="/images/Mathematics/01.png" style="width:400px">
-<figcaption>Students working collaboratively on mathematical exploratory tasks.</figcaption>
+<figcaption><center>Students working collaboratively on mathematical exploratory tasks.</center></figcaption>
 
 <img src="/images/Mathematics/02.png" style="width:400px">
-<figcaption>Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.</figcaption>
+<figcaption><center>Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.</center></figcaption>
 
 <img src="/images/Mathematics/03.png" style="width:400px">
 <img src="/images/Mathematics/04.png" style="width:400px">
-<figcaption>Students applying their learning of Mathematical concepts through playing mathematics game cards designed by the department teachers.</figcaption>
+<figcaption><center>Students applying their learning of Mathematical concepts through playing mathematics game cards designed by the department teachers.</center></figcaption>
 
 <hr>
 
@@ -76,5 +76,5 @@ Students will learn POA through a variety of experiences such as:
 * Learning through videos
 
 <img src="/images/Mathematics/05.png" style="width:400px">
-<figcaption>Students describing and identifying the ledger account card chosen.</figcaption>
+<figcaption><center>Students describing and identifying the ledger account card chosen.</center></figcaption>
 <hr>
