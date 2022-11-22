@@ -55,7 +55,7 @@ To develop positive attitudes (beliefs, interests, appreciation, confidence, per
 
 ![](/images/Mathematics/03.png)
 ![](/images/Mathematics/04.png)
-<figcaption>Students applying their learning of Mathematical concepts by playing the mathematics game cards designed by the department teachers.</figcaption>
+<figcaption>Students applying their learning of Mathematical concepts through playing mathematics game cards designed by the department teachers.</figcaption>
 
 <hr>
 
