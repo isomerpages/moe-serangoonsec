@@ -29,11 +29,8 @@ Every student is passionate about Mathematics
 The department places a strong emphasis on how students learn. We believe in providing Learning Experiences in Mathematics through:
 
 * Inductive approach in discovering mathematical concepts and skills
-
 * e-Pedagogy 
-
 * Relating Mathematics to the real-world context 
-
 * Learning of Mathematics in a fun way
 
 <hr>
@@ -50,17 +47,15 @@ The department places a strong emphasis on how students learn. We believe in pro
 
 To develop positive attitudes (beliefs, interests, appreciation, confidence, perseverance) and joy of learning Mathematics in students, students are given opportunities to learn Mathematics through playing of games and working on collaborative tasks.
 
-![](/images/Programme_01.jpg)
-![](/images/Programme_02.jpg)
+
 Students working collaboratively on mathematical exploratory tasks.
 
-![](/images/Programme_03.jpg)
-![](/images/Programme_04.jpg)
-Students applying their learning of Mathematical concepts by playing the Mathematics game cards designed by the department teachers.
 
-![](/images/programme_05.jpg)
-![](/images/programme_06.jpg)
-Students apply their learning in Mathematics by solving problem in real-life using household objects and stationary through their performance tasks.
+Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.
+
+
+Students applying their learning of Mathematical concepts by playing the mathematics game cards designed by the department teachers.
+
 <hr>
 
 #### Principles of Accounts (POA)
