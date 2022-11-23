@@ -31,5 +31,6 @@ The objectives of the programme are:
 |<b>Criteria|For those who are 13 and under 30 years old.|For those who are 15 and under 30 years old.|
 |<b>Minimum period of involvement|6 months|12 months|
 |<b>Recommended Level|Sec 2 students|Sec 3 students|
+|<b>Leadership Criterion Level of Attainment under the LEAPS system|Level 2|Level 3|
 
 ##### The components for NYAA
