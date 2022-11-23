@@ -26,7 +26,5 @@ sections:
       button: Open House 2022
       background: /images/sch_banner_v2.png
   - resources:
-      title: SRSS SocMed
-      subtitle: Social Media
       button: BLOG
 ---
