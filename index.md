@@ -22,8 +22,6 @@ sections:
       url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
       button: Open House 2022
       background: /images/sch_banner_v2.png
-  - resources:
-      button: BLOG
   - infopic:
       title: SSS Open House 2022
       subtitle: SSS Open House 2022
@@ -32,4 +30,6 @@ sections:
       url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
       image: /images/Announcements/Open House 2022.jpg
       alt: Image alt text
+  - resources:
+      button: BLOG
 ---
