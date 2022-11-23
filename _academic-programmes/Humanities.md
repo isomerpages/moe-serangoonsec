@@ -11,24 +11,22 @@ description: ""
 
 |Designation | Name | Subject(s) |
 | -------- | -------- | -------- |
-|<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies|
-|<b>Subject Head (SH)<b>|Ms Sabrina Teo |Geography|
-|<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies|
-||Ms Cheryl Lau|Geography / Literature|
+|<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies/Principles of Accounts|
+|<b>Head of Department (HOD Education Support)<b>|Ms Sabrina Teo |Geography/Literature in English|
+|<b>Head of Department (HOD Student Management)<b>|Ms Ng He Li |Geography/Social Studies|
+|<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies/English Language|
+||Ms Cheryl Lau|Geography / Literature in English|
 ||Mr Daniel Fung|History / Social Studies|
 ||Ms Gloria Lim|Social Studies / English Language|
 ||Mr Goh Ling Pin|Geography / English Language|
-||Mr Michael Francis Chow|History / Geography|
+||Mr Michael Francis Chow|History|
 ||Ms Ng Xuemin|History / Mathematics|
 ||Ms Nur Ashirah Binte Nordali|Geography / English Language|
 ||Mr Timothy Liew|Geography / Social Studies|
 ||Mr Timotty Tay|History / Social Studies|
 ||Mr Yee Liang Chien Matt|Social Studies / English Language|
-||Ms Charlene Lim|English Language / Social Studies|
-||Ms Lim Pei Yee|English Language / Social Studies|
-||Ms Sheryl Lim|English Language / Geography|
-||Ms Siti Nur Sufiana Binte Hashim|English Language / Social Studies|
-
+||Mr Fathie Ali Abdat|History / Social Studies|
+	
 <hr>
 
 #### Humanities Curriculum Innovations
