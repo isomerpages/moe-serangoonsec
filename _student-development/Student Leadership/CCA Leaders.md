@@ -21,3 +21,7 @@ Students are given the opportunity to take part in NYAA in Secondary 2 and 3. Th
 The objectives of the programme are: 
 * To encourage young people to develop personal qualities of self-reliance, perseverance and a sense of responsibility to themselves, to society and to the nation.
 * To provide students with opportunities and platforms to discover interests and talents; and to develop their potential to the fullest.
+
+##### The Awards
+
+##### The components for NYAA
