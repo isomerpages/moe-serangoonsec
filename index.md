@@ -14,10 +14,10 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-        - title: SSS @ Facebook
+        - title: SSS on Facebook
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
-        - title: SSS @ Instagram
+        - title: SSS on Instagram
           description: ""
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/hero_banner_sch_front.png
@@ -29,6 +29,4 @@ sections:
       url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
       image: /images/Announcements/Open House 2022.jpg
       alt: Image alt text
-  - resources:
-      button: BLOG
 ---
