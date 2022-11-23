@@ -39,6 +39,6 @@ The objectives of the programme are:
 | -------- | -------- | -------- |
 |<img src="/images/Student%20Leadership/nyaa_hl.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_oa.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_sl.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
 |Physical & Mental Wellness|Environmental Stewardship|Touching Lives, Making a Difference|
-|<b>Minimum period of involvement|6 months|12 months|
-|<b>Recommended Level|Sec 2 students|Sec 3 students|
-|<b>Leadership Criterion Level of Attainment under the LEAPS system|Level 2|Level 3|
+|<b>Objective|<b>Objective|<b>Objective|
+|To develop physical and mental wellness through participation in sports and recreational activities|To be at ease with nature and develop stewardship for our environment.|To learn how to provide useful service to those in need in our community and to understand the meaning behind voluntary service
+|
