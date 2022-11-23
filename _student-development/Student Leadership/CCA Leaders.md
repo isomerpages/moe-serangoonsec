@@ -37,7 +37,7 @@ The objectives of the programme are:
 	
 |HEALTHY LIVING|OUTDOOR APPRECIATION|SERVICE LEARNING|
 | -------- | -------- | -------- |
-|<img src="/images/Student%20Leadership/nyaa_hl.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_oa.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_sl.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
+|<img src="/images/Student%20Leadership/nyaa_hl.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_oa.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_sl.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
 |Physical & Mental Wellness|Environmental Stewardship|Touching Lives, Making a Difference|
 |<b>Minimum period of involvement|6 months|12 months|
 |<b>Recommended Level|Sec 2 students|Sec 3 students|
