@@ -4,7 +4,6 @@ permalink: /student-development/student-leadership/prefectorial-board/
 description: ""
 third_nav_title: Student Leadership
 ---
-
 ### Prefectorial Board
 
 **Our Vision:**
@@ -44,15 +43,9 @@ Find out more from our Head Prefect, Ng Jia Le (2021 Sec 4N7) on what leaders
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJ-2n66KG_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Prefectorial Board EXCO 2021
+##### Prefectorial Board EXCO 2022
 
-![](/images/exco1.jpg)
 
-(L-R)
-
-Front Row: Tng Kar Lin (3I7), Chan Le Yi (3I2), Ho Tian Hui (3I2), Rachel Ghin (3I6)
-
-Back Row: Veer Paranjpye (3I9), Tan Yan Hao (3I9), Natasha Binte Rajak (3I5), Cham Xin Yi (3I2), Taryn Lim (3I2), Evan Ismadi (3I1A)
 
 ###### Our teachers guiding the Prefectorial Board are as follows:
 
