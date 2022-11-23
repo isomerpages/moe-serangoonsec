@@ -48,13 +48,3 @@ Started in 2014, the annual Serangoon Secondary X-Country (SSXC) is held at our 
 ##### Inter-Class Games
 As part of the PE Syllabus, students get to participate in recreational competitions like the Inter-Class Games which provide a platform for students to apply the understanding of the skills and values learned during PE lessons in an authentic competition setting. They learn to work in a team, cooperate and communicate with others in working together towards a common goal.
 <hr>
-
-#### Music
-The lower secondary music syllabus is a 2-year programme which allows students to discover their potential through skill sets such as listening, composing, and music making.
-
-In Serangoon Secondary School, we aim to provide students a platform to express their musical creativity and awareness of self and others through learning how to play a musical instrument, composition in lyrics and music, as well as other programmes to cater to various learning needs. Our music programme also aims to provide a platform for students to practise the application of social skills in a real environment.
-
-Music Teachers:
-* Ms Cheryl Ho
-* Ms Moritza Lim
-<hr>
