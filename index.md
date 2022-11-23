@@ -14,10 +14,10 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-        - title: Facebook
+        - title: SSS @ Facebook
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
-        - title: Instagram
+        - title: SSS @ Instagram
           description: ""
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/hero_banner_sch_front.png
