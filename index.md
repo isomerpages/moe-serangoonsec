@@ -11,12 +11,12 @@ sections:
         - title: Announcements
           description: ""
           url: /srss/announcements/
-        - title: Latest Happenings
-          description: ""
-          url: https://www.facebook.com/serangoonsecsg/
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: FACEBOOK
+          description: ""
+          url: https://www.facebook.com/serangoonsecsg/
       background: /images/hero_banner_sch_front.png
   - infopic:
       title: SSS Open House 2022
