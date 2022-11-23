@@ -22,6 +22,10 @@ sections:
       url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
       button: Open House 2022
       background: /images/sch_banner_v2.png
+  - resources:
+      title: SRSS SocMed
+      subtitle: Social Media
+      button: BLOG
   - infobar:
       title: Parents' Space
       button: More info
@@ -34,8 +38,4 @@ sections:
       title: Teachers' Space
       button: More info
       url: /more-information-teachers/quick-links/
-  - resources:
-      title: SRSS SocMed
-      subtitle: Social Media
-      button: BLOG
 ---
