@@ -59,10 +59,10 @@ Find out more from our Head Prefect, Ng Jia Le (2021 Sec 4N7) on what leaders
 
 ###### Our teachers guiding the Prefectorial Board are as follows:
 
-- Mdm Goh Sze Wei
-- Ms Moritza Lim
-- Ms Ang Chian Huey
-- Ms Ezyanti Siregar Lukman
-- Ms Fong Jia Hui
-- Mr Low Chee Lum Benjamin
-- Mr Sin Kah Fai Denny
+* Mdm Goh Sze Wei
+* Ms Geraldine Teo
+* Ms Ang Chian Huey
+* Ms Caelyn Lim
+* Ms Ezyanti Siregar Lukman
+* Mr Jarrod Lim
+* Mr Michael Chow
