@@ -21,7 +21,7 @@ third_nav_title: Education & Career Guidance
 You may wish to speak to your FTs and parents, or book an appointment with Mr Christopher Tan, our ECG Counsellor.
 
 <img src="/images/ecgcounsellor.png" 
-     style="width:25%; align:left" >
+     style="width:50%; align:left" >
 <br>
 
 F2F in school on Wednesdays or e-counselling on weekdays (8am - 5:30pm)
