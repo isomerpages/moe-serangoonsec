@@ -37,8 +37,9 @@ The objectives of the programme are:
 	
 |HEALTHY LIVING|OUTDOOR APPRECIATION|SERVICE LEARNING|
 | -------- | -------- | -------- |
-|<img src="/images/Student%20Leadership/nyaa_hl.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_oa.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_sl.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
+|<img src="/images/Student%20Leadership/nyaa_hl.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_oa.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|<img src="/images/Student%20Leadership/nyaa_sl_1.png" style="width:100px; border:0.5px solid Gainsboro; padding: 5px; Align: Left"><img src="/images/Student%20Leadership/nyaa_sl_2.png" style="width:100px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
 |Physical & Mental Wellness|Environmental Stewardship|Touching Lives, Making a Difference|
 |<b>Objective|<b>Objective|<b>Objective|
-|To develop physical and mental wellness through participation in sports and recreational activities|To be at ease with nature and develop stewardship for our environment.|To learn how to provide useful service to those in need in our community and to understand the meaning behind voluntary service
-|
+|To develop physical and mental wellness through participation in sports and recreational activities|To be at ease with nature and develop stewardship for our environment.|To learn how to provide useful service to those in need in our community and to understand the meaning behind voluntary service|
+
+<hr>
