@@ -22,7 +22,7 @@ You may wish to speak to your FTs and parents, or book an appointment with Mr Ch
 
 <img src="/images/ecgcounsellor.png" 
      style="width:50%; align:left" >
-<br>
+
 
 F2F in school on Wednesdays or e-counselling on weekdays (8am - 5:30pm)
 
