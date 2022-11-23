@@ -29,16 +29,4 @@ sections:
       title: SRSS SocMed
       subtitle: Social Media
       button: BLOG
-  - infobar:
-      title: Parents' Space
-      button: More info
-      url: /more-information-parents/quick-links/
-  - infobar:
-      title: Students' Space
-      button: More info
-      url: /more-information-students/quick-links/
-  - infobar:
-      title: Teachers' Space
-      button: More info
-      url: /more-information-teachers/quick-links/
 ---
