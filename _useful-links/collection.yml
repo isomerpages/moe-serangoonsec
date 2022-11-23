@@ -2,4 +2,4 @@ collections:
   useful-links:
     output: true
     order:
-      - example-page.md
+      - Useful Links.md
