@@ -25,7 +25,7 @@ The objectives of the programme are:
 ##### The Awards
 
 
-| Awards | <img src="/images/Student%20Leadership/nyaa_bronze.png" style="width:100px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">| <img src="/images/Student%20Leadership/nyaa_silver.png" style="width:100px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
+| Awards | <img src="/images/Student%20Leadership/nyaa_bronze.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">| <img src="/images/Student%20Leadership/nyaa_silver.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">|
 | -------- | -------- | -------- |
 ||Bronze|Silver|
 |<b>Criteria|For those who are 13 and under 30 years old.|For those who are 15 and under 30 years old.|
