@@ -15,8 +15,11 @@ sections:
           description: ""
           url: /srss/important-information/
         - title: Latest Happenings
-          description: ""
+          description: Keep up to date with us!
           url: https://www.facebook.com/serangoonsecsg/
+        - title: Useful Links
+          description: For Parents, StaRs & Teachers
+          url: ""
       title: You're invited to our Open House!
       subtitle: Click below to find out more.
       url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
