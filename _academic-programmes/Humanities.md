@@ -60,8 +60,7 @@ Organised by Singapore Polytechnic, School of Architecture and the Built Environ
 
 The students had to design and fabricate models made of Medium Density Fibre timber strips and boards, glue and cotton string, strong and sturdy enough to withstand earthquake vibration simulated on a 2-Dimensional Earthquake Simulator. When the simulator was set into motion simulating earthquakes of different magnitudes, the models were shaken to find out which would be the strongest one to withstand these earthquake forces. This competition gave us the opportunity to work together with the Craft and Tech department on their construction and specification expertise of our model. Our participants received ‘Certificate of Participation’ for being able to design a sturdy model with the given materials that was able to survive a 5.5 magnitude earthquake on the simulator.
 
-###### Participants:
-Danylle Mendoza, Kimberly Ambrosio, Lee Kang Wei Samuel, Sapkitjakarn Techid (3I6, 2019)
+**Participants:** Danylle Mendoza, Kimberly Ambrosio, Lee Kang Wei Samuel, Sapkitjakarn Techid (3I6, 2019)
 
 ![](/images/participants%20competition.gif)
 Photos: Our participants hard at work to build their model.
