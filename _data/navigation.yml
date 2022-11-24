@@ -42,12 +42,14 @@ links:
       - title: Edu & Career Guidance (ECG)
         url: /student-development/ecg/
       - title: Student Leadership
-        url: /student-development/student-leadership/
+        url: /distinctive-programmes/llp/student-leadership/
       - title: Student Management
         url: /student-development/student-management/
   - title: Academic Programmes
     url: /academic-programmes/craft-tech
     sublinks:
+      - title: FSBB
+        url: /academic-programmes/fsbb/
       - title: Craft & Technology
         url: /academic-programmes/craft-tech/
       - title: English Language & Literature
@@ -89,5 +91,3 @@ links:
         url: /parents-and-students/SSS-Alumni/
       - title: National Digital Literacy Prog
         url: /parents-and-students/ndlp/
-  - title: Sec 1 PES & CCA 2022
-    url: /sec1/sec1-parent-engagement-and-cca-orientation2022

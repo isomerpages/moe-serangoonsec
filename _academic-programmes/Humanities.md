@@ -11,24 +11,22 @@ description: ""
 
 |Designation | Name | Subject(s) |
 | -------- | -------- | -------- |
-|<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies|
-|<b>Subject Head (SH)<b>|Ms Sabrina Teo |Geography|
-|<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies|
-||Ms Cheryl Lau|Geography / Literature|
+|<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies/Principles of Accounts|
+|<b>Head of Department (HOD Education Support)<b>|Ms Sabrina Teo |Geography/Literature in English|
+|<b>Head of Department (HOD Student Management)<b>|Ms Ng He Li |Geography/Social Studies|
+|<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies/English Language|
+||Ms Cheryl Lau|Geography / Literature in English|
 ||Mr Daniel Fung|History / Social Studies|
 ||Ms Gloria Lim|Social Studies / English Language|
 ||Mr Goh Ling Pin|Geography / English Language|
-||Mr Michael Francis Chow|History / Geography|
+||Mr Michael Francis Chow|History|
 ||Ms Ng Xuemin|History / Mathematics|
 ||Ms Nur Ashirah Binte Nordali|Geography / English Language|
 ||Mr Timothy Liew|Geography / Social Studies|
 ||Mr Timotty Tay|History / Social Studies|
 ||Mr Yee Liang Chien Matt|Social Studies / English Language|
-||Ms Charlene Lim|English Language / Social Studies|
-||Ms Lim Pei Yee|English Language / Social Studies|
-||Ms Sheryl Lim|English Language / Geography|
-||Ms Siti Nur Sufiana Binte Hashim|English Language / Social Studies|
-
+||Mr Fathie Ali Abdat|History / Social Studies|
+	
 <hr>
 
 #### Humanities Curriculum Innovations
@@ -53,14 +51,6 @@ The Humanities Board Game was created to infuse the fun element into learning. T
 The department believes in sending students for Humanities competitions so as to stretch their potential.
 <hr>
 
-#### National Stamp Collecting Competition
-As a department effort, teachers and students work hand-in-hand to take part in the National Stamp Collecting Competition. This competition gave students opportunities to explore the culture and the history behind the stamps of different countries. Secondary Three students were identified and given the opportunity to learn more about concepts in the humanities as they explored ideas and crafted a narrative with the use of stamps and other philatelic materials. The students were exposed to a rich world outside of their usual classroom environment. As a result of both the students’ and teacher’s dedication, Serangoon Secondary School emerged the national champion of this competition for the third year!
-
-2017: 2 Gold with Special Prize, 1 Silver with Special Prize and 2 Silver<br>
-2018: 3 Gold with Special Prize, 1 Gold and 1 Silver<br>
-2019: 2 Gold with Special Prize, 1 Gold, 1 Silver with Prize, 1 Silver
-
-![](/images/nscc.gif)
 <hr>
 
 #### National Earthquake Competition
@@ -130,8 +120,6 @@ On the 23rd and 24th of October, the Sec 1 Express and Normal Academic students 
 
 ![](/images/learningjourney.gif)
 
-[Learning Journey 2015](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/goog_590457485) | [Learning Journey 2013](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2013) | [Learning Journey 2012 |](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2012) [Learning Journey 2011](https://serangoonsec-moe-edu-sg-admin.cwp.sg/academic-programmes/humanities/learning-journey-2011) **(Error links)**
-
 #### Humanities Publications
 
 ##### SG50 Booklet    
@@ -187,7 +175,7 @@ Students conduct Geographical Investigation at the lower secondary level to inve
 
 #### Humanities Engagement Programme
 
-##### Humanities Engagement Week 2020
+##### Humanities Engagement Week 2022
 
 This year’s Humanities Engagement Week had to be shifted online given the circumstances of COVID-19. The Humanities Department collaborated with Music to extend our lower secondary students’ understanding of Humanities beyond the textbook and show how it is very much present even in a seemingly unrelated discipline. With the upper secondary students, the activity showed how information and skills learnt in History, Geography and Social Studies can be weaved together, showing that Humanities subjects are not mutually exclusive of one another.
 

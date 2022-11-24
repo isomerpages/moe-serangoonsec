@@ -4,7 +4,6 @@ permalink: /student-development/student-leadership/class-committee/
 description: ""
 third_nav_title: Student Leadership
 ---
-
 ### Class Committee
 
 Our Class Committee Leaders contribute towards building a positive classroom culture by:
@@ -18,7 +17,7 @@ Our Class Committee Leaders contribute towards building a positive classroom cul
 
 ![](/images/class%20comm.jpg)
 
-![](/images/roles.jpg)
+![](/images/Student%20Leadership/roles_responsibilities.png)
 
 ![](/images/class%20photo%201.png)
 

@@ -4,7 +4,6 @@ permalink: /student-development/student-leadership/prefectorial-board/
 description: ""
 third_nav_title: Student Leadership
 ---
-
 ### Prefectorial Board
 
 **Our Vision:**
@@ -44,22 +43,26 @@ Find out more from our Head Prefect, Ng Jia Le (2021 Sec 4N7) on what leaders
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJ-2n66KG_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Prefectorial Board EXCO 2021
+##### Prefectorial Board EXCO 2022
 
-![](/images/exco1.jpg)
+![](/images/Student%20Leadership/prefect_board_2022.png)
 
 (L-R)
 
-Front Row: Tng Kar Lin (3I7), Chan Le Yi (3I2), Ho Tian Hui (3I2), Rachel Ghin (3I6)
+**Front Row:** Priscilla Lim (3I8), Wong Wei Yuet (3I7), Ong Zhen Rui (3I8)
 
-Back Row: Veer Paranjpye (3I9), Tan Yan Hao (3I9), Natasha Binte Rajak (3I5), Cham Xin Yi (3I2), Taryn Lim (3I2), Evan Ismadi (3I1A)
+**Middle Row:** Rayson Lee (3I8), Reuben Wong (3I2), Shabil Elfan (3I1), Lui Shing Cher (3I7)
+
+**Back Row:** Koh Rui Yang (3I7), Clara Siew (3I8), Nur Asyura (3I4), Jennifer Tang (3I8)
+
+
 
 ###### Our teachers guiding the Prefectorial Board are as follows:
 
-- Mdm Goh Sze Wei
-- Ms Moritza Lim
-- Ms Ang Chian Huey
-- Ms Ezyanti Siregar Lukman
-- Ms Fong Jia Hui
-- Mr Low Chee Lum Benjamin
-- Mr Sin Kah Fai Denny
+* Mdm Goh Sze Wei
+* Ms Geraldine Teo
+* Ms Ang Chian Huey
+* Ms Caelyn Lim
+* Ms Ezyanti Siregar Lukman
+* Mr Jarrod Lim
+* Mr Michael Chow

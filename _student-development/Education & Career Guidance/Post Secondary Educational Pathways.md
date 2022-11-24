@@ -4,7 +4,6 @@ permalink: /student-development/ecg/
 description: ""
 third_nav_title: Education & Career Guidance
 ---
-
 ### Post-Secondary Educational Pathways
 
 ##### Where to After Secondary School?
@@ -22,8 +21,9 @@ third_nav_title: Education & Career Guidance
 You may wish to speak to your FTs and parents, or book an appointment with Mr Christopher Tan, our ECG Counsellor.
 
 <img src="/images/ecgcounsellor.png" 
-     style="width:25%" align = left >
-<br> <br> <br> <br>
+     style="width:50%; align:left" >
+
+
 F2F in school on Wednesdays or e-counselling on weekdays (8am - 5:30pm)
 
 Students are encouraged to book a slot before meeting him via this [link](https://moeecg.appointeze.com/onlinelink/ChristopherTan)

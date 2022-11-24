@@ -4,17 +4,14 @@ permalink: /student-development/Co-Curricular-Activities/floorball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 ### Floorball (Boys & Girls)
 
-![](/images/Floorball001.jpg)
+![](/images/Floorball/Slide1.png)
 
-![](/images/Picture1.jpg)
+![](/images/Floorball/Slide2.png)
 
-![](/images/Picture2.jpg)
+![](/images/Floorball/Slide3.png)
 
-![](/images/Picture3.jpg)
+![](/images/Floorball/Slide4.png)
 
-![](/images/Picture4.jpg)
-
-![](/images/Picture5.jpg)
+![](/images/Floorball/Slide5.png)

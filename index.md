@@ -11,27 +11,22 @@ sections:
         - title: Announcements
           description: ""
           url: /srss/announcements/
-        - title: Important Information
+        - title: Useful Links
           description: ""
-          url: /srss/important-information/
-        - title: Latest Happenings
+          url: /useful-links/
+        - title: SSS on Facebook
           description: ""
           url: https://www.facebook.com/serangoonsecsg/
-      title: You're invited to our Open House!
-      subtitle: Click below to find out more.
+        - title: SSS on Instagram
+          description: ""
+          url: https://www.instagram.com/serangoonsecondary/
+      background: /images/hero_banner_sch_front.png
+  - infopic:
+      title: SSS Open House 2022
+      subtitle: You're invited to
+      description: 26 November 2022
+      button: Click to find out more
       url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
-      button: Open House 2022
-      background: /images/sch_banner_v2.png
-  - infobar:
-      title: Parents' Space
-      button: More info
-      url: /more-information-parents/quick-links/
-  - infobar:
-      title: Students' Space
-      button: More info
-      url: /more-information-students/quick-links/
-  - infobar:
-      title: Teachers' Space
-      button: More info
-      url: /more-information-teachers/quick-links/
+      image: /images/Announcements/Open House 2022.jpg
+      alt: Image alt text
 ---
