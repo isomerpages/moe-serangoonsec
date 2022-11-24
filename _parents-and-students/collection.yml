@@ -2,8 +2,8 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Latest News/2022 Sec 3 StaRs Programme.md
       - Latest News/.keep
+      - Latest News/2022 Sec 3 StaRs Programme.md
       - Latest News/Visit by Ms Sun Xueling.md
       - Latest News/Parent Webinars.md
       - Latest News/2021 Sec 1 staRs Programme.md
