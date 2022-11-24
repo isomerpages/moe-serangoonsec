@@ -49,7 +49,6 @@ The Humanities Board Game was created to infuse the fun element into learning. T
 
 #### Competitions
 The department believes in sending students for Humanities competitions so as to stretch their potential.
-<hr>
 
 <hr>
 
