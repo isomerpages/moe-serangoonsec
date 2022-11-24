@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - FSBB.md
+      - Full Subject Based Banding.md
       - Craft & Technology.md
       - English Language & Literature.md
       - Humanities.md
