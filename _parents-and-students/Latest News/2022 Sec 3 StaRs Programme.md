@@ -24,6 +24,14 @@ They also:
 
 * persevered in navigating through the MacRitchie Reservoir
 
-![](/images/Sec%203%20StaRs%20Programme%202022/Teambuilding%204.jpg)
+<table>
+  <tr>
+    <td><img src="/images/Sec%203%20StaRs%20Programme%202022/Teambuilding%204.jpg" style="width:400px"></td>
+    <td><img src="/images/Sec%203%20StaRs%20Programme%202022/Trekking%201.jpg" style="width:400px"></td>
+  </tr>
+</table>
+
 
 Through participating in these activities in a rugged natural environment, they developed resilience, empathy and teamwork. Although the campfire was conducted in the hall due to wet weather, the cohort camaraderie and enthusiasm was palpable!
+
+<hr>
