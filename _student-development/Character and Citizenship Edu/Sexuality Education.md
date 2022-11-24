@@ -4,7 +4,6 @@ permalink: /student-development/cce/sexed/
 description: ""
 third_nav_title: Character and Citizenship Edu
 ---
-
 ### Moe Sexuality Education in Schools
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
@@ -102,6 +101,6 @@ b.     Character and Citizenship Education (CCE)
 11.      Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://serangoonsec.moe.edu.sg/qql/slot/u179/Student%20Development/Sexuality%20Edu/Annex%20A_SEd%20Opt%20Out%20Form.pdf) The completed form is to be submitted by 31/01/2022.
 
 12.     Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://serangoonsec.moe.edu.sg/qql/slot/u179/Student%20Development/Sexuality%20Edu/Annex%20B_eTeens%20Opt%20Out%20Form.pdf) The completed form is to be submitted by 31/01/2022.  
-13.       Parents can contact the school at [serangoon_ss@moe.edu.sg](mailto:serangoon_ss@moe.edu.sg) or *6385 1589* for discussion or to seek clarification about the school’s sexuality education programme.
+13.       Parents can contact the school at <a href = "mailto:serangoon_ss@moe.edu.sg">serangoon_ss@moe.edu.sg</a> or *6385 1589* for discussion or to seek clarification about the school’s sexuality education programme.
 
 14.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
