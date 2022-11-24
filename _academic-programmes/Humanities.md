@@ -12,7 +12,7 @@ description: ""
 |Designation | Name | Subject(s) |
 | -------- | -------- | -------- |
 |<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies/Principles of Accounts|
-|<b>Head of Department (HOD Education Support)<b>|Ms Sabrina Teo |Geography/Literature in English|
+|<b>Head of Department (HOD Educational Support)<b>|Ms Sabrina Teo |Geography/Literature in English|
 |<b>Head of Department (HOD Student Management)<b>|Ms Ng He Li |Geography/Social Studies|
 |<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies/English Language|
 ||Ms Cheryl Lau|Geography / Literature in English|
@@ -49,7 +49,6 @@ The Humanities Board Game was created to infuse the fun element into learning. T
 
 #### Competitions
 The department believes in sending students for Humanities competitions so as to stretch their potential.
-<hr>
 
 <hr>
 
@@ -61,8 +60,7 @@ Organised by Singapore Polytechnic, School of Architecture and the Built Environ
 
 The students had to design and fabricate models made of Medium Density Fibre timber strips and boards, glue and cotton string, strong and sturdy enough to withstand earthquake vibration simulated on a 2-Dimensional Earthquake Simulator. When the simulator was set into motion simulating earthquakes of different magnitudes, the models were shaken to find out which would be the strongest one to withstand these earthquake forces. This competition gave us the opportunity to work together with the Craft and Tech department on their construction and specification expertise of our model. Our participants received ‘Certificate of Participation’ for being able to design a sturdy model with the given materials that was able to survive a 5.5 magnitude earthquake on the simulator.
 
-###### Participants:
-Danylle Mendoza, Kimberly Ambrosio, Lee Kang Wei Samuel, Sapkitjakarn Techid (3I6, 2019)
+**Participants:** Danylle Mendoza, Kimberly Ambrosio, Lee Kang Wei Samuel, Sapkitjakarn Techid (3I6, 2019)
 
 ![](/images/participants%20competition.gif)
 Photos: Our participants hard at work to build their model.
@@ -86,8 +84,6 @@ As part of the Creative Component, they designed an infographic entitled ‘Meat
 
 Serangoon Secondary School was selected as one of the 40 schools in Singapore to advance to the Semi-finals which is in form of a Geo-trail all over Singapore. The advancement was  based on the participants’ outstanding performance in the Preliminary Round, which took place in NUS itself.
 
-![](/images/nus.gif)
-**Participants**: Ashley Ang, Nguyen Le My Anh, Daniel Goh, Foong Guang Wei (4N7, 2019)
 
 ##### War and Diplomacy Historical Card Game Competition
 We have taken part in the yearly Humanities Card Game Competition called War and Diplomacy. In this card game, players have to take a side in WW2; they join either the Allies or the Axis powers. Players are supposed to conquer the other side and protect their allies at the same time. Throughout the game, players have a chance to either use diplomacy or engage in warfare to attack their enemies or protect themselves or their allies at the same time. The fun element of the game lies in the fact that your identity as a player is known only to you. This means that only you will know which side (Allies or Axis) you are on. You will then have to guess who your enemies and friends are. One wrong move and you could have killed your own ally and helped the enemy. Or one masterful stroke from you could very well see the scales tipped in favour of your team. There also lies the presence of neutral countries that you can co-opt to help you achieve victory.
@@ -170,8 +166,6 @@ Upper Secondary Geography emphasises the integration of physical and human envir
 ##### Geographical Investigation
 
 Students conduct Geographical Investigation at the lower secondary level to investigate geographical issues. They will analyze the investigation question, plan their research, gather and select data, analyze data and finally arrive at their own conclusions regarding the issue. Through this process, they will learn to evaluate and communicate their findings through the use of an info-graph. In Secondary 1, they will look at the concept of "water quality" before moving on to exploring the concept of "inclusive housing". These two concepts expose students to a wide variety of investigative methods and bring the real world into the classroom for them.
-
-![](/images/geog%20investigation.gif) **refer to notes , issues with original photo**
 
 #### Humanities Engagement Programme
 

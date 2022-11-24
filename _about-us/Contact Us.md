@@ -13,7 +13,7 @@ Singapore 534237
 
 **Tel:** 6385 1589
 
-**E-mail:** serangoon_ss@moe.edu.sg
+**E-mail:** [serangoon_ss@moe.edu.sg](serangoon_ss@moe.edu.sg)
 
 **Nearest MRT Station:** Hougang MRT, Kangkar LRT
 
