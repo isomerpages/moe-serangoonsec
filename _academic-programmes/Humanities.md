@@ -51,14 +51,6 @@ The Humanities Board Game was created to infuse the fun element into learning. T
 The department believes in sending students for Humanities competitions so as to stretch their potential.
 <hr>
 
-#### National Stamp Collecting Competition
-As a department effort, teachers and students work hand-in-hand to take part in the National Stamp Collecting Competition. This competition gave students opportunities to explore the culture and the history behind the stamps of different countries. Secondary Three students were identified and given the opportunity to learn more about concepts in the humanities as they explored ideas and crafted a narrative with the use of stamps and other philatelic materials. The students were exposed to a rich world outside of their usual classroom environment. As a result of both the students’ and teacher’s dedication, Serangoon Secondary School emerged the national champion of this competition for the third year!
-
-2017: 2 Gold with Special Prize, 1 Silver with Special Prize and 2 Silver<br>
-2018: 3 Gold with Special Prize, 1 Gold and 1 Silver<br>
-2019: 2 Gold with Special Prize, 1 Gold, 1 Silver with Prize, 1 Silver
-
-![](/images/nscc.gif)
 <hr>
 
 #### National Earthquake Competition
@@ -183,7 +175,7 @@ Students conduct Geographical Investigation at the lower secondary level to inve
 
 #### Humanities Engagement Programme
 
-##### Humanities Engagement Week 2020
+##### Humanities Engagement Week 2022
 
 This year’s Humanities Engagement Week had to be shifted online given the circumstances of COVID-19. The Humanities Department collaborated with Music to extend our lower secondary students’ understanding of Humanities beyond the textbook and show how it is very much present even in a seemingly unrelated discipline. With the upper secondary students, the activity showed how information and skills learnt in History, Geography and Social Studies can be weaved together, showing that Humanities subjects are not mutually exclusive of one another.
 
