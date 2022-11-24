@@ -168,8 +168,6 @@ Upper Secondary Geography emphasises the integration of physical and human envir
 
 Students conduct Geographical Investigation at the lower secondary level to investigate geographical issues. They will analyze the investigation question, plan their research, gather and select data, analyze data and finally arrive at their own conclusions regarding the issue. Through this process, they will learn to evaluate and communicate their findings through the use of an info-graph. In Secondary 1, they will look at the concept of "water quality" before moving on to exploring the concept of "inclusive housing". These two concepts expose students to a wide variety of investigative methods and bring the real world into the classroom for them.
 
-![](/images/geog%20investigation.gif) **refer to notes , issues with original photo**
-
 #### Humanities Engagement Programme
 
 ##### Humanities Engagement Week 2022
