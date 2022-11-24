@@ -38,31 +38,12 @@ The criteria for taking Humanities at a more demanding level will be based on st
 </td>
   </tr>
  <tr>
-    <td><b>SH / Lit</b></td>
-    <td>Ms Jean Ong Rui Yun</td>
-  </tr>
- <tr>
-    <td><b>Teachers</b></td>
-    <td>Ms Chan Wei Meng</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Siti Nur Sufiana Hashim</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mdm Lim Pei Yee</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Charlene Lim</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Lance Tan Yong-Wen</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Lim Yu Xin Sheryl</td>
+    <td>Mixed form classes with the provision of a common curriculum</td>
+    <td>Our school will implement mixed form classes starting from the <b>Secondary 1 cohort of students entering our school in 2023.</b>
+<br><br>
+The 2023 cohort of Secondary 1 students will be grouped in mixed form classes, comprising students from different courses of study. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
+<br><br>
+In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.
+</td>
   </tr>
 </table>
