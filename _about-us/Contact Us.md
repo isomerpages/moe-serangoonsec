@@ -49,7 +49,7 @@ If you need assistance, please contact the School General Office at 63851589.
 |:---:|:---:|---|
 | Vendor | Vendor Information | Available Dates/Time |
 | Bookshop<br>Shing Lee Bookstores | 120 Hillview Ave #05-06/07 Kewalram Hillview S(669594)<br>Tel: 6764 3102 | Monday - Friday<br>7.30am - 3.00pm |
-|   Uniform & PE Attire<br>InTrend Uniforms |   729 Geylang Road S(389640)<br>Tel: 6741 0930 |  |
+|Uniform & PE Attire<br>InTrend Uniforms |1 Kaki Bukit Road 1 #01-30/31 Enterprise One Singapore 415934 ||
 
 #### SLS Support for Home-Based Learning (HBL)
 
