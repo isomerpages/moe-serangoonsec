@@ -44,6 +44,30 @@ The criteria for taking Humanities at a more demanding level will be based on st
 The 2023 cohort of Secondary 1 students will be grouped in mixed form classes, comprising students from different courses of study. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
 <br><br>
 In their mixed form classes, students will take a set of subjects at a common level, amounting to about one-third of curriculum time. This would allow students in mixed form classes to spend curriculum time together in these subjects.
+<br><br>
+These subjects are:
+<br><br>
+* Art
+			<br>
+* Character and Citizenship Education
+			<br>
+* Design and Technology
+			<br>
+* Food and Consumer Education
+			<br>
+* Music
+			<br>
+* Physical Education
+<br><br>
+Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
+<br><br>
+English Language, Mother Tongue Languages, Mathematics, and Science will continue to be offered at Express Level, N(A) Level, and N(T) Level. The criteria for taking these subjects at a more demanding level from the start of Secondary One is based on students’ PSLE AL Score for each subject. Students will be grouped in different classes based on their subject level for each subject.
 </td>
   </tr>
 </table>
+
+For more information on Full SBB, visit www.moe.gov.sg/microsites/psle-fsbb.
+
+For more information on how our school will be implementing Full SBB, you can contact us at serangoon_ss@moe.edu.sg.
+
+<hr>
