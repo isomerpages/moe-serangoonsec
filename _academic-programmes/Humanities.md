@@ -12,7 +12,7 @@ description: ""
 |Designation | Name | Subject(s) |
 | -------- | -------- | -------- |
 |<b>Head Of Department (HOD)</b>|Mr Christopher Tan |History / Social Studies/Principles of Accounts|
-|<b>Head of Department (HOD Education Support)<b>|Ms Sabrina Teo |Geography/Literature in English|
+|<b>Head of Department (HOD Educational Support)<b>|Ms Sabrina Teo |Geography/Literature in English|
 |<b>Head of Department (HOD Student Management)<b>|Ms Ng He Li |Geography/Social Studies|
 |<b>Teachers<b>|Mr Jeff Mak Ka Fai|Social Studies/English Language|
 ||Ms Cheryl Lau|Geography / Literature in English|
