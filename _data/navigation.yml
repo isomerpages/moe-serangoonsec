@@ -48,6 +48,8 @@ links:
   - title: Academic Programmes
     url: /academic-programmes/craft-tech
     sublinks:
+      - title: FSBB
+        url: /academic-programmes/fsbb/
       - title: Craft & Technology
         url: /academic-programmes/craft-tech/
       - title: English Language & Literature
