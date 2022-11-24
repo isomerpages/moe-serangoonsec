@@ -85,8 +85,6 @@ As part of the Creative Component, they designed an infographic entitled ‘Meat
 
 Serangoon Secondary School was selected as one of the 40 schools in Singapore to advance to the Semi-finals which is in form of a Geo-trail all over Singapore. The advancement was  based on the participants’ outstanding performance in the Preliminary Round, which took place in NUS itself.
 
-![](/images/nus.gif)
-**Participants**: Ashley Ang, Nguyen Le My Anh, Daniel Goh, Foong Guang Wei (4N7, 2019)
 
 ##### War and Diplomacy Historical Card Game Competition
 We have taken part in the yearly Humanities Card Game Competition called War and Diplomacy. In this card game, players have to take a side in WW2; they join either the Allies or the Axis powers. Players are supposed to conquer the other side and protect their allies at the same time. Throughout the game, players have a chance to either use diplomacy or engage in warfare to attack their enemies or protect themselves or their allies at the same time. The fun element of the game lies in the fact that your identity as a player is known only to you. This means that only you will know which side (Allies or Axis) you are on. You will then have to guess who your enemies and friends are. One wrong move and you could have killed your own ally and helped the enemy. Or one masterful stroke from you could very well see the scales tipped in favour of your team. There also lies the presence of neutral countries that you can co-opt to help you achieve victory.
