@@ -47,17 +47,17 @@ In their mixed form classes, students will take a set of subjects at a common le
 <br><br>
 These subjects are:
 <br><br>
-* Art
+<b>* Art</b>
 			<br>
-* Character and Citizenship Education
+<b>* Character and Citizenship Education</b>
 			<br>
-* Design and Technology
+<b>* Design and Technology</b>
 			<br>
-* Food and Consumer Education
+<b>* Food and Consumer Education</b>
 			<br>
-* Music
+<b>* Music</b>
 			<br>
-* Physical Education
+<b>* Physical Education</b>
 <br><br>
 Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
 <br><br>
@@ -66,8 +66,8 @@ English Language, Mother Tongue Languages, Mathematics, and Science will continu
   </tr>
 </table>
 
-For more information on Full SBB, visit www.moe.gov.sg/microsites/psle-fsbb.
+For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](www.moe.gov.sg/microsites/psle-fsbb).
 
-For more information on how our school will be implementing Full SBB, you can contact us at serangoon_ss@moe.edu.sg.
+For more information on how our school will be implementing Full SBB, you can contact us at [serangoon_ss@moe.edu.sg](serangoon_ss@moe.edu.sg).
 
 <hr>
