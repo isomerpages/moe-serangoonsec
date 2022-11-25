@@ -20,7 +20,7 @@ sections:
         - title: SSS on Instagram
           description: ""
           url: https://www.instagram.com/serangoonsecondary/
-      background: /images/Hero Banners/animated_sch_banner.gif
+      background: /images/hero_banner_sch_front.png
   - infopic:
       title: SSS Open House 2022
       subtitle: You're invited to
