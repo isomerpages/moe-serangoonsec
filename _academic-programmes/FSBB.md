@@ -66,7 +66,7 @@ English Language, Mother Tongue Languages, Mathematics, and Science will continu
   </tr>
 </table>
 
-For more information on Full SBB, visit [www.moe.gov.sg/microsites/psle-fsbb](www.moe.gov.sg/microsites/psle-fsbb).
+For more information on Full SBB, visit [https://www.moe.gov.sg/microsites/psle-fsbb/index.html](https://www.moe.gov.sg/microsites/psle-fsbb/index.html).
 
 For more information on how our school will be implementing Full SBB, you can contact us at <a href = "mailto:serangoon_ss@moe.edu.sg">serangoon_ss@moe.edu.sg</a>.
 
