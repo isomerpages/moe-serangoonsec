@@ -26,7 +26,7 @@ sections:
       subtitle: You're invited to
       description: 26 November 2022
       button: Click to find out more
-      url: https://moe-serangoonsec-staging.netlify.app/announcements/announcements/open-house-2022/
+      url: https://www.serangoonsec.moe.edu.sg/announcements/Announcements/open-house-2022/
       image: /images/Announcements/Open House 2022.jpg
       alt: Image alt text
 ---

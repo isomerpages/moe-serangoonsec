@@ -4,6 +4,10 @@ permalink: /student-development/Co-Curricular-Activities/npcc/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
+### NPCC Yearly Activities
+
+##### 2022
+
 ![](/images/NPCC/Slide1.png)
 ![](/images/NPCC/Slide2.png)
 ![](/images/NPCC/Slide3.png)
@@ -33,8 +37,6 @@ third_nav_title: Co Curricular Activities
 ![](/images/NPCC/Slide27.png)
 ![](/images/NPCC/Slide28.png)
 ![](/images/NPCC/Slide29.png)
-
-### NPCC Yearly Activities
 
 ##### 2021
 
