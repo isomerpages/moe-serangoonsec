@@ -22,15 +22,15 @@ third_nav_title: Announcements
 
 | Date ||Event|
 | -------- | -------- | -------- |
-| 17/12/2021:     |1.|[Information For Students Who Received 2021 GCE 'N' Level Results](https://moe-serangoonsec-staging.netlify.app/announcements/information-n-level-results/) |
-| 29/11/2021:     |2.|[Reminder to Collect School Graduation Certificate (SGC) by 31 MARCH 2022](https://moe-serangoonsec-staging.netlify.app/announcements/graduation-certificate/)|
-| 29/10/2021:     |3.|[Sale of Books and Uniforms 2021](https://moe-serangoonsec-staging.netlify.app/announcements/book-and-uniform/)|
-| 20/09/2021:     |4.|[Travel Declaration for Year-End Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-eoy-hol/)|
-| 14/09/2021:     |5.|[Caring Teacher Awards (CTA) 2022](https://moe-serangoonsec-staging.netlify.app/announcements/caring-teacher-award-2022/)|
-| 15/06/2021:     |6.|[MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students](https://moe-serangoonsec-staging.netlify.app/announcements/arrangements/)|
-| 08/06/2021:     |7.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://moe-serangoonsec-staging.netlify.app/announcements/moe-parent-kit/)|
+| 17/12/2021:     |1.|[Information For Students Who Received 2021 GCE 'N' Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/information-n-level-results/) |
+| 29/11/2021:     |2.|[Reminder to Collect School Graduation Certificate (SGC) by 31 MARCH 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/graduation-certificate/)|
+| 29/10/2021:     |3.|[Sale of Books and Uniforms 2021](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/book-and-uniform/)|
+| 20/09/2021:     |4.|[Travel Declaration for Year-End Holidays 2021](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-declaration-eoy-hol/)|
+| 14/09/2021:     |5.|[Caring Teacher Awards (CTA) 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/caring-teacher-award-2022/)|
+| 15/06/2021:     |6.|[MOE: Arrangements for school reopening in Term 3 for primary, secondary, JC and MI students](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/arrangements/)|
+| 08/06/2021:     |7.|[MOE Parent Kit Journeying Through Challenging Times, Together](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/moe-parent-kit/)|
 | 01/06/2021:     |8.|[COVID-19 Vaccination Exercise for Students](https://sites.google.com/moe.edu.sg/ssscovidmatters/home?pli=1)|
-| 21/05/2021:     |9.|[Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021](https://moe-serangoonsec-staging.netlify.app/announcements/extention-of-school-meal-subsidies-on-fas/)|
-| 17/05/2021:     |10.|[MOE: Full Home-Based Learning (HBL) from 19 May 2021 to 28 May 2021 for primary, secondary, JC and MI students](https://moe-serangoonsec-staging.netlify.app/announcements/full-hbl/)|
-| 14/05/2021:     |11.|[Travel Declaration for June Holidays 2021](https://moe-serangoonsec-staging.netlify.app/announcements/travel-declaration-mye-holiday/)|
-| 30/03/2021:     |12.|[2021 Term 2 Letters to Parents and Guardians](https://moe-serangoonsec-staging.netlify.app/parents-and-students/letters-to-parent-and-guardians/)|
+| 21/05/2021:     |9.|[Extension of School Meal Subsidies to Students on FAS During Full HBL Period from 19 to 28 May 2021](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/extention-of-school-meal-subsidies-on-fas/)|
+| 17/05/2021:     |10.|[MOE: Full Home-Based Learning (HBL) from 19 May 2021 to 28 May 2021 for primary, secondary, JC and MI students](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/full-hbl/)|
+| 14/05/2021:     |11.|[Travel Declaration for June Holidays 2021](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-declaration-mye-holiday/)|
+| 30/03/2021:     |12.|[2021 Term 2 Letters to Parents and Guardians](https://www.serangoonsec.moe.edu.sg/parents-and-students/letters-to-parent-and-guardians/)|
