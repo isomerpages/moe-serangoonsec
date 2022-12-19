@@ -6,6 +6,8 @@ third_nav_title: Announcements
 ---
 ### SSS Sec 1 Registration
 
+![](/images/Announcements/Sec%201%20Registration%20eBanner.jpg)
+
 Welcome to Serangoon Secondary School!
 We have put up all the important information and forms on this one-stop microsite. We strongly encourage you to take time to view the contents prepared specially for you. 
 
