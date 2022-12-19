@@ -10,14 +10,15 @@ third_nav_title: Announcements
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 19/12/2022:     |1.| [2022 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/2022-gce-nlevel-results/) <b>(NEW!)</b>  |
-| 26/11/2022:     |2.| [School Open House 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/open-house-2022/) <b>(NEW!)</b>  |
-| 28/10/2022:     |3.| [Sales of Books and Uniforms 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sbu-2023/) <b>(NEW!)</b>  |
-| 04/05/2022:     |4.|[Travel Declaration for 2022 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/td-2022-mid/)|
-| 29/04/2022: |5.|[2022 ICA NRIC Biometrics Registration](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/nric-biometrics-reg/)|
-| 26/01/2022:     |6.|[Staggered School Dismissal Timings on 31 Jan 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/staggered-dismissal-2022/)|
-| 12/01/2022:    |7.|[2021 GCE O-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/o-level-results/)|
-| 07/01/2022:     |8.|[Positive Parenting Program® (Triple P) for all parents](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/triplep-webinars/)|
+| 21/12/2022:     |1.| [SSS Sec 1 Registration 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sec1-registration-2022) <b>(NEW!)</b>|
+| 19/12/2022:     |2.| [2022 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/2022-gce-nlevel-results/) <b>(NEW!)</b>|
+| 26/11/2022:     |3.| [School Open House 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/open-house-2022/)|
+| 28/10/2022:     |4.| [Sales of Books and Uniforms 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sbu-2023/)|
+| 04/05/2022:     |5.|[Travel Declaration for 2022 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/td-2022-mid/)|
+| 29/04/2022: |6.|[2022 ICA NRIC Biometrics Registration](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/nric-biometrics-reg/)|
+| 26/01/2022:     |7.|[Staggered School Dismissal Timings on 31 Jan 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/staggered-dismissal-2022/)|
+| 12/01/2022:    |8.|[2021 GCE O-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/o-level-results/)|
+| 07/01/2022:     |9.|[Positive Parenting Program® (Triple P) for all parents](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/triplep-webinars/)|
 
 ##### 2021 Events
 
