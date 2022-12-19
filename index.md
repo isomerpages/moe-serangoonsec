@@ -29,12 +29,4 @@ sections:
       url: https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sec1-registration-2022
       alt: Image alt text
       image: /images/Announcements/Sec 1 Registration eBanner.jpg
-  - infopic:
-      title: SSS Open House 2022
-      subtitle: You're invited to
-      description: 26 November 2022
-      button: Click to find out more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/Announcements/open-house-2022/
-      image: /images/Announcements/Open House 2022.jpg
-      alt: Image alt text
 ---
