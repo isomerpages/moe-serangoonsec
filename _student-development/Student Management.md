@@ -39,7 +39,7 @@ It is every student's responsibility to be familiar with all school rules and ex
 
 **All StaRs are to...**
 
-Attend 
+
 
 
 
