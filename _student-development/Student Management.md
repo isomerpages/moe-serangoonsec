@@ -153,12 +153,12 @@ From left to right:
 
 <table>
   <tr>
-    <td><img src="/images/Student%20Management/mal_pic_1.jpg" style="width:200px"></td>
+    <td><img src="/images/Student%20Management/mal_pic_1.jpg" style="height:235px; width:260px"></td>
 		<td><img src="/images/Student%20Management/mal_pic_2.jpg" style="width:200px"></td>
   </tr>
 	  <tr>
     <td>Fringe is above the eyebrows</td>
-		<td>Sideburns are kept short with slope at the back</td>
+			<td>Sideburns are kept short with slope at the back</td>
   </tr>
 </table>
 
