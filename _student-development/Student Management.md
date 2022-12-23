@@ -22,6 +22,7 @@ Corrective discipline is achieved through intervention procedures to promote acc
 
 Counselling complements the disciplinary actions taken. Counselling sessions offer opportunities for students to reflect on their own behaviour and take personal responsibility for correcting them. Students will be guided by the counsellors to focus on their actual goals for being in school and plan steps to achieve them.
 
+<hr>
 
 #### School Rules & Expectations
 
@@ -41,6 +42,8 @@ With academic success as their end in mind, every student must be present for le
  
 It is every student’s responsibility to be familiar with all school rules and expectations and observe them accordingly. Ignorance is neither a reason nor an excuse for inappropriate behaviour. Failure to observe rules and expectations will result in the student facing disciplinary measures including detention, corrective work order, suspension, caning or any other measures deemed appropriate by the school. 
 
+<hr>
+
 #### General Conduct
 
 **All StaRs are to…**
@@ -56,6 +59,8 @@ It is every student’s responsibility to be familiar with all school rules and 
 * attend the daily flag-raising and pledge-taking ceremony. All StaRs, who are Singapore Citizens, must sing the National Anthem and take the Pledge with their right fist over the heart. All StaRs, who are non-Singaporeans, will stand at attention throughout the ceremony. All StaRs must sing the School Song.
 
 * leave the school premises by 6.30pm (unless supervised by a teacher)
+
+<hr>
 
 **Attire and Appearance**
 
@@ -89,6 +94,8 @@ From left to right:
   </tr>
 </table>
 
+<hr>
+
 <table>
   <tr>
     <td><img src="images/School%20Mgmt6%202023.png" style="width:200px"></td>
@@ -96,6 +103,8 @@ From left to right:
 		<td><img src="images/School%20Mgmt8%202023.png" style="height: 90px; width:150px"></td>
   </tr>
 </table>
+
+<hr>
 
 **All StaRs must …**
 
@@ -107,6 +116,8 @@ From left to right:
 * **not** wear any form of coloured contact lens
 * **not** wear any class T-shirt for school events, unless special permission is given  
 
+<hr>
+
 **All female students must…**
 
 * tie up their hair neatly once it touches the second collar line.
@@ -114,6 +125,8 @@ From left to right:
 * wear only plain black or blue ribbons, hair bands and/or hairclips 
 * wear knee-length skirts 
 * wear only a pair of simple ear-studs and no other form of body piercings 
+
+<hr>
 
 **All male students must…**
 
@@ -126,6 +139,8 @@ From left to right:
 * **not** wear ear-studs/ear-sticks / any form of body piercings
 
 **For further details on the expectations of students’ overall attire and appearance, please refer to the Student’s Handbook.**
+
+<hr>
 
 #### Use of Electronic Devices
 
@@ -149,6 +164,8 @@ From left to right:
 
 * Charging of mobile phones / personal learning devices (PLDs) using school facilities is not allowed without permission.
 
+<hr>
+
 #### Prohibited Items
 
 The following items are not allowed in the school. If such items are found, they will be confiscated.
@@ -162,11 +179,15 @@ The following items are not allowed in the school. If such items are found, they
 * All items that the school deems to be potentially dangerous, offensive, including penknives.
 * All other items prohibited for possession by students under Singapore law (e.g. E-cigarettes, cigarettes, pirated or unlicensed materials (in any format e.g. print, digital or accessed through cloud storage), pornographic materials)
 
+<hr>
+
 #### Possession of Weapons
 
 All students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon-like item which is used, or intended to be used, to cause harm to others.
 
 **For further details on the school rules and regulations, please refer to the Student’s Handbook. **
+
+<hr>
 
 #### Conduct Grade
 
@@ -237,3 +258,5 @@ All students are not allowed to have any weapon in their possession. They are al
 <ul><li>Has committed either a few serious offences or multiple occurrences of a single serious offence </li></ul></td>
   </tr>
 </table>
+
+<hr>
