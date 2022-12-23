@@ -225,4 +225,15 @@ All students are not allowed to have any weapon in their possession. They are al
 <ul><li>Absent from CCA persistently without MC or valid reason</li></ul>
 <ul><li>Has committed a serious offence</li></ul></td>
   </tr>
+			<tr>
+		<td>Poor</td>
+			<td><ul><li>Frequently shows unacceptable behaviour –</li>
+				<ul><li>needs guidance from teachers on behaviour</li></ul>
+				</ul>
+<ul><li>Attendance for school and school activities is irregular with truancy or / and high level of late-coming </li></ul>
+<ul><li>Work is often not submitted on time</li></ul>
+<ul><li>Has difficulty getting along with classmates</li></ul>
+<ul><li>No CCA / Absent from CCA persistently without MC or valid reason</li></ul>
+<ul><li>Has committed either a few serious offences or multiple occurrences of a single serious offence </li></ul></td>
+  </tr>
 </table>
