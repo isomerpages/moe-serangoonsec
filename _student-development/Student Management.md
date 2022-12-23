@@ -37,7 +37,51 @@ It is every student's responsibility to be familiar with all school rules and ex
 
 **General Conduct**
 
-**All StaRs are to...**
+All StaRs are to … 
+
+⦁ attend school regularly and all school programmes as required
+
+⦁	wear the school uniform and PE attire smartly
+
+⦁	be punctual for school and all school activities. Latecomers will face disciplinary measures such as detention, corrective work order and/or suspension. Their conduct grade may also be affected
+
+⦁	be in school by 7.40am and take their seated at the designated assembly area from 7.30am
+
+⦁	attend the daily flag-raising and pledge-taking ceremony. 
+All StaRs, who are Singapore Citizens, must sing the National Anthem and take the Pledge with their right fist over the heart. All StaRs, who are non-Singaporeans, will stand at attention throughout the ceremony. All StaRs must sing the School Song.
+
+⦁	leave the school premises by 6.30pm (unless supervised by a teacher)
+
+**Attire and Appearance**
+
+⦁	wear the prescribed school uniform. Any modification to the school uniform is not allowed
+
+⦁	wear the school uniform and PE attire smartly within and outside the school premises, during and after school hours and even during the holidays when attending school programmes
+
+⦁	wear the school uniform (full-uniform or half-uniform) on days as prescribed                              
+⦁	wear shoes which are completely black, with black socks that are visible above the ankle 
+
+![](/images/School%20Mgmt2%202023.png)
+
+From left to right: 
+
+⦁	PE attire 
+
+⦁	Full uniform for female students
+
+⦁	Half-uniform for male students
+
+⦁	Full uniform for male students
+
+⦁	Half-uniform for female students
+
+![](/images/School%20Mgmt3%202023.png)![](/images/School%20Mgmt4%202023.png)![](/images/School%20Mgmt5%202023.png)
+
+![](/images/School%20Mgmt6%202023.png)
+
+
+
+
 
 
 
@@ -157,3 +201,4 @@ Hair beyond collar length must be tied up.
 **\*Please note that students with improper attire will be counselled and will be expected to rectify the issue on the spot, failing which, the student will be sent home and will only be allowed to return when the expectations of Serangoon StaRs are met.**
 
 **\*Any accessories not permissible by the school rules will be confiscated and claimable only by parents/guardians.**
+
