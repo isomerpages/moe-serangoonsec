@@ -9,33 +9,36 @@ description: ""
 
 The school's positive and proactive approach to discipline is in line with MOE's Discipline Framework. 
 
+![](/images/Student%20Management/student_mgmt.png)
+
+The Student Management Committee aims to inculcate the basic values of respect, self-discipline, social responsibility and moral integrity. We want to develop in our students (termed as Serangoon StaRs) a sense of self-control and responsibility that lays the foundation for their success in school. This is achieved by creating a supporting and nurturing environment and by communicating clear expectations of student behaviour. We also expect students to take ownership of their behaviour by ensuring exemplary conduct at all times. We discipline because we care.
+
+The committee focuses on both aspects of discipline – preventive and corrective. 
+
+Preventive discipline is achieved through communication of clear expectations and rules of behaviour in school. Students are expected to be aware of these expectations and rules and conduct themselves accordingly, whether in or out of school, until the student graduates from school.
+
+Corrective discipline is achieved through intervention procedures to promote acceptable behaviours, and to change unacceptable behaviours to acceptable behaviours. Consequences for misconduct are clearly spelt out and followed to deter further offences. Students who misbehave are also referred for counselling.
+
+Counselling complements the disciplinary actions taken. Counselling sessions offer opportunities for students to reflect on their own behaviour and take personal responsibility for correcting them. Students will be guided by the counsellors to focus on their actual goals for being in school and plan steps to achieve them.
 
 
-The Student Management Committee aims inculcate the basic values of respect, self-discipline, social responsibility and moral integrity. We want to develop in our students (termed as Serangoon StaRs) a sense of self-control and responsibility that lays the foundation for their success in school. This is achieved by creating a supporting and nurturing environment and by communicating clear expectations of student behaviour. We also expect students to take ownership of their behaviour by ensuring exemplary conduct at all times. We discipline because we care.
+**School Rules & Expectations**
 
-The committee focuses on both aspects of discipline - preventive and corrective.
+The following are general standards of good behaviour expected of all students that apply in any setting and mode of interaction, including the digital realm.
 
-Preventive discipline is achieved through communication of clear expectations and rules of behaviour in school. Students are expected to be aware of these expectations and rules and conduct themselves accordingly, whether in or out school, until the student graduates from school.
+1. Exemplary Conduct
 
-Corrective discipline is achieved through intervention procedures to promote acceptable behaviours, and to change unacceptable behavious to accepatable behavious. Consequences for misconduct are clearly spelt out and followed to deter further offences. Students who misbehave are also referred for counselling.
+Students must be on their best behaviour in and out of school. This includes greeting school staff and visitors, being polite, considerate, responsible and respectful of self and others.
 
-Counselling complements the disciplinary actions taken. Counselling sessions offer opportunities for students to reflect on their own behaviour and take personal responsibiliy for correcting them. Studetns will be guided by the counsellors to focus on their actual goals for being in school and plan steps to achieve them.
+2. Respect for All
 
-**School Rules & Expectations **
+Students must respect authority. They have the responsibility to cooperate with all school staff and student leaders. Students must also respect their peers and co-create a conducive environment for learning. They can do so by not ridiculing or teasing others, to avoid disturbing their learning. They must also behave in an appropriate and reasonable manner in and out of the school. Students must also respect school property and the environment. Expectations for respect apply to all activities, including those carried out in the digital realm.
 
-The following are general standards of good behaviour expected of all students that apply in any setting and mode interaction, including the digital realm.
+3. Appropriate Attitudes towards Learning
 
-	1. Exemplary Conduct 
-Students must be on their best behaviour in and out of school. This includes greeting school staff and visitors, being polite considerate, responsible and respectful of self and others.
-
-	2. Respect for All
-Students must respect respect authority. They have the responsibility to coperate with all school staff and student leaders. Students must also respect their peers and co-create a condusive environment for learning. They can do so by not ridiculing or teasing others, to avoid disturbing their learning. They must also behave in an appropriate and reasonable manner in and out of the school. Students must also respect school property and the environment. Expectations for respect apply to all activities, including those carried outnin the digital realm.
-
-	3. Appropriate 
-	attitudes towards Learning
-	With academic success as their end in mind, every student must be present for lessons and actively participate in related activities. Punctuality for lessons and activities is also non-negotiable. Every student should be attentive during lessons, and complete and submit quality assignments and homework as expected. Students should be good team members when working in groups.
-	
-It is every student's responsibility to be familiar with all school rules and expectations and observe them accordingly. Ignorance is neither a reason nor an excuse for inappropriate behaviuor. Failure to observe rules and expectations will result in the student faing disciplinary measures including detention, corrective work order, suspension, caning or any other measures deemed appropriate by the school.
+With academic success as their end in mind, every student must be present for lessons and actively participate in related activities. Punctuality for lessons and activities is also non-negotiable. Every student should be attentive during lessons, and complete and submit quality assignments and homework as expected. Students should be good team members when working in groups. 
+ 
+It is every student’s responsibility to be familiar with all school rules and expectations and observe them accordingly. Ignorance is neither a reason nor an excuse for inappropriate behaviour. Failure to observe rules and expectations will result in the student facing disciplinary measures including detention, corrective work order, suspension, caning or any other measures deemed appropriate by the school. 
 
 **General Conduct**
 
