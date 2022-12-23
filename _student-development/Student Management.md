@@ -148,3 +148,16 @@ From left to right:
 * Handphones must also be surrendered to school staff when students are undergoing the process of investigation to any school related incident. 
 
 * Charging of mobile phones / personal learning devices (PLDs) using school facilities is not allowed without permission.
+
+#### Prohibited Items
+
+The following items are not allowed in the school. If such items are found, they will be confiscated.
+
+* Gambling items e.g. poker cards / chips / dices etc.
+* Lighters / matchsticks / blowtorch 
+* Pyrotechnics  
+* Bluetooth Speakers / Audible Devices
+* E-Scooters / Skate-scooters / Skateboards / Roller Blades 
+* Musical Instruments (Guitar, Hand-Held Drums) unless permission is given by teachers
+* All items that the school deems to be potentially dangerous, offensive, including penknives.
+* All other items prohibited for possession by students under Singapore law (e.g. E-cigarettes, cigarettes, pirated or unlicensed materials (in any format e.g. print, digital or accessed through cloud storage), pornographic materials)
