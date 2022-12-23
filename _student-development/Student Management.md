@@ -128,3 +128,23 @@ From left to right:
 **For further details on the expectations of students’ overall attire and appearance, please refer to the Student’s Handbook.**
 
 #### Use of Electronic Devices
+
+* Other than Personal Learning Devices purchased under the National Digital Literacy Programme, all students are strongly discouraged from bringing other electronic devices (e.g. handphones, tablets, laptops etc.) to school as they can be a cause of distraction to student learning and the learning of others, unless teachers require them for teaching and learning purposes.
+
+* Students who wish to contact their parents / guardian may use the telephone located outside the General Office.
+
+* Any electronic devices brought into school are the sole responsibility of the student and must remain switched off in the classroom at all times.
+
+* Students should not leave their electronic devices unattended at any time.
+
+* Handphones can only be used before 0730 and after school curriculum hours (not inclusive of time during any school activities) for the following purposes:
+
+-- Communication with parents
+
+-- Learning and educational purposes (e.g. searching for information on the internet, documenting a learning journey, research etc.)
+
+* If any student is caught using a phone (or similar electronic device) during lessons or not used responsibly by any student in the school compound, the device will be confiscated without exception and claimable only after 4.00 pm on the day itself.
+
+* Handphones must also be surrendered to school staff when students are undergoing the process of investigation to any school related incident. 
+
+* Charging of mobile phones / personal learning devices (PLDs) using school facilities is not allowed without permission.
