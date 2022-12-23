@@ -124,7 +124,20 @@ From left to right:
 * keep their fringe away from their eyebrows.
 * wear only plain black or blue ribbons, hair bands and/or hairclips 
 * wear knee-length skirts 
-* wear only a pair of simple ear-studs and no other form of body piercings 
+* wear only a pair of simple ear-studs and no other form of body piercings
+
+<table>
+  <tr>
+    <td><img src="/images/Student%20Management/fem_pic_1.jpg" style="width:200px"></td>
+    <td><img src="/images/Student%20Management/fem_pic_2.jpg" style="width:200px"></td>
+		<td><img src="/images/Student%20Management/fem_pic_3.jpg" style="width:200px"></td>
+  </tr>
+	  <tr>
+    <td>Pin up to keep the fringe away from the eyebrows</td>
+    <td></td>
+		<td>Hair beyond collar length must be tied up</td>
+  </tr>
+</table>
 
 <hr>
 
