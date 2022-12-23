@@ -125,6 +125,7 @@ From left to right:
 * **not** sport semi-shaven / undercut / uneven / skinhead hairstyles
 * **not** wear ear-studs/ear-sticks / any form of body piercings
 
+For further details on the expectations of students’ overall attire and appearance, please refer to the Student’s Handbook. 
 
 #### Use of Electronic Devices
 
