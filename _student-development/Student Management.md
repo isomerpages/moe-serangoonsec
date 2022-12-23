@@ -5,7 +5,7 @@ description: ""
 ---
 ### Student Management
 
-######  (Please refer to our Student Handbook for detailed school rules)
+**(Please refer to our Student Handbook for detailed school rules)**
 
 The school's positive and proactive approach to discipline is in line with MOE's Discipline Framework. 
 
