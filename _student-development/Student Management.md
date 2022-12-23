@@ -22,63 +22,63 @@ Corrective discipline is achieved through intervention procedures to promote acc
 Counselling complements the disciplinary actions taken. Counselling sessions offer opportunities for students to reflect on their own behaviour and take personal responsibility for correcting them. Students will be guided by the counsellors to focus on their actual goals for being in school and plan steps to achieve them.
 
 
-**School Rules & Expectations**
+#### School Rules & Expectations
 
 The following are general standards of good behaviour expected of all students that apply in any setting and mode of interaction, including the digital realm.
 
-1. Exemplary Conduct
+**1. Exemplary Conduct**
 
 Students must be on their best behaviour in and out of school. This includes greeting school staff and visitors, being polite, considerate, responsible and respectful of self and others.
 
-2. Respect for All
+**2. Respect for All**
 
 Students must respect authority. They have the responsibility to cooperate with all school staff and student leaders. Students must also respect their peers and co-create a conducive environment for learning. They can do so by not ridiculing or teasing others, to avoid disturbing their learning. They must also behave in an appropriate and reasonable manner in and out of the school. Students must also respect school property and the environment. Expectations for respect apply to all activities, including those carried out in the digital realm.
 
-3. Appropriate Attitudes towards Learning
+**3. Appropriate Attitudes towards Learning**
 
 With academic success as their end in mind, every student must be present for lessons and actively participate in related activities. Punctuality for lessons and activities is also non-negotiable. Every student should be attentive during lessons, and complete and submit quality assignments and homework as expected. Students should be good team members when working in groups. 
  
 It is every student’s responsibility to be familiar with all school rules and expectations and observe them accordingly. Ignorance is neither a reason nor an excuse for inappropriate behaviour. Failure to observe rules and expectations will result in the student facing disciplinary measures including detention, corrective work order, suspension, caning or any other measures deemed appropriate by the school. 
 
-**General Conduct**
+#### General Conduct
 
-All StaRs are to … 
+**All StaRs are to…**
 
-⦁ attend school regularly and all school programmes as required
+* attend school regularly and all school programmes as required
 
-⦁	wear the school uniform and PE attire smartly
+* wear the school uniform and PE attire smartly
 
-⦁	be punctual for school and all school activities. Latecomers will face disciplinary measures such as detention, corrective work order and/or suspension. Their conduct grade may also be affected
+* be punctual for school and all school activities. Latecomers will face disciplinary measures such as detention, corrective work order and/or suspension. Their conduct grade may also be affected
 
-⦁	be in school by 7.40am and take their seated at the designated assembly area from 7.30am
+* be in school by 7.40am and take their seated at the designated assembly area from 7.30am
 
-⦁	attend the daily flag-raising and pledge-taking ceremony. 
-All StaRs, who are Singapore Citizens, must sing the National Anthem and take the Pledge with their right fist over the heart. All StaRs, who are non-Singaporeans, will stand at attention throughout the ceremony. All StaRs must sing the School Song.
+* attend the daily flag-raising and pledge-taking ceremony. All StaRs, who are Singapore Citizens, must sing the National Anthem and take the Pledge with their right fist over the heart. All StaRs, who are non-Singaporeans, will stand at attention throughout the ceremony. All StaRs must sing the School Song.
 
-⦁	leave the school premises by 6.30pm (unless supervised by a teacher)
+* leave the school premises by 6.30pm (unless supervised by a teacher)
 
 **Attire and Appearance**
 
-⦁	wear the prescribed school uniform. Any modification to the school uniform is not allowed
+* wear the prescribed school uniform. Any modification to the school uniform is not allowed
 
-⦁	wear the school uniform and PE attire smartly within and outside the school premises, during and after school hours and even during the holidays when attending school programmes
+* wear the school uniform and PE attire smartly within and outside the school premises, during and after school hours and even during the holidays when attending school programmes
 
-⦁	wear the school uniform (full-uniform or half-uniform) on days as prescribed                              
-⦁	wear shoes which are completely black, with black socks that are visible above the ankle 
+* wear the school uniform (full-uniform or half-uniform) on days as prescribed
+
+* wear shoes which are completely black, with black socks that are visible above the ankle
 
 ![](/images/School%20Mgmt2%202023.png)
 
 From left to right: 
 
-⦁	PE attire 
+PE attire 
 
-⦁	Full uniform for female students
+Full uniform for female students
 
-⦁	Half-uniform for male students
+Half-uniform for male students
 
-⦁	Full uniform for male students
+Full uniform for male students
 
-⦁	Half-uniform for female students
+Half-uniform for female students
 
 ![](/images/School%20Mgmt3%202023.png)![](/images/School%20Mgmt4%202023.png)![](/images/School%20Mgmt5%202023.png)
 
