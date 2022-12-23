@@ -9,7 +9,7 @@ description: ""
 
 The school's positive and proactive approach to discipline is in line with MOE's Discipline Framework. 
 
-<img src="/images/Student%20Management/student_mgmt.png" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+<img src="/images/Student%20Management/student_mgmt.png" style="width:350px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 
 The Student Management Committee aims to inculcate the basic values of respect, self-discipline, social responsibility and moral integrity. We want to develop in our students (termed as Serangoon StaRs) a sense of self-control and responsibility that lays the foundation for their success in school. This is achieved by creating a supporting and nurturing environment and by communicating clear expectations of student behaviour. We also expect students to take ownership of their behaviour by ensuring exemplary conduct at all times. We discipline because we care.
