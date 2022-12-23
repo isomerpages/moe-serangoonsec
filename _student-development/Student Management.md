@@ -161,3 +161,15 @@ The following items are not allowed in the school. If such items are found, they
 * Musical Instruments (Guitar, Hand-Held Drums) unless permission is given by teachers
 * All items that the school deems to be potentially dangerous, offensive, including penknives.
 * All other items prohibited for possession by students under Singapore law (e.g. E-cigarettes, cigarettes, pirated or unlicensed materials (in any format e.g. print, digital or accessed through cloud storage), pornographic materials)
+
+#### Possession of Weapons
+
+All students are not allowed to have any weapon in their possession. They are also not allowed to bring any weapon-like item which is used, or intended to be used, to cause harm to others.
+
+**For further details on the school rules and regulations, please refer to the Student’s Handbook. **
+
+#### Conduct Grade
+
+
+
+
