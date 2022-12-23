@@ -151,6 +151,18 @@ From left to right:
 * **not** sport semi-shaven / undercut / uneven / skinhead hairstyles
 * **not** wear ear-studs/ear-sticks / any form of body piercings
 
+<table>
+  <tr>
+    <td><img src="/images/Student%20Management/mal_pic_1.jpg" style="width:200px"></td>
+		<td><img src="/images/Student%20Management/mal_pic_2.jpg" style="width:200px"></td>
+  </tr>
+	  <tr>
+    <td>Fringe is above the eyebrows</td>
+		<td>Sideburns are kept short with slope at the back</td>
+  </tr>
+</table>
+
+
 **For further details on the expectations of students’ overall attire and appearance, please refer to the Student’s Handbook.**
 
 <hr>
