@@ -97,6 +97,24 @@ From left to right:
   </tr>
 </table>
 
+**All StaRs must …**
+
+* **not** sport outlandish hairstyles, streaking, tinting, dyeing or colouring of hair   
+* **not** wear any form of make-up
+* **not** wear any jewelry or fashion accessories 
+* **not** wear nose studs / tongue studs or any type of body studs 
+* **not** have any tattoos (including temporary tattoos) or body piercing
+* **not** wear any form of coloured contact lens
+* **not** wear any class T-shirt for school events, unless special permission is given  
+
+**All female students must…**
+
+* tie up their hair neatly once it touches the second collar line.
+* keep their fringe away from their eyebrows.
+* wear only plain black or blue ribbons, hair bands and/or hairclips 
+* wear knee-length skirts 
+* wear only a pair of simple ear-studs and no other form of body piercings 
+
 
 #### Use of Electronic Devices
 
