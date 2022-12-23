@@ -89,6 +89,14 @@ From left to right:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="images/School%20Mgmt6%202023.png" style="width:200px"></td>
+    <td><img src="images/School%20Mgmt7%202023.png" style="width:200px"></td>
+		<td><img src="images/School%20Mgmt8%202023.png" style="height: 90px; width:150px"></td>
+  </tr>
+</table>
+
 
 #### Use of Electronic Devices
 
