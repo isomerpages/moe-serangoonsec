@@ -67,7 +67,7 @@ It is every student’s responsibility to be familiar with all school rules and 
 
 * wear shoes which are completely black, with black socks that are visible above the ankle
 
-![](/images/School%20Mgmt2%202023.png)
+<img src="/images/School%20Mgmt2%202023.png" style="width:350px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 From left to right: 
 
@@ -81,6 +81,13 @@ From left to right:
 
 * Half-uniform for female students
 
+<table>
+  <tr>
+    <td><img src="images/School%20Mgmt3%202023.png" style="width:200px"></td>
+    <td><img src="images/School%20Mgmt4%202023.png" style="width:200px"></td>
+		<td><img src="images/School%20Mgmt5%202023.png" style="height: 90px; width:150px"></td>
+  </tr>
+</table>
 
 
 #### Use of Electronic Devices
