@@ -115,6 +115,16 @@ From left to right:
 * wear knee-length skirts 
 * wear only a pair of simple ear-studs and no other form of body piercings 
 
+**All male students must…**
+
+* keep their hair short and neat, not touching the ears and eyebrows
+* be clean-shaven with no visible facial hair (beards and moustaches are not allowed)
+* keep their sideburns short 
+* have a hairstyle that shows evidence of a slope at the back of the head
+* wear long pants (no socks to be seen), and a prescribed but optional blue/black belt with a simple buckle (pants should not be tapered and should cover the ankle completely)
+* **not** sport semi-shaven / undercut / uneven / skinhead hairstyles
+* **not** wear ear-studs/ear-sticks / any form of body piercings
+
 
 #### Use of Electronic Devices
 
