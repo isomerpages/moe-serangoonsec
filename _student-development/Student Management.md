@@ -86,11 +86,12 @@ From left to right:
 
 * Half-uniform for female students
 
+![](/images/School%20Mgmt3%202023.png)
 <table>
   <tr>
-    <td><img src="images/School%20Mgmt3%202023.png" style="width:200px"></td>
-    <td><img src="images/School%20Mgmt4%202023.png" style="width:200px"></td>
-		<td><img src="images/School%20Mgmt5%202023.png" style="height: 90px; width:150px"></td>
+    <td><img src="/images/School%20Mgmt3%202023.png" style="width:200px"></td>
+    <td><img src="/images/School%20Mgmt4%202023.png" style="width:200px"></td>
+		<td><img src="/images/School%20Mgmt5%202023.png" style="height: 90px; width:150px"></td>
   </tr>
 </table>
 
@@ -98,9 +99,9 @@ From left to right:
 
 <table>
   <tr>
-    <td><img src="images/School%20Mgmt6%202023.png" style="width:200px"></td>
-    <td><img src="images/School%20Mgmt7%202023.png" style="width:200px"></td>
-		<td><img src="images/School%20Mgmt8%202023.png" style="height: 90px; width:150px"></td>
+    <td><img src="/images/School%20Mgmt6%202023.png" style="width:200px"></td>
+    <td><img src="/images/School%20Mgmt7%202023.png" style="width:200px"></td>
+		<td><img src="/images/School%20Mgmt8%202023.png" style="height: 90px; width:150px"></td>
   </tr>
 </table>
 
