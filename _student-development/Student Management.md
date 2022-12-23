@@ -86,7 +86,6 @@ From left to right:
 
 * Half-uniform for female students
 
-![](/images/School%20Mgmt3%202023.png)
 <table>
   <tr>
     <td><img src="/images/School%20Mgmt3%202023.png" style="width:200px"></td>
