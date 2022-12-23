@@ -201,4 +201,17 @@ All students are not allowed to have any weapon in their possession. They are al
 <ul><li>Absent from CCA rarely without MC or valid reason</li></ul>
 <ul><li>Has not committed any minor or serious offence</li></ul></td>
   </tr>
+	<tr>
+		<td>Good</td>
+			<td><ul><li>Behaves well most of the time –</li>
+			<ul><li>is courteous, polite and respectful most of the time</li></ul>
+			<ul><li>is dependable; does things well on his/her own most of the time</li></ul>
+				<ul><li>shows very clear sense of right and wrong through speech and action most of the time</li></ul>
+				</ul>
+<ul><li>Attends school regularly and participates actively in school activities with high level of punctuality</li></ul>
+<ul><li>Work is always submitted on time</li></ul>
+<ul><li>Gets along well with classmates</li></ul>
+<ul><li>Absent from CCA rarely without MC or valid reason</li></ul>
+<ul><li>Has not committed any minor or serious offence</li></ul></td>
+  </tr>
 </table>
