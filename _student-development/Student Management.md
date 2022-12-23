@@ -208,10 +208,10 @@ All students are not allowed to have any weapon in their possession. They are al
 			<ul><li>is dependable; does things well on his/her own most of the time</li></ul>
 				<ul><li>shows very clear sense of right and wrong through speech and action most of the time</li></ul>
 				</ul>
-<ul><li>Attends school regularly and participates actively in school activities with high level of punctuality</li></ul>
-<ul><li>Work is always submitted on time</li></ul>
+<ul><li>Attends school regularly and participates in school activities with acceptable level of punctuality</li></ul>
+<ul><li>Work is usually submitted on time</li></ul>
 <ul><li>Gets along well with classmates</li></ul>
-<ul><li>Absent from CCA rarely without MC or valid reason</li></ul>
+<ul><li>Absent from CCA occasionally without MC or valid reason</li></ul>
 <ul><li>Has not committed any minor or serious offence</li></ul></td>
   </tr>
 </table>
