@@ -170,6 +170,22 @@ All students are not allowed to have any weapon in their possession. They are al
 
 #### Conduct Grade
 
-
-
-
+<table>
+  <tr>
+		<td><b>Grade</b></td>
+    <td><b>Descriptors</b></td>
+  </tr>
+	  <tr>
+		<td>Excellent</td>
+			<td><ul><li>Consistently behaves in an exemplary manner –</li>
+			<ul><li>is always courteous, polite and respectful</li></ul>
+			<ul><li>is always dependable; does things well on his/her own</li></ul>
+				<ul><li>shows very clear sense of right and wrong through speech and action</li></ul>
+				</ul>
+<ul><li>Attends school regularly and participates very actively in school activities with high level of punctuality</li></ul>
+<ul><li>Work is always submitted on time</li></ul>
+<ul><li>Gets along very well with classmates</li></ul>
+<ul><li>Attends CCA all the time</li></ul>
+<ul><li>Has not committed any minor or serious offence</li></ul></td>
+  </tr>
+</table>
