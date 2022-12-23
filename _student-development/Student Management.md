@@ -7,8 +7,10 @@ description: ""
 
 ######  (Please refer to our Student Handbook for detailed school rules)
 
-|The school's positive and proactive approach to discipline is in line with MOE's Discipline Framework. 
-![](/images/School%20Mgmt1%202023.png)
+The school's positive and proactive approach to discipline is in line with MOE's Discipline Framework. 
+
+
+
 The Student Management Committee aims inculcate the basic values of respect, self-discipline, social responsibility and moral integrity. We want to develop in our students (termed as Serangoon StaRs) a sense of self-control and responsibility that lays the foundation for their success in school. This is achieved by creating a supporting and nurturing environment and by communicating clear expectations of student behaviour. We also expect students to take ownership of their behaviour by ensuring exemplary conduct at all times. We discipline because we care.
 
 The committee focuses on both aspects of discipline - preventive and corrective.
@@ -201,4 +203,3 @@ Hair beyond collar length must be tied up.
 **\*Please note that students with improper attire will be counselled and will be expected to rectify the issue on the spot, failing which, the student will be sent home and will only be allowed to return when the expectations of Serangoon StaRs are met.**
 
 **\*Any accessories not permissible by the school rules will be confiscated and claimable only by parents/guardians.**
-
