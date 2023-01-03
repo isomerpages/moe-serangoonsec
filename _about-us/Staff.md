@@ -36,14 +36,14 @@ description: ""
 
 | Class | Form Teachers |
 |---|---|
-| 1SD1 | Mr Suratman Bin Masohan<br>Ms Lynn Teo<br>Ms Aimi'Atiqah Bte Shamsuddin |
-| 1SD2 | Mr Muhd Lotfi Bin Murad<br>Mdm Yogeswari d/o Selvaraja |
-| 1SD3                    | Ms Gloria Lim<br>Mr Muhammad Nasri |
-| 1SD4 | Mdm Lau Yee Ping Cheryl<br>Mr Jeff Mak Ka Fai |
-| 1SD5 | Mdm You Chang Ying<br>Mr Tan Yong-Wen Lance |
-| 1SD6 | Ms Kok Chuan Tin<br>Mr Wang Xiaolong |
-| 1SD7 | Mr Yee Liang Chien<br>Ms Lim Pei Jun Candice |
-| 1SD8 | Mr Sam Chee Fai<br>Ms Chan Wei Meng |
+| 1SD1 | Ms Lim Qiao Chun Caelyn<br> Ms Fong Jia Hui|
+| 1SD2 | Ms Peh Su Fang<br>Mr Hidayat |
+| 1SD3 | Mdm Tengku Norita<br>Mr Jarrod Lim<br>Mrs Rudrapathy Vijayalakshmi|
+| 1SD4 | Mdm Hasrita Hosnin<br> Ms Lim Yu Xin Sheryl|
+| 1SD5 | Ms Ivy Phong<br>Mr Muzzaffar|
+| 1SD6 |  Mr Timotty Tay Jun Jie<br>Mdm Nur Ashirah Binti Nordali|
+| 1SD7 | Mr Timothy Liew<br> Ms Charlene Lim|
+| 1SD8 | Ms Sharon Tan<br>Ms Dasimah|
 | 2H1 | Mr Liao Yongzhi<br>Ms Koh Mui Hong |
 | 2H2 | Ms Lee Pei Xuan Jacklyn <br>Mr Yee Kah Leong |
 | 2H3 | Ms Kuan Jing Wei Kimberley<br>Ms Wong Liling |
