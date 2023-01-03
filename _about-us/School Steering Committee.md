@@ -19,9 +19,8 @@ description: ""
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Steering%20Committee/Kwek%20Cher%20Wei%20Dennis.jpg)|![](/images/School%20Steering%20Committee/Lee%20Zhi%20Li.jpg)|![](/images/School%20Steering%20Committee/Koh%20Sien%20Kok%20Dennis.jpg)|
+|![](/images/School%20Steering%20Committee/Kwek%20Cher%20Wei%20Dennis.jpg)|![](/images/School%20Steering%20Committee/Koh%20Sien%20Kok%20Dennis.jpg)|![](/images/School%20Steering%20Committee/Fu%20Shin%20Hui.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Steering%20Committee/Fu%20Shin%20Hui.jpg)|![](/images/School%20Steering%20Committee/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Steering%20Committee/Kng%20Zhiying.jpg)|
-|![](/images/School%20Steering%20Committee/Kamal%20Jupri.jpg)|![](/images/School%20Steering%20Committee/Vincent%20Wong.jpg)|![](/images/School%20Steering%20Committee/Adrial%20Tan%20Chong%20Jin.jpg)|
-|![](/images/School%20Steering%20Committee/Ong%20Rui%20Yun%20Jean.jpg)|![](/images/School%20Steering%20Committee/Heng%20Tze%20Wei.jpg)|![](/images/School%20Steering%20Committee/Teo%20Zhi%20Hui%20Geraldine.jpg)|
-|![](/images/KP_blank.jpg)|![](/images/School%20Steering%20Committee/Moritza%20Lim%20Fang%20Min.jpg)|![](/images/KP_blank.jpg)|
+|![](/images/School%20Steering%20Committee/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Steering%20Committee/Kng%20Zhiying.jpg)|![](/images/School%20Steering%20Committee/Kamal%20Jupri.jpg)|
+|![](/images/School%20Steering%20Committee/Vincent%20Wong.jpg)|![](/images/School%20Steering%20Committee/Adrial%20Tan%20Chong%20Jin.jpg)|![](/images/School%20Steering%20Committee/Ong%20Rui%20Yun%20Jean.jpg)|
+|![](/images/School%20Steering%20Committee/Heng%20Tze%20Wei.jpg)|![](/images/School%20Steering%20Committee/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/KP_blank.jpg)|
