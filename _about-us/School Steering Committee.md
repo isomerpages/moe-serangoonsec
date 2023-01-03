@@ -15,7 +15,7 @@ description: ""
 | -------- | -------- | -------- |
 |![](/images/School%20Steering%20Committee/Christopher%20Tan%20Swan%20Kiat.jpg)|![](/images/School%20Steering%20Committee/Koh%20Poh%20Ling.jpg)|![](/images/School%20Steering%20Committee/Liam%20Hsiao%20Wen.jpg)|
 |![](/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg)|![](/images/School%20Steering%20Committee/Michelle%20Ong.jpg)|![](/images/School%20Steering%20Committee/Ng%20He%20Li.jpg)|
-|![](/images/School%20Steering%20Committee/Low%20Siew%20Ping.jpg)|![](/images/School%20Steering%20Committee/Lum%20Cindy.jpg)|![](/images/KP_blank.jpg)|
+|![](/images/KP_blank.jpg)|![](/images/School%20Steering%20Committee/Lum%20Cindy.jpg)|![](/images/KP_blank.jpg)|
 
 #### Subject Heads / Assistant Year Heads
 
