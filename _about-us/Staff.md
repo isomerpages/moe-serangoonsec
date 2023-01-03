@@ -4,7 +4,7 @@ permalink: /staff/
 description: ""
 ---
 ### Staff
-#### Middle Managers 2022
+#### Middle Managers 2023
 
 | Name  | Designation |
 |---|---|
@@ -16,10 +16,9 @@ description: ""
 | Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
 | Mdm Goh Sze Wei | HOD / Physical Education & Co-Curricular Activities |
 | Ms Ong Meixue Michelle | HOD / Science |
-| Mdm Low Siew Ping | Year Head (Lower Sec) |
+| Mr Tay Ming Yang | Year Head (Lower Sec) |
 | Mdm Cindy Lum | Year Head (Upper Sec)  |
 | Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2)  |
-| Ms Lee Zhi Li | Assistant Year Head (Sec 3)  |
 | Mr Koh Sien Kok Dennis | SH / Character & Citizenship Education |
 | Ms Fu Shin Hui | SH / Chemistry |
 | Ms Guo Kaiqi Jenny | SH / Chinese Language |
@@ -31,9 +30,8 @@ description: ""
 | Mr Heng Tze Wei | SH / Mathematics |
 | Ms Teo Zhi Hui Geraldine | SH / Physical Education & Co-Curricular Activities |
 | Mr Yan Tuck Poh | SH / Student Management |
-| Ms Moritza Lim Fang Min | SH / Student Well-Being |
 
-#### Classes and Form Teachers 2022
+#### Classes and Form Teachers 2023
 
 | Class | Form Teachers |
 |---|---|
@@ -73,12 +71,11 @@ description: ""
 | 4N9 | Mr Liew Zherui Timothy<br>Mr Fung En Yong Daniel |
 | 5E1 | Mr Adrian Tay<br>Mr Tan Yong Khai |
 
-#### Allied Educators 2022
+#### Allied Educators 2023
 
 | Name | Designation |
 |---|---|
 | Mr Abdul Rahim Bin Zainol<br> | SEN Officer<br> |
-| Ms Aimi'Atiqah Bte Shamsuddin | Allied Educator (Teaching & Learning) |
+| Ms Aimi'Atiqah Bte Shamsuddin | Student Welfare Officer<br> |
 | Mdm Jade Chee Gek Chin<br>| Senior School Counsellor<br> |
 | Ms Thahira Thasnim Hajamaideen<br> | School Counsellor<br> |
-| Ms Gan Wei Ling Joyce<br>  | Student Welfare Officer<br> |
