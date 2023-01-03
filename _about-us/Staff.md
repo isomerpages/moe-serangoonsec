@@ -34,6 +34,8 @@ description: ""
 
 #### Classes and Form Teachers 2023
 
+##### Secondary 1
+
 | Class | Form Teachers |
 |---|---|
 | 1SD1 | Ms Lim Qiao Chun Caelyn<br> Ms Fong Jia Hui|
@@ -44,6 +46,11 @@ description: ""
 | 1SD6 |  Mr Timotty Tay Jun Jie<br>Mdm Nur Ashirah Binti Nordali|
 | 1SD7 | Mr Timothy Liew<br> Ms Charlene Lim|
 | 1SD8 | Ms Sharon Tan<br>Ms Dasimah|
+
+##### Secondary 2
+
+| Class | Form Teachers |
+|---|---|
 | 2H1 | Mr Liao Yongzhi<br>Ms Koh Mui Hong |
 | 2H2 | Ms Lee Pei Xuan Jacklyn <br>Mr Yee Kah Leong |
 | 2H3 | Ms Kuan Jing Wei Kimberley<br>Ms Wong Liling |
@@ -52,6 +59,11 @@ description: ""
 | 2H6 | Ms Lim Yu Xin Sheryl <br>Ms Ivy Phong<br>Mr Lim Zhou Yu Jarrod |
 | 2H7 | Ms Fong Jia Hui<br>Ms Amala d/o Tavabalan |
 | 2H8 | Mdm Peh Su Fang<br>Mdm Rudrapathy Vijayalakshmi |
+
+##### Secondary 3
+
+| Class | Form Teachers |
+|---|---|
 | 3I1 | Ms Quek Hoon Lui<br>Mr Goh Chye Boon Roger |
 | 3I2 | Ms Siti Nur Sufiana Binte Hashim<br>Mr Danapal Kumar |
 | 3I3 | Mdm Shabana Begum Binte Mohamed Ayoob<br>Mr Ong Chee Meng<br>Ms Kalarani |
@@ -60,6 +72,11 @@ description: ""
 | 3I6 | Mdm Ng Siew Kheng<br>Mr Fathie Bin Ali Abdat<br>Mr Tan Boon Hwee |
 | 3I7 | Mr Michael Chow<br>Mr Sin Kah Fai |
 | 3I8 | Mr Muhammad Bin Roslee<br>Ms Lim Shilei Ella |
+
+##### Secondary 4 & 5
+
+| Class | Form Teachers |
+|---|---|
 | 4N1A | Ms Charlene Lim<br>Ms Caelyn Lim<br>Ms Moritza Lim Fang Min |
 | 4N1B | Mdm Tengku Norita<br>Mr Tan Kian Chong |
 | 4N2 | Mr Goh Ling Pin<br>Ms Nur Ashirah Binti Nordali |
