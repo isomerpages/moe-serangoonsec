@@ -5,7 +5,6 @@ description: ""
 ---
 ### School Steering Committee 
 
-
 |![](/images/School%20Steering%20Committee/Jin%20Sebastian.jpg)|![](/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg)|![](/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg)|
 | -------- | -------- | -------- |
 
