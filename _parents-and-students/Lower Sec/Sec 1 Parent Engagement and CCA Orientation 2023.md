@@ -55,12 +55,24 @@ sent to you nearer to the date.
     <td><img src="/images/School%20Steering%20Committee/Mr%20Tay%20Ming%20Yang.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 		</td><td>Sec 1 Matters</td>
   </tr>
-				  <tr>
+			<tr>
     <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>CCA &amp; LEAPS Briefing</td>
+		</td><td>CCA & LEAPS Briefing</td>
   </tr>
-						  <tr>
+			<tr>
     <td><img src="/images/School%20Steering%20Committee/Ng%20He%20Li.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>CCA &amp; LEAPS Briefing</td>
+		</td><td>Discipline Matters</td>
+  </tr>
+		<tr>
+    <td><img src="/images/School%20Steering%20Committee/Teo%20Wei%20Ping%20Sabrina.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+		</td><td>After School Engagement</td>
+  </tr>
+		<tr>
+    <td><img src="/images/School%20Steering%20Committee/Lum%20Cindy.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+		</td><td>Parent Support Group</td>
+  </tr>
+		<tr>
+    <td><img src="/images/School%20Steering%20Committee/Adrial%20Tan%20Chong%20Jin.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+		</td><td>National Digital Literacy Programme (NDLP) Briefing</td>
   </tr>
 </tbody></table>
