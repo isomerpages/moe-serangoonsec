@@ -14,9 +14,3 @@ Please register for the event by Wednesday, 11 January 2023 [here](https://go.go
 
 ##### Programme Details
 
-<table>
-	<td>
-		<tr>
-		</tr>
-	</td>
-	</table>
