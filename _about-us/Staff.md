@@ -77,17 +77,15 @@ description: ""
 
 | Class | Form Teachers |
 |---|---|
-| 4N1A | Ms Charlene Lim<br>Ms Caelyn Lim<br>Ms Moritza Lim Fang Min |
-| 4N1B | Mdm Tengku Norita<br>Mr Tan Kian Chong |
-| 4N2 | Mr Goh Ling Pin<br>Ms Nur Ashirah Binti Nordali |
-| 4N3 | Mdm Hasrita Bte Hosnin<br>Mr Lee Boon Haw |
-| 4N4 | Mr Muhammad Hidayat Bin Ishak<br>Ms Ang Chian Huey |
-| 4N5 | Mr Muhd Muzzaffar Shah Bin Razak<br>Ms Dasimah Binte Jalil |
-| 4N6 | Ms Tan Xiaolin<br>Mr Timotty Tay Jun Jie |
-| 4N7  | Mr Lim Tong Yang<br>Ms Ezyanti Siregar Bte Lukman |
-| 4N8 | Ms Tan Kai Ling Sharon<br>Ms Joseline Cheok |
-| 4N9 | Mr Liew Zherui Timothy<br>Mr Fung En Yong Daniel |
-| 5E1 | Mr Adrian Tay<br>Mr Tan Yong Khai |
+| 4N1 |Ms Bel Quek<br>Mr Roger Goh Chye Boon|
+| 4N2 |Ms Siti Nur Sufiana Binte Hashim<br>Mr Danapal Kumar<br>Ms Ezyanti Siregar Bte Lukman|
+| 4N3 |Ms Shabana<br>Mr Ong Chee Meng<br>Ms Kalarani|
+| 4N4 |Ms Ng Xuemin<br>Ms Sha Yijing<br>Ms Raudah <br>Ms Wong Liling|
+| 4N5 |Mdm Lim Pei Yee<br>Ms Teo Zhi Hui Geraldine|
+| 4N6 |Mdm Ng Siew Kheng<br>Mr Tan Boon Hwee|
+| 4N7 |Mr Michael Chow<br>Mr Sin Kah Fai|
+| 4N8 |Ms Lim Shilei Ella<br>Mr Muhammad Bin Roslee|
+| 5E1 |Ms Ang Chian Huey<br>Mr Tan Peng Yau|
 
 #### Allied Educators 2023
 
