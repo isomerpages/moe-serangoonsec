@@ -48,15 +48,15 @@ sent to you nearer to the date.
 		<td><b>Topics</b></td>
   </tr>
 	  <tr>
-    <td><img src="/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg style=">
+    <td><img src="/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 		</td><td>Opening Address</td>
   </tr>
 		  <tr>
-    <td><img src="/images/School%20Steering%20Committee/Mr%20Tay%20Ming%20Yang.png">
+    <td><img src="/images/School%20Steering%20Committee/Mr%20Tay%20Ming%20Yang.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 		</td><td>Sec 1 Matters</td>
   </tr>
 				  <tr>
-    <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg">
+    <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 		</td><td>CCA &amp; LEAPS Briefing</td>
   </tr>
 </tbody></table>
