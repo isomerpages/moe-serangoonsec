@@ -76,3 +76,18 @@ sent to you nearer to the date.
 		</td><td>National Digital Literacy Programme (NDLP) Briefing</td>
   </tr>
 </tbody></table>
+
+##### Presentation by Parenting Support Provider:
+
+<table>
+  <tbody><tr>
+    <td><b>Presenter</b></td>
+		<td><b>Topic</b></td>
+  </tr>
+	  <tr>
+    <td>Mr Halbert Louis,<br>
+Parenting Counsellor<br>
+Methodist Welfare Services
+		</td><td>Triple P (Positive Parenting Program) </td>
+  </tr>
+</table>
