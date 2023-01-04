@@ -5,6 +5,8 @@ description: ""
 ---
 ### School Steering Committee 
 
+#### School Leaders
+
 |![](/images/School%20Steering%20Committee/Faith%20Wong%20Yeo%20Sok%20Yee.jpg)|![](/images/School%20Steering%20Committee/Teo%20Wei%20Ping%20Sabrina.jpg)|![](/images/School%20Steering%20Committee/Azrina%20Md%20Salleh.jpg)|
 | -------- | -------- | -------- |
 
