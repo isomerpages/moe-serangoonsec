@@ -51,14 +51,14 @@ description: ""
 
 | Class | Form Teachers |
 |---|---|
-| 2H1 | Mr Liao Yongzhi<br>Ms Koh Mui Hong |
-| 2H2 | Ms Lee Pei Xuan Jacklyn <br>Mr Yee Kah Leong |
-| 2H3 | Ms Kuan Jing Wei Kimberley<br>Ms Wong Liling |
-| 2H4 | Ms Ho Xuru Cheryl<br>Ms Chew Li Ting |
-| 2H5 | Mr Tan Peng Yau<br>Ms Sun Guizi |
-| 2H6 | Ms Lim Yu Xin Sheryl <br>Ms Ivy Phong<br>Mr Lim Zhou Yu Jarrod |
-| 2H7 | Ms Fong Jia Hui<br>Ms Amala d/o Tavabalan |
-| 2H8 | Mdm Peh Su Fang<br>Mdm Rudrapathy Vijayalakshmi |
+| 2H1 | Mr Suratman Bin Masohan<br>Ms Teo Lay Peng Lynn<br> Mr Goh Ling Pin|
+| 2H2 |Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari d/o Selvaraja<br>Ms Tan Xiaolin|
+| 2H3 |Ms Gloria Lim<br>Mr Muhammad Nasri|
+| 2H4 |Mdm Cheryl Lau<br>Mr Jeff Mak<br>Ms Amala|
+| 2H5 |Mr Tan Yong-Wen Lance<br>Mdm You Chang Ying|
+| 2H6 |Mr Wang Xiao Long <br>Ms Kok Chuan Tin|
+| 2H7 |Mr Yee Liang Chien<br>Ms Candice Lim|
+| 2H8 |Ms Chan Wei Meng<br>Mr Josh Sam<br>Ms Joey Chong|
 
 ##### Secondary 3
 
