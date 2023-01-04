@@ -55,4 +55,8 @@ sent to you nearer to the date.
     <td><img src="/images/School%20Steering%20Committee/Mr%20Tay%20Ming%20Yang.png">
 		</td><td>Sec 1 Matters</td>
   </tr>
+				  <tr>
+    <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg">
+		</td><td>CCA & LEAPS Briefing</td>
+  </tr>
 </tbody></table>
