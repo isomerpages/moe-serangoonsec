@@ -22,11 +22,11 @@ sections:
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/hero_banner_sch_front.png
   - infopic:
-      title: SSS Sec 1 Registration 2022
+      title: Sec 1 Parent Engagement Session & CCA Orientation 2023
       subtitle: Dear Parents / Guardians,
-      description: 21 December 2022
+      description: 13 January 2023
       button: Click to find out more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sec1-registration-2022
+      url: https://www.serangoonsec.moe.edu.sg/parents-and-students/Lower-Sec/sec1-parent-engagement-and-cca-orientation2023/
       alt: Image alt text
-      image: /images/Announcements/Sec 1 Registration eBanner.jpg
+      image: /images/Announcements/e-Banner edited.jpg
 ---
