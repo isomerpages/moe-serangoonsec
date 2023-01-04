@@ -48,7 +48,7 @@ sent to you nearer to the date.
 		<td><b>Topics</b></td>
   </tr>
 	  <tr>
-    <td><img src="/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg">
+    <td><img src="/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg style=">
 		</td><td>Opening Address</td>
   </tr>
 		  <tr>
@@ -57,6 +57,6 @@ sent to you nearer to the date.
   </tr>
 				  <tr>
     <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg">
-		</td><td>CCA & LEAPS Briefing</td>
+		</td><td>CCA &amp; LEAPS Briefing</td>
   </tr>
 </tbody></table>
