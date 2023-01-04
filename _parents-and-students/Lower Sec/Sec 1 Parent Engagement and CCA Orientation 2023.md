@@ -99,3 +99,16 @@ CCAs are a key component of students’ holistic education. Through CCA, student
 Click [here](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities) to find out more about the various CCAs offered by the school and [here](https://www.moe.gov.sg/programmes/cca/leaps2-0) to find out more about MOE LEAPS 2.0. (Note: hyperlink to CCA homepage and MOE LEAPS 2.0)
 
 Please take note of the following dates regarding the Sec 1 CCA Selection Exercise:
+
+<table>
+  <tbody><tr>
+    <td><b>Event</b></td>
+		<td><b>Dates</b></td>
+		<td><b>Remarks</b></td>
+  </tr>
+	  <tr>
+    <td>CCA Experience</td>
+		<td>18, 25, 27 January and 1 February</td>
+		<td>Students are strongly encouraged to try out different CCAs for selection trials and experience</td>
+  </tr>
+</table>
