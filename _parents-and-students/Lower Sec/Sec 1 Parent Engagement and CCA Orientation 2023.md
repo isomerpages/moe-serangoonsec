@@ -6,6 +6,7 @@ third_nav_title: Lower Sec
 ---
 ### Sec 1 Parent Engagement and CCA Orientation 2023
 
+
 Dear Parents/Guardians,
 
 The Secondary 1 Parent Engagement and Co-Curricular Activities (CCA) Orientation 2023 will be held on Friday, 13 January 2023.
