@@ -6,6 +6,7 @@ third_nav_title: Lower Sec
 ---
 ### Sec 1 Parent Engagement and CCA Orientation 2023
 
+<img src="/images/Announcements/e-Banner%20edited.jpg" style="width:600px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
 Dear Parents/Guardians,
 
