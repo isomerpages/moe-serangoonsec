@@ -90,7 +90,7 @@ sent to you nearer to the date.
 
 |Presenter|Topic||
 | -------- | -------- | -------- |
-|Mr Halbert Louis, Parenting Counsellor Methodist Welfare Services|Triple P (Positive Parenting Program)||
+|Mr Halbert Louis, Parenting Counsellor<br>Methodist Welfare Services|Triple P (Positive Parenting Program)||
 
 <hr>
 
