@@ -100,36 +100,12 @@ Click [here](https://serangoonsec.moe.edu.sg/student-development/co-curricular-a
 
 Please take note of the following dates regarding the Sec 1 CCA Selection Exercise:
 
-<table>
-  <tbody><tr>
-    <td><b>Event</b></td>
-		<td><b>Dates</b></td>
-		<td><b>Remarks</b></td>
-  </tr>
-	  <tr>
-    <td>CCA Experience</td>
-		<td>18, 25, 27 January and 1 February</td>
-		<td>Students are strongly encouraged to try out different CCAs for selection trials and experience</td>
-  </tr>
-	<tr>
-    <td>Submission of CCA choices via FormSG</td>
-		<td>2 – 3 February</td>
-		<td>Students are to submit
-three CCA choices</td>
-  </tr>
-	<tr>
-    <td>CCA allocation results</td>
-		<td>7 February</td>
-		<td>Students are to start attending their allocated CCAs from 9 Feb</td>
-  </tr>
-	<tr>
-    <td>Appeal phase</td>
-		<td>13 – 14 February</td>
-		<td>Students are to attend their
-allocated CCA while waiting for
-their appeal outcome
-</td>
-  </tr>
-</table>
+
+|Event|Dates|Remarks|
+| -------- | -------- | -------- |
+|CCA Experience|18, 25, 27 January and 1 February|Students are strongly encouraged to try out different CCAs for selection trials and experience|
+|Submission of CCA choices via FormSG|2 – 3 February|Students are to submit three CCA choices|
+|CCA allocation results|7 February|Students are to start attending their allocated CCAs from 9 Feb|
+|Appeal phase|13 – 14 February|Students are to attend their allocated CCA while waiting for their appeal outcome|
 
 <hr>
