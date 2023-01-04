@@ -64,14 +64,14 @@ description: ""
 
 | Class | Form Teachers |
 |---|---|
-| 3I1 | Ms Quek Hoon Lui<br>Mr Goh Chye Boon Roger |
-| 3I2 | Ms Siti Nur Sufiana Binte Hashim<br>Mr Danapal Kumar |
-| 3I3 | Mdm Shabana Begum Binte Mohamed Ayoob<br>Mr Ong Chee Meng<br>Ms Kalarani |
-| 3I4 | Mdm Ng Xuemin<br>Ms Sha Yijing |
-| 3I5 | Mdm Lim Pei Yee<br>Ms Geraldine Teo |
-| 3I6 | Mdm Ng Siew Kheng<br>Mr Fathie Bin Ali Abdat<br>Mr Tan Boon Hwee |
-| 3I7 | Mr Michael Chow<br>Mr Sin Kah Fai |
-| 3I8 | Mr Muhammad Bin Roslee<br>Ms Lim Shilei Ella |
+| 3I1 |Mr Liao Yongzhi<br>Mr Yan Tuck Poh|
+| 3I2 |Ms Jacklyn Lee<br>Mr Yee Kah Leong|
+| 3I3 |Ms Kimberley Kuan<br>Mr Tan Kian Chong|
+| 3I4 |Ms Chew Li Ting<br>Mr Fathie Bin Ali Abdat|
+| 3I5 |Ms Lee Zhi Li<br>Mr Tan Yong Khai<br>Mr Kenneth Feng Guo Wei|
+| 3I6 |Ms Chiok Hwee Xin Joseline<br>Mr Daniel Fung|
+| 3I7 |Mr Lim Tong Yang<br>Ms Sun Guizi|
+| 3I8 |Mr Adrian Tay|
 
 ##### Secondary 4 & 5
 
