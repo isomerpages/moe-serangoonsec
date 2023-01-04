@@ -11,6 +11,7 @@ Dear Parents/Guardians,
 The Secondary 1 Parent Engagement and Co-Curricular Activities (CCA) Orientation 2023 will be held on Friday, 13 January 2023.
 
 Please register for the event by Wednesday, 11 January 2023 [here](https://go.gov.sg/s1-pes-cca-2023).
+
 <hr>
 
 ##### Programme Details
@@ -37,7 +38,9 @@ sent to you nearer to the date.
 </b>
 </td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
+
 <hr>
 
 ##### Presentations by School Leaders and Key Personnel:
@@ -94,8 +97,8 @@ Methodist Welfare Services
 		</td><td>Triple P (Positive Parenting Program) </td>
   </tr>
 </table>
-<hr>
 
+<hr>
 
 ##### CCA Selection Exercise
 
