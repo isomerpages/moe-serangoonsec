@@ -91,3 +91,11 @@ Methodist Welfare Services
 		</td><td>Triple P (Positive Parenting Program) </td>
   </tr>
 </table>
+
+##### CCA Selection Exercise
+
+CCAs are a key component of students’ holistic education. Through CCA, students discover their interests and talents. As part of the CCA experience, students will also develop their character, learn values, social-emotional competencies, and skills to prepare them for future challenges. CCA is **compulsory** for all secondary school students.
+
+Click [here](https://serangoonsec.moe.edu.sg/student-development/co-curricular-activities) to find out more about the various CCAs offered by the school and [here](https://www.moe.gov.sg/programmes/cca/leaps2-0) to find out more about MOE LEAPS 2.0. (Note: hyperlink to CCA homepage and MOE LEAPS 2.0)
+
+Please take note of the following dates regarding the Sec 1 CCA Selection Exercise:
