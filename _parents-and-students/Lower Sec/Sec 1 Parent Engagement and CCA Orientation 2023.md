@@ -96,6 +96,7 @@ Methodist Welfare Services
 </table>
 <hr>
 
+
 ##### CCA Selection Exercise
 
 CCAs are a key component of students’ holistic education. Through CCA, students discover their interests and talents. As part of the CCA experience, students will also develop their character, learn values, social-emotional competencies, and skills to prepare them for future challenges. CCA is **compulsory** for all secondary school students.
