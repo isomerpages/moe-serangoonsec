@@ -85,18 +85,11 @@ sent to you nearer to the date.
 
 ##### Presentation by Parenting Support Provider:
 
-<table>
-  <tbody><tr>
-    <td><b>Presenter</b></td>
-		<td><b>Topic</b></td>
-  </tr>
-	  <tr>
-    <td>Mr Halbert Louis,<br>
-Parenting Counsellor<br>
-Methodist Welfare Services
-		</td><td>Triple P (Positive Parenting Program) </td>
-  </tr>
-</table>
+
+
+|Presenter|Topic||
+| -------- | -------- | -------- |
+|Mr Halbert Louis, Parenting Counsellor Methodist Welfare Services|Triple P (Positive Parenting Program)||
 
 <hr>
 
