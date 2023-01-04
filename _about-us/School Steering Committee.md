@@ -9,6 +9,7 @@ description: ""
 
 |![](/images/School%20Steering%20Committee/Faith%20Wong%20Yeo%20Sok%20Yee.jpg)|![](/images/School%20Steering%20Committee/Teo%20Wei%20Ping%20Sabrina.jpg)|![](/images/School%20Steering%20Committee/Azrina%20Md%20Salleh.jpg)|
 | -------- | -------- | -------- |
+|![](/images/KP_blank.jpg)|![](/images/KP_blank.jpg)|![](/images/KP_blank.jpg)|
 
 #### Head of Departments / Year Heads / School Staff Developer
 
