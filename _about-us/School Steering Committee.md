@@ -3,16 +3,17 @@ title: School Steering Committee
 permalink: /steering-committee/
 description: ""
 ---
-### School Steering Committee 
+### School Steering Committee&nbsp;
 
 #### School Leaders
 
-|![](/images/School%20Steering%20Committee/Jin%20Sebastian.jpg)|![](/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg)|![](/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg)|
-| -------- | -------- | -------- |
-|![](/images/KP_blank_short.jpg)|![](/images/KP_blank_short.jpg)|![](/images/KP_blank_short.jpg)|
+<table>
+  <tbody><tr><td><img src="/images/School%20Steering%20Committee/Jin%20Sebastian.jpg">
+		</td><td><img src="/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg">
+		</td><td><img src="/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg"></td></tr>
+</tbody></table>
 
-<br><br><br><br><br><br><br>
-#### Head of Departments / Year Heads / School Staff Developer
+#### Head of Departments /&nbsp;Year Heads / School Staff Developer
 
 |![](/images/School%20Steering%20Committee/Faith%20Wong%20Yeo%20Sok%20Yee.jpg)|![](/images/School%20Steering%20Committee/Teo%20Wei%20Ping%20Sabrina.jpg)|![](/images/School%20Steering%20Committee/Azrina%20Md%20Salleh.jpg)|
 | -------- | -------- | -------- |
