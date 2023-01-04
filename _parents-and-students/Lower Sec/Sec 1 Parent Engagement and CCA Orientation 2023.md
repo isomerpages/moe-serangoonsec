@@ -11,6 +11,7 @@ Dear Parents/Guardians,
 The Secondary 1 Parent Engagement and Co-Curricular Activities (CCA) Orientation 2023 will be held on Friday, 13 January 2023.
 
 Please register for the event by Wednesday, 11 January 2023 [here](https://go.gov.sg/s1-pes-cca-2023).
+<hr>
 
 ##### Programme Details
 
@@ -37,6 +38,7 @@ sent to you nearer to the date.
 </td>
   </tr>
 </tbody></table>
+<hr>
 
 ##### Presentations by School Leaders and Key Personnel:
 
@@ -76,6 +78,7 @@ sent to you nearer to the date.
 		</td><td>National Digital Literacy Programme (NDLP) Briefing</td>
   </tr>
 </tbody></table>
+<hr>
 
 ##### Presentation by Parenting Support Provider:
 
@@ -91,6 +94,7 @@ Methodist Welfare Services
 		</td><td>Triple P (Positive Parenting Program) </td>
   </tr>
 </table>
+<hr>
 
 ##### CCA Selection Exercise
 
@@ -111,4 +115,25 @@ Please take note of the following dates regarding the Sec 1 CCA Selection Exerci
 		<td>18, 25, 27 January and 1 February</td>
 		<td>Students are strongly encouraged to try out different CCAs for selection trials and experience</td>
   </tr>
+	<tr>
+    <td>Submission of CCA choices via FormSG</td>
+		<td>2 – 3 February</td>
+		<td>Students are to submit
+three CCA choices</td>
+  </tr>
+	<tr>
+    <td>CCA allocation results</td>
+		<td>7 February</td>
+		<td>Students are to start attending their allocated CCAs from 9 Feb</td>
+  </tr>
+	<tr>
+    <td>Appeal phase</td>
+		<td>13 – 14 February</td>
+		<td>Students are to attend their
+allocated CCA while waiting for
+their appeal outcome
+</td>
+  </tr>
 </table>
+
+<hr>
