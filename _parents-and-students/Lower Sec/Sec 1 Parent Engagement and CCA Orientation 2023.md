@@ -59,4 +59,8 @@ sent to you nearer to the date.
     <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 		</td><td>CCA &amp; LEAPS Briefing</td>
   </tr>
+						  <tr>
+    <td><img src="/images/School%20Steering%20Committee/Ng%20He%20Li.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
+		</td><td>CCA &amp; LEAPS Briefing</td>
+  </tr>
 </tbody></table>
