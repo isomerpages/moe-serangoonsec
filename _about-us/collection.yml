@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vice Principal's Message.md
       - Principal's Message.md
       - Vision, Mission, Values, Philosophy, and Strategic Thrusts.md
       - School Identity.md
