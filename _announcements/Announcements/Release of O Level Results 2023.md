@@ -8,7 +8,7 @@ third_nav_title: Announcements
 
 Dear 2022 4E5N students, hope that you are spending your holidays meaningfully thus far. :)
 
-The O-Level results will be released tomorrow (12 January 2023).
+The O-Level results will be released **tomorrow (12 January 2023)**.
 
 Please take note of the following:
 
