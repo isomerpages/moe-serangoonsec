@@ -6,12 +6,18 @@ third_nav_title: Announcements
 ---
 ### Event List
 
+##### 2023 Events
+
+| Date |  |Event|
+| -------- | -------- | -------- |
+| 12/01/2023:     |1.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023) <b>(NEW!)</b>|
+
 ##### 2022 Events
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 21/12/2022:     |1.| [SSS Sec 1 Registration 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sec1-registration-2022) <b>(NEW!)</b>|
-| 19/12/2022:     |2.| [2022 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/2022-gce-nlevel-results/) <b>(NEW!)</b>|
+| 21/12/2022:     |1.| [SSS Sec 1 Registration 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sec1-registration-2022)|
+| 19/12/2022:     |2.| [2022 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/2022-gce-nlevel-results/)|
 | 26/11/2022:     |3.| [School Open House 2022](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/open-house-2022/)|
 | 28/10/2022:     |4.| [Sales of Books and Uniforms 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/sbu-2023/)|
 | 04/05/2022:     |5.|[Travel Declaration for 2022 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/td-2022-mid/)|
