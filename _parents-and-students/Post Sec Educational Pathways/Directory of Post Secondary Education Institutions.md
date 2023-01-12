@@ -4,7 +4,6 @@ permalink: /parents-and-students/Post-Sec-Educational-Pathways/directory-of-post
 description: ""
 third_nav_title: Post Sec Educational Pathways
 ---
-
 ### Directory of Post-Secondary Education Institutions
 
 ##### Directory of Junior Colleges & Millennia Institute
@@ -47,11 +46,11 @@ third_nav_title: Post Sec Educational Pathways
 
 | Name of Institution   | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Open House / EAE                                                                                |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| NANYANG POLYTECHNIC   | [https://www.nyp.edu.sg ](https://www.nyp.edu.sg)                                                                                                                                                                                                                                                                                                                                                                                                                                 | 23 to 29 June 2022 For more information to webinars and activities, pls refer to the microsite. |
-| NGEE ANN POLYTECHNIC  | [https://www.np.edu.sg/Pages/default.aspx](https://www.np.edu.sg/Pages/default.aspx)                                                                                                                                                                                                                                                                                                                                                                                              | 23 to 29 June 2022 Refer to microsite for more information.                                     |
-| REPUBLIC POLYTECHNIC  | [https://www.rp.edu.sg](https://www.rp.edu.sg) RP is here to help you beef up your portfolio for EAE applications. It is still not too late to sign up for onsite hands-on activities for Diploma in Consumer Behaviour & Research scheduled on 3 June 2022. Sign up via this link and choose “Consumer Behaviour & Research. Online activities are also available in other areas such as health & wellness, IT, and business. You can access a list of activities via this link. | 23 to 29 June 2022 Register for EAE Webinar on 20 May via this link.                            |
-| SINGAPORE POLYTECHNIC | [https://www.sp.edu.sg](https://www.sp.edu.sg)                                                                                                                                                                                                                                                                                                                                                                                                                                    | 23 to 29 June 2022 Refer to microsite for more information.                                     |
-| TEMASEK POLYTECHNIC   | [https://www.tp.edu.sg](https://www.tp.edu.sg)                                                                                                                                                                                                                                                                                                                                                                                                                                    | 23 to 29 June 2022 Refer to microsite for more information.                                     |
+| NANYANG POLYTECHNIC   | [https://www.nyp.edu.sg ](https://www.nyp.edu.sg) ||
+| NGEE ANN POLYTECHNIC  | [https://www.np.edu.sg/](https://www.np.edu.sg/Pages/default.aspx)||
+| REPUBLIC POLYTECHNIC  | [https://www.rp.edu.sg](https://www.rp.edu.sg)| |
+| SINGAPORE POLYTECHNIC | [https://www.sp.edu.sg](https://www.sp.edu.sg) ||
+| TEMASEK POLYTECHNIC   | [https://www.tp.edu.sg](https://www.tp.edu.sg)||
 
 ##### Directory of ITE
 
