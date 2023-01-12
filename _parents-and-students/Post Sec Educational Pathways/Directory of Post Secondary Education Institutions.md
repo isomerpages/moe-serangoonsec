@@ -30,8 +30,7 @@ third_nav_title: Post Sec Educational Pathways
 | SCHOOL OF THE ARTS, SINGAPORE  | [http://www.sota.edu.sg](http://www.sota.edu.sg)                                       | Refer to website for more information.                                                                                      |
 | SINGAPORE SPORTS SCHOOL | [http://www.sportsschool.edu.sg ](http://www.sportsschool.edu.sg)                      |                                                                                                                             |
 | ST. ANDREW’S JUNIOR COLLEGE | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg) |13 January 2023 (9am - 4pm) [SAJC Open House 2023](https://standrewsjc.moe.edu.sg/e-open-house-2023)|
-| ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)| [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm)
-|
+| ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)| [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm) [SJI Open House 2023](https://ibdp-openhouse.sji.edu.sg/)|
 | TAMPINES MERIDIAN JUNIOR COLLEGE | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023
 |
 | TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm)
