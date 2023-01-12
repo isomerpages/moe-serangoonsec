@@ -44,7 +44,8 @@ third_nav_title: Post Sec Educational Pathways
 |
 | TEMASEK JUNIOR COLLEGE                            | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm)
 |
-| VICTORIA JUNIOR COLLEGE                           | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)                         |                                                                                                                             |
+| VICTORIA JUNIOR COLLEGE                           | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|14 January 2023 (8.30am - 4pm)
+|
 | YISHUN INNOVA JUNIOR COLLEGE                      | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)                                     |                                                                                                                             |
 
 ##### Directory of Arts Institutions
