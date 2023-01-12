@@ -19,34 +19,35 @@ third_nav_title: Post Sec Educational Pathways
  |
 | EUNOIA JUNIOR COLLEGE | [ http://www.eunoiajc.moe.edu.sg ](http://www.eunoiajc.moe.edu.sg)|13 January 2023 (9am - 4pm)
 |
-| HWA CHONG INSTITUTION                             | [https://www.hci.edu.sg](https://www.hci.edu.sg)              |13 January 2023 (11.30am – 4pm)
+| HWA CHONG INSTITUTION| [https://www.hci.edu.sg](https://www.hci.edu.sg)              |13 January 2023 (11.30am – 4pm)
 |
-| JURONG PIONEER JUNIOR COLLEGE                     | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)             |13 January 2023 (9am - 4pm)
+| JURONG PIONEER JUNIOR COLLEGE | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)             |13 January 2023 (9am - 4pm)
 |
-| MILLENNIA INSTITUTE                               | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |13 January 2023 (12pm - 5.30pm)
+| MILLENNIA INSTITUTE  | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |13 January 2023 (12pm - 5.30pm)
 |
-| NANYANG JUNIOR COLLEGE                            | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)                           |13 January 2023 (9am - 3pm)
+| NANYANG JUNIOR COLLEGE  | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)                           |13 January 2023 (9am - 3pm)
 |
 | NATIONAL JUNIOR COLLEGE| [https://nationaljc.moe.edu.sg](https://nationaljc.moe.edu.sg)|13 January 2023 (9am - 1pm)
 |
 | NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE        | [http://www.nushigh.edu.sg](http://www.nushigh.edu.sg)                                 |                                                                                                                             |
-| RAFFLES INSTITUTION (JUNIOR COLLEGE)              | [http://www.ri.edu.sg](http://www.ri.edu.sg)                       |13 January 2023 (10am - 2.30pm)
+| RAFFLES INSTITUTION (JUNIOR COLLEGE) | [http://www.ri.edu.sg](http://www.ri.edu.sg)                       |13 January 2023 (10am - 2.30pm)
 |
 | RIVER VALLEY HIGH SCHOOL (JUNIOR COLLEGE)         | [https://rivervalleyhigh.moe.edu.sg](https://rivervalleyhigh.moe.edu.sg)|13 January 2023 (9am - 12pm)
 |
-| SCHOOL OF THE ARTS, SINGAPORE                     | [http://www.sota.edu.sg](http://www.sota.edu.sg)                                       | Refer to website for more information.                                                                                      |
-| SINGAPORE SPORTS SCHOOL                           | [http://www.sportsschool.edu.sg ](http://www.sportsschool.edu.sg)                      |                                                                                                                             |
-| ST. ANDREW’S JUNIOR COLLEGE                       | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg) |13 January 2023 (9am - 4pm)
+| SCHOOL OF THE ARTS, SINGAPORE  | [http://www.sota.edu.sg](http://www.sota.edu.sg)                                       | Refer to website for more information.                                                                                      |
+| SINGAPORE SPORTS SCHOOL | [http://www.sportsschool.edu.sg ](http://www.sportsschool.edu.sg)                      |                                                                                                                             |
+| ST. ANDREW’S JUNIOR COLLEGE | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg) |13 January 2023 (9am - 4pm)
 |
-| ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)         | [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm)
+| ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)| [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm)
 |
-| TAMPINES MERIDIAN JUNIOR COLLEGE                  | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023
+| TAMPINES MERIDIAN JUNIOR COLLEGE | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023
 |
-| TEMASEK JUNIOR COLLEGE                            | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm)
+| TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm)
 |
-| VICTORIA JUNIOR COLLEGE                           | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|14 January 2023 (8.30am - 4pm)
+| VICTORIA JUNIOR COLLEGE | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|14 January 2023 (8.30am - 4pm)
 |
-| YISHUN INNOVA JUNIOR COLLEGE                      | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)                                     |                                                                                                                             |
+| YISHUN INNOVA JUNIOR COLLEGE | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)              |13 January 2023 (10am - 5pm)
+|
 
 ##### Directory of Arts Institutions
 
