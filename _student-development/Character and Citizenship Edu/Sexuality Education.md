@@ -44,6 +44,8 @@ The values and attitudes of our youth towards sexuality are increasingly shaped 
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
+**At SERANGOON Secondary School, the following Sexuality Education lessons will be taught in 2023:**
+
 **eTeens Programme**
 
 eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
