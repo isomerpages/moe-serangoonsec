@@ -46,6 +46,17 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **At SERANGOON Secondary School, the following Sexuality Education lessons will be taught in 2023:**
 
+[Sexuality Education for Secondary 1](/files/Sexuality%20Education%202023/SSS_Sec_1_Sexuality_Education.pdf)
+
+[Sexuality Education for Secondary 2](/files/Sexuality%20Education%202023/SSS_Sec_2_Sexuality_Education.pdf)
+
+[Sexuality Education for Secondary 3](/files/Sexuality%20Education%202023/SSS_Sec_3_Sexuality_Education.pdf)
+
+[Sexuality Education for Secondary 4](/files/Sexuality%20Education%202023/SSS_Sec_4_Sexuality_Education.pdf)
+
+[Sexuality Education for Secondary 5](/files/Sexuality%20Education%202023/SSS_Sec_5_Sexuality_Education.pdf)
+
+
 **eTeens Programme**
 
 eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
