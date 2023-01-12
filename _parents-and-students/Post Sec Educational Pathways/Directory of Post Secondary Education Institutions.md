@@ -25,8 +25,7 @@ third_nav_title: Post Sec Educational Pathways
 | NATIONAL JUNIOR COLLEGE| [https://nationaljc.moe.edu.sg](https://nationaljc.moe.edu.sg)|13 January 2023 (9am - 1pm)
 |
 | NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE        | [http://www.nushigh.edu.sg](http://www.nushigh.edu.sg)                                 |                                                                                                                             |
-| RAFFLES INSTITUTION (JUNIOR COLLEGE) | [http://www.ri.edu.sg](http://www.ri.edu.sg)                       |13 January 2023 (10am - 2.30pm)
-|
+| RAFFLES INSTITUTION (JUNIOR COLLEGE) | [http://www.ri.edu.sg](http://www.ri.edu.sg)                       |13 January 2023 (10am - 2.30pm) [RI Open House 2023](https://www.ri.edu.sg/highlights/story/year-5-6-open-house-2023-write-your-story)|
 | RIVER VALLEY HIGH SCHOOL (JUNIOR COLLEGE)         | [https://rivervalleyhigh.moe.edu.sg](https://rivervalleyhigh.moe.edu.sg)|13 January 2023 (9am - 12pm)
 |
 | SCHOOL OF THE ARTS, SINGAPORE  | [http://www.sota.edu.sg](http://www.sota.edu.sg)                                       | Refer to website for more information.                                                                                      |
