@@ -38,7 +38,7 @@ third_nav_title: Post Sec Educational Pathways
 
 |                              |                                                          |            |
 | ---------------------------- | -------------------------------------------------------- | ---------- |
-| Name of Institution          | Website                                                  | Open House |
+|<b>Name of Institution</b>|<b>Website</b>|<b>Open House</b>|
 | LASALLE COLLEGE OF THE ARTS  | [https://www.lasalle.edu.sg](https://www.lasalle.edu.sg) |13 January 2023<br>(1pm - 6pm)<br>
 14 January 2023<br>(11am - 5pm)<br>[LASALLE Open House 2023](https://www.lasalle.edu.sg/experience/open-house-info-days/openhouse?gclid=EAIaIQobChMIjNqAjtqs_AIVZIdLBR1w5wu0EAAYASAAEgIDnfD_BwE&gclsrc=aw.ds)|
 | NANYANG ACADEMY OF FINE ARTS | [https://www.nafa.edu.sg](https://www.nafa.edu.sg)|13 - 14 January 2023<br>(11am - 7pm)<br>[NAFA Open House 2023](https://enrol.nafa.edu.sg/openhouse)|
