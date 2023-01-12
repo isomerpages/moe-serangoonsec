@@ -33,12 +33,10 @@ third_nav_title: Post Sec Educational Pathways
 | ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)| [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm) [SJI Open House 2023](https://ibdp-openhouse.sji.edu.sg/)|
 | TAMPINES MERIDIAN JUNIOR COLLEGE | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023
 |
-| TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm)
-|
+| TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm) [TJC Open House 2023](https://sites.google.com/moe.edu.sg/tjce-openhouse2023)|
 | VICTORIA JUNIOR COLLEGE | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|14 January 2023 (8.30am - 4pm)
 |
-| YISHUN INNOVA JUNIOR COLLEGE | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)              |13 January 2023 (10am - 5pm)
-|
+| YISHUN INNOVA JUNIOR COLLEGE | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)              |13 January 2023 (10am - 5pm) [YIJC Open house 2023](https://yijc.moe.edu.sg/e-open-house-2023)|
 
 ##### Directory of Arts Institutions
 
