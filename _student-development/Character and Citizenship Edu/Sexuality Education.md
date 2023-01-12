@@ -53,8 +53,21 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 **At Serangoon Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
 
-
 |Topics / Lessons|Programme Learning Objectives| Time Period<br>(e.g. Term 3 Week 9)|
 | -------- | -------- | -------- |
 |Mass Talk by HPB appointed vendor |• Awareness of the different STIs and HIV/AIDS<br><br>• Modes of transmission<br><br>• Modes of protection, specifically on how the condom is used<br><br>• Consequences and impact of STIs/HIV|Term 3 Week 3|
 |Classroom-based Lesson|•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making|Term 3 Week 4|
+
+<hr>
+
+**Information for Parents**
+
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 31/01/2023.
+
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 31/01/2023.
+
+Parents can contact the school at [serangoon_ss@moe.edu.sg](mailto:serangoon_ss@moe.edu.sg) or 6385 1589 for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+<hr>
