@@ -38,7 +38,8 @@ third_nav_title: Post Sec Educational Pathways
 | SINGAPORE SPORTS SCHOOL                           | [http://www.sportsschool.edu.sg ](http://www.sportsschool.edu.sg)                      |                                                                                                                             |
 | ST. ANDREW’S JUNIOR COLLEGE                       | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg) |13 January 2023 (9am - 4pm)
 |
-| ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)         | [http://www.sji.edu.sg](http://www.sji.edu.sg)                                         |                                                                                                                             |
+| ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)         | [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm)
+|
 | TAMPINES MERIDIAN JUNIOR COLLEGE                  | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)                                     |                                                                                                                             |
 | TEMASEK JUNIOR COLLEGE                            | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)                   |                                                                                                                             |
 | VICTORIA JUNIOR COLLEGE                           | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)                         |                                                                                                                             |
