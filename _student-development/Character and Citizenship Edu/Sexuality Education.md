@@ -10,6 +10,8 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
+<hr>
+
 **The Goals of Sexuality Education are to:**
 
 <ul><b>a)</b> To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;</ul>
@@ -17,6 +19,8 @@ SEd is premised on the importance of the family as the basic unit of society. Th
 <ul><b>b)</b> To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</ul>
 
 <ul><b>c)</b> To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.</ul>
+
+<hr>
 
 **The Key Messages of Sexuality Education are:**
 
@@ -29,6 +33,8 @@ SEd is premised on the importance of the family as the basic unit of society. Th
 <ul><b>(d)</b>	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</ul>
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+
+<hr>
 
 **OVERVIEW OF SERANGOON SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
@@ -56,6 +62,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 [Sexuality Education for Secondary 5](/files/Sexuality%20Education%202023/SSS_Sec_5_Sexuality_Education.pdf)
 
+<hr>
 
 **eTeens Programme**
 
