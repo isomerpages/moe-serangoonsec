@@ -23,7 +23,8 @@ third_nav_title: Post Sec Educational Pathways
 |
 | JURONG PIONEER JUNIOR COLLEGE                     | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)             |13 January 2023 (9am - 4pm)
 |
-| MILLENNIA INSTITUTE                               | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |                                                                                                                             |
+| MILLENNIA INSTITUTE                               | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |13 January 2023 (12pm - 5.30pm)
+|
 | NANYANG JUNIOR COLLEGE                            | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)                           | Open House 28 May (Sat) from 1000h – 1200h Register via the following link.For more information, please refer to microsite. |
 | NATIONAL JUNIOR COLLEGE                           | [https://nationaljc.moe.edu.sg](https://nationaljc.moe.edu.sg)                         |                                                                                                                             |
 | NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE        | [http://www.nushigh.edu.sg](http://www.nushigh.edu.sg)                                 |                                                                                                                             |
