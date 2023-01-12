@@ -15,9 +15,12 @@ third_nav_title: Post Sec Educational Pathways
 | ANGLO-CHINESE JUNIOR COLLEGE                      | [https://acjc.moe.edu.sg](https://acjc.moe.edu.sg)           |11 January 2023 (12pm - 5pm) [ACJC Open House 2023](https://acjc.moe.edu.sg/others/announcements/acjc-open-house-2023) |
 | ANGLO-CHINESE SCHOOL (INDEPENDENT) JUNIOR COLLEGE | [http://www.acsindep.moe.edu.sg](http://www.acsindep.moe.edu.sg)|15 April 2023 (8am - 12.30pm)|
 | CATHOLIC JUNIOR COLLEGE | [https://cjc.moe.edu.sg](https://cjc.moe.edu.sg)|13 January 2023 (10am - 4pm) [CJC Open House 2023](https://cjc.moe.edu.sg/cjc/highlights/cjc-open-house-2023)|
-| DUNMAN HIGH SCHOOL (JUNIOR COLLEGE)               | [https://dunmanhigh.moe.edu.sg](https://dunmanhigh.moe.edu.sg)                         |                                                                                                                             |
-| EUNOIA JUNIOR COLLEGE                             | [ http://www.eunoiajc.moe.edu.sg ](http://www.eunoiajc.moe.edu.sg)                     |                                                                                                                             |
-| HWA CHONG INSTITUTION                             | [https://www.hci.edu.sg](https://www.hci.edu.sg)                                       |                                                                                                                             |
+| DUNMAN HIGH SCHOOL (JUNIOR COLLEGE)| [https://dunmanhigh.moe.edu.sg](https://dunmanhigh.moe.edu.sg)|14 January 2023 (9am - 1pm)
+ |
+| EUNOIA JUNIOR COLLEGE | [ http://www.eunoiajc.moe.edu.sg ](http://www.eunoiajc.moe.edu.sg)|13 January 2023 (9am - 4pm)
+|
+| HWA CHONG INSTITUTION                             | [https://www.hci.edu.sg](https://www.hci.edu.sg)              |13 January 2023 (11.30am – 4pm)
+|
 | JURONG PIONEER JUNIOR COLLEGE                     | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)                                    |                                                                                                                             |
 | MILLENNIA INSTITUTE                               | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |                                                                                                                             |
 | NANYANG JUNIOR COLLEGE                            | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)                           | Open House 28 May (Sat) from 1000h – 1200h Register via the following link.For more information, please refer to microsite. |
