@@ -15,18 +15,13 @@ third_nav_title: Post Sec Educational Pathways
 | ANGLO-CHINESE JUNIOR COLLEGE                      | [https://acjc.moe.edu.sg](https://acjc.moe.edu.sg)           |11 January 2023 (12pm - 5pm) [ACJC Open House 2023](https://acjc.moe.edu.sg/others/announcements/acjc-open-house-2023) |
 | ANGLO-CHINESE SCHOOL (INDEPENDENT) JUNIOR COLLEGE | [http://www.acsindep.moe.edu.sg](http://www.acsindep.moe.edu.sg)|15 April 2023 (8am - 12.30pm)|
 | CATHOLIC JUNIOR COLLEGE | [https://cjc.moe.edu.sg](https://cjc.moe.edu.sg)|13 January 2023 (10am - 4pm) [CJC Open House 2023](https://cjc.moe.edu.sg/cjc/highlights/cjc-open-house-2023)|
-| DUNMAN HIGH SCHOOL (JUNIOR COLLEGE)| [https://dunmanhigh.moe.edu.sg](https://dunmanhigh.moe.edu.sg)|14 January 2023 (9am - 1pm)
- |
-| EUNOIA JUNIOR COLLEGE | [ http://www.eunoiajc.moe.edu.sg ](http://www.eunoiajc.moe.edu.sg)|13 January 2023 (9am - 4pm)
-|
-| HWA CHONG INSTITUTION| [https://www.hci.edu.sg](https://www.hci.edu.sg)              |13 January 2023 (11.30am – 4pm)
-|
-| JURONG PIONEER JUNIOR COLLEGE | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)             |13 January 2023 (9am - 4pm)
-|
+| DUNMAN HIGH SCHOOL (JUNIOR COLLEGE)| [https://dunmanhigh.moe.edu.sg](https://dunmanhigh.moe.edu.sg)|14 January 2023 (9am - 1pm) [DHS Open House 2023](https://dunmanhigh.moe.edu.sg/dhs_announcement/dhs-jae-open-house-2023/)|
+| EUNOIA JUNIOR COLLEGE | [ http://www.eunoiajc.moe.edu.sg ](http://www.eunoiajc.moe.edu.sg)|13 January 2023 (9am - 4pm) [EJC Open House 2023](https://eunoiajc.moe.edu.sg/oh2023/)|
+| HWA CHONG INSTITUTION| [https://www.hci.edu.sg](https://www.hci.edu.sg)              |13 January 2023 (11.30am – 4pm) [HCI Open House 2023](https://hc-oh.com/)|
+| JURONG PIONEER JUNIOR COLLEGE | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)             |13 January 2023 (9am - 4pm) [JPJC Open House 2023](https://www.jpjc.moe.edu.sg/about-jpjc/Admission-Matters/openhouse2023/)|
 | MILLENNIA INSTITUTE  | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |13 January 2023 (12pm - 5.30pm)
 |
-| NANYANG JUNIOR COLLEGE  | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)                           |13 January 2023 (9am - 3pm)
-|
+| NANYANG JUNIOR COLLEGE  | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)|13 January 2023 (9am - 3pm) [NYJC Open House 2023](https://apps.nyjc.edu.sg/openhouse2023/)|
 | NATIONAL JUNIOR COLLEGE| [https://nationaljc.moe.edu.sg](https://nationaljc.moe.edu.sg)|13 January 2023 (9am - 1pm)
 |
 | NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE        | [http://www.nushigh.edu.sg](http://www.nushigh.edu.sg)                                 |                                                                                                                             |
