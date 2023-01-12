@@ -49,3 +49,12 @@ Through the Sexuality Education lessons, secondary students will have the opport
 eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Serangoon Secondary School, the eTeens programme will be implemented as follows in 2023:**
+
+
+
+|Topics / Lessons|Programme Learning Objectives| Time Period<br>(e.g. Term 3 Week 9)|
+| -------- | -------- | -------- |
+|Mass Talk by HPB appointed vendor |• Awareness of the different STIs and HIV/AIDS<br><br>• Modes of transmission<br><br>• Modes of protection, specifically on how the condom is used<br><br>• Consequences and impact of STIs/HIV|Term 3 Week 3|
+|Classroom-based Lesson|•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making|Term 3 Week 4|
