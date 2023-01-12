@@ -13,17 +13,15 @@ third_nav_title: Post Sec Educational Pathways
 | Name of Institution                               | Website                                                                                | Open House / DSA                                                                                                            |
 | ANDERSON SERANGOON JUNIOR COLLEGE                 | [ https://asrjc.moe.edu.sg](https://asrjc.moe.edu.sg)         |13 January 2023 (1pm - 5.30pm) [ASRJC Open House 2023](https://asrjc.moe.edu.sg/e-open-house-2023/)|
 | ANGLO-CHINESE JUNIOR COLLEGE                      | [https://acjc.moe.edu.sg](https://acjc.moe.edu.sg)           |11 January 2023 (12pm - 5pm) [ACJC Open House 2023](https://acjc.moe.edu.sg/others/announcements/acjc-open-house-2023) |
-| ANGLO-CHINESE SCHOOL (INDEPENDENT) JUNIOR COLLEGE | [http://www.acsindep.moe.edu.sg](http://www.acsindep.moe.edu.sg)|15 April 2023 (8am - 12.30pm)|
+| ANGLO-CHINESE SCHOOL (INDEPENDENT) JUNIOR COLLEGE | [http://www.acsindep.moe.edu.sg](http://www.acsindep.moe.edu.sg)|15 April 2023 (8am - 12.30pm) Refer to website for more information.|
 | CATHOLIC JUNIOR COLLEGE | [https://cjc.moe.edu.sg](https://cjc.moe.edu.sg)|13 January 2023 (10am - 4pm) [CJC Open House 2023](https://cjc.moe.edu.sg/cjc/highlights/cjc-open-house-2023)|
 | DUNMAN HIGH SCHOOL (JUNIOR COLLEGE)| [https://dunmanhigh.moe.edu.sg](https://dunmanhigh.moe.edu.sg)|14 January 2023 (9am - 1pm) [DHS Open House 2023](https://dunmanhigh.moe.edu.sg/dhs_announcement/dhs-jae-open-house-2023/)|
 | EUNOIA JUNIOR COLLEGE | [ http://www.eunoiajc.moe.edu.sg ](http://www.eunoiajc.moe.edu.sg)|13 January 2023 (9am - 4pm) [EJC Open House 2023](https://eunoiajc.moe.edu.sg/oh2023/)|
 | HWA CHONG INSTITUTION| [https://www.hci.edu.sg](https://www.hci.edu.sg)              |13 January 2023 (11.30am – 4pm) [HCI Open House 2023](https://hc-oh.com/)|
 | JURONG PIONEER JUNIOR COLLEGE | [https://jpjc.moe.edu.sg ](https://jpjc.moe.edu.sg)             |13 January 2023 (9am - 4pm) [JPJC Open House 2023](https://www.jpjc.moe.edu.sg/about-jpjc/Admission-Matters/openhouse2023/)|
-| MILLENNIA INSTITUTE  | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |13 January 2023 (12pm - 5.30pm)
-|
+| MILLENNIA INSTITUTE  | [https://www.millenniainstitute.moe.edu.sg](https://www.millenniainstitute.moe.edu.sg) |13 January 2023 (12pm - 5.30pm) Refer to website for more information.|
 | NANYANG JUNIOR COLLEGE  | [https://nanyangjc.moe.edu.sg](https://nanyangjc.moe.edu.sg)|13 January 2023 (9am - 3pm) [NYJC Open House 2023](https://apps.nyjc.edu.sg/openhouse2023/)|
-| NATIONAL JUNIOR COLLEGE| [https://nationaljc.moe.edu.sg](https://nationaljc.moe.edu.sg)|13 January 2023 (9am - 1pm)
-|
+| NATIONAL JUNIOR COLLEGE| [https://nationaljc.moe.edu.sg](https://nationaljc.moe.edu.sg)|13 January 2023 (9am - 1pm) Refer to website for more information.|
 | NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE        | [http://www.nushigh.edu.sg](http://www.nushigh.edu.sg)                                 |                                                                                                                             |
 | RAFFLES INSTITUTION (JUNIOR COLLEGE) | [http://www.ri.edu.sg](http://www.ri.edu.sg)                       |13 January 2023 (10am - 2.30pm) [RI Open House 2023](https://www.ri.edu.sg/highlights/story/year-5-6-open-house-2023-write-your-story)|
 | RIVER VALLEY HIGH SCHOOL (JUNIOR COLLEGE)         | [https://rivervalleyhigh.moe.edu.sg](https://rivervalleyhigh.moe.edu.sg)|13 January 2023 (9am - 12pm) [RVHS Open House 2023](https://rivervalleyhigh.moe.edu.sg/information/2023-jc-open-house-13-jan-9am-12pm)|
@@ -31,11 +29,9 @@ third_nav_title: Post Sec Educational Pathways
 | SINGAPORE SPORTS SCHOOL | [http://www.sportsschool.edu.sg ](http://www.sportsschool.edu.sg)                      |                                                                                                                             |
 | ST. ANDREW’S JUNIOR COLLEGE | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg) |13 January 2023 (9am - 4pm) [SAJC Open House 2023](https://standrewsjc.moe.edu.sg/e-open-house-2023)|
 | ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)| [http://www.sji.edu.sg](http://www.sji.edu.sg)                    |11 January 2023 (10am - 4pm) [SJI Open House 2023](https://ibdp-openhouse.sji.edu.sg/)|
-| TAMPINES MERIDIAN JUNIOR COLLEGE | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023
-|
+| TAMPINES MERIDIAN JUNIOR COLLEGE | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023 Refer to website for more information.|
 | TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm) [TJC Open House 2023](https://sites.google.com/moe.edu.sg/tjce-openhouse2023)|
-| VICTORIA JUNIOR COLLEGE | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|14 January 2023 (8.30am - 4pm)
-|
+| VICTORIA JUNIOR COLLEGE | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|14 January 2023 (8.30am - 4pm) Refer to website for more information.|
 | YISHUN INNOVA JUNIOR COLLEGE | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)              |13 January 2023 (10am - 5pm) [YIJC Open house 2023](https://yijc.moe.edu.sg/e-open-house-2023)|
 
 ##### Directory of Arts Institutions
