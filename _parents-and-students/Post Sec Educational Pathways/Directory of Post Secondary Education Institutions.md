@@ -42,7 +42,8 @@ third_nav_title: Post Sec Educational Pathways
 |
 | TAMPINES MERIDIAN JUNIOR COLLEGE                  | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)            |13 January 2023
 |
-| TEMASEK JUNIOR COLLEGE                            | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)                   |                                                                                                                             |
+| TEMASEK JUNIOR COLLEGE                            | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|13 January 2023 (1.30pm - 4.30pm)
+|
 | VICTORIA JUNIOR COLLEGE                           | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)                         |                                                                                                                             |
 | YISHUN INNOVA JUNIOR COLLEGE                      | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)                                     |                                                                                                                             |
 
