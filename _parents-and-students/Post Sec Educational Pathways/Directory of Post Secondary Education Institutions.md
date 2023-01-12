@@ -32,7 +32,8 @@ third_nav_title: Post Sec Educational Pathways
 | NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE        | [http://www.nushigh.edu.sg](http://www.nushigh.edu.sg)                                 |                                                                                                                             |
 | RAFFLES INSTITUTION (JUNIOR COLLEGE)              | [http://www.ri.edu.sg](http://www.ri.edu.sg)                       |13 January 2023 (10am - 2.30pm)
 |
-| RIVER VALLEY HIGH SCHOOL (JUNIOR COLLEGE)         | [https://rivervalleyhigh.moe.edu.sg](https://rivervalleyhigh.moe.edu.sg)               |                                                                                                                             |
+| RIVER VALLEY HIGH SCHOOL (JUNIOR COLLEGE)         | [https://rivervalleyhigh.moe.edu.sg](https://rivervalleyhigh.moe.edu.sg)|13 January 2023 (9am - 12pm)
+|
 | SCHOOL OF THE ARTS, SINGAPORE                     | [http://www.sota.edu.sg](http://www.sota.edu.sg)                                       | Refer to website for more information.                                                                                      |
 | SINGAPORE SPORTS SCHOOL                           | [http://www.sportsschool.edu.sg ](http://www.sportsschool.edu.sg)                      |                                                                                                                             |
 | ST. ANDREW’S JUNIOR COLLEGE                       | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg)                       |                                                                                                                             |
