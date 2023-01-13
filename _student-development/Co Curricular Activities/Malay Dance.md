@@ -6,12 +6,12 @@ third_nav_title: Co Curricular Activities
 ---
 ### Malay Dance
 
-![](/images/Malay%20Dance%201.jpg)
+![](/images/Malay%20Dance/Slide1.jpg)
 
-![](/images/Malay%20Dance%202.jpg)
+![](/images/Malay%20Dance/Slide2.jpg)
 
-![](/images/Malay%20Dance%203.jpg)
+![](/images/Malay%20Dance/Slide3.jpg)
 
-![](/images/Malay%20Dance%204.jpg)
+![](/images/Malay%20Dance/Slide4.jpg)
 
-![](/images/Malay%20Dance%205.jpg)
+![](/images/Malay%20Dance/Slide5.jpg)
