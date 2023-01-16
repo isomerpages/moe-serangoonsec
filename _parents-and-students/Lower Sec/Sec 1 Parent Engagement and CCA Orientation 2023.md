@@ -44,6 +44,10 @@ Methodist Welfare Services
 
 <hr>
 
+Click [here](/files/Sec%201%20Parent%20Egmt%20Session/Compiled%20QR%20Codes.pdf) to find the compiled list of QR codes mentioned in the presentations in the following document.
+
+<hr>
+
 ##### CCA Selection Exercise
 
 CCAs are a key component of students’ holistic education. Through CCA, students discover their interests and talents. As part of the CCA experience, students will also develop their character, learn values, social-emotional competencies, and skills to prepare them for future challenges. CCA is **compulsory** for all secondary school students.
