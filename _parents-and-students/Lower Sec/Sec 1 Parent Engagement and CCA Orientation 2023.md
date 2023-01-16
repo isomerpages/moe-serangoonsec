@@ -16,8 +16,8 @@ Please find the video recordings below. You may also download a summary of all t
 
 Thank you!
 
-**Triple P (Positive Parenting Program)**
-Mr Halbert Louis, Parenting Counsellor
+**Triple P (Positive Parenting Program)**<br>
+Mr Halbert Louis, Parenting Counsellor<br>
 Methodist Welfare Services
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S8muz3E6Co8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
