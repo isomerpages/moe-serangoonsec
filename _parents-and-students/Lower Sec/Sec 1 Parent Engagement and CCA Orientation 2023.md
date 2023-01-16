@@ -8,89 +8,43 @@ third_nav_title: Lower Sec
 
 <img src="/images/Announcements/e-Banner%20edited.jpg" style="width:800px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
 
-Dear Parents/Guardians,
+Dear Parents / Guardians,
 
-The Secondary 1 Parent Engagement and Co-Curricular Activities (CCA) Orientation 2023 will be held on Friday, 13 January 2023.
+Thank you for attending the Sec 1 Parent Engagement Session & CCA Orientation 2023.
 
-Please register for the event by Wednesday, 11 January 2023 [here](https://go.gov.sg/s1-pes-cca-2023).
+Please find the video recordings below. You may also download a summary of all the QR code mentioned in the presentations below.
 
-<hr>
+Thank you!
 
-##### Programme Details
+**Triple P (Positive Parenting Program)**<br>
+Mr Halbert Louis, Parenting Counsellor<br>
+Methodist Welfare Services
 
-<table>
-  <tbody><tr>
-    <td><b>Date</b></td>
-    <td>Friday, 13 January 2022</td>
-  </tr>
- <tr>
-    <td><b>Time</b></td>
-    <td>1415 – 1830</td>
-  </tr>
- <tr>
-    <td><b>Mode</b></td>
-    <td>Face-to-Face or Online for Parents/Guardians via Zoom<br>Face-to-Face for students
-</td>
-  </tr>
- <tr>
-    <td><b>Programme Overview</b></td>
-	 <td><i>For Students</i><br>1415 - 1430: Briefing in Class<br>1430 - 1730: Guided CCA Orientation<br>1730 - 1830: Additional optional time at CCA booths<br><br><i>For Parents / Guardians</i><br>1600 - 1715: Sec 1 Parent Engagement Session (Face-to-Face or Online)<br>1715 - 1745: Form Teacher Interaction with Parents/Guardians (Face-to-Face only)<br>1745 - 1830: Free &amp; Easy time at CCA Booths
-		 (Face-to-Face only)<br><br><b>Zoom meeting details will be 
-sent to you nearer to the date. 
-</b>
-</td>
-  </tr>
-</tbody>
-</table>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S8muz3E6Co8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr>
 
-##### Presentations by School Leaders and Key Personnel:
+**Webinar Recording**
 
-**Part I (1600 – 1715):**
+<ul><li>Opening Address by Principal, Mr Chen Fook Pang</li>
+<li>Sec 1 Matters by Year Head/Lower Sec, Mr Tay Ming Yang</li>
+<li>CCA & LEAPS Briefing by HOD/PE & CCA, Mdm Goh Sze Wei</li>
+<li>Discipline Matters by HOD/Student Management, Ms Ng He Li</li>
+<li>After School Engagement by HOD/Educational Support, Ms Sabrina Teo</li>
+<li>Parent Support Group by Year Head/Upper Sec, Mdm Cindy Lum</li>
+<li>National Digital Literacy Programme (NDLP) Briefing by SH/ICT, Mr Adrial Tan</li></ul>
 
-<table>
-  <tbody><tr>
-    <td><b>Presenters</b></td>
-		<td><b>Topics</b></td>
-  </tr>
-	  <tr>
-    <td><img src="/images/School%20Steering%20Committee/Chen%20Fook%20Pang.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>Opening Address</td>
-  </tr>
-		  <tr>
-    <td><img src="/images/School%20Steering%20Committee/Mr%20Tay%20Ming%20Yang.png" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>Sec 1 Matters</td>
-  </tr>
-			<tr>
-    <td><img src="/images/School%20Steering%20Committee/Goh%20Sze%20Wei.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>CCA & LEAPS Briefing</td>
-  </tr>
-			<tr>
-    <td><img src="/images/School%20Steering%20Committee/Ng%20He%20Li.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>Discipline Matters</td>
-  </tr>
-		<tr>
-    <td><img src="/images/School%20Steering%20Committee/Teo%20Wei%20Ping%20Sabrina.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>After School Engagement</td>
-  </tr>
-		<tr>
-    <td><img src="/images/School%20Steering%20Committee/Lum%20Cindy.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>Parent Support Group</td>
-  </tr>
-		<tr>
-    <td><img src="/images/School%20Steering%20Committee/Adrial%20Tan%20Chong%20Jin.jpg" style="width:200px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-		</td><td>National Digital Literacy Programme (NDLP) Briefing</td>
-  </tr>
-</tbody></table>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jj5mXLyBVQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <hr>
 
-##### Presentation by Parenting Support Provider:
+**Sec 1 Class Synergy Programme Video Montage**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ptLAOpZoONA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-|Presenter|Topic||
-| -------- | -------- | -------- |
-|Mr Halbert Louis, Parenting Counsellor<br>Methodist Welfare Services|Triple P (Positive Parenting Program)||
+<hr>
+
+Click [here](/files/Sec%201%20Parent%20Egmt%20Session/Compiled%20QR%20Codes.pdf) to find the compiled list of QR codes mentioned in the presentations in the following document.
 
 <hr>
 
