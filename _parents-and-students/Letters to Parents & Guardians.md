@@ -5,6 +5,12 @@ description: ""
 ---
 ### Letters to Parents & Guardians
 
+##### 2023 Term 1 Letter to Parents
+
+Click here for Upper Secondary<br>
+Click here for Lower Secondary
+
+
 ##### Morning Assembly in Term 3
 Click [here](/files/Morning%20Assembly%20in%20Term%203.pdf)
 
