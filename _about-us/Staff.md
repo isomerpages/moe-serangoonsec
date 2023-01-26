@@ -64,11 +64,11 @@ description: ""
 
 | Class | Form Teachers |
 |---|---|
-| 3I1 |Mr Liao Yongzhi<br>Mr Yan Tuck Poh|
+| 3I1 |Mr Liao Yongzhi<br>Mr Yan Tuck Poh <br>Mr Kenneth Feng Guo Wei|
 | 3I2 |Ms Jacklyn Lee<br>Mr Yee Kah Leong|
 | 3I3 |Ms Kimberley Kuan<br>Mr Tan Kian Chong|
 | 3I4 |Ms Chew Li Ting<br>Mr Fathie Bin Ali Abdat|
-| 3I5 |Ms Lee Zhi Li<br>Mr Tan Yong Khai<br>Mr Kenneth Feng Guo Wei|
+| 3I5 |Ms Lee Zhi Li<br>Mr Tan Yong Khai<br>
 | 3I6 |Ms Chiok Hwee Xin Joseline<br>Mr Daniel Fung|
 | 3I7 |Mr Lim Tong Yang<br>Ms Sun Guizi|
 | 3I8 |Mr Adrian Tay|
