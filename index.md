@@ -22,6 +22,13 @@ sections:
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/hero_banner_sch_front.png
   - infopic:
+      title: Daughter leaves secondary school with good memories
+      subtitle: Straits times BOUQUETS
+      button: Click here
+      url: parents-and-students/Latest-News/stbouquets/
+      image: /images/student leadership.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 Parent Engagement Session & CCA Orientation 2023
       subtitle: Dear Parents / Guardians,
       description: 13 January 2023
@@ -29,11 +36,4 @@ sections:
       url: https://www.serangoonsec.moe.edu.sg/parents-and-students/Lower-Sec/sec1-parent-engagement-and-cca-orientation2023/
       alt: Image alt text
       image: /images/Announcements/e-Banner edited.jpg
-  - infopic:
-      title: Daughter leaves secondary school with good memories
-      subtitle: Straits times BOUQUETS
-      button: Click here
-      url: parents-and-students/Latest-News/stbouquets/
-      image: /images/student leadership.jpg
-      alt: Image alt text
 ---
