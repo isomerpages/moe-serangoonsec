@@ -25,7 +25,7 @@ sections:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
       button: Click here
-      url: parents-and-students/Latest-News/stbouquets/
+      url: /parents-and-students/Latest-News/stbouquets/
       image: /images/student leadership.jpg
       alt: Image alt text
   - infopic:
