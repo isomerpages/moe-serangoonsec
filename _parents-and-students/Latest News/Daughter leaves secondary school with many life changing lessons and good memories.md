@@ -9,7 +9,7 @@ third_nav_title: Latest News
 
 ![](/images/student%20leadership.jpg)
 
-*This Bouquets article first appeared in the Straits Times, January 19 2023. Click [here](https://www.straitstimes.com/opinion/forum/bouquets-daughter-leaves-secondary-school-with-many-life-changing-lessons-and-good-memories) for the original.*
+*This Bouquets article first appeared in the Straits Times, 19 January 2023. Click [here](https://www.straitstimes.com/opinion/forum/bouquets-daughter-leaves-secondary-school-with-many-life-changing-lessons-and-good-memories) for the original.*
 
 My daughter left Serangoon Secondary School after four years with many life-changing lessons and good memories.
 
