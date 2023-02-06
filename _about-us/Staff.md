@@ -30,7 +30,7 @@ description: ""
 | Ms Ong Rui Yun Jean | SH / Literature |
 | Mr Heng Tze Wei | SH / Mathematics |
 | Ms Teo Zhi Hui Geraldine | SH / Physical Education & Co-Curricular Activities |
-| Mr Yan Tuck Poh | SH / Student Management |
+| Ms Ng He Li | SH / Student Management |
 
 #### Classes and Form Teachers 2023
 
