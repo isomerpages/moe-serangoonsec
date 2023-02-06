@@ -17,6 +17,7 @@ description: ""
 | Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
 | Mdm Goh Sze Wei | HOD / Physical Education & Co-Curricular Activities |
 | Ms Ong Meixue Michelle | HOD / Science |
+| Ms Ng He Li | HOD / Student Management |
 | Mr Tay Ming Yang | Year Head (Lower Sec) |
 | Mdm Cindy Lum | Year Head (Upper Sec)  |
 | Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2)  |
@@ -30,7 +31,6 @@ description: ""
 | Ms Ong Rui Yun Jean | SH / Literature |
 | Mr Heng Tze Wei | SH / Mathematics |
 | Ms Teo Zhi Hui Geraldine | SH / Physical Education & Co-Curricular Activities |
-| Ms Ng He Li | HOD / Student Management |
 
 #### Classes and Form Teachers 2023
 
