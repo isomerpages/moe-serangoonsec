@@ -8,6 +8,6 @@ third_nav_title: Announcements
 
 Dear Parents & Guardians,
 
-Please refer to this [PDF]([](/files/Travel%20Declaration/SSS_Hardcopy%20Ltr%20to%20Parents%20n%20Guardians%20Not%20Using%20PG-2023%20March%20Hols.pdf)) for more information regarding Travel Declaration for the 2023 March holidays.
+Please refer to this [PDF]([](/files/Travel%20Declaration/SSS_Hardcopy%20Ltr%20to%20Parents%20n%20Guardians%20Not%20Using%20PG-2023%20March%20Hols.pdf) for more information regarding Travel Declaration for the 2023 March holidays.
 
 <hr>
