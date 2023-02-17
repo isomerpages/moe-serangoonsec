@@ -11,27 +11,27 @@ description: ""
 Seek to Grow, Strive to Excel, Serve with Honour
 
 ##### School Song 
-We proudly sing about our school  
-That shines among the rest.  
-With youthful vigour, youthful zest,  
-We'll make our school the best!  
+<p align="center">We proudly sing about our school  
+<br>That shines among the rest.  
+<br>With youthful vigour, youthful zest,  
+<br>We'll make our school the best!  
   
-*Chorus*  
-Forward, march on,  
-Serangoon Secondary School!  
-We will lift our voices and sing,  
-We will seek, we will strive,  
-We will serve with pride,  
+<p align="center"><i>Chorus</i>
+<br>Forward, march on,  
+<br>Serangoon Secondary School!  
+<br>We will lift our voices and sing,  
+<br>We will seek, we will strive,  
+<br>We will serve with pride,  
 Honours to you we'll bring!  
 (Repeat)  
   
-*Chorus*  
-Forward, march on,  
-Serangoon Secondary School!  
-We will lift our voices and sing,  
-We will seek, we will strive,  
-We will serve with pride,  
-Honours to you!
+<p align="center"><i>Chorus</i>
+<br>Forward, march on,  
+<br>Serangoon Secondary School!  
+<br>We will lift our voices and sing,  
+<br>We will seek, we will strive,  
+<br>We will serve with pride,  
+<br>Honours to you!</p>
   
 
 ### School Emblems
