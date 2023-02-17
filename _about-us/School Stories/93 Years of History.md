@@ -4,11 +4,11 @@ permalink: /about-us/School-Stories/93-years-of-history/
 description: ""
 third_nav_title: School Stories
 ---
-### 93 Years of History
+### 95 Years of History
 
 ![](/images/photo_2022-06-25_19-13-39.jpg)
 
-Serangoon Secondary School may be tucked away at the outskirts of Upper Serangoon, and nestled in the HDB heartland, but did you know that the school has been around for 93 years? In fact, this year marks the school’s 93rd anniversary.
+Serangoon Secondary School may be tucked away at the outskirts of Upper Serangoon, and nestled in the HDB heartland, but did you know that the school has been around for 95 years? In fact, this year marks the school’s 95th anniversary.
 
 The school had its beginnings in 1928 as _Serangoon English School_, housed in a double-storeyed building along Simon Road. In 1949, the school became a full school offering education from Primary One to Cambridge School Certificate.
 
