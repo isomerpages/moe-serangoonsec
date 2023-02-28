@@ -1,9 +1,9 @@
 ---
-title: Vice Principal's (Admin) Message
+title: Vice Principal (Admin)'s Message
 permalink: /about-us/vp-a-message/
 description: ""
 ---
-### Vice-Principal's Message
+### Vice-Principal (Admin)'s Message
 
 <img src="/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align = "Left">
 
