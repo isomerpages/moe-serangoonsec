@@ -4,27 +4,20 @@ permalink: /parents-and-students/Lower-Sec/sec2-subject-allocation/
 description: ""
 third_nav_title: Lower Sec
 ---
-
 ### Sec 2 Subject Allocation Exercise
 
-Dear Parents/Guardians and Sec 2 StaRs,
+Dear Parents/Guardians,
 
-Thank you for attending our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria for 2023’ on 12 March 2022.
+Thank you for registering your interest to join us for our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria’ on 11 March 2023.
 
-##### Sec 2 Parent Webinar
+For those who have not done so, you may still register your interest using the following link https://go.gov.sg/sec2sae23.
 
-Dear Parents/Guardians and Sec 2 StaRs,
+<hr>
 
-Thank you for attending our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria for 2023’ on 12 March 2022.
+#### Sec2 SAE 2023 Microsite
 
-Please refer to the following video for a recording of the Webinar:
+The Sec 2 Subject Allocation Exercise (SAE) 2023 microsite contains useful information such as Subject Talks, Learning from our StaRs and Post-Secondary Pathways.
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/F1f5GhPH0io" title="Sec 2 Parent Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+You are strongly encouraged to visit this [site](https://sites.google.com/moe.edu.sg/2023-sae/home) to learn more.
 
-You may also download the slides used [here](/files/SAE%202022%20March%20Parent%20Webinar%20Slides.pdf)
-
-##### Sec 2 SAE 2022 Microsite
-
-The Sec 2 Subject Allocation Exercise (SAE) 2022 microsite contains useful information such as Subject Talks, Learning from our StaRs and Post-Secondary Pathways.
-
-You are strongly encouraged to visit this [site](https://sites.google.com/moe.edu.sg/sec2sae2022/home) to learn more.
+<hr>
