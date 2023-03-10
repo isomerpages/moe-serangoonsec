@@ -20,7 +20,7 @@ sections:
         - title: SSS on Instagram
           description: ""
           url: https://www.instagram.com/serangoonsecondary/
-      background: /images/hero_banner_sch_front.png
+      background: /images/20230302_100639.jpg
   - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
