@@ -12,11 +12,9 @@ Thank you joining us for our Sec 2 Parent Webinar on ‘Upper Secondary Subject 
 
 Please find the recording and slides here, for your reference.
 
-**Recording:**
-https://youtu.be/SnG6c9iAzRE
+**[Recording](https://youtu.be/SnG6c9iAzRE)**
 
-**Slides:**
-[](/files/Lower%20Sec/SAE%202023%20March%20Parent%20Webinar%20Slides%20(Parents).pdf)
+**[Slides](/files/Lower%20Sec/SAE%202023%20March%20Parent%20Webinar%20Slides%20(Parents).pdf)**
 
 <hr>
 
