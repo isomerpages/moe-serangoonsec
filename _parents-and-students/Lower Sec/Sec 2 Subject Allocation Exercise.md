@@ -12,6 +12,12 @@ Thank you joining us for our Sec 2 Parent Webinar on ‘Upper Secondary Subject 
 
 Please find the recording and slides here, for your reference.
 
+**Recording:**
+https://youtu.be/SnG6c9iAzRE
+
+**Slides:**
+
+
 <hr>
 
 #### Sec2 SAE 2023 Microsite
