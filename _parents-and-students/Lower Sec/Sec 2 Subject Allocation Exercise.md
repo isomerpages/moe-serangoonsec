@@ -8,9 +8,9 @@ third_nav_title: Lower Sec
 
 Dear Parents/Guardians,
 
-Thank you for registering your interest to join us for our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria’ on 11 March 2023.
+Thank you joining us for our Sec 2 Parent Webinar on ‘Upper Secondary Subject Combinations & Eligibility Criteria’ on 11 March 2023.
 
-For those who have not done so, you may still register your interest using the following link https://go.gov.sg/sec2sae23.
+Please find the recording and slides here, for your reference.
 
 <hr>
 
