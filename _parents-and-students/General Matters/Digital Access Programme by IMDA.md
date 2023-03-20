@@ -1,11 +1,10 @@
 ---
-title: NEU PC Plus Programme
-permalink: /parents-and-students/General-Matters/neu-pc-plus-prog/
+title: Digital Access Programme by IMDA
+permalink: /parents-and-students/general-matters/digi-acc-prog-imda/
 description: ""
 third_nav_title: General Matters
 ---
-
-### NEU PC Plus Programme
+### Digital Access Programme by IMDA
 
 #### Home Access Programme
 
