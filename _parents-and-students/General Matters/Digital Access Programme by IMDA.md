@@ -4,9 +4,7 @@ permalink: /parents-and-students/general-matters/digi-acc-prog-imda/
 description: ""
 third_nav_title: General Matters
 ---
-
-
-### NEU PC Plus Programme
+### Digital Access Programme by IMDA
 
 #### Home Access Programme
 
