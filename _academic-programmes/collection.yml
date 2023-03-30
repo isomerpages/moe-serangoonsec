@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - ICT/Message by HOD.md
       - ICT/Overview.md
       - ICT/.keep
       - Craft & Technology/Message by HOD.md
