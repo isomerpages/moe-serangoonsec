@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English Language & Literature/.keep
-      - English Language & Literature.md
+      - Overview of English Language & Literature.md
       - FSBB.md
       - Craft & Technology.md
       - Humanities.md
