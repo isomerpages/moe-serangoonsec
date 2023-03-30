@@ -2,8 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - English Language & Literature/Overview of English Language &
-        Literature.md
+      - English Language & Literature/Overview.md
       - English Language & Literature/.keep
       - FSBB.md
       - Craft & Technology.md
