@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - ICT/Information & Communications Technology (ICT).md
+      - ICT/Overview.md
       - ICT/.keep
       - Craft & Technology/Message by HOD.md
       - Craft & Technology/Overview.md
