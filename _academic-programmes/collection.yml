@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - Mathematics/Mathematics.md
+      - Mathematics/Overview.md
       - Mathematics/.keep
       - Humanities/Message by HOD.md
       - Humanities/Overview.md
