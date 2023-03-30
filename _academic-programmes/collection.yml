@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - Humanities/Humanities.md
+      - Humanities/Overview.md
       - Humanities/.keep
       - Mother Tongue Languages/Message by HOD.md
       - Mother Tongue Languages/Overview.md
