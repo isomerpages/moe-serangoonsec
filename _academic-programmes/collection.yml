@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Craft & Technology/Message by HOD.md
       - Craft & Technology/Overview.md
       - Craft & Technology/.keep
       - Mathematics/Message by HOD.md
