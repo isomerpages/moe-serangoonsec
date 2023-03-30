@@ -2,7 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
-      - Mother Tongue & Languages/.keep
+      - Mother Tongue Languages/.keep
       - Physical Education/Message by HOD.md
       - Physical Education/Overview.md
       - Physical Education/.keep
