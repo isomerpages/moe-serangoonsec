@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - HOD School Staff Development's Message.md
       - Principal's Message.md
       - Vice Principal's Message.md
       - Vice Principal (Admin)'s Message.md
+      - HOD School Staff Development's Message.md
       - Vision, Mission, Values, Philosophy, and Strategic Thrusts.md
       - School Identity.md
       - School History.md
