@@ -4,6 +4,8 @@ permalink: /about-us/permalink/
 description: ""
 image: ""
 ---
+### HOD School Staff Development's Message
+
 ![](/images/mr%20christopher%20tan.png)
 
 In Serangoon Secondary School, we are committed to ensuring that our teachers receive the support they need to provide the best possible education to our students. We believe that investing in the professional development and well-being of our staff is essential to achieving the Desired Outcomes of Education.
