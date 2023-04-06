@@ -23,3 +23,5 @@ Thank you for your partnership as we work together to create a vibrant and succe
 
 *Mr Christopher Tan*
 <br>**School Staff Developer (Covering)**
+
+<hr>
