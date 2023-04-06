@@ -4,7 +4,7 @@ permalink: /about-us/ssd-message/
 description: ""
 image: ""
 ---
-### HOD School Staff Development's Message
+### School Staff Developer's Message
 
 <img src="/images/mr%20christopher%20tan.png" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
