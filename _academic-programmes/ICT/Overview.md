@@ -1,8 +1,11 @@
 ---
-title: Information & Communications Technology (ICT)
+title: Overview
 permalink: /academic-programmes/ict/
 description: ""
+third_nav_title: ICT
 ---
+
+
 ### Information & Communications Technology (ICT)
 
 ##### Department Staff

@@ -3,14 +3,29 @@ collections:
     output: true
     order:
       - FSBB.md
-      - Craft & Technology.md
-      - English Language & Literature.md
-      - Humanities.md
-      - Information & Communications Technology (ICT).md
-      - Mathematics.md
-      - Mother Tongue Languages.md
-      - Physical Education.md
+      - Craft & Technology/.keep
+      - Craft & Technology/Message by HOD.md
+      - Craft & Technology/Overview.md
+      - English Language & Literature/.keep
+      - English Language & Literature/Message by HOD.md
+      - English Language & Literature/Overview.md
+      - Humanities/.keep
+      - Humanities/Message by HOD.md
+      - Humanities/Overview.md
+      - ICT/.keep
+      - ICT/Message by HOD.md
+      - ICT/Overview.md
+      - Mathematics/.keep
+      - Mathematics/Message by HOD.md
+      - Mathematics/Overview.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Message by HOD.md
+      - Mother Tongue Languages/Overview.md
+      - Physical Education/.keep
+      - Physical Education/Message by HOD.md
+      - Physical Education/Overview.md
       - Science/.keep
+      - Science/Message by HOD.md
       - Science/Overview.md
       - Science/Competitions.md
       - Science/Programmes.md

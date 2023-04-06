@@ -1,8 +1,11 @@
 ---
-title: Physical Education
+title: Overview
 permalink: /academic-programmes/pe/
 description: ""
+third_nav_title: Physical Education
 ---
+
+
 ### Physical Education
 
 ![](/images/Where%20star%20shine.jpg)

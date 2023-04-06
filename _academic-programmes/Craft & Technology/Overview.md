@@ -1,8 +1,11 @@
 ---
-title: Craft & Technology
+title: Overview
 permalink: /academic-programmes/craft-tech/
 description: ""
+third_nav_title: Craft & Technology
 ---
+
+
 
 ### Craft & Technology
 

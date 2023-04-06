@@ -1,8 +1,11 @@
 ---
-title: Humanities
+title: Overview
 permalink: /academic-programmes/humans/
 description: ""
+third_nav_title: Humanities
 ---
+
+
 ### Humanities
 
 <img src="/images/Humanities%20Department%202014%20updated.jpg" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
