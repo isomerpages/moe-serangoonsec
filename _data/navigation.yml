@@ -25,6 +25,8 @@ links:
         url: /staff/
       - title: Contact Us
         url: /contact-us/
+      - title: Submenu Title
+        url: /permalink
   - title: Distinctive Programmes
     url: /distinctive-programmes/stem-applied-learning-programme/
     sublinks:
