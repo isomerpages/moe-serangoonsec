@@ -1,12 +1,13 @@
 ---
-title: HOD School Staff Development's Message
-permalink: /about-us/permalink/
+title: School Staff Developer's Message
+permalink: /about-us/ssd-message/
 description: ""
 image: ""
 ---
-### HOD School Staff Development's Message
+### School Staff Developer's Message
 
-![](/images/mr%20christopher%20tan.png)
+<img src="/images/mr%20christopher%20tan.png" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+
 
 In Serangoon Secondary School, we are committed to ensuring that our teachers receive the support they need to provide the best possible education to our students. We believe that investing in the professional development and well-being of our staff is essential to achieving the Desired Outcomes of Education.
 
@@ -20,5 +21,7 @@ In conclusion, investing in the professional development and well-being of our s
 
 Thank you for your partnership as we work together to create a vibrant and successful learning community who Seek to grow, strive to excel and Serve with honour.
 
-Mr Christopher Tan
-School Staff Developer (Covering)
+*Mr Christopher Tan*
+<br>**School Staff Developer (Covering)**
+
+<hr>
