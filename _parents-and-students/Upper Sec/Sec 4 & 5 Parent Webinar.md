@@ -15,7 +15,7 @@ The following slides contain useful information on how you can prepare your chil
 [03 Sec 4NA Sharing](/files/Upper%20Sec/03%20Sec%204NA%20Sharing.pdf) <br>
 [04 Sec 4NT Sharing](/files/Upper%20Sec/04%20Sec%204NT%20Sharing.pdf)
 
-On 11 March 2022 (Saturday), a Parent Engagement Webinar was held for parents of our Secondary 4 and 5 students.
+On 11 March 2023 (Saturday), a Parent Engagement Webinar was held for parents of our Secondary 4 and 5 students.
 
 Objectives of the webinar are:  
 (1) to provide information on the current educational landscape as well as the post-secondary pathways available,  
