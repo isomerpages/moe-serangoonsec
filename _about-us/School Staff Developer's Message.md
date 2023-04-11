@@ -19,7 +19,7 @@ In addition to professional development, the well-being needs of our staff are e
 
 In conclusion, investing in the professional development and well-being of our staff is essential to achieving our educational goals. We are committed to providing our teachers and non-teaching staff with the resources and support they need to excel in their roles and provide our students with a world-class education.
 
-Thank you for your partnership as we work together to create a vibrant and successful learning community who Seek to grow, strive to excel and Serve with honour.
+Thank you for your partnership as we work together to create a vibrant and successful learning community who Seek to grow, Strive to excel and Serve with honour.
 
 *Mr Christopher Tan*
 <br>**School Staff Developer (Covering)**
