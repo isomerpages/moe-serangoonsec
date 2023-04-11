@@ -6,6 +6,13 @@ third_nav_title: Character and Citizenship Edu
 ---
 ### A Message from the Heads of CCE Department
 
+
+<table>
+  <tbody><tr><td><img src="/images/School%20Steering%20Committee/Faith%20Wong%20Yeo%20Sok%20Yee.jpg">
+		</td><td><img src="/images/School%20Steering%20Committee/KP_blank.jpg">
+		</td><td><img src="/images/School%20Steering%20Committee/Koh%20Sien%20Kok%20Dennis.jpg"></td></tr>
+</tbody></table>
+
 Character and Citizenship Education (CCE) is integral to the holistic development of our students as Resilient Individuals, Passionate Learners, and Active Contributors. We aspire to see Serangoon StaRs thrive - as individuals, and as an integral part of their community. 
 
 In Serangoon Secondary School, we are committed to empower Serangoon StaRs to SHINE by developing in them
@@ -40,8 +47,10 @@ It takes a village to raise a child. We warmly invite you - parents, alumni, oth
 
 We look forward to your support and partnership. 
 
-Mrs Faith Wong Yeo Sok Yee, HOD/CCE
+Mrs Faith Wong Yeo Sok Yee
+HOD/CCE
 
-Mr Koh Sien Kok Dennis, SH/CCE
+Mr Koh Sien Kok Dennis
+SH/CCE
 
 <hr>
