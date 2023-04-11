@@ -20,7 +20,7 @@ Second, our teachers are constantly adapting and adopting a wide range of pedago
 
 ![](/images/HOD%20Science/hod_sc_2.png)
 
-Third, to help our students become creators of new solutions for tomorrow’s challenges, our teachers also need to be exposed to diverse and rich experiences beyond the school and keep themselves up-to-date with the latest scientific knowledge, technological advancements, as well as careers and industries of tomorrow. The department is dedicated in learning, unlearning and re-learning, These fresh perspectives and insights that our teachers gain through rigorous reflective cycles and various learning platforms would increase our capacities and capabilities to further broaden the experiences that we could provide for our students.
+Third, to help our students become creators of new solutions for tomorrow’s challenges, our teachers also need to be exposed to diverse and rich experiences beyond the school and keep themselves up-to-date with the latest scientific knowledge, technological advancements, as well as careers and industries of tomorrow. The department is dedicated in learning, unlearning and re-learning. These fresh perspectives and insights that our teachers gain through rigorous reflective cycles and various learning platforms would increase our capacities and capabilities to further broaden the experiences that we could provide for our students.
 
 ![](/images/HOD%20Science/hod_sc_3.png)
 
