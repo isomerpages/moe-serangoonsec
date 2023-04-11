@@ -19,3 +19,5 @@ Second, our teachers are constantly adapting and adopting a wide range of pedago
 Third, to help our students become creators of new solutions for tomorrow’s challenges, our teachers also need to be exposed to diverse and rich experiences beyond the school and keep themselves up-to-date with the latest scientific knowledge, technological advancements, as well as careers and industries of tomorrow. The department is dedicated in learning, unlearning and re-learning, These fresh perspectives and insights that our teachers gain through rigorous reflective cycles and various learning platforms would increase our capacities and capabilities to further broaden the experiences that we could provide for our students.
 
 With a committed team of Science teachers who exemplify lifelong learning for our Serangoon StaRs, I am confident that we can pave the way to realise the vision of science education in Singapore, where every student can be inspired by Science, inquire like scientists, and innovate using Science.
+
+<hr>
