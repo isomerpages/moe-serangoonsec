@@ -47,10 +47,10 @@ It takes a village to raise a child. We warmly invite you - parents, alumni, oth
 
 We look forward to your support and partnership. 
 
-Mrs Faith Wong Yeo Sok Yee
-HOD/CCE
+*Mrs Faith Wong Yeo Sok Yee*
+<br>**HOD (CCE)**
 
-Mr Koh Sien Kok Dennis
-SH/CCE
+*Mr Koh Sien Kok Dennis*
+<br>**SH/ (CCE)**
 
 <hr>
