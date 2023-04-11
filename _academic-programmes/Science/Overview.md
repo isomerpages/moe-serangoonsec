@@ -126,3 +126,5 @@ The department’s T&amp;L framework is guided by the school vision and school p
     <td>Mdm Geetha</td>
   </tr>
 </tbody></table>
+
+<hr>
