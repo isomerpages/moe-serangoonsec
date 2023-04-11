@@ -2,10 +2,10 @@ collections:
   student-development:
     output: true
     order:
-      - Character and Citizenship Edu/SH & HOD (CCE)'s Message.md
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Character and Citizenship Education
         (CCE).md
+      - Character and Citizenship Edu/SH & HOD (CCE)'s Message.md
       - Character and Citizenship Edu/Values in Action (VIA).md
       - Character and Citizenship Edu/Sexuality Education.md
       - Co Curricular Activities/.keep
