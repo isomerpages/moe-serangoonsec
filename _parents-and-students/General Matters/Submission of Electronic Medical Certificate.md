@@ -10,4 +10,4 @@ As part of the whole-of-nation effort to harness digital technologies to transfo
 
 The workflow is as follows:
 
-![](/images/Attendance%20taking%20Guidelines.jpg)
+![](/images/workflow%20for%20digimc.png)
