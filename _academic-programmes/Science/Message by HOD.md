@@ -1,6 +1,6 @@
 ---
 title: Message by HOD
-permalink: /academic-programmes/science/permalink/
+permalink: /academic-programmes/science/hod-message/
 description: ""
 third_nav_title: Science
 ---
@@ -14,7 +14,7 @@ As we navigate the complexities of a rapidly changing world, the half-life of te
 
 First, our department strives to develop Serangoon StaRs holistically and cultivate their interest and confidence in learning Science. Our talent development model consists of tiers of student-centric programmes which are thoughtfully designed and customised to students of different profiles and needs. These programmes serve to complement and/or extend the learning of science by exposing students to authentic real-world applications and nurturing inquiring minds through hands-on experiences. They also enable students to appreciate the relevance of what they learn in the classroom in a relatable way. 
 
-![](/images/HOD%20Science/hod_sc_1.png)
+![](/images/HOD%20Science/science%20dept%20talent%20development%20model-1.png)
 
 Second, our teachers are constantly adapting and adopting a wide range of pedagogical and assessment practices that cater to our diverse student needs. One of our focus is on scientific inquiry, or practices of science, which aims to promote critical thinking and problem-solving skills, deepen sense-making of scientific information and ethical decision-making, as well as enhance the ability and confidence to communicate scientific ideas effectively. With the introduction of Personal Learning Devices (PLDs) in schools, our teachers leverage the affordances of technology to enrich the learning of science using interactive platforms and multimodal representations. We provide opportunities for students to connect meaningfully through experiential learning and engage in collaborative learning to co-create knowledge together with their teachers and peers.
 

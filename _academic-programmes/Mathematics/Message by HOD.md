@@ -1,6 +1,6 @@
 ---
 title: Message by HOD
-permalink: /academic-programmes/mathematics/permalink/
+permalink: /academic-programmes/mathematics/hod-message/
 description: ""
 third_nav_title: Mathematics
 ---
