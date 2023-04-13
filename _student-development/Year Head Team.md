@@ -4,7 +4,7 @@ permalink: /student-development/year-head-team/
 description: ""
 image: /images/year head team 2023.png
 ---
-### Message from the Year Head Team
+### Message by the Year Head Team
 
 In SSS, we adopt a thematic approach in our holistic development of students. These themes are developmentally progressive with a we-statement to help our Serangoon StaRs understand their level focus. Each theme is also aligned to our school values and motto with a sphere of influence which we want to see in our students. 
 
