@@ -1,6 +1,6 @@
 ---
 title: Message by HOD
-permalink: /academic-programmes/humanities/permalink/
+permalink: /academic-programmes/humanities/hod-message/
 description: ""
 third_nav_title: Humanities
 ---

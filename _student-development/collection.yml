@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - The Year Heads.md
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Character and Citizenship Education
         (CCE).md
@@ -29,6 +28,7 @@ collections:
       - Co Curricular Activities/Red Cross Youth.md
       - Co Curricular Activities/Scouts.md
       - Counselling and Student Welfare Support.md
+      - Education & Career Guidance/.keep
       - Education & Career Guidance/Post Secondary Educational Pathways.md
       - Education & Career Guidance/MySkillsFuture Portal.md
       - Education & Career Guidance/For GCE O Level students.md
@@ -36,7 +36,7 @@ collections:
       - Education & Career Guidance/Directory of Post Secondary Education
         Institutions.md
       - Education & Career Guidance/Secondary 4 and 5 Parent Webinar.md
-      - Education & Career Guidance/.keep
+      - Student Leadership/.keep
       - Student Leadership/Student Leadership Overview.md
       - Student Leadership/Overview.md
       - Student Leadership/SSS Student Leadership Framework.md
@@ -44,5 +44,5 @@ collections:
       - Student Leadership/CCA Leaders.md
       - Student Leadership/Class Committee.md
       - Student Leadership/Peer Support Leaders.md
-      - Student Leadership/.keep
       - Student Management.md
+      - Year Head Team.md
