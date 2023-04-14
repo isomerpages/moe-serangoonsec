@@ -1,8 +1,9 @@
 ---
-title: Year Head Team
-permalink: /student-development/year-head-team/
+title: Year Head Team's Message
+permalink: /student-development/year-head-team-message/
 description: ""
 image: /images/year head team 2023.png
+third_nav_title: Year Head Team
 ---
 ### Message by the Year Head Team
 
