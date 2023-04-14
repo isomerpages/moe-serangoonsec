@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Year Head Team's Message/.keep
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Character and Citizenship Education
         (CCE).md
