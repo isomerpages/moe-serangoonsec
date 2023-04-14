@@ -2,8 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Year Head Team/Year Head Team's Message.md
-      - Year Head Team/.keep
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Character and Citizenship Education
         (CCE).md
@@ -47,3 +45,5 @@ collections:
       - Student Leadership/Class Committee.md
       - Student Leadership/Peer Support Leaders.md
       - Student Management.md
+      - Year Head Team/.keep
+      - Year Head Team/Year Head Team's Message.md
