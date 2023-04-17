@@ -13,7 +13,7 @@ To support our students, our school plans customised interventions that focus on
 
 In our school, we plan a variety of programmes to engage different student profiles. Some key programmes are outlined below. 
 
-###### I.	ORION STARS AFTER SCHOOL ENGAGEMENT 
+**I.	ORION STARS AFTER SCHOOL ENGAGEMENT**
 
 The Orion StaRs After School Engagement programme strives to provide meaningful engagement for Lower Secondary students through:
 
@@ -43,7 +43,7 @@ such as fencing and craft work (2022).</caption>
 		<tr></tr></tbody><caption>Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).</caption>
 </table>
 
-###### II.	MENTORING PROGRAMMES 
+**II.	MENTORING PROGRAMMES **
 
 Our school works closely with vendors and partners to curate mentoring programmes to support and nurture our Secondary 2 and 3 students. 
 
@@ -67,7 +67,7 @@ Leveraging significant adults as mentors, our students acquire key socio-emotion
 		<tr></tr></tbody><caption>Source: [https://str.sg/3x3d](https://str.sg/3x3d)</caption>
 </table>
 
-###### III.	APPLIED LEARNING PROGRAMME (ApLM)
+**III.	APPLIED LEARNING PROGRAMME (ApLM)**
 
 ApLM are enrichment modules that broaden the learning experiences of students and complement the secondary school curriculum with a focus on the practical application of knowledge. 
 
