@@ -21,7 +21,22 @@ The Orion StaRs After School Engagement programme strives to provide meaningful 
 
 </li><li>Interest-based activities such as sports, arts and crafts and cooking.</li></ul>
 
-These varied activities strengthen our students’ personal and socio-emotional learning (SEL) competencies as they learn to collaborate with one other. The programme also strives to help our students develop self-awareness as they discover personal strengths and interests. 
+These varied activities strengthen our students’ personal and socio-emotional learning (SEL) competencies as they learn to collaborate with one other. The programme also strives to help our students develop self-awareness as they discover personal strengths and interests.
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-1.png">
+		</td><td><img src="/images/Educational%20Support/edu-support-2.png"></td></tr>
+		<tr></tr></tbody><caption>Photos shows students engaged in various interest-based activities 
+such as fencing and craft work (2022).</caption>
+
+</table>
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-3.png">
+		</td><td><img src="/images/Educational%20Support/edu-support-4.png"></td></tr>
+		<tr></tr></tbody><caption>Photos show students engaged in learning during the socio-emotional learning sessions (2022).</caption>
+
+</table>
 
 ###### II.	MENTORING PROGRAMMES 
 
