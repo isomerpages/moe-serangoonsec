@@ -13,7 +13,7 @@ To support our students, our school plans customised interventions that focus on
 
 In our school, we plan a variety of programmes to engage different student profiles. Some key programmes are outlined below. 
 
-###### I.	ORION STARS AFTER SCHOOL ENGAGEMENT 
+**I.	ORION STARS AFTER SCHOOL ENGAGEMENT**
 
 The Orion StaRs After School Engagement programme strives to provide meaningful engagement for Lower Secondary students through:
 
@@ -26,24 +26,26 @@ These varied activities strengthen our students’ personal and socio-emotional 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-1.png">
 		</td><td><img src="/images/Educational%20Support/edu-support-2.png"></td></tr>
-		<tr></tr></tbody><caption>Photos shows students engaged in various interest-based activities 
-such as fencing and craft work (2022).</caption>
+</tbody></table>
 
-</table>
+(Above) Photos shows students engaged in various interest-based activities such as fencing and craft work (2022).
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-3.png">
 		</td><td><img src="/images/Educational%20Support/edu-support-4.png"></td></tr>
-		<tr></tr></tbody><caption>Photos show students engaged in learning during the socio-emotional learning sessions (2022).</caption>
+		<tr></tr></tbody>
 </table>
+
+(Above) Photos show students engaged in learning during the socio-emotional learning sessions (2022).
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-5.png">
 		</td></tr>
-		<tr></tr></tbody><caption>Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).</caption>
-</table>
+</tbody></table>
 
-###### II.	MENTORING PROGRAMMES 
+(Above) Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).
+
+**II.	MENTORING PROGRAMMES **
 
 Our school works closely with vendors and partners to curate mentoring programmes to support and nurture our Secondary 2 and 3 students. 
 
@@ -52,22 +54,25 @@ Leveraging significant adults as mentors, our students acquire key socio-emotion
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-6.png">
 		</td></tr>
-		<tr></tr></tbody><caption>Photo shows our Secondary 2 students with their mentors at a learning journey to Sentosa (2022).</caption>
-</table>
+</tbody></table>
+
+(Above) Photo shows our Secondary 2 students with their mentors at a learning journey to Sentosa (2022).
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-7.png">
 		</td></tr>
-		<tr></tr></tbody><caption>Photo shows our Secondary 3 students engaged in a group mentoring session. (2022).</caption>
-</table>
+</tbody></table>
+
+(Above) Photo shows our Secondary 3 students engaged in a group mentoring session. (2022).
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-8.png">
 		</td></tr>
-		<tr></tr></tbody><caption>Source: [https://str.sg/3x3d](https://str.sg/3x3d)</caption>
-</table>
+</tbody></table>
 
-###### III.	APPLIED LEARNING PROGRAMME (ApLM)
+(Above) Source: [https://str.sg/3x3d](https://str.sg/3x3d)
+
+**III.	APPLIED LEARNING PROGRAMME (ApLM)**
 
 ApLM are enrichment modules that broaden the learning experiences of students and complement the secondary school curriculum with a focus on the practical application of knowledge. 
 
@@ -81,21 +86,24 @@ Through ApLM, we hope that our students will discover their interests and streng
 		</td><td><img src="/images/Educational%20Support/edu-support-10.jpg"></td></tr>
 		<tr><td><img src="/images/Educational%20Support/edu-support-11.jpg">
 		</td><td><img src="/images/Educational%20Support/edu-support-12.jpg"></td></tr>
-		<tr></tr></tbody><caption><b>ApLM@Schools:</b> Through hands-on learning experiences in school and learning journeys, ApLM@Schools exposes our students to different fields of interest such as Hospitality, Business and Services, Design and Media, Applied and Health Sciences, Electronics and Info-Comm Technology and Engineering. The photos above show our Secondary 2 students actively engaged in learning during the ApLM@Schools held from 28 Feb 2023 to 3 Mar 2023.</caption>
-</table>
+</tbody></table>
+
+(Above) <b>ApLM@Schools:</b> Through hands-on learning experiences in school and learning journeys, ApLM@Schools exposes our students to different fields of interest such as Hospitality, Business and Services, Design and Media, Applied and Health Sciences, Electronics and Info-Comm Technology and Engineering. The photos above show our Secondary 2 students actively engaged in learning during the ApLM@Schools held from 28 Feb 2023 to 3 Mar 2023.
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-13.png">
 		</td></tr>
 		<tr><td><img src="/images/Educational%20Support/edu-support-14.png">
 		</td></tr>
-		<tr><td></td></tr></tbody><caption><b>ApLM@Poly:</b> ApLM@Poly are elective courses developed by the Polytechnics. These electives, each involving 21 to 24 hours of contact time with the Polytechnic lecturers, give students the opportunity to applying their learning to authentic learning contexts. The photos above show our Secondary 3 students during the ApLM@Poly programme held from 13 Mar 2023 to 15 Mar 2023. </caption>
-</table>
+</tbody></table>
+
+(Above) <b>ApLM@Poly:</b> ApLM@Poly are elective courses developed by the Polytechnics. These electives, each involving 21 to 24 hours of contact time with the Polytechnic lecturers, give students the opportunity to applying their learning to authentic learning contexts. The photos above show our Secondary 3 students during the ApLM@Poly programme held from 13 Mar 2023 to 15 Mar 2023.
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-15.png">
 		</td></tr>
-		<tr><td></td></tr></tbody><caption><b>ApLM@ITE:</b>  ApLM@ITE are short courses developed to broaden the learning experiences of students. The 22.5-hour programme will introduce students to ITE’s full-time Nitec and Higher Nitec courses. Through the hands-on practical sessions, students will have the opportunity to discover how the knowledge and skills learnt can be applied to related industries. The photos above show our Secondary 3 students during the ApLM@ITE programme held from 27 Mar 2023 to 29 Mar 2023.  </caption>
-</table>
+</tbody></table>
+
+(Above) <b>ApLM@ITE:</b>  ApLM@ITE are short courses developed to broaden the learning experiences of students. The 22.5-hour programme will introduce students to ITE’s full-time Nitec and Higher Nitec courses. Through the hands-on practical sessions, students will have the opportunity to discover how the knowledge and skills learnt can be applied to related industries. The photos above show our Secondary 3 students during the ApLM@ITE programme held from 27 Mar 2023 to 29 Mar 2023.
 
 <hr>
