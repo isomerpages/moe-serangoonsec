@@ -75,4 +75,27 @@ These modules provide our students with applied learning opportunities – learn
 
 Through ApLM, we hope that our students will discover their interests and strengths, which would inspire them in making informed education and career choices.
 
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-9.jpg">
+		</td><td><img src="/images/Educational%20Support/edu-support-10.jpg"></td></tr>
+		<tr><td><img src="/images/Educational%20Support/edu-support-11.jpg">
+		</td><td><img src="/images/Educational%20Support/edu-support-12.jpg"></td></tr>
+		<tr></tr></tbody><caption><b>ApLM@Schools:</b> Through hands-on learning experiences in school and learning journeys, ApLM@Schools exposes our students to different fields of interest such as Hospitality, Business and Services, Design and Media, Applied and Health Sciences, Electronics and Info-Comm Technology and Engineering. The photos above show our Secondary 2 students actively engaged in learning during the ApLM@Schools held from 28 Feb 2023 to 3 Mar 2023.</caption>
+</table>
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-13.png">
+		</td></tr>
+		<tr><td><img src="/images/Educational%20Support/edu-support-14.png">
+		</td></tr>
+		<tr><td></td></tr></tbody><caption><b>ApLM@Poly:</b> ApLM@Poly are elective courses developed by the Polytechnics. These electives, each involving 21 to 24 hours of contact time with the Polytechnic lecturers, give students the opportunity to applying their learning to authentic learning contexts. The photos above show our Secondary 3 students during the ApLM@Poly programme held from 13 Mar 2023 to 15 Mar 2023. </caption>
+</table>
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-15.png">
+		</td></tr>
+		<tr><td></td></tr></tbody><caption><b>ApLM@ITE:</b>  ApLM@ITE are short courses developed to broaden the learning experiences of students. The 22.5-hour programme will introduce students to ITE’s full-time Nitec and Higher Nitec courses. Through the hands-on practical sessions, students will have the opportunity to discover how the knowledge and skills learnt can be applied to related industries. The photos above show our Secondary 3 students during the ApLM@ITE programme held from 27 Mar 2023 to 29 Mar 2023.  </caption>
+</table>
+
 <hr>
