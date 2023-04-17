@@ -43,12 +43,29 @@ such as fencing and craft work (2022).</caption>
 		<tr></tr></tbody><caption>Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).</caption>
 </table>
 
-
 ###### II.	MENTORING PROGRAMMES 
 
 Our school works closely with vendors and partners to curate mentoring programmes to support and nurture our Secondary 2 and 3 students. 
 
-Leveraging significant adults as mentors, our students acquire key socio-emotional competencies in the aspects of self-management, relationship management and responsible decision making.  Experiential learning activities such as projects and outdoor learning journeys provide platforms for our students to showcase and strengthen their socio-emotional learning. 
+Leveraging significant adults as mentors, our students acquire key socio-emotional competencies in the aspects of self-management, relationship management and responsible decision making.  Experiential learning activities such as projects and outdoor learning journeys provide platforms for our students to showcase and strengthen their socio-emotional learning.
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-6.png">
+		</td></tr>
+		<tr></tr></tbody><caption>Photo shows our Secondary 2 students with their mentors at a learning journey to Sentosa (2022).</caption>
+</table>
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-7.png">
+		</td></tr>
+		<tr></tr></tbody><caption>Photo shows our Secondary 3 students engaged in a group mentoring session. (2022).</caption>
+</table>
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-8.png">
+		</td></tr>
+		<tr></tr></tbody><caption>Source: [https://str.sg/3x3d](https://str.sg/3x3d)</caption>
+</table>
 
 ###### III.	APPLIED LEARNING PROGRAMME (ApLM)
 
