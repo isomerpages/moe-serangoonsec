@@ -35,8 +35,14 @@ such as fencing and craft work (2022).</caption>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-3.png">
 		</td><td><img src="/images/Educational%20Support/edu-support-4.png"></td></tr>
 		<tr></tr></tbody><caption>Photos show students engaged in learning during the socio-emotional learning sessions (2022).</caption>
-
 </table>
+
+<table>
+  <tbody><tr><td><img src="/images/Educational%20Support/edu-support-5.png">
+		</td></tr>
+		<tr></tr></tbody><caption>Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).</caption>
+</table>
+
 
 ###### II.	MENTORING PROGRAMMES 
 
