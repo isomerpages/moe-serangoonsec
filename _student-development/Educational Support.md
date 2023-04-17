@@ -45,7 +45,7 @@ These varied activities strengthen our students’ personal and socio-emotional 
 
 (Above) Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).
 
-**II.	MENTORING PROGRAMMES **
+**II.	MENTORING PROGRAMMES**
 
 Our school works closely with vendors and partners to curate mentoring programmes to support and nurture our Secondary 2 and 3 students. 
 
@@ -70,7 +70,7 @@ Leveraging significant adults as mentors, our students acquire key socio-emotion
 		</td></tr>
 </tbody></table>
 
-(Above) Source: [https://str.sg/3x3d](https://str.sg/3x3d)
+(Above) The 30 Nov 2021 Straits Times article on MOE’s UPLIFT efforts, features our Sec 2 StaR Reuben Wong. The article relates Reuben’s journey as one of the beneficiaries of the Thye Hua Kwan (THK) Moral Charities mentoring programme in 2020 and how he made significant improvements with the support given. Source: [https://str.sg/3x3d](https://str.sg/3x3d)
 
 **III.	APPLIED LEARNING PROGRAMME (ApLM)**
 
