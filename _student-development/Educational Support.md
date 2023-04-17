@@ -45,7 +45,7 @@ These varied activities strengthen our students’ personal and socio-emotional 
 
 (Above) Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).
 
-**II.	MENTORING PROGRAMMES **
+**II.	MENTORING PROGRAMMES**
 
 Our school works closely with vendors and partners to curate mentoring programmes to support and nurture our Secondary 2 and 3 students. 
 
