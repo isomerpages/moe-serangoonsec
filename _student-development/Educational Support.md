@@ -26,22 +26,24 @@ These varied activities strengthen our students’ personal and socio-emotional 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-1.png">
 		</td><td><img src="/images/Educational%20Support/edu-support-2.png"></td></tr>
-		<tr></tr></tbody><caption>Photos shows students engaged in various interest-based activities 
-such as fencing and craft work (2022).</caption>
+</tbody></table>
 
-</table>
+(Above) Photos shows students engaged in various interest-based activities such as fencing and craft work (2022).
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-3.png">
 		</td><td><img src="/images/Educational%20Support/edu-support-4.png"></td></tr>
-		<tr></tr></tbody><caption>Photos show students engaged in learning during the socio-emotional learning sessions (2022).</caption>
+		<tr></tr></tbody>
 </table>
+
+(Above) Photos show students engaged in learning during the socio-emotional learning sessions (2022).
 
 <table>
   <tbody><tr><td><img src="/images/Educational%20Support/edu-support-5.png">
 		</td></tr>
-		<tr></tr></tbody><caption>Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).</caption>
-</table>
+</tbody></table>
+
+(Above) Photo shows students posing at East Coast park during their beach-cleaning Values in Action project (2022).
 
 **II.	MENTORING PROGRAMMES **
 
