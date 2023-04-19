@@ -3,9 +3,9 @@ title: HOD's and YH's Messages
 permalink: /about-us/hod-yh-messages/
 description: ""
 ---
-### HOD's &amp; YH's Messages
+### HODs' and YHs' Messages
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/student-development/character-and-citizenship-edu/shhodcce/) by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)</li>
+<li>[Message](www.serangoonsec.moe.edu.sg/student-development/character-and-citizenship-edu/shhodcce/) by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)</li>
 
 <li>[Message](https://www.serangoonsec.moe.edu.sg/student-development/edu-support/) by Ms Sabrina Teo, <br>HOD (Educational Support)</li>
 
