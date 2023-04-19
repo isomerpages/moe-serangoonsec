@@ -5,26 +5,26 @@ description: ""
 ---
 ### HOD's &amp; YH's Messages
 
-Message by Mrs Faith Wong Yeo Sok Yee, HOD (Character and Citizenship Education)
+<li>Message by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)</li>
 
-Message by Ms Sabrina Teo, HOD (Educational Support)
+<li>Message by Ms Sabrina Teo, <br>HOD (Educational Support)</li>
 
-Message by Mdm Azrina Bte Md Salleh, HOD (English Language and Literature)
+<li>Message by Mdm Azrina Bte Md Salleh, HOD (English Language and Literature)</li>
 
-Message by Mr Christopher Tan, HOD (Humanities)
+<li>Message by Mr Christopher Tan, <br>HOD (Humanities)</li>
 
-Message by Mdm Koh Poh Ling, HOD (Mathematics)
+<li>Message by Mdm Koh Poh Ling, <br>HOD (Mathematics)</li>
 
-Message by Ms Liam Hsiao Wen, HOD (Mother Tongue)
+<li>Message by Ms Liam Hsiao Wen, <br>HOD (Mother Tongue)</li>
 
-Message by Mdm Goh Sze Wei, HOD (Physical Education and Co-Curricular Activities)
+<li>Message by Mdm Goh Sze Wei, <br>HOD (Physical Education and Co-Curricular Activities)</li>
 
-Message by Ms Michelle Ong, HOD (Science)
+<li>Message by Ms Michelle Ong, <br>HOD (Science)</li>
 
-Message by Ms Ng He Li, HOD (Student Management)
+<li>Message by Ms Ng He Li, <br>HOD (Student Management)</li>
 
-Message by Mr Tay Ming Yang, YH (Lower Secondary)
+<li>Message by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
 
-Message by Mdm Lum Cindy, YH (Upper Secondary)
+<li>Message by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
 
 <hr>
