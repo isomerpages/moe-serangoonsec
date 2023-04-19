@@ -1,9 +1,9 @@
 ---
-title: HOD's & YH's Messages
+title: HOD's &amp; YH's Messages
 permalink: /about-us/hod-yh-messages/
 description: ""
 ---
-### HOD's & YH's Messages
+### HOD's &amp; YH's Messages
 
 Message by Mrs Faith Wong Yeo Sok Yee, HOD (Character and Citizenship Education)
 
@@ -19,4 +19,12 @@ Message by Ms Liam Hsiao Wen, HOD (Mother Tongue)
 
 Message by Mdm Goh Sze Wei, HOD (Physical Education and Co-Curricular Activities)
 
+Message by Ms Michelle Ong, HOD (Science)
 
+Message by Ms Ng He Li, HOD (Student Management)
+
+Message by Mr Tay Ming Yang, YH (Lower Secondary)
+
+Message by Mdm Lum Cindy, YH (Upper Secondary)
+
+<hr>
