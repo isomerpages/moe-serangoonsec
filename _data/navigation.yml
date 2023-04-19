@@ -11,6 +11,8 @@ links:
         url: /about-us/vp-a-message/
       - title: SSD's Message
         url: /about-us/ssd-message/
+      - title: HODs & YH's Messages
+        url: /about-us/hod-yh-messages/
       - title: Vision, Mission, Values
         url: /vmv/
       - title: School Identity
@@ -27,8 +29,6 @@ links:
         url: /staff/
       - title: Contact Us
         url: /contact-us/
-      - title: HODs & YH's Messages
-        url: /about-us/hod-yh-messages/
   - title: Distinctive Programmes
     url: /distinctive-programmes/stem-applied-learning-programme/
     sublinks:
