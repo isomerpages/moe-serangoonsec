@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - HOD's & YH's Messages.md
       - Principal's Message.md
       - Vice Principal's Message.md
       - Vice Principal (Admin)'s Message.md
