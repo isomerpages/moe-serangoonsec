@@ -17,14 +17,14 @@ description: ""
 
 <li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/mother-tongue-languages/permalink/">Message</a> by Ms Liam Hsiao Wen, <br>HOD (Mother Tongue)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/physical-education/permalink/) by Mdm Goh Sze Wei, <br>HOD (Physical Education and Co-Curricular Activities)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/physical-education/permalink/">Message</a> by Mdm Goh Sze Wei, <br>HOD (Physical Education and Co-Curricular Activities)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/science/hod-message/) by Ms Michelle Ong, <br>HOD (Science)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/science/hod-message/">Message</a> by Ms Michelle Ong, <br>HOD (Science)</li>
 
 <li>Message by Ms Ng He Li, <br>HOD (Student Management)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/student-development/year-head-team-message/) by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/student-development/year-head-team-message/">Message</a> by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/student-development/year-head-team-message/) by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/student-development/year-head-team-message/">Message</a> by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
 
 <hr>
