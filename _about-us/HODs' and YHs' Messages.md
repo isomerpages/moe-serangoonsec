@@ -25,6 +25,6 @@ description: ""
 
 <li><a href="www.serangoonsec.moe.edu.sg/student-development/year-head-team-message/">Message</a> by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
 
-<li><a href="www.serangoonsec.moe.edu.sg/student-development/year-head-team-message/">Message</a> by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
+<li><a href="/student-development/year-head-team-message/">Message</a> by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
 
 <hr>
