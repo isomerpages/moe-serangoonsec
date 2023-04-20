@@ -5,19 +5,17 @@ description: ""
 ---
 ### HODs' and YHs' Messages
 
-<li>[Message by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)](www.serangoonsec.moe.edu.sg/student-development/character-and-citizenship-edu/shhodcce/)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/student-development/character-and-citizenship-edu/shhodcce/">Message</a> by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)
 
+</li><li><a href="www.serangoonsec.moe.edu.sg/student-development/edu-support/">Message</a> by Ms Sabrina Teo, <br>HOD (Educational Support)</li>
 
+<li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/english-language-and-literature/permalink/">Message</a> by Mdm Azrina Bte Md Salleh, <br>HOD (English Language and Literature)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/student-development/edu-support/) by Ms Sabrina Teo, <br>HOD (Educational Support)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/humanities/hod-message">Message</a> by Mr Christopher Tan, <br>HOD (Humanities)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/english-language-and-literature/permalink/) by Mdm Azrina Bte Md Salleh, HOD (English Language and Literature)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/mathematics/hod-message/">Message</a> by Mdm Koh Poh Ling, <br>HOD (Mathematics)</li>
 
-<li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/humanities/hod-message/) by Mr Christopher Tan, <br>HOD (Humanities)</li>
-
-<li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/mathematics/hod-message/) by Mdm Koh Poh Ling, <br>HOD (Mathematics)</li>
-
-<li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/mother-tongue-languages/permalink/) by Ms Liam Hsiao Wen, <br>HOD (Mother Tongue)</li>
+<li><a href="www.serangoonsec.moe.edu.sg/academic-programmes/mother-tongue-languages/permalink/">Message</a> by Ms Liam Hsiao Wen, <br>HOD (Mother Tongue)</li>
 
 <li>[Message](https://www.serangoonsec.moe.edu.sg/academic-programmes/physical-education/permalink/) by Mdm Goh Sze Wei, <br>HOD (Physical Education and Co-Curricular Activities)</li>
 
