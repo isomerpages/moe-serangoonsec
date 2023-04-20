@@ -21,7 +21,7 @@ description: ""
 
 <li><a href="/academic-programmes/science/hod-message/">Message</a> by Ms Michelle Ong, <br>HOD (Science)</li>
 
-<li>Message by Ms Ng He Li, <br>HOD (Student Management)</li>
+<li><a href="/student-development/student-management/hod-message/">Message</a> by Ms Ng He Li, <br>HOD (Student Management)</li>
 
 <li><a href="/student-development/year-head-team-message/">Message</a> by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
 
