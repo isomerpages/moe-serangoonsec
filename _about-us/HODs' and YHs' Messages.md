@@ -23,6 +23,8 @@ description: ""
 
 <li><a href="/student-development/student-management/hod-message/">Message</a> by Ms Ng He Li, <br>HOD (Student Management)</li>
 
+<li><a href="/academic-programmes/ict/hod-message/">Message</a> by Mr Adrial Tan Chong Jin, <br>HOD (Information and Communication Technology)</li>
+
 <li><a href="/student-development/year-head-team-message/">Message</a> by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
 
 <li><a href="/student-development/year-head-team-message/">Message</a> by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
