@@ -2,6 +2,7 @@
 title: Student Management
 permalink: /student-development/student-management/
 description: ""
+third_nav_title: Student Management
 ---
 ### Student Management
 
@@ -24,7 +25,7 @@ Counselling complements the disciplinary actions taken. Counselling sessions off
 
 <hr>
 
-#### School Rules & Expectations
+#### School Rules &amp; Expectations
 
 The following are general standards of good behaviour expected of all students that apply in any setting and mode of interaction, including the digital realm.
 
@@ -87,22 +88,22 @@ From left to right:
 * Half-uniform for female students
 
 <table>
-  <tr>
+  <tbody><tr>
     <td><img src="/images/School%20Mgmt3%202023.png" style="width:200px"></td>
     <td><img src="/images/School%20Mgmt4%202023.png" style="width:200px"></td>
 		<td><img src="/images/School%20Mgmt5%202023.png" style="height: 90px; width:150px"></td>
   </tr>
-</table>
+</tbody></table>
 
 <hr>
 
 <table>
-  <tr>
+  <tbody><tr>
     <td><img src="/images/School%20Mgmt6%202023.png" style="width:200px"></td>
     <td><img src="/images/School%20Mgmt7%202023.png" style="width:200px"></td>
 		<td><img src="/images/School%20Mgmt8%202023.png" style="height: 90px; width:150px"></td>
   </tr>
-</table>
+</tbody></table>
 
 <hr>
 
@@ -127,7 +128,7 @@ From left to right:
 * wear only a pair of simple ear-studs and no other form of body piercings
 
 <table>
-  <tr>
+  <tbody><tr>
     <td><img src="/images/Student%20Management/fem_pic_1.jpg" style="width:200px"></td>
     <td><img src="/images/Student%20Management/fem_pic_2.jpg" style="width:200px"></td>
 		<td><img src="/images/Student%20Management/fem_pic_3.jpg" style="width:200px"></td>
@@ -137,7 +138,7 @@ From left to right:
     <td></td>
 		<td>Hair beyond collar length must be tied up</td>
   </tr>
-</table>
+</tbody></table>
 
 <hr>
 
@@ -152,7 +153,7 @@ From left to right:
 * **not** wear ear-studs/ear-sticks / any form of body piercings
 
 <table>
-  <tr>
+  <tbody><tr>
     <td><img src="/images/Student%20Management/mal_pic_1.jpg" style="height:235px; width:260px"></td>
 		<td><img src="/images/Student%20Management/mal_pic_2.jpg" style="width:200px"></td>
   </tr>
@@ -160,7 +161,7 @@ From left to right:
     <td>Fringe is above the eyebrows</td>
 			<td>Sideburns are kept short with slope at the back</td>
   </tr>
-</table>
+</tbody></table>
 
 
 **For further details on the expectations of students’ overall attire and appearance, please refer to the Student’s Handbook.**
@@ -217,7 +218,7 @@ All students are not allowed to have any weapon in their possession. They are al
 #### Conduct Grade
 
 <table>
-  <tr>
+  <tbody><tr>
 		<td><b>Grade</b></td>
     <td><b>Descriptors</b></td>
   </tr>
@@ -282,6 +283,6 @@ All students are not allowed to have any weapon in their possession. They are al
 <ul><li>No CCA / Absent from CCA persistently without MC or valid reason</li></ul>
 <ul><li>Has committed either a few serious offences or multiple occurrences of a single serious offence </li></ul></td>
   </tr>
-</table>
+</tbody></table>
 
 <hr>
