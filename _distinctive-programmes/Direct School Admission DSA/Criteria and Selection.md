@@ -24,7 +24,7 @@ Note: Meeting all the criteria does not guarantee the student will be shortliste
 
 | APPLICATION PERIOD                      | SELECTION PERIOD          |
 | --------------------------------------- | ------------------------- |
-| 05 May 2022, 11 am to 01 Jun 2022, 3 pm | 27 Jun 2022 – 12 Sep 2022 |
+| 04 May 2023, 11 am to 31 May 2023, 3 pm | 26 Jun 2023 – 11 Sep 2023 |
 
 All applicants will apply for DSA-Sec through a centralised DSA-Sec Portal.
 
