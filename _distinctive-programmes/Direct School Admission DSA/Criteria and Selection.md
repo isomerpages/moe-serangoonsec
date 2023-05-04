@@ -36,6 +36,8 @@ Parents of applicants&nbsp;**not**&nbsp;studying in MOE mainstream primary schoo
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.**
 
-Given the prevailing national posture, the school will be conducting&nbsp;**in-person selection**&nbsp;for both DSA talent areas for 2022, with the prevailing safe management measures (SMMs) in place to ensure the safety of students and staff. Adjustments to SMMs will be made according to the national posture during the selection period.&nbsp;The selection period for schools for DSA-Sec is from 27 June to 12 September 2022.
+Given the prevailing national posture, the school will be conducting&nbsp;**in-person selection**&nbsp;for both DSA talent areas for 2023, with the prevailing safe management measures (SMMs) in place to ensure the safety of students and staff. Adjustments to SMMs will be made according to the national posture during the selection period.&nbsp;The selection period for schools for DSA-Sec is from 26 June to 11 September 2023.
 
-**LETTERS ON THE OUTCOME OF SELECTION WILL BE ISSUED TO ALL DSA APPLICANTS BY&nbsp;12 SEPTEMBER 2022.**
+**LETTERS ON THE OUTCOME OF SELECTION WILL BE ISSUED TO ALL DSA APPLICANTS BY&nbsp;11 SEPTEMBER 2023.**
+
+<hr>
