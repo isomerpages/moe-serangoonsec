@@ -23,4 +23,6 @@ The various interactions, programmes and activities present valuable learning op
 
 SSS Year Head Team
 
-![](/images/year%20head%20team%202023.png)
+![](/images/Student%20Management/slide1.JPG)
+
+<hr>
