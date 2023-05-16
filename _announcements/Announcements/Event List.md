@@ -10,8 +10,9 @@ third_nav_title: Announcements
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 16/02/2023:     |1.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/) <b>(NEW!)</b>|
-| 12/01/2023:     |2.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
+| 16/05/2023:     |1.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-jun/) <b>(NEW!)</b>|
+| 16/02/2023:     |2.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
+| 12/01/2023:     |3.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
 
 ##### 2022 Events
 
