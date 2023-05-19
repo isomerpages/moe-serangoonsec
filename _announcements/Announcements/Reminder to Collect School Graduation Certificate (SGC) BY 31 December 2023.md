@@ -10,7 +10,7 @@ Dear Class of 2021 and Class of 2022 Serangoon StaRs,
 
 This is a reminder for you to collect your School Graduation Certificate (SGC) from our school if you have yet to do so.  
 
-We seek your understanding that your SGC will not be available for collection from our school beyond the dates stated below as we will dispose uncollected SGCs (beyond a period of 3 years from your year of graduation).  Beyond this date*, you may retrieve past years’ GCE exam results online at MySkillsFuture portal and view it on OpenCerts [Free], or find out from Singapore Examinations and Assessment Board how you can obtain past years' examination results or contact MOE at Tel: 68722220 for assistance.
+We seek your understanding that your SGC will not be available for collection from our school beyond the dates stated below as we will dispose uncollected SGCs (beyond a period of 3 years from your year of graduation).  Beyond this date*, you may retrieve past years’ GCE exam results online at [MySkillsFuture portal](http://www.myskillsfuture.gov.sg/content/portal/en/individual/skills-passport.html) and view it on [OpenCerts](http://www.opencerts.io/) [Free], or find out from Singapore Examinations and Assessment Board [how you can obtain past years' examination results](https://www.seab.gov.sg/home/services/purchase-of-statements-of-results) or contact MOE at Tel: 68722220 for assistance.
 
 <hr>
 
