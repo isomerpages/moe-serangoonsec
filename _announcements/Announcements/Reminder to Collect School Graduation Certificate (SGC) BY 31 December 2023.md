@@ -27,10 +27,10 @@ We seek your understanding that your SGC will not be available for collection fr
 You are required to:
 
 <ol>
-	<li>Bring your original NRIC for verification</li>
-<li>All visitors are required to enter school through the Front Gate only and comply with our School's visitor registration procedures. Please DO NOT visit our school if you are unwell or showing symptoms of acute respiratory infection.</li>
+	<li>Bring your <b>original NRIC</b> for verification</li>
+	<li>All visitors are required to enter school through the <b><i>Front Gate only</i></b> and comply with our School's visitor registration procedures. Please DO NOT visit our school if you are unwell or showing symptoms of acute respiratory infection.</li>
 <li>Proceed to GO and produce your original NRIC for the collection of your SGC.</li>
-<li>No loitering and to leave school’s premise immediately after you have collected.</li>
+	<li>No loitering and to leave school’s premise <b>immediately</b> after you have collected.</li>
 </ol>
 
 Please contact GO at Tel: 63851589 if you require any clarifications. 
