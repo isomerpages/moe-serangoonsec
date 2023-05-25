@@ -28,3 +28,11 @@ description: ""
 |![](/images/School%20Steering%20Committee/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Steering%20Committee/Kng%20Zhiying.jpg)|![](/images/School%20Steering%20Committee/Kamal%20Jupri.jpg)|
 |![](/images/School%20Steering%20Committee/Vincent%20Wong.jpg)|![](/images/School%20Steering%20Committee/Adrial%20Tan%20Chong%20Jin.jpg)|![](/images/School%20Steering%20Committee/Ong%20Rui%20Yun%20Jean.jpg)|
 |![](/images/School%20Steering%20Committee/Heng%20Tze%20Wei.jpg)|![](/images/School%20Steering%20Committee/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/KP_blank.jpg)|
+
+#### Senior School Counsellors / Admin Managers / Operations Managers
+
+|![](/images/School%20Steering%20Committee/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Steering%20Committee/thahira%20thasnim%20hajamaideen.jpg)|![](/images/School%20Steering%20Committee/susan%20lim%20gim%20peng.jpg)|
+| -------- | -------- | -------- |
+|![](/images/School%20Steering%20Committee/mahadevan%20jaya.jpg)|![](/images/School%20Steering%20Committee/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Steering%20Committee/lim%20lye%20hock.jpg)|
+
+<hr>
