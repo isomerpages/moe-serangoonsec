@@ -17,8 +17,8 @@ In 1967, Serangoon English School relocated to Lowland Road and was renamed as S
 
 To mark the new millennium, in 2001, the school moved to its present premises at 11 Upper Serangoon View and continues to provide a student-centric, values-driven education. In 2018, Serangoon Secondary celebrated its 90th anniversary.
 
-Click [here](https://drive.google.com/file/d/1Ha1pfBE7na9GLQ6sh-cEWpKfYgbvq8Lg/view?usp=sharing) to read about our school's 80th anniversary.
+Click [here](https://drive.google.com/file/d/1dsASdpE0p87QPksObKo1-QtBv-WAKMkM/view?usp=sharing) to download our school's 70th anniversary magazine.
 
-Click [here](https://drive.google.com/file/d/1dsASdpE0p87QPksObKo1-QtBv-WAKMkM/view?usp=sharing) to read about our school's 70th anniversary.
+Click [here](https://drive.google.com/file/d/1Ha1pfBE7na9GLQ6sh-cEWpKfYgbvq8Lg/view?usp=sharing) to download our school's 80th anniversary magazine.
 
 <hr>
