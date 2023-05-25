@@ -16,3 +16,9 @@ In 1949, the school became a full school, with its first School Certificate clas
 In 1967, Serangoon English School relocated to Lowland Road and was renamed as Serangoon Secondary School. In that year, the school badge was modified and the old school motto, ‘Play the Game’, was replaced with ‘Knowledge is Power’. The present school song was also introduced. In 1976, pre-university classes were discontinued. In 1989, the school motto was changed again to ‘Seek, Strive, Serve’.
 
 To mark the new millennium, in 2001, the school moved to its present premises at 11 Upper Serangoon View and continues to provide a student-centric, values-driven education. In 2018, Serangoon Secondary celebrated its 90th anniversary.
+
+Click [here](https://drive.google.com/file/d/1Ha1pfBE7na9GLQ6sh-cEWpKfYgbvq8Lg/view?usp=sharing) to read about our school's 80th anniversary.
+
+Click [here](https://drive.google.com/file/d/1dsASdpE0p87QPksObKo1-QtBv-WAKMkM/view?usp=sharing) to read about our school's 70th anniversary.
+
+<hr>
