@@ -6,7 +6,7 @@ third_nav_title: Humanities
 ---
 ### Message by HOD (Humanities)
 
-<img src="/images/mr%20christopher%20tan.png" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 The Humanities Department in Serangoon Secondary is dedicated to fostering an environment that promotes learning, growth, and the development of essential skills, knowledge, and values in the field of Humanities.
 
