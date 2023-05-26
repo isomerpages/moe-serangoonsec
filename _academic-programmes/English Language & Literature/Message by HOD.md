@@ -6,7 +6,7 @@ third_nav_title: English Language & Literature
 ---
 ### Message by HOD (English Language and Literature)
 
-<img src="/images/School%20Steering%20Committee/Azrina%20Md%20Salleh.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Azrina%20Md%20Salleh.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 In Singapore, English is the medium of instruction in schools and a subject of study for our primary and secondary students. English is Singapore’s lingua franca, and Singaporeans use English to communicate and connect with speakers of other languages. Beyond our shores, English is the most widely spoken language in the world – connecting people, cultures, businesses and countries.
 

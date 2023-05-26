@@ -6,7 +6,7 @@ third_nav_title: Mathematics
 ---
 ### Message by HOD (Mathematics)
 
-<img src="/images/School%20Steering%20Committee/Koh%20Poh%20Ling.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 Mathematics is fundamental to the innovations of today and the solutions of tomorrow. It helps to model and understand the real-world contexts to facilitate decision making and problem solving of real-world problems.
 

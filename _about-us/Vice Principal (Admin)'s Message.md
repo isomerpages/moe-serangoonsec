@@ -5,7 +5,7 @@ description: ""
 ---
 ### Vice-Principal (Admin)'s Message
 
-<img src="/images/School%20Steering%20Committee/Meyyappan%20Nadarajan%20Thevar.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 We are 95 this year and going strong! Our strength lies in us being a closely knitted family bonded by a strong spirit of teamwork, collaboration, and congeniality.  This pervasive school culture has created a conducive and nurturing environment for the growth of our students.
 

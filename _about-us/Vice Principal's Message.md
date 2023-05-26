@@ -5,7 +5,7 @@ description: ""
 ---
 ### Vice-Principal's Message
 
-<img src="/images/School%20Steering%20Committee/Jin%20Sebastian.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Jin%20Sebastian.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 2023 promises to be an exciting year for a few reasons. First, we will be celebrating our 95th birthday. Yes, you read it right - Serangoon Secondary School (SSS) is 95 years old this year! Not many government schools could withstand the test of time as they weather the changing socio-economic and geographical factors that affect the student population intake, forcing some to either close or merge. Our student population has remained healthy over the past few years with SSS’ unique culture of care for students and staff together with its offerings of STEM Applied Learning Programme of ‘Drone Programming and 3D Modelling’ as well as Learn for Life Programme of ‘Harnessing Student Leadership in the Service of Community’.
 
