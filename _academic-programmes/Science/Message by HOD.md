@@ -6,7 +6,7 @@ third_nav_title: Science
 ---
 ### Message by HOD (Science)
 
-<img src="/images/School%20Steering%20Committee/Michelle%20Ong.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Michelle%20Ong.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 Science has played a part in enabling the development of important technological innovations and unlocking new frontiers. From developing newer and faster smartphones, to finding a cure for new pathogens such as COVID-19,  it is evident that Science has been and is a critical aspect in advancing towards a better quality of life.
 
