@@ -3,7 +3,7 @@ title: School Management Team
 permalink: /management-team/
 description: ""
 ---
-### School Steering Committee&nbsp;
+### School Management Team
 
 #### School Leaders
 
