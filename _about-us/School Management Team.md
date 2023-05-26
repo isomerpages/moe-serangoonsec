@@ -31,6 +31,8 @@ description: ""
 
 #### Teacher Leaders
 
+
+
 #### Senior School Counsellors / Admin Managers / Operations Managers
 
 |![](/images/School%20Steering%20Committee/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Steering%20Committee/thahira%20thasnim%20hajamaideen.jpg)|![](/images/School%20Steering%20Committee/susan%20lim%20gim%20peng.jpg)|
