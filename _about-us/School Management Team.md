@@ -31,6 +31,11 @@ description: ""
 
 #### Teacher Leaders
 
+|![](/images/School%20Steering%20Committee/Jin%20Sebastian.jpg)|![](/images/School%20Steering%20Committee/Christopher%20Tan%20Swan%20Kiat.jpg)|![](/images/School%20Steering%20Committee/kok%20chuan%20tin.jpg)|
+| -------- | -------- | -------- |
+|![](/images/School%20Steering%20Committee/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Steering%20Committee/Kng%20Zhiying.jpg)|![](/images/School%20Steering%20Committee/Kamal%20Jupri.jpg)|
+|![](/images/School%20Steering%20Committee/Vincent%20Wong.jpg)|![](/images/School%20Steering%20Committee/Adrial%20Tan%20Chong%20Jin.jpg)|![](/images/School%20Steering%20Committee/Ong%20Rui%20Yun%20Jean.jpg)|
+|![](/images/School%20Steering%20Committee/Heng%20Tze%20Wei.jpg)|![](/images/School%20Steering%20Committee/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/KP_blank.jpg)|
 
 
 #### Senior School Counsellors / Admin Managers / Operations Managers
@@ -39,4 +44,5 @@ description: ""
 | -------- | -------- | -------- |
 |![](/images/School%20Steering%20Committee/mahadevan%20jaya.jpg)|![](/images/School%20Steering%20Committee/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Steering%20Committee/lim%20lye%20hock.jpg)|
 
+![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)
 <hr>
