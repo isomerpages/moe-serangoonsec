@@ -10,14 +10,13 @@ Download the class timetable by clicking on the pdf or scanning the QR code belo
 
 <img src="/images/Class%20Timetables/sem1odd2023timetables.png" style="width:223px;height:240px;margin-right:15px;" align="left">
 
-[Semester 2 Odd Week Class](/files/Class%20Timetables%202023/2023%20Serangoon%20Sec%20Sem1%20Odd%20Week%20Class.pdf)
-
+[Semester 2 Odd Week Class](/files/Parents%20and%20Students/2023%20semester%202%20timetable%20odd%20week%20class.pdf)
 
 
 <br> <br> <br> <br> <br>
 
 <img src="/images/Class%20Timetables/sem1even2023timetables.png" style="width:223px;height:240px;margin-right:15px;" align="left">
 
-[Semester 2 Even Week Class](/files/Class%20Timetables%202023/2023%20Serangoon%20Sec%20Sem1%20Even%20Week%20Class.pdf)
+[Semester 2 Even Week Class](/files/Parents%20and%20Students/2023%20semester%202%20timetable%20even%20week%20class.pdf)
 
 <hr>
