@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Character Awards 2023.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/Reminder to Collect School Graduation Certificate (SGC) BY
