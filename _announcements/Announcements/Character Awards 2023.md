@@ -6,7 +6,7 @@ third_nav_title: Announcements
 ---
 ### Character Awards 2023
 
-
+![](/images/Announcements/character%20awards%202023.JPG)
 
 (Edusave And School Advisory Character Awards)
 
