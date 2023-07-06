@@ -10,10 +10,11 @@ third_nav_title: Announcements
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 19/05/2023:     |1.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/) <b>(NEW!)</b>|
-| 16/05/2023:     |2.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/) <b>(NEW!)</b>|
-| 16/02/2023:     |3.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
-| 12/01/2023:     |4.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
+| 06/07/2023:     |1.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/) <b>(NEW!)</b>|
+| 19/05/2023:     |2.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/)|
+| 16/05/2023:     |3.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/)|
+| 16/02/2023:     |4.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
+| 12/01/2023:     |5.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
 
 ##### 2022 Events
 

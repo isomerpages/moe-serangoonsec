@@ -22,18 +22,18 @@ sections:
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/20230302_100639.jpg
   - infopic:
+      title: Character Awards 2023
+      subtitle: Announcements
+      description: e-Nominations are NOW open!
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/
+      image: /images/Announcements/character awards 2023.JPG
+      alt: Image alt text
+  - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
       button: Click here
       url: /parents-and-students/Latest-News/stbouquets/
       image: /images/student leadership.jpg
       alt: Image alt text
-  - infopic:
-      title: Sec 1 Parent Engagement Session & CCA Orientation 2023
-      subtitle: Dear Parents / Guardians,
-      description: 13 January 2023
-      button: Click to find out more
-      url: https://www.serangoonsec.moe.edu.sg/parents-and-students/Lower-Sec/sec1-parent-engagement-and-cca-orientation2023/
-      alt: Image alt text
-      image: /images/Announcements/e-Banner edited.jpg
 ---
