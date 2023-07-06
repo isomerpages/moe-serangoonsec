@@ -28,4 +28,12 @@ sections:
       url: /parents-and-students/Latest-News/stbouquets/
       image: /images/student leadership.jpg
       alt: Image alt text
+  - infopic:
+      title: Character Awards 2023
+      subtitle: Announcements
+      description: e-Nominations are NOW open!
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/
+      image: /images/Announcements/character awards 2023.JPG
+      alt: Image alt text
 ---
