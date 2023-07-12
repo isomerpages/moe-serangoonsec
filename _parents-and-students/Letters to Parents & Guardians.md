@@ -1,9 +1,14 @@
 ---
-title: Letters to Parents &amp; Guardians
+title: Letters to Parents & Guardians
 permalink: /parents-and-students/letters-to-parent-and-guardians/
 description: ""
 ---
 ### Letters to Parents &amp; Guardians
+
+##### 2023 Term 3 Letter to Parents
+
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%202%20letter%20to%20parents_upper%20sec.pdf) for Upper Secondary<br>
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%202%20letter%20to%20parents_lower%20sec.pdf) for Lower Secondary
 
 ##### 2023 Term 2 Letter to Parents
 
