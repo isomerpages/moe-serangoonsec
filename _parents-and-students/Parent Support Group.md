@@ -9,7 +9,7 @@ description: ""
 
 Dear Parents and Guardians, thank you for attending the above virtual sharing by Mr. Edwin Choy (Founder of the Centre for Fathering Singapore). Please find the video and the slides as attached.
 
-Click [here](/files/Parent%20Support%20Group/ntty2023%20notes%206.pdf) to view the slides.
+Click [here](/files/Parent%20Support%20Group/the%20fathering%20difference%20slides_reduced.pdf) to view the slides.
 
 Click [here](https://www.youtube.com/watch?v=xlXLjW97ig0) to watch the video.
 
