@@ -5,13 +5,23 @@ description: ""
 ---
 ### Parent Support Group (PSG)
 
+#### Sharing on ‘The Fathering Difference’ on 4 Aug 2023
+
+Dear Parents and Guardians, thank you for attending the above virtual sharing by Mr. Edwin Choy (Founder of the Centre for Fathering Singapore). Please find the video and the slides as attached.
+
+Click [here](/files/Parent%20Support%20Group/the%20fathering%20difference%20slides_reduced.pdf) to view the slides.
+
+Click [here](https://www.youtube.com/watch?v=xlXLjW97ig0) to watch the video.
+
+<hr>
+
 #### Sharing on ‘Navigating the Teen Years’ on 20 May 2023
 
 Dear Parents and Guardians, thank you for attending the above virtual sharing by Mr. Edwin Choy (Founder of the Centre for Fathering Singapore). Please find the video and the slides as attached.
 
 Click [here](/files/Parent%20Support%20Group/ntty2023%20notes%206.pdf) to view the slides.
 
-Click [here](https://www.youtube.com/watch?v=xlXLjW97ig0) to watch the video.
+Click [here](https://youtu.be/jR_n5v0yd1g) to watch the video.
 
 <hr>
 
