@@ -10,7 +10,7 @@ third_nav_title: Announcements
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 21/08/2023:     |1.| [Travel Declaration for 2023 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-sep/)<b>(NEW!)</b>|
+| 21/08/2023:     |1.| [Travel Declaration for 2023 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-sep/) <b>(NEW!)</b>|
 | 06/07/2023:     |2.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/)|
 | 19/05/2023:     |3.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/)|
 | 16/05/2023:     |4.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/)|
