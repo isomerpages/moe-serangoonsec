@@ -9,6 +9,8 @@ description: ""
 
 Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%203%20letter%20to%20parents%20(update%20in%20schedule%20for%20last%20week).pdf) to view.
 
+<hr>
+
 ##### 2023 Term 3 Letter to Parents
 
 Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%203%20letter%20to%20parents%20(upper%20sec).pdf) for Upper Secondary.<br>
