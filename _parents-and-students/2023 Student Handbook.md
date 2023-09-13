@@ -5,7 +5,7 @@ description: ""
 ---
 ### 2023 Student Handbook
 
-![](/images/Parents%20&amp;%20Students/sss_handbook_2023_thumbnail.png)
+<img src="/images/Parents%20&amp;%20Students/sss_handbook_2023_thumbnail.png" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 <br>
 
