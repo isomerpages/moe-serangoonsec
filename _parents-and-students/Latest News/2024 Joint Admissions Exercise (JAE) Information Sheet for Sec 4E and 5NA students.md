@@ -15,6 +15,6 @@ Please refer to the attached 2024 JAE Information Sheet for information on the k
 
 [ECG Facilitation Plan](/files/Parents%20and%20Students/Latest%20News/ecg%20facilitation%20plan.pdf)
 
-Watch the briefing [here](https://drive.google.com/drive/folders/1bPG80RfRGFufOXdAxopuoELV9vqCZmIc?usp=sharing).
+Watch the briefing [here](https://drive.google.com/file/d/1E3PPJ0W_d7tFg9QL2RrwGDpRu3pSjmZp/view?usp=drive_link).
 
 <hr>
