@@ -11,6 +11,8 @@ You are taking your GCE O-Level examination this year and may participate in the
 
 Please refer to the attached 2024 JAE Information Sheet for information on the key dates and timeline of JAE as well as the online resources to find information on post-secondary education.
 
+
+
 Watch the briefing [here](https://drive.google.com/drive/folders/1bPG80RfRGFufOXdAxopuoELV9vqCZmIc?usp=sharing).
 
 <hr>
