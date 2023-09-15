@@ -2,9 +2,11 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Latest News/.keep
+      - Latest News/2024 Joint Admissions Exercise (JAE) Information Sheet for
+        Sec 4E and 5NA students.md
       - Latest News/Daughter leaves secondary school with many life changing
         lessons and good memories.md
-      - Latest News/.keep
       - Latest News/2022 Sec 3 StaRs Programme.md
       - Latest News/Visit by Ms Sun Xueling.md
       - Latest News/Parent Webinars.md
