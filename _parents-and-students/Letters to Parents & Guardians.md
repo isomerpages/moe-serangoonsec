@@ -5,6 +5,12 @@ description: ""
 ---
 ### Letters to Parents &amp; Guardians
 
+##### 2023 Term 4 Letter to Parents
+
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%204%20letter.pdf) to view.
+
+<hr>
+
 ##### Updates in Schedule for the Last Week of Term 3
 
 Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%203%20letter%20to%20parents%20(update%20in%20schedule%20for%20last%20week).pdf) to view.
