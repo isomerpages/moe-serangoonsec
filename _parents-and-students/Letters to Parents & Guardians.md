@@ -7,7 +7,9 @@ description: ""
 
 ##### 2023 Term 4 Letter to Parents
 
-Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%204%20letter.pdf) for Secondary 1 to 3.
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2023%20term%204%20letter.pdf) for Secondary 1 to 3.<br>
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/sss%202023%20term%204%20letter%20(sec%204e5n)%20.pdf) for Secondary 4E &amp; 5N.<br>
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/sss%202023%20term%204%20letter%20(sec%204n)%20.pdf) for Secondary 4N.<br>
 
 <hr>
 
