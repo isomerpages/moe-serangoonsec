@@ -4,17 +4,15 @@ permalink: /parents-and-students/Latest-News/2019-OLV-Vietnam/
 description: ""
 third_nav_title: Latest News
 ---
-
 ### 2019 Overseas Learning Journey (OLJ) to Vietnam
 
 Cultural Immersion Programme <br>
 Ho Chi Minh City, Vietnam <br>
 8 November 2019 to 12 November 2019
 
-<img src="/images/OLG%20Vietnam.gif" 
-     style="width:75%">
+<img src="/images/OLG%20Vietnam.gif" style="width:75%">
 
-On the 8th to 12th of November 2019, a group of 37 students were led by Mr Christopher Tan, Mrs Sue-Ann Lim, Mr Daniel Fung, Ms Nur Atiqah, and Mr Matt Yee to embark on an Overseas Learning Journey to Ho Chi Minh City, Vietnam. For many of the students, it was their first time travelling to Vietnam. It was certainly an eye opening trip for the team of students and teachers.
+On the 8th&nbsp;to 12th&nbsp;of November 2019, a group of 37 students were led by Mr Christopher Tan, Mrs Sue-Ann Lim, Mr Daniel Fung, Ms Nur Atiqah, and Mr Matt Yee to embark on an Overseas Learning Journey to Ho Chi Minh City, Vietnam. For many of the students, it was their first time travelling to Vietnam. It was certainly an eye opening trip for the team of students and teachers.
 
 **Places visited during the trip** <br>
 Over the five days, the students went to an entire range of places and sites. To begin with, they went to historical and cultural sites such as the Notre Dame Cathedral and the Central Post Office to examine the colonial architecture and heritage left behind by the French. They visited the City Hall Square which contained a magnificent boulevard and palace-like château, and the Saigon Opera House which was also a colonial remnant of the French. Their learning of history and culture was reinforced with a visit to the Museum of Vietnamese History where they learnt about the long and deep history of Vietnam. At the Museum, they were treated to a Water Puppet Show.
@@ -26,7 +24,7 @@ Apart from learning about history, geography and culture in Vietnam, the student
 **Highlights of the trip**<br>
 The first highlight for the students was the Cu Chi Tunnels. They were led to different sites of the Tunnels and learnt that these tunnels were dug with simple tools and bare hands, and served to provide refuge and a defensive advantage over the American soldiers in the 1960s.The students also learnt about the ingenuity of the Cu Chi people through examining the various booby traps and weapons made to counter the Americans. The students were able to experience crawling through an actual tunnel, eating the cassava that the Cu Chi people ate, and witness the live firing of AK47 assault rifles.
 
-The second highlight for the students was the school visit to the Hai Ba Trung Secondary School where they received a warm welcome by the students and staff of the school. After being given a comprehensive tour of the school, the students went through an hour long English lesson with the Vietnamese students. After their lesson, they managed to form bonds with their newfound Vietnamese friends and exchanged gifts and photographs with each other. They joined the students there for sporting activities such Tug-of-War, sandbag hopping, and having a three legged race. There was even a friendly soccer match and a K-Pop dance off!
+The second highlight for the students was the school visit to the Hong Duc Secondary School where they received a warm welcome by the students and staff of the school. After being given a comprehensive tour of the school, the students went through an hour long English lesson with the Vietnamese students. After their lesson, they managed to form bonds with their newfound Vietnamese friends and exchanged gifts and photographs with each other. They joined the students there for sporting activities such Tug-of-War, sandbag hopping, and having a three legged race. There was even a friendly soccer match and a K-Pop dance off!
 
 The final highlight for the students was the experience of planting rice. The students were brought to a local rice field, where they had to get deep into the muddy padi fields and experience rice planting for the first time in their lives! With a lot of commotion and laughter, the students managed to complete planting an entire rice field on their own. After planting the rice, the students were able to sample some delicious glutinous rice that was made by the farmer.
 
