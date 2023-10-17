@@ -34,7 +34,6 @@ description: ""
 
 ##### Quick Links
 * [AEM Portal](https://aem.moe.gov.sg/)
-* [AVAP Request Form](https://form.gov.sg/62bbdd49ddc69d001210d0de)
 * [Human Resources Portal](https://www.hrp.gov.sg/hrp/#/)
 * [iCon](workspace.google.com/dashboard)
 * [iEXAMS2](https://iexams.seab.gov.sg/sso/login)
