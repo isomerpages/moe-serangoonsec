@@ -10,13 +10,14 @@ third_nav_title: Announcements
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 22/08/2023:     |1.| [Visiting of Teachers on 30 August (Teachers' Day Celebration)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/visiting-teachers-2023/) <b>(NEW!)</b>|
-| 21/08/2023:     |2.| [Travel Declaration for 2023 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-sep/) <b>(NEW!)</b>|
-| 06/07/2023:     |3.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/)|
-| 19/05/2023:     |4.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/)|
-| 16/05/2023:     |5.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/)|
-| 16/02/2023:     |6.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
-| 12/01/2023:     |7.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
+| 23/10/2023:     |1.| [Travel Declaration for 2023 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-eoy/) <b>(NEW!)</b>|
+| 22/08/2023:     |2.| [Visiting of Teachers on 30 August (Teachers' Day Celebration)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/visiting-teachers-2023/)|
+| 21/08/2023:     |3.| [Travel Declaration for 2023 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-sep/)|
+| 06/07/2023:     |4.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/)|
+| 19/05/2023:     |5.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/)|
+| 16/05/2023:     |6.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/)|
+| 16/02/2023:     |7.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
+| 12/01/2023:     |8.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
 
 ##### 2022 Events
 
