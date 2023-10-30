@@ -16,4 +16,6 @@ You will be greatly missed, but your legacy will live on in the countless lesson
 
 Adieu, and best wishes for the journey ahead!
 
+Click [here](https://www.youtube.com/watch?v=Uv_DLgNzcdA) to watch Mr Jin's Commemoration video!
+
 <hr>
