@@ -22,11 +22,11 @@ sections:
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/20230302_100639.jpg
   - infopic:
-      title: Character Awards 2023
+      title: Farewell to Vice-Principal, Mr Sebastian Jin
       subtitle: Announcements
-      description: e-Nominations are NOW open!
+      description: We say goodbye to our esteemed Vice-Principal, Mr Sebastian Jin.
       button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/
       image: /images/Announcements/character awards 2023.JPG
       alt: Image alt text
   - infopic:
