@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Farewell to our Vice Principal, Mr Sebastian Jin.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Farewell to our Vice Principal, Mr Sebastian Jin.md
       - Announcements/Sale of Books and Uniforms.md
       - Announcements/Travel Declaration for 2023 Year End Holidays.md
       - Announcements/Visiting of Teachers on 30 August (Teachers' Day
