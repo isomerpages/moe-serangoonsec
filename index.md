@@ -27,7 +27,7 @@ sections:
       description: We say goodbye to our esteemed Vice-Principal, Mr Sebastian Jin.
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/
-      image: /images/Announcements/character awards 2023.JPG
+      image: /images/Announcements/sebastian_jin.png
       alt: Mr Sebastian Jin
   - infopic:
       title: Daughter leaves secondary school with good memories
