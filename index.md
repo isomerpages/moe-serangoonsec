@@ -28,7 +28,7 @@ sections:
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/
       image: /images/Announcements/character awards 2023.JPG
-      alt: Image alt text
+      alt: Mr Sebastian Jin
   - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
