@@ -6,7 +6,7 @@ third_nav_title: Announcements
 ---
 ### Serangoon in Concert
 
-<img src="/images/Announcements/sss%20in%20concert%20poster.png" style="width:430px; height:630px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Center">
+<img src="/images/Announcements/sss%20in%20concert%20poster.png" style="width:430px; height:630px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 <hr>
 
