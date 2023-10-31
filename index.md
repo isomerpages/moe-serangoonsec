@@ -24,11 +24,20 @@ sections:
   - infopic:
       title: Farewell to Vice-Principal, Mr Sebastian Jin
       subtitle: Announcements
-      description: We say goodbye to our esteemed Vice-Principal, Mr Sebastian Jin.
+      description: We say goodbye to our esteemed Vice-Principal, Mr Sebastian Jin,
+        who will be posted out in Dec 2023.
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/
       image: /images/Announcements/sebastian_jin.png
       alt: Mr Sebastian Jin
+  - infopic:
+      title: Serangoon In Concert
+      subtitle: ANNOUNCEMENT
+      id: infopic
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/
+      image: /images/Announcements/sss in concert poster_small.png
+      alt: sgoonconcert
   - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
