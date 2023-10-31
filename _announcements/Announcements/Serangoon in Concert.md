@@ -20,7 +20,7 @@ We would like to invite you to attend 2023 Serangoon in Concert.
 
 Proudly presents performances by our 5 Performing Arts groups Choir, Chinese Ensemble, Malay Dance, Symphonic Band and Drama.
 
-<br>Please book your seats via the QR CODE (see poster above) or link https://forms.gle/pYgLE25iUADSzszv7
+<br>Please book your seats via the QR CODE (see poster above) or link: [https://forms.gle/pYgLE25iUADSzszv7](https://forms.gle/pYgLE25iUADSzszv7)https://forms.gle/pYgLE25iUADSzszv7
 by 14 Nov 2023.
 
 Thank you.
