@@ -18,11 +18,9 @@ You will be greatly missed, but your legacy will live on in the countless lesson
 
 Adieu, and best wishes for the journey ahead!
 
-Click [here](https://www.youtube.com/watch?v=Uv_DLgNzcdA) to watch Mr Jin's Appreciation video!
-
 <p>
-An image as a link: <a target="_blank" href="https://www.youtube.com/watch?v=Uv_DLgNzcdA">
-<img height="100" width="100" src="logo_w3s.gif" alt="sjfarewell" border="0">
+Click below to watch Mr Jin's Appreciation video!: <a target="_blank" href="https://www.youtube.com/watch?v=Uv_DLgNzcdA">
+<img height="100" width="100" src="/images/Announcements/sebastian_jin_farewell.PNG" alt="sjfarewell" border="0">
 </a>
 </p>
 
