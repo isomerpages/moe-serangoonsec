@@ -31,12 +31,12 @@ sections:
       image: /images/Announcements/sebastian_jin.png
       alt: Mr Sebastian Jin
   - infopic:
-      title: Serangoon in Concert
+      title: Serangoon In Concert
       subtitle: ANNOUNCEMENT
       id: infopic
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/
-      image: /images/Announcements/sss in concert poster.png
+      image: /images/Announcements/sss in concert poster_small.png
       alt: Image alt text
   - infopic:
       title: Daughter leaves secondary school with good memories
