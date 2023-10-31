@@ -37,7 +37,7 @@ sections:
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/
       image: /images/Announcements/sss in concert poster_small.png
-      alt: Image alt text
+      alt: sgoonconcert
   - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
