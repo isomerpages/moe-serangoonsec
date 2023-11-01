@@ -2,7 +2,6 @@ collections:
   parents-and-students:
     output: true
     order:
-      - Student Details Form (SDF) Portal.md
       - Latest News/.keep
       - Latest News/2024 Joint Admissions Exercise (JAE) Information Sheet for
         Sec 4E and 5NA students.md
@@ -29,8 +28,8 @@ collections:
       - Post Sec Educational Pathways/Directory of Post Secondary Education
         Institutions.md
       - Post Sec Educational Pathways/Secondary 4 and 5 Parent Webinar.md
-      - General Matters/2024 Booklists.md
       - General Matters/.keep
+      - General Matters/2024 Booklists.md
       - General Matters/School Fire Drill 2023.md
       - General Matters/2023 Booklists.md
       - General Matters/National Digital Literacy Programme (NDLP).md
@@ -57,3 +56,4 @@ collections:
       - SSS Alumni/Alumni Overview.md
       - SSS Alumni/Alumni Recognition.md
       - National Digital Literacy Programme.md
+      - Student Details Form (SDF) Portal.md
