@@ -12,8 +12,7 @@ The Ministry of Education (MOE) would like to request for an update of your info
 Please submit the information through the SDF portal which can be accessed via this URL: https://pg.moe.edu.sg/forms/sdf or the QR code below. Parents/Legal Guardians may login to the SDF portal using your Singpass account to submit your information and information of your child/ward. Authorised Caregivers can only submit your own information.
 
 
-<img src="/images/Parents%20&amp;%20Students/sdf_portal_qr_code.jpg" style="width:150px; height:150px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
-
+<img src="/images/Parents%20&amp;%20Students/sdf_portal_qr_code_v2.png" style="width:250px; height:250px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 The SDF portal can be accessed via desktop computers or mobile devices such as laptops and mobile phones.
 
