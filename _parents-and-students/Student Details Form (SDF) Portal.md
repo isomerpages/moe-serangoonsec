@@ -2,6 +2,7 @@
 title: Student Details Form (SDF) Portal
 permalink: /parents-and-students/sdf-portal/
 description: ""
+variant: markdown
 ---
 ### Student Details Form (SDF) Portal
 
@@ -16,7 +17,7 @@ Please submit the information through the SDF portal which can be accessed via t
 
 The SDF portal can be accessed via desktop computers or mobile devices such as laptops and mobile phones.
 
-We seek your help to complete the submission (a) annually by 31st January of each year and (b) whenever updates are required throughout the school year.  
+<b>We seek your help to complete the submission (a) annually by 31st January of each year and (b) whenever updates are required throughout the school year.</b>
 
 The SDF portal will be accessible till the last day of Term 4 for you to provide timely updates of your information and/or your child’s/ward’s information.
 
