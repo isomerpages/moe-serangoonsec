@@ -2,8 +2,15 @@
 title: Letters to Parents & Guardians
 permalink: /parents-and-students/letters-to-parent-and-guardians/
 description: ""
+variant: markdown
 ---
 ### Letters to Parents &amp; Guardians
+
+##### End of the Year Updates
+
+Click here to view.
+
+<hr>
 
 ##### 2023 Term 4 Letter to Parents
 
