@@ -8,7 +8,7 @@ variant: markdown
 
 ##### End of the Year Updates
 
-Click here to view.
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/Letter_to_Parent__End_of_the_Year_Updates_.pdf) to view.
 
 <hr>
 
