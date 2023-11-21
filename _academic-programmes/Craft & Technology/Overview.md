@@ -44,11 +44,18 @@ Students at Upper Sec embark on longer term projects. Apart from enhancing the s
 ![](/images/Craft%20&amp;%20Technology/C_T_Pic_08.jpg)
 ![](/images/Craft%20&amp;%20Technology/C_T_Pic_09.jpg)
 
+**Keep SG clean Competition (Comic Strip)**
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_10.jpg)
+
 <hr>
 
 **Design &amp; Technology Curriculum**
 
 In D&amp;T, students acquire effective design techniques and strategies and are equipped with a sound working knowledge on plastic, metal, and wood in order to create purposeful and innovative design pieces. The subject encourages students to make close observation of their surroundings to propose solutions or better alternatives. In the designing process, students learn to think creatively and critically, applying various strategies in the visualisation, exploration, and decision-making stages. While the process is rigorous, students often find fulfilment in seeing their ideas come to fruition.
+
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_11.jpg)
+<br>
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_12.jpg)
 
 <hr>
 
@@ -59,16 +66,23 @@ health, food literacy and principles of food science. Students will be exposed t
 
 NFS students (Sec 3) took part in the yearly in-house programme ‘Connecting Heartily’. Students are encouraged to cook healthy dishes using recipes that they have modified. At the end of the programme, the food made with love were presented to their teachers – an apt way to express gratitude to those who had guided and nurtured them through the years!
 
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_13.jpg)
+
 In NFS, twenty Secondary 2 students with a keen interest in the subject took part in the annual ‘Talent Development Programme’ conducted at Kitchen Showdown. Blending the concept of “The Power of Play” with culinary challenges to bring people together. The spirit of team building and collectiveness through the array of programmes that are not limited to just cooking but also engaging and memorable activities. Students enjoyed the process of learning and having fun at the same time.
+
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_14.jpg)
 
 NFS teachers are coaches of understanding, not mere distributors of content knowledge, skill, or activity. They focus on ensuring that learning happens, they always aim and check for successful meaning making and transfer of knowledge by the students. The idea is to teach towards deep understanding rather than a shallow overview of the content.
 
 **Learning Journey:**
 *Hay Diary Milk Farm*
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_15.jpg)
 
 *Science Centre &gt; I Scream for Ice-cream*
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_16.jpg)
 
 *Lee Wee &amp; Brothers factory visit*
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_17.jpg)
 
 **Learning Journey**
 
