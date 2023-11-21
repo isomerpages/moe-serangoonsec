@@ -29,7 +29,7 @@ sections:
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/
       image: /images/Announcements/2023_e_banner.jpeg
-      alt: Image alt text
+      alt: open-house-2023
   - infopic:
       title: Farewell to Vice-Principal, Mr Sebastian Jin
       subtitle: Announcements
