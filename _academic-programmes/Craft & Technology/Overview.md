@@ -9,7 +9,11 @@ variant: markdown
 
 ##### Our Team
 
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_01.jpg)
+
 The department comprises three subjects – Art, Design &amp; Technology, and Nutrition &amp; Food Science. We strive to equip our students with relevant knowledge and foster good values through our subjects, providing them with opportunities to nurture creativity and develop life skills in the process.
+
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_02.jpg)
 
 A project-based approach is used for all three subjects to make learning authentic and fun for our students. This approach ensures a balance between creative processes and creation of products, providing opportunities for innovation and creative thinking as students explore different possibilities and alternative solutions. Values and life skills like perseverance, time-management and self-evaluation are also nurtured in the process.
 
@@ -22,6 +26,23 @@ Art curriculum across all levels provides our students with a balanced and well-
 The lower secondary Visual Art curriculum aims to develop visual literacy skills. At the end of the 2-year art studies, students acquire the basic skills in art-making, they learn to hone their skills and demonstrate their creativity. In the studio, students discuss topics that relate to themes like existence and connections to our world. Students are taught painting, pencil illustration as well as sculpture-making skills, they deal with themes like ‘Comfort creature’, ‘A Surreal Space’ and ‘Our Beautiful World’. Art appreciation is also integrated into lessons to expose students to artists’ works and to develop their visual literacy.
 
 Students at Upper Sec embark on longer term projects. Apart from enhancing the skills they garnered in lower secondary; they are given opportunities to pick up other art forms like digital art, fashion, painting, photography skills and 3D modeling and mixed-media illustration.
+
+**Lower Secondary Art classes**
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_03.jpg)
+<br>
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_04.jpg)
+<br>
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_05.jpg)
+
+**Upper Secondary Art classes**
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_06.jpg)
+
+**Watercolor painting competition organized by the Singapore Watercolor Society (SWS)**
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_07.jpg)
+
+**Future forecast Competition by Temasek Singapore**
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_08.jpg)
+![](/images/Craft%20&amp;%20Technology/C_T_Pic_09.jpg)
 
 <hr>
 
@@ -77,4 +98,3 @@ To stretch students with a keen interest in one of the subjects, we took part in
 
 
 <hr><hr><hr><hr><hr><hr><hr>
-
