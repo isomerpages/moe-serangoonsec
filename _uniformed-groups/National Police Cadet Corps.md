@@ -1,11 +1,10 @@
 ---
-title: National Police Cadet Corps (NPCC)
+title: National Police Cadet Corps
 permalink: /student-development/cca/npcc/
-description: ""
-third_nav_title: National Police Cadet Corps
 variant: markdown
+description: ""
 ---
-### National Police Cadet Corps
+### National Police Cadet Corps (NPSS)
 
 ![](/images/NPCC/For%202024/Slide1.JPG)
 <br>
