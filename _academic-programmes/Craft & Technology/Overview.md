@@ -42,7 +42,7 @@ Students at Upper Sec embark on longer term projects. Apart from enhancing the s
 
 **Future forecast Competition by Temasek Singapore**
 ![](/images/Craft%20&amp;%20Technology/C_T_Pic_08.jpg)
-<img src="/images/Craft%20&amp;%20Technology/C_T_Pic_09.jpg" style="width:240px; height:340px" align="Center">
+<img src="/images/Craft%20&amp;%20Technology/C_T_Pic_09.jpg" style="width:270px; height:380px" align="Center">
 
 
 **Keep SG clean Competition (Comic Strip)**
