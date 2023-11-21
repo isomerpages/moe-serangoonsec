@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Open House 2023.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/Serangoon in Concert.md
