@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Open House 2023.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Open House 2023.md
       - Announcements/Serangoon in Concert.md
       - Announcements/Farewell to our Vice Principal, Mr Sebastian Jin.md
       - Announcements/Sale of Books and Uniforms.md
