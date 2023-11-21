@@ -31,18 +31,19 @@ sections:
       image: /images/Announcements/sebastian_jin.png
       alt: Mr Sebastian Jin
   - infopic:
-      title: Serangoon In Concert
-      subtitle: ANNOUNCEMENT
-      id: infopic
-      button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/
-      image: /images/Announcements/sss in concert poster_small.png
-      alt: sgoonconcert
-  - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
       button: Click here to read more
       url: /parents-and-students/Latest-News/stbouquets/
       image: /images/student leadership.jpg
+      alt: Image alt text
+  - infopic:
+      title: Open House 2023
+      subtitle: Announcements
+      id: infopic
+      description: Come visit us!
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/
+      image: /images/Announcements/2023_e_banner.jpeg
       alt: Image alt text
 ---
