@@ -42,7 +42,7 @@ Students at Upper Sec embark on longer term projects. Apart from enhancing the s
 
 **Future forecast Competition by Temasek Singapore**
 ![](/images/Craft%20&amp;%20Technology/C_T_Pic_08.jpg)
-<img src="/images/Craft%20&amp;%20Technology/C_T_Pic_09.jpg" style="width:150px; height:250px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/Craft%20&amp;%20Technology/C_T_Pic_09.jpg" style="width:150px; height:240px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 <br><br>
 
