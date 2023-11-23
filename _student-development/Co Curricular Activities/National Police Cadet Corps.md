@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-### National Police Cadet Corps (NPSS)
+### National Police Cadet Corps (NPCC)
 
 ![](/images/NPCC/For%202024/Slide1.JPG)
 <br>
