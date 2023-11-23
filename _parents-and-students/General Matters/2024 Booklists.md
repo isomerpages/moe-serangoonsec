@@ -3,6 +3,7 @@ title: 2024 Booklists
 permalink: /parents-and-students/general-matters/booklists-2024/
 description: ""
 third_nav_title: General Matters
+variant: markdown
 ---
 ### 2024 Booklists
 
@@ -12,11 +13,11 @@ third_nav_title: General Matters
 
 ##### Secondary 2
 
-[Secondary 2 Booklist](/files/Booklists/Booklists%202024/serangoon%20secondary%20school%20booklist%202024%20sec%202.pdf)
+[Secondary 2 Booklist](/files/Booklists/Booklists%202024/Serangoon_Secondary_School_Booklist_2024_Final_revised_Sec_2.pdf)
 
 ##### Secondary 3
 
-[Secondary 3 Booklist](/files/Booklists/Booklists%202024/serangoon%20secondary%20school%20booklist%202024%20sec%203.pdf)
+[Secondary 3 Booklist](/files/Booklists/Booklists%202024/Serangoon_Secondary_School_Booklist_2024_Final_revised_Sec_3.pdf)
 
 ##### Secondary 4
 
