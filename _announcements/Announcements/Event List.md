@@ -11,18 +11,19 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 21/11/2023:     |1.| [Open House 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/) <b>(NEW!)</b>|
-| 31/10/2023:     |2.| [Serangoon in Concert](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/)|
-| 30/10/2023:     |3.| [Farewell to Vice Principal, Mr Sebastian Jin](https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/)|
-| 27/10/2023:     |4.| [Sale of Books and Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2024/)|
-| 23/10/2023:     |5.| [Travel Declaration for 2023 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-eoy/)|
-| 22/08/2023:     |6.| [Visiting of Teachers on 30 August (Teachers' Day Celebration)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/visiting-teachers-2023/)|
-| 21/08/2023:     |7.| [Travel Declaration for 2023 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-sep/)|
-| 06/07/2023:     |8.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/)|
-| 19/05/2023:     |9.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/)|
-| 16/05/2023:     |10.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/)|
-| 16/02/2023:     |11.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
-| 12/01/2023:     |12.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
+| 23/11/2023:     |1.| [Updates to 2024 Booklists](https://www.serangoonsec.moe.edu.sg/announcements/announcements/updates_booklists-2024/) <b>(NEW!)</b>|
+| 21/11/2023:     |2.| [Open House 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/) <b>(NEW!)</b>|
+| 31/10/2023:     |3.| [Serangoon in Concert](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/)|
+| 30/10/2023:     |4.| [Farewell to Vice Principal, Mr Sebastian Jin](https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/)|
+| 27/10/2023:     |5.| [Sale of Books and Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2024/)|
+| 23/10/2023:     |6.| [Travel Declaration for 2023 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-eoy/)|
+| 22/08/2023:     |7.| [Visiting of Teachers on 30 August (Teachers' Day Celebration)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/visiting-teachers-2023/)|
+| 21/08/2023:     |8.| [Travel Declaration for 2023 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-sep/)|
+| 06/07/2023:     |9.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2023/)|
+| 19/05/2023:     |10.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2023/)|
+| 16/05/2023:     |11.| [Travel Declaration for 2023 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-jun/)|
+| 16/02/2023:     |12.| [Travel Declaration for 2023 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/travel-dcl-2023-mar/)|
+| 12/01/2023:     |13.| [Release of O Level Results 2023](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2023)|
 
 ##### 2022 Events
 
