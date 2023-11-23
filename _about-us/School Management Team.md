@@ -2,16 +2,16 @@
 title: School Management Team
 permalink: /management-team/
 description: ""
+variant: markdown
 ---
 ### School Management Team
 
 #### School Leaders
 
-<table>
-  <tbody><tr><td><img src="/images/School%20Management%20Team/Jin%20Sebastian.jpg">
-		</td><td><img src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg">
-		</td><td><img src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td></tr>
-</tbody></table>
+|![](/images/School%20Management%20Team/Jin%20Sebastian.jpg)|![](/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg)|![](/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg)|
+| -------- | -------- | -------- |
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/chen_xuanting_edmund.JPG)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+
 
 #### Head of Departments /&nbsp;Year Heads / School Staff Developer
 
