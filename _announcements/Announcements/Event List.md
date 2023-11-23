@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 23/11/2023:     |1.| [Updates to 2024 Booklists](https://www.serangoonsec.moe.edu.sg/announcements/announcements/updates_booklists-2024/) <b>(NEW!)</b>|
+| 23/11/2023:     |1.| [Updates to 2024 Booklists](https://www.serangoonsec.moe.edu.sg/announcements/announcements/updates-booklists-2024/) <b>(NEW!)</b>|
 | 21/11/2023:     |2.| [Open House 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/) <b>(NEW!)</b>|
 | 31/10/2023:     |3.| [Serangoon in Concert](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/)|
 | 30/10/2023:     |4.| [Farewell to Vice Principal, Mr Sebastian Jin](https://www.serangoonsec.moe.edu.sg/announcements/announcements/farewell-vp-2023/)|
