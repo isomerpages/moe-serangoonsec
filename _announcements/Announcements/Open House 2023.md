@@ -5,14 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### Open House 2023
+### Celebrating 95 Years of School History
 
-![](/images/Announcements/2023_e_banner.jpeg)
+![](/images/Announcements/95_formation_photo_jpeg.jpg)
 
-* **Date:** 25 November 2023 (Saturday)
-* **Time:** 0900hrs - 1230hrs
-* **School Presentations:** 0915hrs, 1015hrs, 1100hrs, 1200hrs
+Join us in commemorating 95 years of Serangoon Secondary’s rich history, achievements, and community impact. Here's to honoring the past and embracing the future together!
 
-Visit our microsite for more details: [https://go.gov.sg/sssopenhouse2023](https://go.gov.sg/sssopenhouse2023)
+To explore 2023 Open House Microsite​ =&gt; click [here](https://go.gov.sg/sssopenhouse2023).
 
 <hr>
