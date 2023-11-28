@@ -81,6 +81,34 @@ Teachers in this Family work very hard for each and every child. Their commitmen
 
 ![](/images/School%20Management%20Team/Principal's%20Message/Slide37.JPG)
 
+<b><u>Embracing the Future</u></b>
+
+![](/images/School%20Management%20Team/Principal's%20Message/Slide43.JPG)
+
+Moving forward, we will continue to sharpen our professional pedagogical areas in the 5 key domains of holistic education: moral, intellectual, physical, social-emotional and the aesthetics. This will be done by supporting our teachers improve their competencies and encourage lifelong learning through the SkillsFuture for Educators in the following areas:
+
+(i)	Developing teaching strategies that are aligned to the Singapore Teaching Practices,
+
+(ii)	Leveraging the use of Education Technology to further ignite the joy of learning for our students, and
+
+(iii)	Strengthening the Social and Emotional Learning &amp; Enhancing Career Guidance via CCE2021.
+
+![](/images/School%20Management%20Team/Principal's%20Message/Slide44.JPG)
+
+Let us all look towards the future with excitement and aspiration. We are well placed to meet the challenges ahead of us and I am confident that our school, parents, SAC, Alumni, community, and industry partners will continue to support our work and partner with us in nurturing students to be <i>Resilient Individuals, Passionate Learners and Active Contributors.</i>
+
+With a strong sense of mission, we will work with all our partners in <i>Moulding Character, Igniting Passion and Building Community</i> in all our Serangoon StaRs, anchoring on the School Values (Self-Directedness, Harmony, Integrity, ResilieNce and Excellence). 
+
+![](/images/School%20Management%20Team/Principal's%20Message/Slide46.JPG)
+
+As we celebrate this significant milestone, we express gratitude to all who have been part of our journey.
+
+And as we count down to our 100-year-old celebration, to draw upon key terms from our school’s rich history, we will Play the Game differently, enabling Knowledge is Power through applied learning opportunities for every StaR to Seek, Strive and Serve. As a school, we will give our best and more and help every StaR be the best that they can be.  
+
+Mr Chen Fook Pang 
+Principal 
+
+<hr>
 
 
 
