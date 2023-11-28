@@ -3,10 +3,9 @@ title: Overview
 permalink: /academic-programmes/ict/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
-
-
-### Information & Communications Technology (ICT)
+### Information &amp; Communications Technology (ICT)
 
 ##### Department Staff
 
@@ -18,10 +17,11 @@ third_nav_title: ICT
 | Mr Sng Kok Lam           | ICT Manager      |
 | Mr Muhammad Imran Samat  | ICT Manager      |
 | Mr Anuarezman Sariff | Desktop Engineer |
+| Mr C Aajith Kumar | Desktop Engineer |
 
 ##### Key Programmes
 ###### 1\. STEM Applied Learning Programme (ALP) in:
-*   Tier 1 Sec 1_ 3D Modelling and Printing Programme (Semester 2)<br>
+*   Tier 1 Sec 1_&nbsp;3D Modelling and Printing Programme (Semester 2)<br>
     The Sec 1 ALP focuses on 3D modelling and printing. In this programme, Sec 1 Exp, Sec 1NA and Sec 1NT students are immersed in 3D modelling activities to hone their Science, Technology, Engineering and Mathematics (STEM) skills. Through the use of Tinkercad, a 3D modelling software, students design 3D models which can be used to solve problems in the real world context.
 		
 <br>
@@ -32,7 +32,7 @@ third_nav_title: ICT
 	<br>
 	
 *   Tier 2 Sec 2 and Sec 3 Infocomm Club Programmes <br>
-	Selected Sec 2 and Sec 3 EXP/NA students are provided with opportunities to pursue their interest in programming and apply their knowledge and skills in Infocomm Club programmes.
+	Selected Sec 2 and Sec 3 EXP/NA students&nbsp;are provided&nbsp;with opportunities&nbsp;to pursue their interest in programming and apply their knowledge and skills in Infocomm Club programmes.
 	
 ##### Subjects Offered
 
@@ -48,7 +48,7 @@ Selected Sec 3 Express and Sec 3 Normal Technical students will have opportuniti
 
 In Computing, students develop and apply computational thinking skills to formulate computing solutions. The extension of learning in Computing is to allow students to participate in Advanced Elective Modules (AEMs) offered by polytechnics.
 
-In Mobile Robotics, students apply technical knowledge and skills to design and build mobile robots to perform specific tasks. Students can pursue a _Nitec_ in Mechatronics & Robotics at ITE Colleges.
+In Mobile Robotics, students apply technical knowledge and skills to design and build mobile robots to perform specific tasks. Students can pursue a&nbsp;_Nitec_&nbsp;in Mechatronics &amp; Robotics at ITE Colleges.
 
 
 ##### Achievements

@@ -12,7 +12,7 @@ variant: markdown
 
 **Celebrating 95 Years: ‘Constellations - Celebrating S³taRs’**
 
-We marked Serangoon Secondary School’s 95th milestone this year. The theme for our anniversary celebration is ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing Students, Staff and Stakeholders who make up the vibrant tapestry of the school. This theme aptly encapsulates the spirit and essence of the celebration, reflecting not only the passage of time but also the countless achievements, memories, and contributions made by our dedicated school community over nearly a century. 
+We marked Serangoon Secondary School’s 95<sup>th</sup> milestone this year. The theme for our anniversary celebration is ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing Students, Staff and Stakeholders who make up the vibrant tapestry of the school. This theme aptly encapsulates the spirit and essence of the celebration, reflecting not only the passage of time but also the countless achievements, memories, and contributions made by our dedicated school community over nearly a century. 
 
 ![](/images/School%20Management%20Team/Principal's%20Message/Slide3.JPG)
 
@@ -30,7 +30,7 @@ In 1949, the school became a full school, with its first School Certificate clas
 
 In 1967, Serangoon English School relocated to Lowland Road and was renamed as Serangoon Secondary School. In that year, the school badge was modified and the old school motto, ‘Play the Game’, was replaced with ‘Knowledge is Power’. In 1976, pre-university classes were discontinued. In 1989, the school motto was changed again to ‘Seek, Strive, Serve’.
 
-To mark the new millennium, in 2000, the school moved to its present premises at 11 Upper Serangoon View and continues to provide a student-centric, values-driven education. In 2018, we celebrated our 90th anniversary.
+To mark the new millennium, in 2000, the school moved to its present premises at 11 Upper Serangoon View and continues to provide a student-centric, values-driven education. In 2018, we celebrated our 90<sup>th</sup> anniversary.
 
 Let me share a story that paints a vivid picture of a young boy's educational journey at Serangoon English School in the 1940s. This narrative, first shared by the person himself in the year 2000, provides us with a glimpse into the past, and insights into the unique experiences of learning during a bygone era. 
 
@@ -66,7 +66,7 @@ This story was first shared by Mr Ngiam Tong Dow on 25 June 2000, the day of the
 
 Mr. Ngiam's insightful sharing serves as a poignant reminder that values such as honesty, integrity, grit, and determination matter. “Above all, every Serangoon boy and girl carries an eternal debt of gratitude towards our teachers and principals. Besides our parents, we are what we are today because our teachers taught us, comforted us, and loved us during our growing years.”
 
-I share his sentiments, and this leads me to now affirm our teachers. In Singapore, the purpose of education is two-fold: Firstly, to develop the character of the child and prepare him for citizenship and the place of work. Serangoon Secondary has a dedicated school team that is committed to the cause of education. Beyond classroom teaching, teachers also help our students develop holistically through the various CCAs. CCA promotes friendships among fellow Serangoon StaRs from diverse backgrounds as they learn, play and grow together. Through CCA, our students discover their interests and talents while developing values and 21st century competencies that will prepare them for a rapidly changing world that is increasingly volatile, uncertain, complex, and ambiguous.
+I share his sentiments, and this leads me to now affirm our teachers. In Singapore, the purpose of education is two-fold: Firstly, to develop the character of the child and prepare him for citizenship and the place of work. Serangoon Secondary has a dedicated school team that is committed to the cause of education. Beyond classroom teaching, teachers also help our students develop holistically through the various CCAs. CCA promotes friendships among fellow Serangoon StaRs from diverse backgrounds as they learn, play and grow together. Through CCA, our students discover their interests and talents while developing values and 21<sup>st</sup> century competencies that will prepare them for a rapidly changing world that is increasingly volatile, uncertain, complex, and ambiguous.
 
 In Serangoon Secondary, our teachers care and “guide our children as they learn to be caring and responsible to his family, community; and understand and play their role in contributing to the future of Singapore.” [Ethos]. I am impressed by the aspirations of all our teachers and our team of executive administrative staff who continuously devote their energy and commit their time into “nurturing the whole child to be the best that he/she can be”. I salute all of you for this enthusiastic partnership in shaping Serangoon Secondary School into an institution that places a great emphasis on character building for every child.
 
@@ -89,7 +89,7 @@ Moving forward, we will continue to sharpen our professional pedagogical areas i
 
 (i)	Developing teaching strategies that are aligned to the Singapore Teaching Practices,
 
-(ii)	Leveraging the use of Education Technology to further ignite the joy of learning for our students, and
+(ii) Leveraging the use of Education Technology to further ignite the joy of learning for our students, and
 
 (iii)	Strengthening the Social and Emotional Learning &amp; Enhancing Career Guidance via CCE2021.
 
@@ -103,7 +103,7 @@ With a strong sense of mission, we will work with all our partners in <i>Mouldin
 
 As we celebrate this significant milestone, we express gratitude to all who have been part of our journey.
 
-And as we count down to our 100th-year-old celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more, and help every StaR be *the best that they can be*.  
+And as we count down to our 100<sup>th</sup> year celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more, and help every StaR be *the best that they can be*.  
 
 *Mr Chen Fook Pang* 
 <br>**Principal** 
