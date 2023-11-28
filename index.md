@@ -30,7 +30,7 @@ sections:
         embracing the future together!
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/
-      image: /images/Announcements/95_formation_photo_jpeg.jpg
+      image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
       title: School Open House 2023
