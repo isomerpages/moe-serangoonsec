@@ -22,12 +22,12 @@ sections:
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/20230302_100639.jpg
   - infopic:
-      title: Celebrating 95 Years of School History
+      title: School Open House 2023
       subtitle: Announcements
       id: infopic
-      button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/
-      image: /images/Announcements/95_formation_photo_jpeg.jpg
+      button: Visit our Microsite
+      url: https://go.gov.sg/sssopenhouse2023
+      image: /images/Announcements/2023_e_banner.jpeg
       alt: open-house-2023
   - infopic:
       title: Daughter leaves secondary school with good memories
