@@ -38,23 +38,23 @@ Let me share a story that paints a vivid picture of a young boy's educational jo
 
 ![](/images/School%20Management%20Team/Principal's%20Message/Slide11.JPG)
 
-<i>“In 1945-46, our daily trek to Serangoon English School was a charming journey along country lanes, passing attap villages and occasional brick and mortar bungalows. Those were carefree days filled with joy, where term examinations were minor events compared to the simple pleasures of trapping spiders, catching fighting fish, spinning tops, kicking chatek, scouting, and camping. Sports Day stood out as the pinnacle event of the year, and the rare treat of swimming at the beach or the Mount Emily swimming pool added to the excitement.
+<i>“In 1945-46, our daily trek to Serangoon English School was a charming journey along country lanes, passing attap villages and occasional brick and mortar bungalows. Those were carefree days filled with joy, where term examinations were minor events compared to the simple pleasures of trapping spiders, catching fighting fish, spinning tops, kicking chatek, scouting, and camping. Sports Day stood out as the pinnacle event of the year, and the rare treat of swimming at the beach or the Mount Emily swimming pool added to the excitement.</i>
 
-It was a time when 5 cents could buy an ice ball, never mind the hygiene. We were seldom down with the flu, though most of us were undernourished. Eggs and chicken were luxuries, and ikan bilis served as the staple protein.
+<i>It was a time when 5 cents could buy an ice ball, never mind the hygiene. We were seldom down with the flu, though most of us were undernourished. Eggs and chicken were luxuries, and ikan bilis served as the staple protein.</i>
 
-School was not one long holiday either! Grades counted. A Grade I in the Senior Cambridge School Certificate examination secured admission to the Post School Certificate class to prepare for the university entrance examinations. A Grade 2 led to entry into the Teachers' Training College, while a Grade 3 offered pathways into jobs such as clerks, the Police Force, and nursing.
+<i>School was not one long holiday either! Grades counted. A Grade I in the Senior Cambridge School Certificate examination secured admission to the Post School Certificate class to prepare for the university entrance examinations. A Grade 2 led to entry into the Teachers' Training College, while a Grade 3 offered pathways into jobs such as clerks, the Police Force, and nursing.</i>
 
-By today's standards, Serangoon English School, or SES, would be considered a neighbourhood school, with students proudly identifying as the 'Oukang' (Hougang) boys. In the eyes of friends from Raffles Institution, we were 'ulu'—country bumpkins.
+<i>By today's standards, Serangoon English School, or SES, would be considered a neighbourhood school, with students proudly identifying as the 'Oukang' (Hougang) boys. In the eyes of friends from Raffles Institution, we were 'ulu'—country bumpkins.</i>
 
-But what we lacked in learning opportunities, we made up with grit and determination. Most of my classmates came from humble backgrounds. Our parents were mostly clerks, shopkeepers, farmers, mechanics, delivery boys, washer women and maidservants. Only one boy in my class went to school by car.
+<i>But what we lacked in learning opportunities, we made up for with grit and determination. Most of my classmates came from humble backgrounds. Our parents were mostly clerks, shopkeepers, farmers, mechanics, delivery boys, washer women and maidservants. Only one boy in my class went to school by car.</i>
 
-Our teachers, men of modest means, were kind to us in personal ways. One of my primary school teachers, Mr. Cher Poh Chia, arranged for Scott's Emulsion cod liver oil from his provision shop to strengthen the lungs of my brothers and me. I am truly grateful to these teachers because they helped in ways that mattered.
+<i>Our teachers, men of modest means, were kind to us in personal ways. One of my primary school teachers, Mr. Cher Poh Chia, arranged for Scott's Emulsion cod liver oil from his provision shop to strengthen the lungs of my brothers and me. I am truly grateful to these teachers because they helped in ways that mattered.</i>
 
-Looking back, some of life's tough lessons were learnt in school. Writing lines, a form of collective punishment back then, stood out as a memorable experience. On one occasion, the Literature teacher instructed us to transcribe the entire literature book line by line. That day, I went home and spent the whole afternoon and half the night copying the literature book.
+<i>Looking back, some of life's tough lessons were learnt in school. Writing lines, a form of collective punishment back then, stood out as a memorable experience. On one occasion, the Literature teacher instructed us to transcribe the entire literature book line by line. That day, I went home and spent the whole afternoon and half the night copying the literature book.</i>
 
-Looking back on that experience, I realised the value of integrity. Despite feeling foolish compared to classmates who took shortcuts, I did not regret writing out every word. Honesty and integrity became the hallmark of Serangoon English School boys. Despite humble beginnings and limited opportunities, Serangoon English School boys believed in their potential. With honesty, integrity, and sheer grit, we measured up and held our heads high.
+<i>Looking back on that experience, I realised the value of integrity. Despite feeling foolish compared to classmates who took shortcuts, I did not regret writing out every word. Honesty and integrity became the hallmark of Serangoon English School boys. Despite humble beginnings and limited opportunities, Serangoon English School boys believed in their potential. With honesty, integrity, and sheer grit, we measured up and held our heads high.</i>
 
-Our school has produced a Cabinet Minister, Mr Edmund William Baker, ambassadors, educators, doctors, businessmen, administrators, lawyers, and professionals, in various fields. Mr. Tee Tua Bah was a Commissioner of Police while Dr Wong Poh Poh was the leading scholar of climate change. On this note, I would like to pay tribute to our alumni members of the Serangoon Old Students’ Association, currently known as Serangoon Alumni who have continued to serve and contribute back to the school. I know that out there in the heartlands of Singapore, the HDB estates, there are generations of Serangoon boys and girls who are honest, hardworking, solid citizens, good fathers and mothers raising families.”</i>
+<i>Our school has produced a Cabinet Minister, Mr Edmund William Baker, ambassadors, educators, doctors, businessmen, administrators, lawyers, and professionals, in various fields. Mr. Tee Tua Bah was a Commissioner of Police while Dr Wong Poh Poh was the leading scholar of climate change. On this note, I would like to pay tribute to our alumni members of the Serangoon Old Students’ Association, currently known as Serangoon Alumni who have continued to serve and contribute back to the school. I know that out there in the heartlands of Singapore, the HDB estates, there are generations of Serangoon boys and girls who are honest, hardworking, solid citizens, good fathers and mothers raising families.”</i>
 
 This story was first shared by Mr Ngiam Tong Dow on 25 June 2000, the day of the Millennium move to our current site at Upper Serangoon View Road. Mr. Ngiam shared: <i>“I hope that this morning as we move to a new school in the new town of Sengkang, I have been able to convey to you the essence of the school that your parents and perhaps grandparents went to.”</i>
 
@@ -70,7 +70,7 @@ I share his sentiments, and this leads me to now affirm our teachers. In Singapo
 
 In Serangoon Secondary, our teachers care and “guide our children as they learn to be caring and responsible to his family, community; and understand and play their role in contributing to the future of Singapore.” [Ethos]. I am impressed by the aspirations of all our teachers and our team of executive administrative staff who continuously devote their energy and commit their time into “nurturing the whole child to be the best that he/she can be”. I salute all of you for this enthusiastic partnership in shaping Serangoon Secondary School into an institution that places a great emphasis on character building for every child.
 
-The growth of our school depends on the development of effective classroom teacher. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
+The growth of our school depends on the development of effective classroom teachers. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
 
 * Every child has intrinsic worth; Every child can learn and achieve.  
 * A child learns well when there is order and discipline. 
@@ -85,7 +85,7 @@ Teachers in this Family work very hard for each and every child. Their commitmen
 
 ![](/images/School%20Management%20Team/Principal's%20Message/Slide43.JPG)
 
-Moving forward, we will continue to sharpen our professional pedagogical areas in the 5 key domains of holistic education: moral, intellectual, physical, social-emotional and the aesthetics. This will be done by supporting our teachers improve their competencies and encourage lifelong learning through the SkillsFuture for Educators in the following areas:
+Moving forward, we will continue to sharpen our professional pedagogical areas in the 5 key domains of holistic education: moral, intellectual, physical, social-emotional and the aesthetics. This will be done by supporting our teachers improve their competencies and encouraging lifelong learning through the SkillsFuture for Educators in the following areas:
 
 (i)	Developing teaching strategies that are aligned to the Singapore Teaching Practices,
 
@@ -103,9 +103,9 @@ With a strong sense of mission, we will work with all our partners in <i>Mouldin
 
 As we celebrate this significant milestone, we express gratitude to all who have been part of our journey.
 
-And as we count down to our 100-year-old celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more and help every StaR be *the best that they can be*.  
+And as we count down to our 100th-year-old celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more, and help every StaR be *the best that they can be*.  
 
 *Mr Chen Fook Pang* 
 <br>**Principal** 
-
+<br>28 April 2023
 <hr>
