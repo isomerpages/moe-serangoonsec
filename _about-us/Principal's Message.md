@@ -12,7 +12,7 @@ variant: markdown
 
 **Celebrating 95 Years: ‘Constellations - Celebrating S³taRs’**
 
-We marked Serangoon Secondary School’s 95th milestone this year. The theme for our anniversary celebration is ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing Students, Staff and Stakeholders who make up the vibrant tapestry of the school. This theme aptly encapsulates the spirit and essence of the celebration, reflecting not only the passage of time but also the countless achievements, memories, and contributions made by our dedicated school community over nearly a century. 
+We marked Serangoon Secondary School’s 95<sup>th</sup> milestone this year. The theme for our anniversary celebration is ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing Students, Staff and Stakeholders who make up the vibrant tapestry of the school. This theme aptly encapsulates the spirit and essence of the celebration, reflecting not only the passage of time but also the countless achievements, memories, and contributions made by our dedicated school community over nearly a century. 
 
 ![](/images/School%20Management%20Team/Principal's%20Message/Slide3.JPG)
 
