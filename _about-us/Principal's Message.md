@@ -85,7 +85,7 @@ Teachers in this Family work very hard for each and every child. Their commitmen
 
 ![](/images/School%20Management%20Team/Principal's%20Message/Slide43.JPG)
 
-Moving forward, we will continue to sharpen our professional pedagogical areas in the 5 key domains of holistic education: moral, intellectual, physical, social-emotional and the aesthetics. This will be done by supporting our teachers improve their competencies and encourage lifelong learning through the SkillsFuture for Educators in the following areas:
+Moving forward, we will continue to sharpen our professional pedagogical areas in the 5 key domains of holistic education: moral, intellectual, physical, social-emotional and the aesthetics. This will be done by supporting our teachers improve their competencies and encouraging lifelong learning through the SkillsFuture for Educators in the following areas:
 
 (i)	Developing teaching strategies that are aligned to the Singapore Teaching Practices,
 
