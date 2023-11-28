@@ -26,7 +26,7 @@ sections:
       subtitle: Announcements
       id: infopic
       description: Join us in commemorating 95 years of SSS’s rich history,
-        achievements, and community impact. Here's to honoring the past and
+        achievements, and community impact. Here's to honouring the past and
         embracing the future together!
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/
