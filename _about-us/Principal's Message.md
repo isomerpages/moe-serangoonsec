@@ -56,6 +56,29 @@ Looking back on that experience, I realised the value of integrity. Despite feel
 
 Our school has produced a Cabinet Minister, Mr Edmund William Baker, ambassadors, educators, doctors, businessmen, administrators, lawyers, and professionals, in various fields. Mr. Tee Tua Bah was a Commissioner of Police while Dr Wong Poh Poh was the leading scholar of climate change. On this note, I would like to pay tribute to our alumni members of the Serangoon Old Students’ Association, currently known as Serangoon Alumni who have continued to serve and contribute back to the school. I know that out there in the heartlands of Singapore, the HDB estates, there are generations of Serangoon boys and girls who are honest, hardworking, solid citizens, good fathers and mothers raising families.”</i>
 
+This story was first shared by Mr Ngiam Tong Dow on 25 June 2000, the day of the Millennium move to our current site at Upper Serangoon View Road. Mr. Ngiam shared: <i>“I hope that this morning as we move to a new school in the new town of Sengkang, I have been able to convey to you the essence of the school that your parents and perhaps grandparents went to.”</i>
+
+![](/images/School%20Management%20Team/Principal's%20Message/Slide25.JPG)
+
+<b><u>Treasuring the Present: Care Our Culture &amp; Ethos of our Teachers.</u></b>
+
+![](/images/School%20Management%20Team/Principal's%20Message/Slide26.JPG)
+
+Mr. Ngiam's insightful sharing serves as a poignant reminder that values such as honesty, integrity, grit, and determination matter. “Above all, every Serangoon boy and girl carries an eternal debt of gratitude towards our teachers and principals. Besides our parents, we are what we are today because our teachers taught us, comforted us, and loved us during our growing years.”
+
+I share his sentiments, and this leads me to now affirm our teachers. In Singapore, the purpose of education is two-fold: Firstly, to develop the character of the child and prepare him for citizenship and the place of work. Serangoon Secondary has a dedicated school team that is committed to the cause of education. Beyond classroom teaching, teachers also help our students develop holistically through the various CCAs. CCA promotes friendships among fellow Serangoon StaRs from diverse backgrounds as they learn, play and grow together. Through CCA, our students discover their interests and talents while developing values and 21st century competencies that will prepare them for a rapidly changing world that is increasingly volatile, uncertain, complex, and ambiguous.
+
+In Serangoon Secondary, our teachers care and “guide our children as they learn to be caring and responsible to his family, community; and understand and play their role in contributing to the future of Singapore.” [Ethos]. I am impressed by the aspirations of all our teachers and our team of executive administrative staff who continuously devote their energy and commit their time into “nurturing the whole child to be the best that he/she can be”. I salute all of you for this enthusiastic partnership in shaping Serangoon Secondary School into an institution that places a great emphasis on character building for every child.
+
+The growth of our school depends on the development of effective classroom teacher. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
+
+•	Every child has intrinsic worth; Every child can learn and achieve.  
+•	A child learns well when there is order and discipline. 
+•	A child’s learning should be developmentally appropriate. 
+•	True educators believe they can make a difference to a child’s life.
+
+Teachers in this Family work very hard for each and every child. Their commitment is integral to our school’s success and vibrancy.
+
 
 
 
