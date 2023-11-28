@@ -89,7 +89,7 @@ Moving forward, we will continue to sharpen our professional pedagogical areas i
 
 (i)	Developing teaching strategies that are aligned to the Singapore Teaching Practices,
 
-(ii)	Leveraging the use of Education Technology to further ignite the joy of learning for our students, and
+(ii) Leveraging the use of Education Technology to further ignite the joy of learning for our students, and
 
 (iii)	Strengthening the Social and Emotional Learning &amp; Enhancing Career Guidance via CCE2021.
 
