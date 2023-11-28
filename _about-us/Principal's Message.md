@@ -70,7 +70,7 @@ I share his sentiments, and this leads me to now affirm our teachers. In Singapo
 
 In Serangoon Secondary, our teachers care and “guide our children as they learn to be caring and responsible to his family, community; and understand and play their role in contributing to the future of Singapore.” [Ethos]. I am impressed by the aspirations of all our teachers and our team of executive administrative staff who continuously devote their energy and commit their time into “nurturing the whole child to be the best that he/she can be”. I salute all of you for this enthusiastic partnership in shaping Serangoon Secondary School into an institution that places a great emphasis on character building for every child.
 
-The growth of our school depends on the development of effective classroom teacher. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
+The growth of our school depends on the development of effective classroom teachers. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
 
 * Every child has intrinsic worth; Every child can learn and achieve.  
 * A child learns well when there is order and discipline. 
