@@ -25,6 +25,4 @@ Join us in commemorating 95 years of Serangoon Secondary’s rich history, achie
 
 ![](/images/Announcements/SSS%2095th%20Anniversary/Slide7.JPG)
 
-To explore 2023 Open House Microsite​ =&gt; click [here](https://go.gov.sg/sssopenhouse2023).
-
 <hr>
