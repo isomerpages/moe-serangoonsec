@@ -103,7 +103,7 @@ With a strong sense of mission, we will work with all our partners in <i>Mouldin
 
 As we celebrate this significant milestone, we express gratitude to all who have been part of our journey.
 
-And as we count down to our 100th-year-old celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more, and help every StaR be *the best that they can be*.  
+And as we count down to our 100<sup>th</sup> year celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more, and help every StaR be *the best that they can be*.  
 
 *Mr Chen Fook Pang* 
 <br>**Principal** 
