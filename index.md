@@ -22,6 +22,17 @@ sections:
           url: https://www.instagram.com/serangoonsecondary/
       background: /images/20230302_100639.jpg
   - infopic:
+      title: Celebrating 95 Years of Enduring Legacy
+      subtitle: Announcements
+      id: infopic
+      description: Join us in commemorating 95 years of SSS’s rich history,
+        achievements, and community impact. Here's to honoring the past and
+        embracing the future together!
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/open-house-2023/
+      image: /images/Announcements/95_formation_photo_jpeg.jpg
+      alt: Image alt text
+  - infopic:
       title: School Open House 2023
       subtitle: Announcements
       id: infopic
