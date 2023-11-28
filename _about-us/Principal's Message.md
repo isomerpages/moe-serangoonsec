@@ -72,12 +72,14 @@ In Serangoon Secondary, our teachers care and “guide our children as they lear
 
 The growth of our school depends on the development of effective classroom teacher. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
 
-•	Every child has intrinsic worth; Every child can learn and achieve.  
-•	A child learns well when there is order and discipline. 
-•	A child’s learning should be developmentally appropriate. 
-•	True educators believe they can make a difference to a child’s life.
+* Every child has intrinsic worth; Every child can learn and achieve.  
+* A child learns well when there is order and discipline. 
+* A child’s learning should be developmentally appropriate. 
+* True educators believe they can make a difference to a child’s life.
 
 Teachers in this Family work very hard for each and every child. Their commitment is integral to our school’s success and vibrancy.
+
+![](/images/School%20Management%20Team/Principal's%20Message/Slide37.JPG)
 
 
 
