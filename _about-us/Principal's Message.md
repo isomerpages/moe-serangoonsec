@@ -46,7 +46,7 @@ Let me share a story that paints a vivid picture of a young boy's educational jo
 
 <i>By today's standards, Serangoon English School, or SES, would be considered a neighbourhood school, with students proudly identifying as the 'Oukang' (Hougang) boys. In the eyes of friends from Raffles Institution, we were 'ulu'—country bumpkins.</i>
 
-<i>But what we lacked in learning opportunities, we made up with grit and determination. Most of my classmates came from humble backgrounds. Our parents were mostly clerks, shopkeepers, farmers, mechanics, delivery boys, washer women and maidservants. Only one boy in my class went to school by car.</i>
+<i>But what we lacked in learning opportunities, we made up for with grit and determination. Most of my classmates came from humble backgrounds. Our parents were mostly clerks, shopkeepers, farmers, mechanics, delivery boys, washer women and maidservants. Only one boy in my class went to school by car.</i>
 
 <i>Our teachers, men of modest means, were kind to us in personal ways. One of my primary school teachers, Mr. Cher Poh Chia, arranged for Scott's Emulsion cod liver oil from his provision shop to strengthen the lungs of my brothers and me. I am truly grateful to these teachers because they helped in ways that mattered.</i>
 
