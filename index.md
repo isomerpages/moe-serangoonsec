@@ -29,7 +29,7 @@ sections:
         achievements, and community impact. Here's to honouring the past and
         embracing the future together!
       button: Click here to read more
-      url: /announcements/announcements/sss-95-years//
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sss-95-years/
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
