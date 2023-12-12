@@ -15,7 +15,6 @@ variant: markdown
         <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
     </tr>
 </tbody></table>
-<hr>
 
 #### School Staff Developer
 
@@ -26,7 +25,6 @@ variant: markdown
         <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
     </tr>
 </tbody></table>
-<hr>
 
 #### Head of Departments /&nbsp;Year Heads
 
@@ -49,10 +47,10 @@ variant: markdown
 
 #### Teacher Leaders Council
 
-|![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|
+|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|![](/images/School%20Management%20Team/hasrita_hosnin.jpg)|![](/images/School%20Management%20Team/danapal%20kumar.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/tengku%20norita.jpg)|![](/images/School%20Management%20Team/hasrita%20hosnin.jpg)|![](/images/School%20Management%20Team/tay%20weng%20heng%20adrian.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/danapal%20kumar.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/tay%20weng%20heng%20adrian.jpg)|![](/images/School%20Management%20Team/tengku%20norita.jpg)|
+|![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 
 #### Senior School Counsellors / Admin Managers / Operations Managers / ICT Managers
