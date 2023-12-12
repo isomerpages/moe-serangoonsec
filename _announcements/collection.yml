@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/2023 GCE 'N' Level Results.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/Celebrating 95 Years of School History.md
