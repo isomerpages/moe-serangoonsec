@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Release of 'N' Level Results 2023.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Release of 'N' Level Results 2023.md
       - Announcements/Celebrating 95 Years of School History.md
       - Announcements/Updates to the 2024 Booklists.md
       - Announcements/Serangoon in Concert.md
