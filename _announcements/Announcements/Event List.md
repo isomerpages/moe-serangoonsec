@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 12/12/2023:     |1.| [2023 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2023-gce-nlevel-results/)<b>(NEW!)</b>|
+| 12/12/2023:     |1.| [2023 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2023-gce-nlevel-results/) <b>(NEW!)</b>|
 | 28/11/2023:     |2.| [Celebrating 95 Years of Enduring Legacy](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sss-95-years/) <b>(NEW!)</b>|
 | 23/11/2023:     |3.| [Updates to 2024 Booklists](https://www.serangoonsec.moe.edu.sg/announcements/announcements/update-booklists-2024/) <b>(NEW!)</b>|
 | 31/10/2023:     |4.| [Serangoon in Concert](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/)|
