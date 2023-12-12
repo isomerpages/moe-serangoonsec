@@ -8,12 +8,15 @@ variant: markdown
 
 #### School Leaders
 
-|![](/images/School%20Management%20Team/Jin%20Sebastian.jpg)|![](/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg)|![](/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg)|
+|![](/images/School%20Management%20Team/chen_xuanting_edmund.JPG)|![](/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg)|![](/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/chen_xuanting_edmund.JPG)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
+#### School Staff Developer
 
-#### Head of Departments /&nbsp;Year Heads / School Staff Developer
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+| -------- | -------- | -------- |
+
+#### Head of Departments /&nbsp;Year Heads
 
 |![](/images/School%20Management%20Team/Faith%20Wong%20Yeo%20Sok%20Yee.jpg)|![](/images/School%20Management%20Team/Teo%20Wei%20Ping%20Sabrina.jpg)|![](/images/School%20Management%20Team/Azrina%20Md%20Salleh.jpg)|
 | -------- | -------- | -------- |
@@ -29,7 +32,7 @@ variant: markdown
 |![](/images/School%20Management%20Team/Vincent%20Wong.jpg)|![](/images/School%20Management%20Team/Adrial%20Tan%20Chong%20Jin.jpg)|![](/images/School%20Management%20Team/Ong%20Rui%20Yun%20Jean.jpg)|
 |![](/images/School%20Management%20Team/Heng%20Tze%20Wei.jpg)|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
-#### Teacher Leaders
+#### Teacher Leaders Council
 
 |![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|
 | -------- | -------- | -------- |
