@@ -8,7 +8,7 @@ variant: markdown
 
 #### School Leaders
 
-<table border="1">
+<table>
     <tbody><tr>
         <td><img alt="VP1" src="/images/School%20Management%20Team/chen_xuanting_edmund.JPG"></td>
         <td><img alt="P" src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg"></td>
@@ -18,7 +18,7 @@ variant: markdown
 
 #### School Staff Developer
 
-<table border="1">
+<table>
     <tbody><tr>
         <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
         <td><img alt="SSD" src="/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg"></td>
