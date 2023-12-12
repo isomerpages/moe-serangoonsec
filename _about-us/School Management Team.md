@@ -8,16 +8,23 @@ variant: markdown
 
 #### School Leaders
 
-|![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|
-| -------- | -------- | -------- |
-
-|![](/images/School%20Management%20Team/chen_xuanting_edmund.JPG)|![](/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg)|![](/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg)|
-| -------- | -------- | -------- |
+<table border="1">
+    <tbody><tr>
+        <td><img alt="VP1" src="/images/School%20Management%20Team/chen_xuanting_edmund.JPG"></td>
+        <td><img alt="P" src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg"></td>
+        <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
+    </tr>
+</tbody></table>
 
 #### School Staff Developer
 
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
-| -------- | -------- | -------- |
+<table border="1">
+    <tbody><tr>
+        <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
+        <td><img alt="SSD" src="/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg"></td>
+        <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
+    </tr>
+</tbody></table>
 
 #### Head of Departments /&nbsp;Year Heads
 
