@@ -39,11 +39,13 @@ variant: markdown
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Management%20Team/Kwek%20Cher%20Wei%20Dennis.jpg)|![](/images/School%20Management%20Team/Koh%20Sien%20Kok%20Dennis.jpg)|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|
+|![](/images/School%20Management%20Team/Vincent%20Wong.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/Kng%20Zhiying.jpg)|![](/images/School%20Management%20Team/Kamal%20Jupri.jpg)|
-|![](/images/School%20Management%20Team/Vincent%20Wong.jpg)|![](/images/School%20Management%20Team/Adrial%20Tan%20Chong%20Jin.jpg)|![](/images/School%20Management%20Team/Ong%20Rui%20Yun%20Jean.jpg)|
-|![](/images/School%20Management%20Team/Heng%20Tze%20Wei.jpg)|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/Heng%20Tze%20Wei.jpg)|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/Kwek%20Cher%20Wei%20Dennis.jpg)|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|![](/images/School%20Management%20Team/Koh%20Sien%20Kok%20Dennis.jpg)|
+|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|![](/images/School%20Management%20Team/kamal_jupri.jpg)|
+
+
 
 #### Teacher Leaders Council
 
