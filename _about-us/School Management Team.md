@@ -15,7 +15,6 @@ variant: markdown
         <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
     </tr>
 </tbody></table>
-<hr>
 
 #### School Staff Developer
 
@@ -26,7 +25,6 @@ variant: markdown
         <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
     </tr>
 </tbody></table>
-<hr>
 
 #### Head of Departments /&nbsp;Year Heads
 
