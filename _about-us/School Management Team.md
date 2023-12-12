@@ -8,6 +8,9 @@ variant: markdown
 
 #### School Leaders
 
+|![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|
+| -------- | -------- | -------- |
+
 |![](/images/School%20Management%20Team/chen_xuanting_edmund.JPG)|![](/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg)|![](/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg)|
 | -------- | -------- | -------- |
 
