@@ -2,6 +2,7 @@
 title: HODs' and YHs' Messages
 permalink: /about-us/hod-yh-messages/
 description: ""
+variant: markdown
 ---
 ### HODs' and YHs' Messages
 
@@ -11,7 +12,7 @@ description: ""
 
 <li><a href="/academic-programmes/english-language-and-literature/permalink/">Message</a> by Mdm Azrina Bte Md Salleh, <br>HOD (English Language and Literature)</li>
 
-<li><a href="/academic-programmes/humanities/hod-message">Message</a> by Mr Christopher Tan, <br>HOD (Humanities)</li>
+<li><a href="/academic-programmes/humanities/hod-message">Message</a> by Ms Sabrina Teo, <br>HOD (Humanities)</li>
 
 <li><a href="/academic-programmes/mathematics/hod-message/">Message</a> by Mdm Koh Poh Ling, <br>HOD (Mathematics)</li>
 
