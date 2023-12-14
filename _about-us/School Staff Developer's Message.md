@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### School Staff Developer's Message
 
-<img src="/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/christopher_tan_swan_kiat.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 In Serangoon Secondary School, we are committed to ensuring that our teachers receive the support they need to provide the best possible education to our students. We believe that investing in the professional development and well-being of our staff is essential to achieving the Desired Outcomes of Education.
 
