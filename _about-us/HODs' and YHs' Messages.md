@@ -8,8 +8,6 @@ variant: markdown
 
 <li><a href="/student-development/character-and-citizenship-edu/shhodcce/">Message</a> by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)</li>
 
-<li><a href="/student-development/edu-support/">Message</a> by Ms Sabrina Teo, <br>HOD (Educational Support)</li>
-
 <li><a href="/academic-programmes/english-language-and-literature/permalink/">Message</a> by Mdm Azrina Bte Md Salleh, <br>HOD (English Language and Literature)</li>
 
 <li><a href="/academic-programmes/humanities/hod-message">Message</a> by Ms Sabrina Teo, <br>HOD (Humanities)</li>
