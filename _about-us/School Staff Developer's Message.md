@@ -3,10 +3,11 @@ title: School Staff Developer's Message
 permalink: /about-us/ssd-message/
 description: ""
 image: ""
+variant: markdown
 ---
 ### School Staff Developer's Message
 
-<img src="/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/christopher_tan_swan_kiat.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 In Serangoon Secondary School, we are committed to ensuring that our teachers receive the support they need to provide the best possible education to our students. We believe that investing in the professional development and well-being of our staff is essential to achieving the Desired Outcomes of Education.
 
@@ -21,6 +22,6 @@ In conclusion, investing in the professional development and well-being of our s
 Thank you for your partnership as we work together to create a vibrant and successful learning community who Seek to grow, Strive to excel and Serve with honour.
 
 *Mr Christopher Tan*
-<br>**School Staff Developer (Covering)**
+<br>**School Staff Developer**
 
 <hr>

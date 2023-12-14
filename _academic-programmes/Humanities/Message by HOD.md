@@ -3,10 +3,11 @@ title: Message by HOD
 permalink: /academic-programmes/humanities/hod-message/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### Message by HOD (Humanities)
 
-<img src="/images/School%20Management%20Team/Christopher%20Tan%20Swan%20Kiat.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 The Humanities Department in Serangoon Secondary is dedicated to fostering an environment that promotes learning, growth, and the development of essential skills, knowledge, and values in the field of Humanities.
 
@@ -24,7 +25,7 @@ We envisage that our school’s Humanities programme will inspire and develop ou
 
 We look forward to working with our students to instill the Joy of Learning in Humanities! 
 
-*Mr Christopher Tan*
+*Ms Sabrina Teo*
 <br>**HOD (Humanities)**
 
 <hr>
