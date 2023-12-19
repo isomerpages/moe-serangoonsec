@@ -8,8 +8,6 @@ variant: markdown
 
 <img src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H9pAb2lIfnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 **Celebrating 95 Years: ‘Constellations - Celebrating S³taRs’**
 
 We marked Serangoon Secondary School’s 95<sup>th</sup> milestone this year. The theme for our anniversary celebration is ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing Students, Staff and Stakeholders who make up the vibrant tapestry of the school. This theme aptly encapsulates the spirit and essence of the celebration, reflecting not only the passage of time but also the countless achievements, memories, and contributions made by our dedicated school community over nearly a century. 
