@@ -91,7 +91,7 @@ Moving forward, we will continue to sharpen our professional pedagogical areas i
 
 (iii)	Strengthening the Social and Emotional Learning &amp; Enhancing Career Guidance via CCE2021.
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide44.JPG)
+![](/images/School%20Management%20Team/Principal's%20Message/Slide44.jpg)
 
 Let us all look towards the future with excitement and aspiration. We are well placed to meet the challenges ahead of us and I am confident that our school, parents, SAC, Alumni, community, and industry partners will continue to support our work and partner with us in nurturing students to be <i>Resilient Individuals, Passionate Learners and Active Contributors.</i>
 
