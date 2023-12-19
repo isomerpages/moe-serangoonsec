@@ -39,7 +39,7 @@ sections:
       description: 20 December 2023
       button: click here to read more
       url: /announcements/announcements/sec-1-reg-2023/
-      image: /images/Announcements/2023_Sec_1_Registration.png
+      image: /images/Announcements/2023_Sec_1_Registration_small.png
       alt: Image alt text
   - infopic:
       title: School Open House 2023
@@ -54,6 +54,6 @@ sections:
       subtitle: Straits times BOUQUETS
       button: Click here to read more
       url: /parents-and-students/Latest-News/stbouquets/
-      image: /images/Parents & Students/bouquets_plaque.jpeg
+      image: /images/Parents & Students/bouquets_plaque_small_jpeg.jpg
       alt: Image alt text
 ---
