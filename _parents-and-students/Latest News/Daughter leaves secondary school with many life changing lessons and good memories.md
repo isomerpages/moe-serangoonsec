@@ -4,10 +4,11 @@ title: Daughter leaves secondary school with many life changing lessons and good
 permalink: /parents-and-students/Latest-News/stbouquets/
 description: ""
 third_nav_title: Latest News
+variant: markdown
 ---
 ### Bouquets: Daughter leaves secondary school with many life changing lessons and good memories
 
-![](/images/student%20leadership.jpg)
+![](/images/Parents%20&amp;%20Students/bouquets_plaque.jpeg)
 
 *This Bouquets article first appeared in the Straits Times, 19 January 2023. Click [here](https://www.straitstimes.com/opinion/forum/bouquets-daughter-leaves-secondary-school-with-many-life-changing-lessons-and-good-memories) for the original.*
 
