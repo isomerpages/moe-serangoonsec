@@ -1,8 +1,9 @@
 ---
 title: Message by HOD
-permalink: /academic-programmes/english-language-and-literature/permalink/
+permalink: /academic-programmes/english-language-and-literature/hod-message/
 description: ""
 third_nav_title: English Language & Literature
+variant: markdown
 ---
 ### Message by HOD (English Language and Literature)
 

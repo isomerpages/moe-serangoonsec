@@ -1,8 +1,9 @@
 ---
 title: Message by HOD
-permalink: /academic-programmes/mother-tongue-languages/permalink/
+permalink: /academic-programmes/mother-tongue-languages/hod-message/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 ### Message by HOD (Mother Tongue Languages)
 

@@ -1,6 +1,6 @@
 ---
 title: Message by HOD
-permalink: /academic-programmes/physical-education/permalink/
+permalink: /academic-programmes/physical-education/hod-message/
 description: ""
 third_nav_title: Physical Education
 variant: markdown
