@@ -45,6 +45,6 @@ sections:
       subtitle: Straits times BOUQUETS
       button: Click here to read more
       url: /parents-and-students/Latest-News/stbouquets/
-      image: /images/student leadership.jpg
+      image: /images/Parents & Students/bouquets_plaque.jpeg
       alt: Image alt text
 ---
