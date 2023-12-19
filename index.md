@@ -33,6 +33,15 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
+      title: SSS Secondary 1 Registration 2023
+      subtitle: Add an image and text
+      id: infopic
+      description: 20 December 2023
+      button: click here to read more
+      url: /announcements/announcements/sec-1-reg-2023/
+      image: /images/Announcements/2023_Sec_1_Registration.png
+      alt: Image alt text
+  - infopic:
       title: School Open House 2023
       subtitle: Announcements
       id: infopic
