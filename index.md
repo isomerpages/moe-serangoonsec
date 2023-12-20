@@ -39,7 +39,7 @@ sections:
       description: 20 December 2023
       button: click here to read more
       url: /announcements/announcements/sec-1-reg-2023/
-      image: /images/Announcements/2023_Sec_1_Registration_small.png
+      image: /images/Announcements/sec_1_reg_infopic.jpeg
       alt: Image alt text
   - infopic:
       title: School Open House 2023
