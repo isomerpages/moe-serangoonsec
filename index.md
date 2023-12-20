@@ -34,7 +34,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: SSS Secondary 1 Registration 2023
-      subtitle: Add an image and text
+      subtitle: Announcements
       id: infopic
       description: 20 December 2023
       button: click here to read more
