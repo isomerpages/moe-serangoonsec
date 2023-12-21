@@ -29,3 +29,9 @@ These other constellations are the parents, alumni, school advisory committee, t
 Allow me to commend Serangoon Secondary School for having come this far since 1928. Through this journey of 95 years, the school has remained steadfast in its commitment to provide a sound education and enrich the lives of its StaRs. May your students continue to reach for the stars in all that they do – with the dedication, hard work, and unwavering support of everyone in the Serangoon Secondary School family from the school leaders, teachers, Alumni, parents, and school partners.
 
 Here's to many more years of success and achievement for Serangoon Secondary School.
+
+*Mr Desmond Fu*
+<br>**Chairman, School Advisory Committee**
+<br> 28 April 2023
+
+<hr>
