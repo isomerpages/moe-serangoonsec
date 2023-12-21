@@ -34,4 +34,6 @@ Here's to many more years of success and achievement for Serangoon Secondary Sch
 <br>**Chairman, School Advisory Committee**
 <br> 28 April 2023
 
+![](/images/School%20Management%20Team/SAC%20Chairman's%20Message/95th_Banner.jpg)
+
 <hr>
