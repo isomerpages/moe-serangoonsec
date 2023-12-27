@@ -3,10 +3,11 @@ title: Message by HOD
 permalink: /student-development/student-management/hod-message/
 description: ""
 third_nav_title: Student Management
+variant: markdown
 ---
 ### Message by HOD (Student Management)
 
-<img src="/images/School%20Steering%20Committee/Ng%20He%20Li.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Ng%20He%20Li.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 In Serangoon Secondary, we firmly believe that students learn well when there is order and discipline. At the same time, they need care, encouragement, and space to learn from their mistakes and improve.
 
