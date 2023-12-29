@@ -99,6 +99,6 @@ Parents who wish to opt their children out of the Sexuality Education lessons ne
 
 Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education/2024/Annex_B_SexEd_2024.pdf).  The completed form is to be submitted by 31/03/2024.
 
-Parents can contact the school at serangoon_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
+Parents can contact the school at <a href="serangoon_ss@moe.edu.sg">serangoon_ss@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 <hr>
