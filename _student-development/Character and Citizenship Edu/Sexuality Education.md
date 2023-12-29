@@ -57,7 +57,23 @@ eTeens is a programme developed by Health Promotion Board, in collaboration with
 Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
 **At Serangoon Secondary School, the eTeens programme will be implemented as follows in 2024:**
-
-
-
-
+<table>
+    <tbody><tr>
+			<td><b>Topics / Lessons</b></td>
+        <td><b>Programme Learning Objectives</b></td>
+			 <td><b>Time Period (e.g. Term 3 Week 9)</b></td>
+    </tr>
+			<tr>
+        <td>Mass Talk by HPB appointed vendor </td>
+        <td>•	Raise awareness and provide knowledge on:
+<br><br>a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).
+<br><br>b)	Managing relationships and risky situations in a healthy way.
+</td>
+        <td>Term 3 Week 2</td>
+    </tr>
+			<tr>
+        <td>Classroom-based Lesson</td>
+        <td>•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</td>
+        <td>Term 3 Week 5</td>
+    </tr>
+</tbody></table>
