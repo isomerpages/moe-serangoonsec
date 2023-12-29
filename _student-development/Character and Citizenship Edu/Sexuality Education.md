@@ -77,3 +77,15 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
         <td>Term 3 Week 5</td>
     </tr>
 </tbody></table>
+
+**INFORMATION FOR PARENTS**
+
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 31/03/2024.
+
+Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 31/03/2024.
+
+Parents can contact the school at serangoon_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+<hr>
