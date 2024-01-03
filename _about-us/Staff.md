@@ -18,17 +18,17 @@ variant: markdown
 | Mr Alvin Tay | HOD / Craft &amp; Technology |
 | Mr Adrial Tan | HOD / Information &amp; Communications Technology |
 | Ms Ong Meixue Michelle | HOD / Science |
-| Ms Faith Wong-Yeo Sok Yee | HOD / Character &amp; Citizenship Education |
-| Ms Teo Wei Ping Sabrina | HOD / Educational Support |
-| Mdm Azrina Bte Md Salleh | HOD / English Language &amp; Literature |
-| Mr Christopher Tan | HOD / Humanities |
-| Mdm Koh Poh Ling | HOD / Mathematics |
-| Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
+| Mdm Lum Cindy | Year Head (Upper Sec)  |
 | Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
-| Ms Ong Meixue Michelle | HOD / Science |
-| Ms Ng He Li | HOD / Student Management |
 | Mr Tay Ming Yang | Year Head (Lower Sec) |
-| Mdm Cindy Lum | Year Head (Upper Sec)  |
+| Ms Faith Wong-Yeo Sok Yee | HOD / Character &amp; Citizenship Education |
+| Ms Ng He Li | HOD / Student Management |
+
+
+
+
+
+
 | Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2)  |
 | Mr Koh Sien Kok Dennis | SH / Character &amp; Citizenship Education |
 | Ms Fu Shin Hui | SH / Chemistry |
