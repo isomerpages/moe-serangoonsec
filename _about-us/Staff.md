@@ -50,10 +50,11 @@ variant: markdown
 | 1SD2 | Ms Jenny Guo<br>Ms Sherrie Ng |
 | 1SD3 | Ms Ng Xuemin<br>Mrs Rudrapathy Vijayalakshmi |
 | 1SD4 | Ms Teo Zhi Hui Geraldine<br>Mr Tan Boon Hwee |
-| 1SD5 | Ms Shabana<br>Mr Muzzaffar |
-| 1SD6 |  Mr Timotty Tay Jun Jie<br>Mdm Nur Ashirah Binti Nordali|
-| 1SD7 | Mr Timothy Liew<br> Ms Charlene Lim|
-| 1SD8 | Ms Sharon Tan<br>Ms Dasimah|
+| 1SD5 | Ms Shabana<br>Mr Roger Goh Chye Boon |
+| 1SD6 | Ms Lim Shilei Ella<br>Mr Tan Peng Yau |
+| 1SD7 | Mr Sin Kah Fai<br>Ms Kalarani |
+| 1SD8 | Ms Bel Quek<br>Mr Heng Tze Wei<br>Ms Lio Dan Wei |
+| 1SD9 | Ms Ang Chian Huey<br>Ms Chiok Hwee Xin Joseline<br>Mr Wang Xiao Long |
 
 ##### Secondary 2
 
