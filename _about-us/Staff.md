@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Staff
 
-#### Middle Managers 2024
+### Middle Managers 2024
 
 | Name  | Designation |
 |---|---|
@@ -18,7 +18,7 @@ variant: markdown
 | Mr Alvin Tay | HOD / Craft &amp; Technology |
 | Mr Adrial Tan | HOD / Information &amp; Communications Technology |
 | Ms Ong Meixue Michelle | HOD / Science |
-| Mdm Lum Cindy | Year Head (Upper Sec)  |
+| Mdm Lum Cindy | Year Head (Upper Sec) |
 | Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
 | Mr Tay Ming Yang | Year Head (Lower Sec) |
 | Ms Faith Wong-Yeo Sok Yee | HOD / Character &amp; Citizenship Education |
