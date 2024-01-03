@@ -18,9 +18,9 @@ variant: markdown
 | Mr Alvin Tay | HOD / Craft &amp; Technology |
 | Mr Adrial Tan | HOD / Information &amp; Communications Technology |
 | Ms Ong Meixue Michelle | HOD / Science |
-| Mdm Lum Cindy | Year Head (Upper Sec) |
+| Mdm Lum Cindy | Year Head |
 | Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
-| Mr Tay Ming Yang | Year Head (Lower Sec) |
+| Mr Tay Ming Yang | Year Head |
 | Ms Faith Wong-Yeo Sok Yee | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
 | Mr Vincent Wong | SH / English Language |
