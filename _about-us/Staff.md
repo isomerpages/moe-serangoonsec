@@ -73,14 +73,14 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 3I1 |Mr Liao Yongzhi<br>Mr Yan Tuck Poh
-| 3I2 |Ms Jacklyn Lee<br>Mr Yee Kah Leong<br>Mr Kenneth Feng Guo Wei|
-| 3I3 |Ms Kimberley Kuan<br>Mr Tan Kian Chong|
-| 3I4 |Ms Chew Li Ting<br>Mr Fathie Bin Ali Abdat|
-| 3I5 |Ms Lee Zhi Li<br>Mr Tan Yong Khai<br>
-| 3I6 |Ms Chiok Hwee Xin Joseline<br>Mr Daniel Fung|
-| 3I7 |Mr Lim Tong Yang<br>Ms Sun Guizi|
-| 3I8 |Mr Adrian Tay|
+| 3I1 |Ms Teo Lay Peng Lynn<br>Mr Suratman Bin Masohan |
+| 3I2 |Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari d/o Selvaraja<br>Ms Tan Xiaolin |
+| 3I3 |Ms Gloria Lim<br>Mr Muhammad Nasri |
+| 3I4 |Mr Jeff Mak<br>Ms Amala |
+| 3I5 |Ms Joey Chong<br>Ms Kok Chuan Tin<br>Ms Siti Nur Sufiana Binti Hashim |
+| 3I6 |Mdm Ng Siew Kheng<br>Ms Wong Li Ling |
+| 3I7 |Mr Muhammad Bin Roslee<br>Ms Kanchana |
+| 3I8 |Mr Muhammad Hamzah<br>Mdm You Chang Ying |
 
 ##### Secondary 4 &amp; 5
 
