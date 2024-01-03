@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Staff
 
-#### Middle Managers 2023
+#### Middle Managers 2024
 
 | Name  | Designation |
 |---|---|
