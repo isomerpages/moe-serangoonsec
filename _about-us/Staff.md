@@ -67,7 +67,7 @@ variant: markdown
 | 2H5 | Ms Ivy Phong<br>Mr Muzzaffar |
 | 2H6 | Mr Timotty Tay Jun Jie <br>Mdm Nur Ashirah Binti Nordali |
 | 2H7 | Ms Charlene Lim<br>Ms Alice Yong |
-| 2H8 | Ms Sharon Tan<br>Ms Dasimah<br>Ms Candice Lim|
+| 2H8 | Ms Sharon Tan<br>Ms Dasimah<br>Ms Candice Lim |
 
 ##### Secondary 3
 
