@@ -39,9 +39,8 @@ variant: markdown
 | Ms Sharon Tan Kai Ling | Acting SH / Student Well-Being |
 | Ms Tan Xiaolin | Assistant Year Head (Internal) |
 | Mr Liao Yongzhi | Assistant Year Head (Internal) |
-<hr>
 
-#### Classes and Form Teachers 2023
+### Classes and Form Teachers 2023
 
 ##### Secondary 1
 
