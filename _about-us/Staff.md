@@ -23,23 +23,23 @@ variant: markdown
 | Mr Tay Ming Yang | Year Head (Lower Sec) |
 | Ms Faith Wong-Yeo Sok Yee | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
-
-
-
-
-
-
-| Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2)  |
-| Mr Koh Sien Kok Dennis | SH / Character &amp; Citizenship Education |
-| Ms Fu Shin Hui | SH / Chemistry |
-| Ms Guo Kaiqi Jenny | SH / Chinese Language |
-| Mr Kng Zhiying | SH / Design &amp; Technology |
-| Mr Kamal Bin Jupri | SH / Educational Support  |
 | Mr Vincent Wong | SH / English Language |
-| Mr Adrial Tan Chong Jin  | SH / Information &amp; Communications Technology  |
-| Ms Ong Rui Yun Jean | SH / Literature |
+| Ms Guo Kaiqi Jenny | SH / Chinese Language |
 | Mr Heng Tze Wei | SH / Mathematics |
+| Ms Fu Shin Hui | SH / Chemistry |
+| Ms Teo Lay Peng Lynn | Acting SH / Art &amp; Aesthetics |
+| Mr Lim Tong Yang | Acting SH / Information &amp; Communications Technology |
+| Ms Chew Li Ting | Acting SH / Nutrition &amp; Food Science |
+| Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2) |
+| Ms Ezyanti Siregar Bte Lukman | Assistant Year Head |
+| Mr Koh Sien Kok Dennis | SH / Character &amp; Citizenship Education |
 | Ms Teo Zhi Hui Geraldine | SH / Physical Education &amp; Co-Curricular Activities |
+| Ms Ang Chian Huey | SH / Student Leadership |
+| Mr Kamal Bin Jupri | SH / Student Management |
+| Ms Sharon Tan Kai Ling | Acting SH / Student Well-Being |
+| Ms Tan Xiaolin | Assistant Year Head (Internal) |
+| Mr Liao Yongzhi | Assistant Year Head (Internal) |
+<hr>
 
 #### Classes and Form Teachers 2023
 
