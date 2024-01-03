@@ -46,11 +46,11 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 1SD1 | Ms Lim Qiao Chun Caelyn<br> Ms Fong Jia Hui|
-| 1SD2 | Ms Peh Su Fang<br>Mr Hidayat |
-| 1SD3 | Mdm Tengku Norita<br>Mr Jarrod Lim<br>Mrs Rudrapathy Vijayalakshmi|
-| 1SD4 | Mdm Hasrita Hosnin<br> Ms Lim Yu Xin Sheryl|
-| 1SD5 | Ms Ivy Phong<br>Mr Muzzaffar|
+| 1SD1 | Ms Raudah<br>Mdm Lim Pei Yee<br>Mr Danapal Kumar |
+| 1SD2 | Ms Jenny Guo<br>Ms Sherrie Ng |
+| 1SD3 | Ms Ng Xuemin<br>Mrs Rudrapathy Vijayalakshmi |
+| 1SD4 | Ms Teo Zhi Hui Geraldine<br>Mr Tan Boon Hwee |
+| 1SD5 | Ms Shabana<br>Mr Muzzaffar |
 | 1SD6 |  Mr Timotty Tay Jun Jie<br>Mdm Nur Ashirah Binti Nordali|
 | 1SD7 | Mr Timothy Liew<br> Ms Charlene Lim|
 | 1SD8 | Ms Sharon Tan<br>Ms Dasimah|
