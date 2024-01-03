@@ -60,14 +60,14 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 2H1 | Mr Suratman Bin Masohan<br>Ms Teo Lay Peng Lynn<br> Mr Goh Ling Pin|
-| 2H2 |Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari d/o Selvaraja<br>Ms Tan Xiaolin|
-| 2H3 |Ms Gloria Lim<br>Mr Muhammad Nasri|
-| 2H4 |Mdm Cheryl Lau<br>Mr Jeff Mak<br>Ms Amala|
-| 2H5 |Mr Tan Yong-Wen Lance<br>Mdm You Chang Ying|
-| 2H6 |Mr Wang Xiao Long <br>Ms Kok Chuan Tin|
-| 2H7 |Mr Yee Liang Chien<br>Ms Candice Lim|
-| 2H8 |Ms Chan Wei Meng<br>Mr Josh Sam<br>Ms Joey Chong|
+| 2H1 | Ms Lim Qiao Chun Caelyn<br>Ms Fong Jia Hui<br> Mr Shawn Seah Wei Xun |
+| 2H2 | Ms Peh Su Fang<br>Mr Hidayat |
+| 2H3 | Mdm Tengku Norita<br>Mr Jarrod Lim |
+| 2H4 | Mdm Hasrita Hosnin<br>Mr Tan Yong Khai<br>Ms Amala|
+| 2H5 | Ms Ivy Phong<br>Mr Muzzaffar |
+| 2H6 | Mr Timotty Tay Jun Jie <br>Mdm Nur Ashirah Binti Nordali |
+| 2H7 | Ms Charlene Lim<br>Ms Alice Yong |
+| 2H8 | Ms Sharon Tan<br>Ms Dasimah<br>Ms Candice Lim|
 
 ##### Secondary 3
 
