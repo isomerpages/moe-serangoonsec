@@ -90,17 +90,17 @@ variant: markdown
 | 4N2 | Ms Jacklyn Lee<br>Mr Yee Kah Leong |
 | 4N3 | Ms Kimberley Kuan<br>Mr Tan Kian Chong |
 | 4N4 | Mr Fathie Bin Ali Abdat<br>Ms Chew Li Ting |
-| 4N5 |Mdm Lim Pei Yee<br>Ms Teo Zhi Hui Geraldine|
-| 4N6 |Mdm Ng Siew Kheng<br>Mr Tan Boon Hwee|
-| 4N7 |Mr Michael Chow<br>Mr Sin Kah Fai|
-| 4N8 |Ms Lim Shilei Ella<br>Mr Muhammad Bin Roslee|
-| 5E1 |Ms Ang Chian Huey<br>Mr Tan Peng Yau|
+| 4N5 | Ms Lee Zhi Li<br>Ms Timmie Tan<br>Mr Yee Liang Chien |
+| 4N6 | Mr Daniel Fung<br>Ms Samantha Tan Xinyi |
+| 4N7 | Mr Lim Tong Yang<br>Ms Sun Guizi |
+| 4N8 | Mr Adrian Tay |
+| 5E1 |Mr Ong Chee Meng<br>Mr Goh Ling Pin |
 
-#### Allied Educators 2023
+#### Allied Educators 2024
 
 | Name | Designation |
 |---|---|
 | Mr Abdul Rahim Bin Zainol<br> | SEN Officer<br> |
 | Ms Aimi'Atiqah Bte Shamsuddin | Student Welfare Officer<br> |
 | Mdm Jade Chee Gek Chin<br>| Senior School Counsellor<br> |
-| Ms Thahira Thasnim Hajamaideen<br> | School Counsellor<br> |
+| Ms Thahira Thasnim Hajamaideen<br> | Senior School Counsellor<br> |
