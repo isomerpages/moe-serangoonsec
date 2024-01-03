@@ -86,10 +86,10 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 4N1 |Ms Bel Quek<br>Mr Roger Goh Chye Boon|
-| 4N2 |Ms Siti Nur Sufiana Binte Hashim<br>Mr Danapal Kumar<br>Ms Ezyanti Siregar Bte Lukman|
-| 4N3 |Ms Shabana<br>Mr Ong Chee Meng<br>Ms Kalarani|
-| 4N4 |Ms Ng Xuemin<br>Ms Sha Yijing<br>Ms Raudah <br>Ms Wong Liling|
+| 4N1 | Mr Liao Yongzhi<br>Mr Yan Tuck Poh |
+| 4N2 | Ms Jacklyn Lee<br>Mr Yee Kah Leong |
+| 4N3 | Ms Kimberley Kuan<br>Mr Tan Kian Chong |
+| 4N4 | Mr Fathie Bin Ali Abdat<br>Ms Chew Li Ting |
 | 4N5 |Mdm Lim Pei Yee<br>Ms Teo Zhi Hui Geraldine|
 | 4N6 |Mdm Ng Siew Kheng<br>Mr Tan Boon Hwee|
 | 4N7 |Mr Michael Chow<br>Mr Sin Kah Fai|
