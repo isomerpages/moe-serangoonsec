@@ -40,7 +40,7 @@ variant: markdown
 | Ms Tan Xiaolin | Assistant Year Head (Internal) |
 | Mr Liao Yongzhi | Assistant Year Head (Internal) |
 
-### Classes and Form Teachers 2023
+### Classes and Form Teachers 2024
 
 ##### Secondary 1
 
