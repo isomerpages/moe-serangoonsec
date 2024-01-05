@@ -7,14 +7,20 @@ variant: markdown
 ---
 ### Event List
 
+##### 2024 Events
+
+| Date |  |Event|
+| -------- | -------- | -------- |
+| 05/01/2024:     |1.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2024) <b>(NEW!)</b> |
+
 ##### 2023 Events
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 20/12/2023:     |1.| [SSS Secondary 1 Registration 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2023/) <b>(NEW!)</b>|
-| 19/12/2023:     |2.| [2023 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2023-gce-nlevel-results/) <b>(NEW!)</b>|
-| 28/11/2023:     |3.| [Celebrating 95 Years of Enduring Legacy](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sss-95-years/) <b>(NEW!)</b>|
-| 23/11/2023:     |4.| [Updates to 2024 Booklists](https://www.serangoonsec.moe.edu.sg/announcements/announcements/update-booklists-2024/) <b>(NEW!)</b>|
+| 20/12/2023:     |1.| [SSS Secondary 1 Registration 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2023/) |
+| 19/12/2023:     |2.| [2023 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2023-gce-nlevel-results/) |
+| 28/11/2023:     |3.| [Celebrating 95 Years of Enduring Legacy](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sss-95-years/) |
+| 23/11/2023:     |4.| [Updates to 2024 Booklists](https://www.serangoonsec.moe.edu.sg/announcements/announcements/update-booklists-2024/) |
 | 31/10/2023:     |5.| [Serangoon in Concert](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sgoon-concert/)|
 | 27/10/2023:     |6.| [Sale of Books and Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2024/)|
 | 23/10/2023:     |7.| [Travel Declaration for 2023 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2023-eoy/)|
