@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 05/01/2024:     |1.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/Announcements/olevelresults-2024) <b>(NEW!)</b> |
+| 05/01/2024:     |1.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024) <b>(NEW!)</b> |
 
 ##### 2023 Events
 
