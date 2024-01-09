@@ -106,7 +106,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work.
 
-<img src="/images/Science/sci_dept_pic_1.jpg" style="width:275px; height:315px" align="Center">
+![](/images/Science/sci_dept_pic_1.jpg)
 Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
 
 ### <center>Science Department Teaching and Learning (T&amp;L) Framework</center>
@@ -136,13 +136,13 @@ Through various tiers of programmes catered to the needs of different segments o
 
 <b>Programmes</b>
 	
-<img src="/images/Science/sci_dept_pic_6.jpg" style="width:250px; height:175px" align="Center">
+![](/images/Science/sci_dept_pic_6.jpg)
 	
-<img src="/images/Science/sci_dept_pic_7.jpg" style="width:250px; height:175px" align="Center">
+![](/images/Science/sci_dept_pic_7.jpg)
 
-<img src="/images/Science/sci_dept_pic_8.jpg" style="width:175px; height:250px" align="Left">
+![](/images/Science/sci_dept_pic_8.jpg)
 
-<img src="/images/Science/sci_dept_pic_9.jpg" style="width:215px; height:250px" align="Right">
+![](/images/Science/sci_dept_pic_9.jpg)
 	
 <br><br><br><br><br><br>
 
