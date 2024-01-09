@@ -3,55 +3,22 @@ title: Overview
 permalink: /academic-programmes/science/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
-### Vision
+### <center>Vision</center>
 
-Passionate, Proficient and Prepared for the future
-
-<hr>
-
-### Mission
-
-To ignite a passion for Science in every Serangoon StaR and to nurture students to be future-ready, proficient and socially responsible citizens of character.
+<center>Passionate, Proficient and Future-Ready Individuals</center>
 
 <hr>
 
-### Science Curriculum
+### <center>Mission</center>
 
-The curriculum goals of the department are referenced from the Science Curriculum Framework, where we aim to: 
-
-* enthuse and nurture all students to be scientifically literate, which can help them to make informed decisions and take responsible actions in their daily lives. 
-
-* provide strong science foundations for students to innovate and pursue STEM for future learning and work. 
-
-
-<img src="/images/science_page_graphic_1.png" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-
-<figcaption>Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</figcaption>
-
-
+<center>To ignite a passion for Science in every student and to nurture students to be proficient in science, future-ready, and socially responsible citizens of character.</center>
 
 <hr>
 
+### <center>2024 Science Department Team</center>
 
-#### Science Department Teaching and Learning (T&amp;L) Framework
-
-The department’s T&amp;L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
-
-* be INspired by Science, 
-
-* INquire like Scientists, and 
-
-* INnovate using Science. 
-
-
-<img src="/images/science_page_graphic_2.png" style="width:450px; border:0.5px solid Gainsboro; padding: 5px; Align: Left">
-
-<figcaption>Source: Academy of Singapore Teachers (AST); </figcaption>
-
-<hr>
-
-#### 2023 Science Department Team
 
 <table>
   <tbody><tr>
@@ -64,7 +31,7 @@ The department’s T&amp;L framework is guided by the school vision and school p
   </tr>
 </tbody></table>
 
-##### Subject Units
+<h5 id="subject-units">Subject Units</h5>
 
 <table>
  <tbody><tr>
@@ -75,18 +42,19 @@ The department’s T&amp;L framework is guided by the school vision and school p
  <tr>
     <td>Kok Chuan Tin (ST/CCE)</td>
     <td>Yogeswari d/o Selvaraja (ST/Chemistry)</td>
-    <td>Caelyn Lim</td>
+    <td>Tay Ming Yang (Year Head)</td>
   </tr>
 <tr>
     <td>Ng Siew Kheng</td>
-    <td>Ang Chian Huey</td>
-	  <td>Tay Ming Yang (YH/LS)</td>
+    <td>Ang Chian Huey (SH / Student Leadership)</td>
+	  <td>Lim Tong Yang (Ag SH / ICT)</td>
     
   </tr>
 <tr>
     <td>Peh Su Fang</td>
     <td>Chong Jiaqi, Joey</td>
-	  <td>Lim Tong Yang</td>
+	  <td>Caelyn Lim</td>
+	  
     
   </tr>
 <tr>
@@ -114,7 +82,7 @@ The department’s T&amp;L framework is guided by the school vision and school p
   </tr>
 </tbody></table>
 
-<br>
+<p><br></p>
 
 <table>
  <tbody><tr>
@@ -126,5 +94,62 @@ The department’s T&amp;L framework is guided by the school vision and school p
     <td>Mdm Geetha</td>
   </tr>
 </tbody></table>
+
+<hr>
+
+### <center>Science Department Curriculum Goals</center>
+
+
+The curriculum goals of the department are referenced from the Science Curriculum Framework, where we aim to: 
+
+* enthuse and nurture all students to be scientifically literate, which can help them to make informed decisions and take responsible actions in their daily lives. 
+
+* provide strong science foundations for students to innovate and pursue STEM for future learning and work.
+
+![](/images/Science/sci_dept_pic_1.jpg)
+Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
+
+### <center>Science Department Teaching and Learning (T&amp;L) Framework</center>
+
+The department’s T&amp;L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
+
+* be INspired by Science, 
+
+* INquire like Scientists, and 
+
+* INnovate using Science. 
+
+![](/images/Science/sci_dept_pic_2.jpg)
+Source: Academy of Singapore Teachers (AST)
+
+<b>Students demonstrating ways of thinking and doing science</b>
+
+![](/images/Science/sci_dept_pic_3.jpg)
+
+![](/images/Science/sci_dept_pic_4.jpg)
+
+### <center>Talent Development Model</center>
+
+![](/images/Science/sci_dept_pic_5.jpg)
+
+Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
+
+<b>Programmes</b>
+	
+![](/images/Science/sci_dept_pic_6.jpg)
+	
+![](/images/Science/sci_dept_pic_7.jpg)
+
+![](/images/Science/sci_dept_pic_8.jpg)
+
+![](/images/Science/sci_dept_pic_9.jpg)
+	
+<br><br><br><br><br><br>
+
+<b>Competitions</b>
+
+![](/images/Science/sci_dept_pic_10.jpg)
+
+![](/images/Science/sci_dept_pic_11.jpg)
 
 <hr>
