@@ -51,7 +51,7 @@ variant: markdown
     
   </tr>
 <tr>
-    <td>Ang Chian Huey (SH / Student Leadership)</td>
+    <td>Peh Su Fang</td>
     <td>Chong Jiaqi, Joey</td>
 	  <td>Caelyn Lim</td>
 	  
@@ -96,6 +96,21 @@ variant: markdown
 </tbody></table>
 
 <hr>
+
+### <center>Science Department Curriculum Goals</center>
+
+
+The curriculum goals of the department are referenced from the Science Curriculum Framework, where we aim to: 
+
+* enthuse and nurture all students to be scientifically literate, which can help them to make informed decisions and take responsible actions in their daily lives. 
+
+* provide strong science foundations for students to innovate and pursue STEM for future learning and work.
+
+![](/images/Science/sci_dept_pic_1.jpg)
+Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
+
+
+
 
 
 
