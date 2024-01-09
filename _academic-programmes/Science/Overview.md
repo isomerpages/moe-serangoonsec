@@ -109,8 +109,45 @@ The curriculum goals of the department are referenced from the Science Curriculu
 ![](/images/Science/sci_dept_pic_1.jpg)
 Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
 
+### <center>Science Department Teaching and Learning (T&amp;L) Framework</center>
 
+The department’s T&amp;L framework is guided by the school vision and school philosophy at its core. It takes reference from the Singapore Teaching Practice (STP) and encapsulates the various pedagogical and assessment practices that aim to realise the vision of science education i.e. for every Serangoon StaR to:
 
+* be INspired by Science, 
 
+* INquire like Scientists, and 
 
+* INnovate using Science. 
 
+![](/images/Science/sci_dept_pic_2.jpg)
+Source: Academy of Singapore Teachers (AST)
+
+<b>Students demonstrating ways of thinking and doing science</b>
+
+![](/images/Science/sci_dept_pic_3.jpg)
+
+![](/images/Science/sci_dept_pic_4.jpg)
+
+### <center>Talent Development Model</center>
+
+![](/images/Science/sci_dept_pic_5.jpg)
+
+Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
+
+<b>Programmes</b>
+
+![](/images/Science/sci_dept_pic_6.jpg)
+
+![](/images/Science/sci_dept_pic_7.jpg)
+
+![](/images/Science/sci_dept_pic_8.jpg)
+
+![](/images/Science/sci_dept_pic_9.jpg)
+
+<b>Competitions</b>
+
+![](/images/Science/sci_dept_pic_10.jpg)
+
+![](/images/Science/sci_dept_pic_11.jpg)
+
+<hr>
