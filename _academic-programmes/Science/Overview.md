@@ -106,7 +106,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work.
 
-![](/images/Science/sci_dept_pic_1.jpg)
+<img src="/images/Science/sci_dept_pic_1.jpg" style="width:275px; height:315px" align="Center">
 Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
 
 ### <center>Science Department Teaching and Learning (T&amp;L) Framework</center>
@@ -135,14 +135,16 @@ Source: Academy of Singapore Teachers (AST)
 Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
 
 <b>Programmes</b>
+	
+<img src="/images/Science/sci_dept_pic_6.jpg" style="width:250px; height:175px" align="Center">
+	
+<img src="/images/Science/sci_dept_pic_7.jpg" style="width:250px; height:175px" align="Center">
 
-![](/images/Science/sci_dept_pic_6.jpg)
+<img src="/images/Science/sci_dept_pic_8.jpg" style="width:175px; height:250px" align="Left">
 
-![](/images/Science/sci_dept_pic_7.jpg)
-
-![](/images/Science/sci_dept_pic_8.jpg)
-
-![](/images/Science/sci_dept_pic_9.jpg)
+<img src="/images/Science/sci_dept_pic_9.jpg" style="width:215px; height:250px" align="Right">
+	
+<br><br><br><br><br><br>
 
 <b>Competitions</b>
 
