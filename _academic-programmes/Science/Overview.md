@@ -147,7 +147,7 @@ Students engaging in forensic science investigations
 ![](/images/Science/sci_dept_pic_7.jpg)
 Students exploring the hydroponics system in the school’s Science Garden
 
-![](/images/Science/sci_dept_pic_8.jpg)
+![](/images/Science/sci_dept_pic_8.jpeg)
 Students building and testing their car prototype on an actual race track
 
 ![](/images/Science/sci_dept_pic_9.jpg)
