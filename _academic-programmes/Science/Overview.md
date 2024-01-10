@@ -138,11 +138,13 @@ Through various tiers of programmes catered to the needs of different segments o
 <b>Programmes</b>
 	
 ![](/images/Science/sci_dept_pic_6.jpg)
+Students engaging in forensic science investigations
 	
 ![](/images/Science/sci_dept_pic_7.jpg)
 Students exploring the hydroponics system in the school’s Science Garden
 
 ![](/images/Science/sci_dept_pic_8.jpg)
+Students building and testing their car prototype on an actual race track
 
 ![](/images/Science/sci_dept_pic_9.jpg)
 Out-of-classroom learning opportunities for students to make connections with what they learn in school
