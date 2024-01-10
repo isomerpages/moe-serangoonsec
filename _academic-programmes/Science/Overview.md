@@ -106,7 +106,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work.
 
-<img src="/images/Science/sci_dept_pic_1.jpg" style="width:300px; height:400px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Center">
+<img src="/images/Science/sci_dept_pic_1.jpg" style="width:320px; height:400px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Center">
 
 <center>Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</center>
 
@@ -120,7 +120,7 @@ The department’s T&amp;L framework is guided by the school vision and school p
 
 * INnovate using Science. 
 
-![](/images/Science/sci_dept_pic_2.jpg)
+![](/images/Science/sci_dept_pic_2.png)
 Source: Academy of Singapore Teachers (AST)
 
 <b>Students demonstrating ways of thinking and doing science</b>
@@ -131,7 +131,7 @@ Source: Academy of Singapore Teachers (AST)
 
 ### <center>Talent Development Model</center>
 
-![](/images/Science/sci_dept_pic_5.jpg)
+![](/images/Science/sci_dept_pic_5.png)
 
 Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
 
@@ -144,6 +144,7 @@ Through various tiers of programmes catered to the needs of different segments o
 ![](/images/Science/sci_dept_pic_8.jpg)
 
 ![](/images/Science/sci_dept_pic_9.jpg)
+Out-of-classroom learning opportunities for students to make connections with what they learn in school
 	
 <br><br><br><br><br><br>
 
