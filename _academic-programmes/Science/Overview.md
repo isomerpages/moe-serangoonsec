@@ -125,13 +125,15 @@ Source: Academy of Singapore Teachers (AST)
 
 <b>Students demonstrating ways of thinking and doing science</b>
 
-![](/images/Science/sci_dept_pic_3.jpg)
+![](/images/Science/sci_dept_pic_3.JPG)
+Using e-Pedagogy as a means to connect students’ learning through multi-modal representations in science
 
 ![](/images/Science/sci_dept_pic_4a.JPG)
 
 ![](/images/Science/sci_dept_pic_4b.jpg)
 
 ![](/images/Science/sci_dept_pic_4c.png)
+Students engaging in STEM Learning Experiences (LEs)
 
 ### <center>Talent Development Model</center>
 
