@@ -107,7 +107,8 @@ The curriculum goals of the department are referenced from the Science Curriculu
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work.
 
 ![](/images/Science/sci_dept_pic_1.jpg)
-Source: Curriculum Planning and Development Division (CPDD), Ministry of Education
+
+<center>Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</center>
 
 ### <center>Science Department Teaching and Learning (T&amp;L) Framework</center>
 
@@ -119,37 +120,52 @@ The department’s T&amp;L framework is guided by the school vision and school p
 
 * INnovate using Science. 
 
-![](/images/Science/sci_dept_pic_2.jpg)
+![](/images/Science/sci_dept_pic_2.png)
 Source: Academy of Singapore Teachers (AST)
 
 <b>Students demonstrating ways of thinking and doing science</b>
 
-![](/images/Science/sci_dept_pic_3.jpg)
+![](/images/Science/sci_dept_pic_3.JPG)
+Using e-Pedagogy as a means to connect students’ learning through multi-modal representations in science
 
-![](/images/Science/sci_dept_pic_4.jpg)
+![](/images/Science/sci_dept_pic_4a.JPG)
+
+![](/images/Science/sci_dept_pic_4b.jpg)
+
+![](/images/Science/sci_dept_pic_4c.png)
+Students engaging in STEM Learning Experiences (LEs)
 
 ### <center>Talent Development Model</center>
 
-![](/images/Science/sci_dept_pic_5.jpg)
+![](/images/Science/sci_dept_pic_5.png)
 
 Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
 
 <b>Programmes</b>
 	
 ![](/images/Science/sci_dept_pic_6.jpg)
-	
-![](/images/Science/sci_dept_pic_7.jpg)
+Students engaging in forensic science investigations
 
-![](/images/Science/sci_dept_pic_8.jpg)
+![](/images/Science/sci_dept_pic_7.JPG)
+Students exploring the hydroponics system in the school’s Science Garden
+
+![](/images/Science/sci_dept_pic_8.jpeg)
+Students building and testing their car prototype on an actual race track
 
 ![](/images/Science/sci_dept_pic_9.jpg)
+Out-of-classroom learning opportunities for students to make connections with what they learn in school
 	
-<br><br><br><br><br><br>
 
 <b>Competitions</b>
 
-![](/images/Science/sci_dept_pic_10.jpg)
+![](/images/Science/sci_dept_pic_10a.jpg)
 
-![](/images/Science/sci_dept_pic_11.jpg)
+![](/images/Science/sci_dept_pic_10b.jpg)
+Students and teacher mentors in scientific research-based competitions
+
+![](/images/Science/sci_dept_pic_11a.jpg)
+
+![](/images/Science/sci_dept_pic_11b.jpg)
+Students participating in competitions to stretch their logical reasoning and critical thinking skills
 
 <hr>
