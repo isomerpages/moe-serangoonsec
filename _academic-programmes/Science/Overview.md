@@ -127,7 +127,11 @@ Source: Academy of Singapore Teachers (AST)
 
 ![](/images/Science/sci_dept_pic_3.jpg)
 
-![](/images/Science/sci_dept_pic_4.jpg)
+![](/images/Science/sci_dept_pic_4a.JPG)
+
+![](/images/Science/sci_dept_pic_4b.jpg)
+
+![](/images/Science/sci_dept_pic_4c.png)
 
 ### <center>Talent Development Model</center>
 
