@@ -158,8 +158,5 @@ Out-of-classroom learning opportunities for students to make connections with wh
 
 <b>Competitions</b>
 
-![](/images/Science/sci_dept_pic_10.jpg)
-
-![](/images/Science/sci_dept_pic_11.jpg)
 
 <hr>
