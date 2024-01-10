@@ -145,8 +145,8 @@ Through various tiers of programmes catered to the needs of different segments o
 	
 ![](/images/Science/sci_dept_pic_6.jpg)
 Students engaging in forensic science investigations
-	
-![](/images/Science/sci_dept_pic_7.jpg)
+
+![](/images/Science/sci_dept_pic_7.JPG)
 Students exploring the hydroponics system in the school’s Science Garden
 
 ![](/images/Science/sci_dept_pic_8.jpeg)
@@ -158,5 +158,14 @@ Out-of-classroom learning opportunities for students to make connections with wh
 
 <b>Competitions</b>
 
+![](/images/Science/sci_dept_pic_10a.jpg)
+
+![](/images/Science/sci_dept_pic_10b.jpg)
+Students and teacher mentors in scientific research-based competitions
+
+![](/images/Science/sci_dept_pic_11a.jpg)
+
+![](/images/Science/sci_dept_pic_11b.jpg)
+Students participating in competitions to stretch their logical reasoning and critical thinking skills
 
 <hr>
