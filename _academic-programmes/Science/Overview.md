@@ -140,6 +140,7 @@ Through various tiers of programmes catered to the needs of different segments o
 ![](/images/Science/sci_dept_pic_6.jpg)
 	
 ![](/images/Science/sci_dept_pic_7.jpg)
+Students exploring the hydroponics system in the school’s Science Garden
 
 ![](/images/Science/sci_dept_pic_8.jpg)
 
