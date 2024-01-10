@@ -106,7 +106,7 @@ The curriculum goals of the department are referenced from the Science Curriculu
 
 * provide strong science foundations for students to innovate and pursue STEM for future learning and work.
 
-<img src="/images/Science/sci_dept_pic_1.jpg" style="width:320px; height:400px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Center">
+<img src="/images/Science/sci_dept_pic_1.jpg" style="width:320px; height:400px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 <center>Source: Curriculum Planning and Development Division (CPDD), Ministry of Education</center>
 
@@ -146,7 +146,6 @@ Through various tiers of programmes catered to the needs of different segments o
 ![](/images/Science/sci_dept_pic_9.jpg)
 Out-of-classroom learning opportunities for students to make connections with what they learn in school
 	
-<br><br><br><br><br><br>
 
 <b>Competitions</b>
 
