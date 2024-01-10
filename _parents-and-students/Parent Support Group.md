@@ -2,8 +2,29 @@
 title: Parent Support Group
 permalink: /parents-and-students/psg/
 description: ""
+variant: markdown
 ---
 ### Parent Support Group (PSG)
+
+#### Father-Child Experiential Workshop
+
+Recognising the importance of nurturing the bonds between fathers and their adolescent children, our school hosted a 3-hour workshop by the Centre of Fathering Singapore. Held on 26 August, this workshop brought together nine pairs of fathers and children. 
+
+A fun-filled and interactive affair, the Father-Child Experiential Workshop aimed to provide an engaging space for fathers and their children to bond. Through practical, hands-on activities, participating fathers were guided by skilled facilitators on strategies to help them relate better to their children.
+
+Here are some heartfelt comments from fathers who attended the event:
+
+Mr. Ferozi, father of Mohamed Fatris, 3I6: "It's a very engaging, interesting, educational, and inspirational event."
+
+Mr. Kelvin Teo, father of Nerissa Teo, 1SD6: "Every father should attend this programme at least once in order to know if they need it or not."
+
+Mr. Edward Lim, father of Cowan Lim, 2H7: "Give it a try to make a positive change to the relationship."
+
+Mr. Bennett Tan, father of Abigail Tan, 1SD8: "It's fun and helps my kid to understand that her father cares."
+
+We are glad that the workshop has offered our StaRs and their fathers a unique opportunity to strengthen their connections!
+
+<hr>
 
 #### Sharing on ‘The Fathering Difference’ on 4 Aug 2023
 
