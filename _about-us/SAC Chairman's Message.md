@@ -8,7 +8,7 @@ description: ""
 
 ![](/images/School%20Management%20Team/SAC%20Chairman's%20Message/95th_Main_Slide.jpg)
 
-<img src="/images/Mr%20Desmond%20Fu.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/SAC%20Chairman's%20Message/sac_chairman.jpg" style="width:265px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 It is with great privilege and honour that I pen this message to mark the 95th Anniversary of Serangoon Secondary, and celebrate the remarkable contributions and achievements of students, staff, and stakeholders of the school. This is aptly captured by its 95th Anniversary Celebrations theme – ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing the Students, Staff and Stakeholders.   This theme embodies the spirit of unity and collaboration that has been the foundation of the school’s success over the years.
 
