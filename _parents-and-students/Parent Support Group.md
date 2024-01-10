@@ -4,7 +4,7 @@ permalink: /parents-and-students/psg/
 description: ""
 variant: markdown
 ---
-### Parent Support Group (PSG)
+## Parent Support Group (PSG)
 
 #### Father-Child Experiential Workshop
 
@@ -23,6 +23,12 @@ Mr. Edward Lim, father of Cowan Lim, 2H7: "Give it a try to make a positive chan
 Mr. Bennett Tan, father of Abigail Tan, 1SD8: "It's fun and helps my kid to understand that her father cares."
 
 We are glad that the workshop has offered our StaRs and their fathers a unique opportunity to strengthen their connections!
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/fcew_1.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/fcew_2.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/fcew_3.jpg)
 
 <hr>
 
