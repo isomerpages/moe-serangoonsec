@@ -1,5 +1,5 @@
 title: Serangoon Secondary School
-url: https://www.open.gov.sg
+url: https://serangoonsec.moe.edu.sg
 favicon: /images/school_logo_tiny.png
 colors:
   primary-color: "#f5a023"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: social-media
+google_analytics_ga4: ""
