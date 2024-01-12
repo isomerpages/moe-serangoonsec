@@ -5,7 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-#### Update:
+### Release of O Level Results 2024
+
+<b>12/01/2024 - Update:</b>
 
 Dear Parents and Guardians of 2023 Sec 4E and 5N cohort,
 
@@ -13,7 +15,14 @@ Dear Parents and Guardians of 2023 Sec 4E and 5N cohort,
 
 2. Thank you.
 
+[2023 'O' Level Briefing Slides for Students](/files/O%20Level%20Results%202024/2023_O_Level_Briefing_Slides_for_Students.pdf)
+
+[JAE Fact Sheet December 2023](/files/O%20Level%20Results%202024/JAE_Fact_Sheet_Dec_2023.pdf)
+
+[2024 JAE Courses](/files/O%20Level%20Results%202024/2024_JAE_Courses__2_.pdf)
 <hr>
+
+<b>05/01/2024</b>
 
 Dear parents and guardians of Sec 4E5N students , the results of O-Level Examinations will be released on Thursday, 11 January, 2pm.
 
