@@ -7,6 +7,16 @@ third_nav_title: Announcements
 ---
 ### Release of O Level Results 2024
 
+#### Update:
+
+Dear Parents and Guardians of 2023 Sec 4E and 5N cohort,
+
+1. Please find the related information for the release of the GCE ‘O’ level examinations results as attached.
+
+2. Thank you.
+
+<hr>
+
 Dear parents and guardians of Sec 4E5N students , the results of O-Level Examinations will be released on Thursday, 11 January, 2pm.
 
 * Students have been informed by the FTs on the reporting time, school attire, and things to note.
