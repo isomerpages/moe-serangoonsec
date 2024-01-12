@@ -33,13 +33,13 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
-      title: SSS Secondary 1 Registration 2023
+      title: Release of O Level Results 2024
       subtitle: Announcements
       id: infopic
-      description: 20 December 2023
+      description: 12 January 2024
       button: click here to read more
-      url: /announcements/announcements/sec-1-reg-2023/
-      image: /images/Announcements/sec_1_reg_infopic.jpeg
+      url: /announcements/announcements/olevelresults-2024/
+      image: /images/Announcements/exam_results.jpeg
       alt: Image alt text
   - infopic:
       title: School Open House 2023
