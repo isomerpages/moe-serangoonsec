@@ -7,6 +7,8 @@ third_nav_title: Announcements
 ---
 ### Release of O Level Results 2024
 
+![](/images/Announcements/exam_results.jpeg)
+
 <b>12/01/2024 - Update:</b>
 
 Dear Parents and Guardians of 2023 Sec 4E and 5N cohort,
