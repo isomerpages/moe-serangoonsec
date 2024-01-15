@@ -3,15 +3,18 @@ title: Chinese Instrumental Ensemble
 permalink: /student-development/Co-Curricular-Activities/chinese-ensemble/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Chinese Instrumental Ensemble
 
-![](/images/CE001.jpg)
+![](/images/Chinese%20Instrumental%20Ensemble/Slide1.JPG)
 
-![](/images/CE002.jpg)
+![](/images/Chinese%20Instrumental%20Ensemble/Slide2.JPG)
 
-![](/images/CE003.jpg)
+![](/images/Chinese%20Instrumental%20Ensemble/Slide3.JPG)
 
-![](/images/CE004.jpg)
+![](/images/Chinese%20Instrumental%20Ensemble/Slide4.JPG)
 
-![](/images/CE005.jpg)
+![](/images/Chinese%20Instrumental%20Ensemble/Slide5.JPG)
+
+<hr>
