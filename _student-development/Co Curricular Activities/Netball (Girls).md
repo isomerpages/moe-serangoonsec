@@ -3,13 +3,16 @@ title: Netball (Girls)
 permalink: /student-development/Co-Curricular-Activities/netball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Netball (Girls)
 
-![](/images/Netball/Netball_1.png)
+![](/images/Netball/1.png)
 
-![](/images/Netball/Netball_2.png)
+![](/images/Netball/2.png)
 
-![](/images/Netball/Netball_3.png)
+![](/images/Netball/3.png)
 
-![](/images/Netball/Netball_4.png)
+![](/images/Netball/4.png)
+
+<hr>
