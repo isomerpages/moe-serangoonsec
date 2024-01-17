@@ -3,19 +3,11 @@ title: National Cadet Corps (Land)
 permalink: /student-development/Co-Curricular-Activities/ncc-land/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 ### National Cadet Corps (Land)
 
-![](/images/NCC001.jpg)
 
-![](/images/NCC002.jpg)
-
-![](/images/NCC003.jpg)
-
-![](/images/NCC004.jpg)
-
-![](/images/ncc5.jpg)
 
 ##### Teachers In Charge
 
