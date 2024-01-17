@@ -3,29 +3,27 @@ title: National Cadet Corps (Land)
 permalink: /student-development/Co-Curricular-Activities/ncc-land/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 ### National Cadet Corps (Land)
 
-![](/images/NCC001.jpg)
+![](/images/NCC/Slide1.JPG)
 
-![](/images/NCC002.jpg)
+![](/images/NCC/Slide2.JPG)
 
-![](/images/NCC003.jpg)
+![](/images/NCC/Slide3.JPG)
 
-![](/images/NCC004.jpg)
-
-![](/images/ncc5.jpg)
+![](/images/NCC/Slide4.JPG)
 
 ##### Teachers In Charge
 
 | Ms Candice Lim   |
 | ---------------- |
-| Mr Hidayat       |
+| Mr Hidayat |
 | Mr Ong Chee Meng |
-| Mr Goh Ling Pin  |
-| Mr William Heng  |
-| Mr Josh Sam      |
-| Ms Fu Shin Hui   |
-| Mr Timothy Liew  |
-| Mr Kamal         |
+| Ms Fu Shin Hui |
+| Mr Goh Ling Pin |
+| Mr Hamzah  |
+| Ms Sherrie Ng |
+
+<hr>
