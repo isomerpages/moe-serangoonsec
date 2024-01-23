@@ -17,6 +17,9 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
+        - title: SSS in the News
+          description: Get on the School Buzz!
+          url: ""
       background: /images/20230302_100639.jpg
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
