@@ -42,14 +42,6 @@ sections:
       image: /images/Announcements/exam_results.jpeg
       alt: Image alt text
   - infopic:
-      title: School Open House 2023
-      subtitle: Announcements
-      id: infopic
-      button: Visit our Microsite
-      url: https://go.gov.sg/sssopenhouse2023
-      image: /images/Announcements/2023_e_banner.jpeg
-      alt: open-house-2023
-  - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
       button: Click here to read more
