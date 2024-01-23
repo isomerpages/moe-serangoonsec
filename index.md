@@ -9,17 +9,14 @@ sections:
   - hero:
       key_highlights:
         - title: Announcements
-          description: ""
+          description: Our latest events, here!
           url: /srss/announcements/
+        - title: SSS On Social Media
+          description: Follow Us on FB and IG!
+          url: /sss-soc-med/
         - title: Useful Links
           description: ""
           url: /useful-links/
-        - title: SSS on Facebook
-          description: ""
-          url: https://www.facebook.com/serangoonsecsg/
-        - title: SSS on Instagram
-          description: ""
-          url: https://www.instagram.com/serangoonsecondary/
       background: /images/20230302_100639.jpg
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
