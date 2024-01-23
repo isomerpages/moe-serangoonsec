@@ -14,12 +14,12 @@ sections:
         - title: SSS On Social Media
           description: Follow Us on FB and IG!
           url: /sss-soc-med/
-        - title: Useful Links
-          description: ""
-          url: /useful-links/
         - title: SSS in the News
           description: Get on the School Buzz!
           url: ""
+        - title: Useful Links
+          description: ""
+          url: /useful-links/
       background: /images/20230302_100639.jpg
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
