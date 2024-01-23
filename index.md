@@ -16,7 +16,7 @@ sections:
           url: /sss-soc-med/
         - title: SSS in the News
           description: Get on the School Buzz!
-          url: ""
+          url: /sss-in-news/
         - title: Useful Links
           description: ""
           url: /useful-links/
