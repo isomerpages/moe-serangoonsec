@@ -33,15 +33,6 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
-      title: Release of O Level Results 2024
-      subtitle: Announcements
-      id: infopic
-      description: 12 January 2024
-      button: click here to read more
-      url: /announcements/announcements/olevelresults-2024/
-      image: /images/Announcements/exam_results.jpeg
-      alt: Image alt text
-  - infopic:
       title: Daughter leaves secondary school with good memories
       subtitle: Straits times BOUQUETS
       button: Click here to read more
