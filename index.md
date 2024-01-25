@@ -34,9 +34,9 @@ sections:
       alt: Image alt text
   - infopic:
       title: Daughter leaves secondary school with good memories
-      subtitle: Straits times BOUQUETS
+      subtitle: SSS in the news
       button: Click here to read more
-      url: /parents-and-students/Latest-News/stbouquets/
+      url: /sss-in-news/
       image: /images/Parents & Students/bouquets_plaque_small_jpeg.jpg
       alt: Image alt text
 ---
