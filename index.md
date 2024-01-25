@@ -9,14 +9,14 @@ sections:
   - hero:
       key_highlights:
         - title: Announcements
-          description: Our latest events, here!
+          description: ""
           url: /srss/announcements/
-        - title: SSS On Social Media
-          description: Follow Us on FB and IG!
-          url: /sss-soc-med/
-        - title: SSS in the News
-          description: Get on the School Buzz!
-          url: /sss-in-news/
+        - title: SSS On Facebook
+          description: ""
+          url: https://www.facebook.com/serangoonsecsg/
+        - title: SSS On Instagram
+          description: ""
+          url: https://www.instagram.com/serangoonsecondary/
         - title: Useful Links
           description: ""
           url: /useful-links/
