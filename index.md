@@ -33,10 +33,10 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
-      title: Daughter leaves secondary school with good memories
+      title: Our school in the media spotlight
       subtitle: SSS in the news
       button: Click here to read more
       url: /sss-in-news/
-      image: /images/Parents & Students/bouquets_plaque_small_jpeg.jpg
+      image: /images/Announcements/sss_in_news.gif
       alt: Image alt text
 ---
