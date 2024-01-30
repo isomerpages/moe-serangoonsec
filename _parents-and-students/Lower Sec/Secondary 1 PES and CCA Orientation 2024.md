@@ -18,7 +18,7 @@ Please find the related information for the Secondary 1 PES and CCA Orientation 
 **e.**	[Cyber Wellness Strategies](/files/Parents%20and%20Students/Lower%20Sec/06_Cyberwellness_Strategies_Sec_1_PES_2024_V2.pdf)<br>
 **f.**	[After School Engagement](/files/Parents%20and%20Students/Lower%20Sec/07_PES_2024__Orion_StaRs_Parent_Briefing.pdf)<br>
 **g.**	[Parent Support Group](/files/Parents%20and%20Students/Lower%20Sec/08_Parent_Support_Group__2024_Sec_1_PES_and_CCA_Orientation_.pdf)<br>
-**h.**	[NDLP Briefing](/files/Parents%20and%20Students/Lower%20Sec/09_NDLP_Parents__Engagement_Slides___19_Jan_2024.pdf)NDLP Briefing<br>
+**h.**	[NDLP Briefing](/files/Parents%20and%20Students/Lower%20Sec/09_NDLP_Parents__Engagement_Slides___19_Jan_2024.pdf)<br>
 
 Thank you for your support.
 
