@@ -11,15 +11,15 @@ sections:
         - title: Announcements
           description: ""
           url: /srss/announcements/
+        - title: SSS On Facebook
+          description: ""
+          url: https://www.facebook.com/serangoonsecsg/
+        - title: SSS On Instagram
+          description: ""
+          url: https://www.instagram.com/serangoonsecondary/
         - title: Useful Links
           description: ""
           url: /useful-links/
-        - title: SSS on Facebook
-          description: ""
-          url: https://www.facebook.com/serangoonsecsg/
-        - title: SSS on Instagram
-          description: ""
-          url: https://www.instagram.com/serangoonsecondary/
       background: /images/20230302_100639.jpg
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
@@ -33,27 +33,14 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
-      title: Release of O Level Results 2024
-      subtitle: Announcements
+      title: Straits Times Bouquets
+      subtitle: Latest news
       id: infopic
-      description: 12 January 2024
-      button: click here to read more
-      url: /announcements/announcements/olevelresults-2024/
-      image: /images/Announcements/exam_results.jpeg
-      alt: Image alt text
-  - infopic:
-      title: School Open House 2023
-      subtitle: Announcements
-      id: infopic
-      button: Visit our Microsite
-      url: https://go.gov.sg/sssopenhouse2023
-      image: /images/Announcements/2023_e_banner.jpeg
-      alt: open-house-2023
-  - infopic:
-      title: Daughter leaves secondary school with good memories
-      subtitle: Straits times BOUQUETS
-      button: Click here to read more
-      url: /parents-and-students/Latest-News/stbouquets/
-      image: /images/Parents & Students/bouquets_plaque_small_jpeg.jpg
+      description: Daughter leaves secondary school with many life changing lessons
+        and good memories
+      button: CLICK HERE TO READ MORE
+      url: /parents-and-students/latest-news/stbouquets/
+      image: /images/SSS in the
+        News/Serangoon_Sec_forumd_ARTWORK_APPROVED_on_20230913.jpg
       alt: Image alt text
 ---

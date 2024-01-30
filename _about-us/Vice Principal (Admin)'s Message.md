@@ -2,12 +2,13 @@
 title: Vice Principal (Admin)'s Message
 permalink: /about-us/vp-a-message/
 description: ""
+variant: markdown
 ---
 ### Vice-Principal (Admin)'s Message
 
 <img src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-We are 95 this year and going strong! Our strength lies in us being a closely knitted family bonded by a strong spirit of teamwork, collaboration, and congeniality.  This pervasive school culture has created a conducive and nurturing environment for the growth of our students.
+We are 96 this year and going strong! Our strength lies in us being a closely knitted family bonded by a strong spirit of teamwork, collaboration, and congeniality.  This pervasive school culture has created a conducive and nurturing environment for the growth of our students.
 
 We believe an education that develops the imagination of a child is richer than one that equips the child with pure knowledge. While knowledge is important for the present, imagination is what moves individuals, societies, and cultures forward. Hence, we put a premium on promoting and growing an innovative mindset in our students through selective programs. We encourage our students to be creative and pioneering in their thoughts, while emphasising the importance of values and character that will serve as a moral compass in an uncertain and fast changing environment.
 
