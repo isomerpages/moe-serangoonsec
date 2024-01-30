@@ -33,10 +33,14 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
-      title: Our school in the media spotlight
-      subtitle: SSS in the news
-      button: Click here to read more
-      url: /sss-in-news/
-      image: /images/Announcements/sss_in_news.gif
+      title: Straits Times Bouquets
+      subtitle: Latest news
+      id: infopic
+      description: Daughter leaves secondary school with many life changing lessons
+        and good memories
+      button: CLICK HERE TO READ MORE
+      url: /parents-and-students/latest-news/stbouquets/
+      image: /images/SSS in the
+        News/Serangoon_Sec_forumd_ARTWORK_APPROVED_on_20230913.jpg
       alt: Image alt text
 ---
