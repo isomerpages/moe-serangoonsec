@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Lower Sec
 ---
-### Secondary 1 PES and CCA Orientation 2024
+### Secondary 1 Parent Engagement Session and CCA Orientation 2024
 
 Dear Parents and Guardians of 2024 Secondary 1 cohort,
 
