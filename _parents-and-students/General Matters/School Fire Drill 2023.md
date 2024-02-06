@@ -1,8 +1,0 @@
----
-title: School Fire Drill 2023
-permalink: /parents-and-students/general-matters/school-fire-drill-2024/
-description: ""
-third_nav_title: General Matters
-variant: markdown
----
-Please click [here](https://youtu.be/2fROiP4ZOKQ) to view the video on the school's Fire Drill exercise.
