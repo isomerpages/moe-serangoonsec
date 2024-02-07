@@ -5,4 +5,8 @@ description: ""
 third_nav_title: General Matters
 variant: markdown
 ---
-Please click [here](https://youtu.be/2fROiP4ZOKQ) to view the video on the school's Fire Drill exercise.
+### School Fire Drill 2024
+
+Please click [here](https://youtu.be/j72qjs0LljM) to view the video on the school's Fire Drill exercise.
+
+<hr>
