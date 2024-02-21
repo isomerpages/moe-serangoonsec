@@ -21,7 +21,7 @@ Information shared during the event can be found below.
 
 CCAs are a key component of students’ holistic education. Through CCA, students discover their interests and talents. As part of the CCA experience, students will also develop their character, learn values, social-emotional competencies, and skills to prepare them for future challenges. CCA is **compulsory** for all secondary school students.
 
-click [here](https://moe-serangoonsec-staging.netlify.app/student-development/cca) to find out more about the various CCAs offered by the school <br>
+click [here](/student-development/cca) to find out more about the various CCAs offered by the school <br>
 click (error link) to find out more about MOE LEAPS 2.0.
 
 **Please take note of the following dates regarding the Sec 1 CCA Selection Exercise**
