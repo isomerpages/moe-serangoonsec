@@ -18,4 +18,4 @@ description: ""
 * [READ @ Academy](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 * [SC Mobile](https://scmobile.moe.edu.sg/login)
-* [School E-Resource Repository (SERR)](https://moe-serangoonsec-staging.netlify.app/parents-and-students/general-matters/school-eresource)
+* [School E-Resource Repository (SERR)](/parents-and-students/general-matters/school-eresource)
