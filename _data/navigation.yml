@@ -1,0 +1,109 @@
+logo: /images/download.jpg
+links:
+  - title: About Us
+    url: /about-us/principalsmessage
+    sublinks:
+      - title: SAC Chairman's Message
+        url: /about-us/sac-chairman-message/
+      - title: Principal's Message
+        url: /about-us/principalsmessage
+      - title: Vice-Principal's Message
+        url: /about-us/vp-message/
+      - title: Vice-Principal (A)'s Message
+        url: /about-us/vp-a-message/
+      - title: SSD's Message
+        url: /about-us/ssd-message/
+      - title: HODs' and YHs' Messages
+        url: /about-us/hod-yh-messages/
+      - title: Vision, Mission, Values
+        url: /vmv/
+      - title: School Identity
+        url: /school-identity/
+      - title: School History
+        url: /history/
+      - title: School Stories
+        url: /about-us/school-stories/seeking-striving-and-serving-through-ugs/
+      - title: School Management Team
+        url: /management-team/
+      - title: School Advisory Committee
+        url: /advisory-committee/
+      - title: Staff
+        url: /staff/
+      - title: Contact Us
+        url: /contact-us/
+  - title: Distinctive Programmes
+    url: /distinctive-programmes/stem-applied-learning-programme/
+    sublinks:
+      - title: Applied Learning Prog (ALP)
+        url: /distinctive-programmes/stem-applied-learning-programme/
+      - title: Learning for Life Prog (LLP)
+        url: /distinctive-programmes/llp/
+      - title: Direct School Admission (DSA)
+        url: /distinctive-programmes/dsa/
+  - title: Student Development
+    url: /student-development/cce/
+    sublinks:
+      - title: Character and Citizenship Edu
+        url: /student-development/cce/
+      - title: Co-Curricular Activities (CCA)
+        url: /student-development/cca/
+      - title: Counselling & Student Welfare
+        url: /student-development/support/
+      - title: Edu & Career Guidance (ECG)
+        url: /parents-and-students/Post-Sec-Educational-Pathways/
+      - title: Educational Support
+        url: /student-development/edu-support/
+      - title: Student Leadership
+        url: /distinctive-programmes/llp/student-leadership/
+      - title: Student Management
+        url: /student-development/student-management/
+      - title: Year Head Team
+        url: /student-development/message-yh-us/
+  - title: Academic Programmes
+    url: /academic-programmes/craft-tech
+    sublinks:
+      - title: FSBB
+        url: /academic-programmes/fsbb/
+      - title: Craft & Technology
+        url: /academic-programmes/craft-tech/
+      - title: English Language & Literature
+        url: /academic-programmes/eng-lit
+      - title: Humanities
+        url: /academic-programmes/humans/
+      - title: Info-Comm Technology (ICT)
+        url: /academic-programmes/ict/
+      - title: Mathematics
+        url: /academic-programmes/math/
+      - title: Mother Tongue Languages
+        url: /academic-programmes/mother-tongue/
+      - title: Physical Education
+        url: /academic-programmes/pe/
+      - title: Science
+        url: /academic-programmes/science/
+  - title: Parents & Students
+    url: /parents-and-students/latest-news/2024-jae/
+    sublinks:
+      - title: Latest News
+        url: /parents-and-students/latest-news/2024-jae
+      - title: Letters to Parents & Guardians
+        url: /parents-and-students/letters-to-parent-and-guardians/
+      - title: Class Timetables
+        url: /parents-and-students/class-timetable/
+      - title: 2024 Student Handbook
+        url: /parents-and-students/student-handbook/
+      - title: Post Sec Educational Pathways
+        url: /parents-and-students/Post-Sec-Educational-Pathways/
+      - title: General Matters
+        url: /parents-and-students/general-matters/canteen-menu/
+      - title: Lower Sec Matters
+        url: /parents-and-students/lower-sec/sec1-pes-cca-2024/
+      - title: Upper Sec Matters
+        url: /parents-and-students/Upper-Sec/sec-3-parent-webinar
+      - title: Parent Support Group (PSG)
+        url: /parents-and-students/psg/
+      - title: SSS Alumni
+        url: /parents-and-students/SSS-Alumni/
+      - title: National Digital Literacy Prog
+        url: /parents-and-students/ndlp/
+      - title: Student Details Form Portal
+        url: /parents-and-students/sdf-portal/

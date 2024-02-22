@@ -1,0 +1,53 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Character and Citizenship Edu/.keep
+      - Character and Citizenship Edu/Character and Citizenship Education
+        (CCE).md
+      - Character and Citizenship Edu/SH & HOD (CCE)'s Message.md
+      - Character and Citizenship Edu/Values in Action (VIA).md
+      - Character and Citizenship Edu/Sexuality Education.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/CCA Overview.md
+      - Co Curricular Activities/AVAP Club.md
+      - Co Curricular Activities/Infocomm Club.md
+      - Co Curricular Activities/Chinese Instrumental Ensemble.md
+      - Co Curricular Activities/Choir.md
+      - Co Curricular Activities/Concert Band.md
+      - Co Curricular Activities/English Drama.md
+      - Co Curricular Activities/Malay Dance.md
+      - Co Curricular Activities/Modern Dance.md
+      - Co Curricular Activities/Basketball (Boys).md
+      - Co Curricular Activities/Floorball (Boys & Girls).md
+      - Co Curricular Activities/Football (Boys).md
+      - Co Curricular Activities/Netball (Girls).md
+      - Co Curricular Activities/Girl Guides.md
+      - Co Curricular Activities/National Cadet Corps (Land).md
+      - Co Curricular Activities/National Police Cadet Corps.md
+      - Co Curricular Activities/Red Cross Youth.md
+      - Co Curricular Activities/Scouts.md
+      - Counselling and Student Welfare Support.md
+      - Education & Career Guidance/.keep
+      - Education & Career Guidance/Post Secondary Educational Pathways.md
+      - Education & Career Guidance/MySkillsFuture Portal.md
+      - Education & Career Guidance/For GCE O Level students.md
+      - Education & Career Guidance/For GCE N Level students.md
+      - Education & Career Guidance/Directory of Post Secondary Education
+        Institutions.md
+      - Education & Career Guidance/Secondary 4 and 5 Parent Webinar.md
+      - Educational Support.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership Overview.md
+      - Student Leadership/Overview.md
+      - Student Leadership/SSS Student Leadership Framework.md
+      - Student Leadership/Prefectorial Board.md
+      - Student Leadership/CCA Leaders.md
+      - Student Leadership/Class Committee.md
+      - Student Leadership/Peer Support Leaders.md
+      - Student Management/Message by HOD.md
+      - Student Management/.keep
+      - Student Management/Student Management.md
+      - Year Head Team/.keep
+      - Year Head Team/Message by YH (Upper Secondary).md
+      - Year Head Team/Message by YH (Lower Secondary).md

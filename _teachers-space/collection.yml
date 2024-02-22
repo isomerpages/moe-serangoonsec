@@ -1,0 +1,5 @@
+collections:
+  teachers-space:
+    output: true
+    order:
+      - Teachers' Space.md
