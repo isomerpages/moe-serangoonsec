@@ -1,31 +1,36 @@
 ---
-title: Sec 4 &amp; 5 Parent Webinar
+title: Sec 4 & 5 Parent Webinar
 permalink: /parents-and-students/Upper-Sec/sec4n5-webinar/
 description: ""
 third_nav_title: Upper Sec
+variant: markdown
 ---
-### Sec 4 &amp; 5 Parent Webinar
+### Sec 4 &amp; 5 Parent Talk
 
 Dear Parents/Guardians,
 
-The following slides contain useful information on how you can prepare your child/ward for his/her national examinations. The slides also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE). This would be helpful for you as you guide your child/ward on the choices available when he/she pursues the next phase of learning after completing his/her secondary school education.
+On 9 March 2024 (Saturday), a Parent Talk was held for parents of our Secondary 4 and 5 students.
 
-[01 Overview and Timeline](/files/Upper%20Sec/01%20Overview%20and%20Timeline.pdf) <br>
-[02 Sec 4E and 5N Sharing](/files/Upper%20Sec/02%20Sec%204E%20and%205N%20Sharing.pdf) <br>
-[03 Sec 4NA Sharing](/files/Upper%20Sec/03%20Sec%204NA%20Sharing.pdf) <br>
-[04 Sec 4NT Sharing](/files/Upper%20Sec/04%20Sec%204NT%20Sharing.pdf)
+Objectives of the sharing are:
 
-On 11 March 2023 (Saturday), a Parent Engagement Webinar was held for parents of our Secondary 4 and 5 students.
+(1) to provide information on the current educational landscape as well as the post-secondary pathways available,
 
-Objectives of the webinar are:  
-(1) to provide information on the current educational landscape as well as the post-secondary pathways available,  
 (2) to partner parents in providing supervision and guidance to their child in preparation for the upcoming national examinations.
 
-Please refer to the videos below for the recording of the Secondary 4 and 5 Parent Webinar and breakout sessions.
+The following slides and links contain useful information on how you can prepare your child/ward for his/her national examinations. The slides and links also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE). This would be helpful for you as you guide your child/ward on the choices available when he/she pursues the next phase of learning after completing his/her secondary school education.
 
-[Sec 4 &amp; 5 Main Sharing](https://youtu.be/SPhSmxTqWbg)<br>
-[Sec 4E &amp; 5NA Breakout Session](https://youtu.be/xgcn8S4uEl0)<br>
-[Sec 4NA Breakout Session](https://youtu.be/gn_za_zbQbY)<br>
-[Sec 4NT Breakout Session](https://youtu.be/DYGqr2zFXOw)<br>
+**01** [Overview and Timeline](/files/Parents%20and%20Students/Upper%20Sec/Sec_4___5_Post_Sec_Pathways_Talk_Overview_2024.pdf)
+
+**02** [Sec 4E and 5N Sharing](/files/Parents%20and%20Students/Upper%20Sec/Sec_4E_and_5N_Sharing_2024.pdf)
+
+**03** [Sec 4NA Sharing](/files/Parents%20and%20Students/Upper%20Sec/Sec_4NA_Sharing_2024.pdf)
+
+**04** [Sec 4NT Sharing](/files/Parents%20and%20Students/Upper%20Sec/Sec_4NT_Sharing_2024.pdf)
+
+**05** [Link to 2024 JAE courses](https://www.moe.gov.sg/-/media/files/post-secondary/2024-jae/2024-jae-courses.pdf)
+
+**06** [Link to 2024 JIE 'N' courses](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf)
+
+**07** [Link to 2024 JIE 'O' courses](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-o-admission-booklet-2024.pdf)
 
 <hr>
