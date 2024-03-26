@@ -6,6 +6,12 @@ variant: markdown
 ---
 ### Letters to Parents &amp; Guardians
 
+##### 2024 Term 2 Letter to Parents
+
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_2_Letter_to_Parents.pdf) to view.
+
+<hr>
+
 ##### 2024 Term 1 Letter to Parents
 
 Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_1_Letter_to_Parents.pdf) to view.
