@@ -6,6 +6,16 @@ variant: markdown
 ---
 ## Parent Support Group (PSG)
 
+#### Sharing on ‘The Fathering Difference’ on 6 April 2024
+
+Dear Parents and Guardians, thank you for attending the above virtual sharing by Mr. Kevin Goh (Group Head Engagements and Programmes of the Centre for Fathering Singapore). Please find the video and the slides as attached.
+
+Click [here](/files/Parents%20and%20Students/Parent%20Support%20Group/Father_Awareness_Talk___6_April_2024__Serangoon_Sec_.pdf) to view the slides.
+
+Click here to watch the video.
+
+<hr>
+
 #### Father-Child Experiential Workshop
 
 Recognising the importance of nurturing the bonds between fathers and their adolescent children, our school hosted a 3-hour workshop by the Centre of Fathering Singapore. Held on 26 August, this workshop brought together nine pairs of fathers and children. 
