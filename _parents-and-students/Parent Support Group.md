@@ -12,7 +12,7 @@ Dear Parents and Guardians, thank you for attending the above virtual sharing by
 
 Click [here](/files/Parents%20and%20Students/Parent%20Support%20Group/Father_Awareness_Talk___6_April_2024__Serangoon_Sec_.pdf) to view the slides.
 
-Click here to watch the video.
+Click [here](https://www.youtube.com/watch?v=bfJTGwNdgBo) to watch the video.
 
 <hr>
 
