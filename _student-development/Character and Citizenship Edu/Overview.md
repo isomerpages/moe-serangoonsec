@@ -46,9 +46,17 @@ o	For our Sec 1 and 3 students, they will attend outdoor adventure learning camp
 
 *“The Sec 3 Outdoor Activity Learning Camp was an enriching 4-Day 3-Night experience for my peers and me. It allowed me to pick up essential outdoor education skills and strengthen the relationships I have with my peers. Through the camp, I learnt that it is important to be respectful towards others and work together to achieve group goals. I enjoyed kayaking and the campfire night the most.”*
 **- Mohamed Raihan Bin Mohamed Hisham, 3I1 (2023)**
+	
+<br>o	For our Sec 2 students, the programme focuses on Applied Learning Modules, where they will have experiential learning through workshops and learning journeys. They will be able to pursue areas of interest that take them beyond the curriculum.
+
+*“We learnt how to collaborate our ideas and work as a team while participating in the Sec 2 StaRs Programme. The obstacles we faced allowed us to grow and strengthen our team spirits. We learnt about resilience, hard work, and time management through the StaRs Programme.”* **- Banga Rashika and Bhavya Bijoy, 2H6 (2023)**
+
+<br>o	For our Sec 4 and 5 students, the programme focuses on ECG on post-secondary education options and interview skills, as well as VIA projects where they initiate and advocate an area in which they would like to serve.
+
+</li><li>We also catered to students’ needs, strengths, and interests through a myriad of activities such as the Learning Weeks. The twice-yearly Learning Weeks included hands-on authentic Mathematics activities, Science learning journeys, physical games building students’ teamwork and class spirit, Music Showcase and more.</li>
 
 
 
 
 
-</li>
+
