@@ -55,8 +55,17 @@ o	For our Sec 1 and 3 students, they will attend outdoor adventure learning camp
 
 </li><li>We also catered to students’ needs, strengths, and interests through a myriad of activities such as the Learning Weeks. The twice-yearly Learning Weeks included hands-on authentic Mathematics activities, Science learning journeys, physical games building students’ teamwork and class spirit, Music Showcase and more.</li>
 
+**d.	Customised Support** 
 
+<li>As part of our ongoing commitment to proving a caring and enabling learning environment, we offer customised programmes to students who may require additional support in specific areas.
+<br>o	Orion StaRs After School Engagement aims at providing students with meaningful engagement after school through interest-based activities (e.g. sport, craft etc.). It also aims to enhance students’ personal and social and emotional competencies and strengthen peer relationships and teacher-student relationships.
+<br>o	Mentoring Programmes are planned and conducted in partnership with various community partners, such as Bethesda Care, to develop students’ personal and social emotional competencies and equip them with the necessary knowledge, skills, and values. 
+<br>o	Applied Learning Modules at ITEs and Polytechnics are short courses provided for the Sec 3 students to broaden their learning experiences and increase their exposure to courses at the post-secondary educational institutes. This in turn enables them to discover their interests and make informed education and career choices.</li>
 
+Through the above initiatives and programmes, we aim to nurture well-rounded individuals who are resilient individuals, passionate learners, and active contributors. We encourage the stakeholders to actively work alongside us, whether it is through volunteering, attending school events or participating in the parent engagement sessions.
 
+Together, let’s work hand in hand to empower every Serangoon StaR to SHINE, for the growth of self and the good of others.
+
+<hr>
 
 
