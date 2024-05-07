@@ -9,7 +9,7 @@ third_nav_title: Direct School Admission DSA
 
 ##### Selection Criteria
 
-
+<hr>
 <table>
   <tbody><tr>
     <th>Learning for Life Programme</th>
@@ -36,6 +36,8 @@ third_nav_title: Direct School Admission DSA
     <td>Applicants who have at least one of the following:<br><br>Participated or achieved in STEM-related competitions or enrichment programmes, in particular the application of ICT in the areas of Drones programming and 3D modelling.<br><br>Participated in a STEM-related CCA in primary school. (e.g. Robotics Club, Science Club, Infocomm Club, Computer Club, Game Designing Programme, Singapore Youth Flying Club, Inventions Club)</td>
   </tr>
 </tbody></table>
+ <hr>
+ 
 
 Attitude and suitability during the interview (shortlisted applicants will be informed to attend the interview).
 
