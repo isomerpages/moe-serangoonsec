@@ -32,30 +32,33 @@ Here’s a closer look at what our student development programmes entail:
 **c.	Level Programmes**
 
 <li>Our level programmes are designed to the address the unique developmental needs of students at each stage of their secondary education. They built students’ sense of belonging to school, further augmenting student motivation and engagement. 
-<br>o	The Sec 1 Orientation and Investiture in Semester 1 inducted our new students into the school.
+<br>o	The Sec 1 Orientation and Investiture in Semester 1 inducted our new students into the school.</li>
 
 ![](/images/Character%20and%20Citizenship%20Edu/cce_overview_1.png)
+
 “One thing that I learned from the Sec 1 Orientation is teamwork. One memorable activity was a game involving building a house with a deck of cards. I really enjoyed it because we get to have fun and put our differences aside and come together to build a house and to win the game.” <b>- Quek Zhi Xiang Theodore, 1SD7 (2023)</b>
 
 <br>o	Sec 2 students went through a Mark of Transition activity at the end of lower secondary. 
 <br>o	Sec 3 students went through the Taking the Lead programme to receive the leadership mantle from their seniors. 
 <br>o	Sec 4 and 5 students attended a heartwarming Graduation Ceremony and a memorable Prom Night at the end of the year.
 
-</li><li>The highlight of our student-designed experience is the iconic StaRs programme. The 4-day programme was designed to meet students’ social emotional needs and holistic development.
+<li>The highlight of our student-designed experience is the iconic StaRs programme. The 4-day programme was designed to meet students’ social emotional needs and holistic development.
 
-o	For our Sec 1 and 3 students, they will attend outdoor adventure learning camps. Through various activities, such as dragon boating, orienteering, hiking, our students develop skills such as resilience and teamwork.
+o	For our Sec 1 and 3 students, they will attend outdoor adventure learning camps. Through various activities, such as dragon boating, orienteering, hiking, our students develop skills such as resilience and teamwork.</li>
 
 ![](/images/Character%20and%20Citizenship%20Edu/cce_overview_2.jpg)
+
 “The Sec 3 Outdoor Activity Learning Camp was an enriching 4-Day 3-Night experience for my peers and me. It allowed me to pick up essential outdoor education skills and strengthen the relationships I have with my peers. Through the camp, I learnt that it is important to be respectful towards others and work together to achieve group goals. I enjoyed kayaking and the campfire night the most.” <b>- Mohamed Raihan Bin Mohamed Hisham, 3I1 (2023)</b>
 	
 <br>o	For our Sec 2 students, the programme focuses on Applied Learning Modules, where they will have experiential learning through workshops and learning journeys. They will be able to pursue areas of interest that take them beyond the curriculum.
 
 ![](/images/Character%20and%20Citizenship%20Edu/cce_overview_3.jpg)
+
 “We learnt how to collaborate our ideas and work as a team while participating in the Sec 2 StaRs Programme. The obstacles we faced allowed us to grow and strengthen our team spirits. We learnt about resilience, hard work, and time management through the StaRs Programme.”* <b>- Banga Rashika and Bhavya Bijoy, 2H6 (2023)</b>
 
 <br>o	For our Sec 4 and 5 students, the programme focuses on ECG on post-secondary education options and interview skills, as well as VIA projects where they initiate and advocate an area in which they would like to serve.
 
-</li><li>We also catered to students’ needs, strengths, and interests through a myriad of activities such as the Learning Weeks. The twice-yearly Learning Weeks included hands-on authentic Mathematics activities, Science learning journeys, physical games building students’ teamwork and class spirit, Music Showcase and more.</li>
+<li>We also catered to students’ needs, strengths, and interests through a myriad of activities such as the Learning Weeks. The twice-yearly Learning Weeks included hands-on authentic Mathematics activities, Science learning journeys, physical games building students’ teamwork and class spirit, Music Showcase and more.</li>
 
 **d.	Customised Support** 
 
