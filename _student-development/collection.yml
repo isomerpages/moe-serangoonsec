@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Overview.md
       - Character and Citizenship Edu/.keep
       - Character and Citizenship Edu/Overview.md
       - Character and Citizenship Edu/Character and Citizenship Education
