@@ -9,7 +9,7 @@ third_nav_title: Direct School Admission DSA
 
 ##### Selection Criteria
 
-
+<hr>
 <table>
   <tbody><tr>
     <th>Learning for Life Programme</th>
@@ -36,8 +36,8 @@ third_nav_title: Direct School Admission DSA
     <td>Applicants who have at least one of the following:<br><br>Participated or achieved in STEM-related competitions or enrichment programmes, in particular the application of ICT in the areas of Drones programming and 3D modelling.<br><br>Participated in a STEM-related CCA in primary school. (e.g. Robotics Club, Science Club, Infocomm Club, Computer Club, Game Designing Programme, Singapore Youth Flying Club, Inventions Club)</td>
   </tr>
 </tbody></table>
+ <hr>
 
-Attitude and suitability during the interview (shortlisted applicants will be informed to attend the interview).
 
 <b>Note:</b> Meeting all the criteria does not guarantee the student will be shortlisted/be given an offer. The decision of the Interview Panel on the DSA-Sec application is final. The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the aptitude test and the interview.
 
@@ -52,6 +52,6 @@ Attitude and suitability during the interview (shortlisted applicants will be in
 <br><br>Parents of applicants not studying in MOE mainstream primary schools are to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-Sec Portal. Please visit [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application). 
 <br><br><b>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</b>
 <br><br><b>Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.</b>
-<br><br>The selection period for schools for DSA-Sec is from 24 June to 9 September 2024. The school will be conducting **in-person selection** for both DSA talent areas for 2024. Shortlisted candidates who meet the selection criteria in the DSA talent area they have applied for will be invited to attend an interview at the school. 
+<br><br>The selection period for schools for DSA-Sec is from 24 June to 9 September 2024. The school will be conducting **in-person selection** for both DSA talent areas for 2024. Shortlisted candidates who meet the selection criteria in the DSA talent area they have applied for will be invited to attend an interview at the school. Attitude and suitability of shortlisted candidates will be assessed during the interview.
 <br><br>**LETTERS ON THE OUTCOME OF SELECTION WILL BE ISSUED TO ALL DSA APPLICANTS BY 10 SEPTEMBER 2024.**
 <hr>
