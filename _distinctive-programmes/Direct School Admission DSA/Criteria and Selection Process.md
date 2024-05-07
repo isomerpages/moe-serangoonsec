@@ -37,9 +37,7 @@ third_nav_title: Direct School Admission DSA
   </tr>
 </tbody></table>
  <hr>
- 
 
-Attitude and suitability during the interview (shortlisted applicants will be informed to attend the interview).
 
 <b>Note:</b> Meeting all the criteria does not guarantee the student will be shortlisted/be given an offer. The decision of the Interview Panel on the DSA-Sec application is final. The school reserves the right not to release the reasons for non-selection of applicants and/or the results of the aptitude test and the interview.
 
