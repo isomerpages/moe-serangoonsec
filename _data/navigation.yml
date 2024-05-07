@@ -43,6 +43,8 @@ links:
   - title: Student Development
     url: /student-development/cce/
     sublinks:
+      - title: Overview
+        url: /cce-overview
       - title: Character and Citizenship Edu
         url: /student-development/cce/
       - title: Co-Curricular Activities (CCA)
