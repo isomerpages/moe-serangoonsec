@@ -33,8 +33,9 @@ Here’s a closer look at what our student development programmes entail:
 
 <li>Our level programmes are designed to the address the unique developmental needs of students at each stage of their secondary education. They built students’ sense of belonging to school, further augmenting student motivation and engagement. 
 <br>o	The Sec 1 Orientation and Investiture in Semester 1 inducted our new students into the school.
-	
-*“One thing that I learned from the Sec 1 Orientation is teamwork. One memorable activity was a game involving building a house with a deck of cards. I really enjoyed it because we get to have fun and put our differences aside and come together to build a house and to win the game.” ***- Quek Zhi Xiang Theodore, 1SD7 (2023)**
+
+![](/images/Character%20and%20Citizenship%20Edu/cce_overview_1.png)
+“One thing that I learned from the Sec 1 Orientation is teamwork. One memorable activity was a game involving building a house with a deck of cards. I really enjoyed it because we get to have fun and put our differences aside and come together to build a house and to win the game.” <b>- Quek Zhi Xiang Theodore, 1SD7 (2023)</b>
 
 <br>o	Sec 2 students went through a Mark of Transition activity at the end of lower secondary. 
 <br>o	Sec 3 students went through the Taking the Lead programme to receive the leadership mantle from their seniors. 
