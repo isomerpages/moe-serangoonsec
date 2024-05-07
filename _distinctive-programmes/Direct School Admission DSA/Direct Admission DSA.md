@@ -3,6 +3,7 @@ title: Direct Admission DSA
 permalink: /distinctive-programmes/dsa/
 description: ""
 third_nav_title: Direct School Admission DSA
+variant: markdown
 ---
 ### Direct School Admission (DSA)
 
@@ -42,6 +43,4 @@ Through the exploration of ICT in various contexts of Science, Technology, Engi
 
 Students can look forward to engaging themselves in increasingly popular 3D Modelling and Printing in Sec 1 and enjoying exciting moments using Drones in Sec 2, where the two programmes are designed specially to pique students' interest in possibly pursuing their careers in future in industries such as Aerospace, Transportation, Infrastructure, Media, Telecommunications, Health Sciences and Architecture. In Sec 3, selected students continue to pursue their interest in STEM explorations.
 
-  
-
-The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, click [here](https://www.moe.gov.sg/dsa-sec).
+  For more information on DSA-Sec, click [here](https://www.moe.gov.sg/dsa-sec).
