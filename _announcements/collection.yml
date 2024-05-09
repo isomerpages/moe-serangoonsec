@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Travel Declaration for 2024 Mid Year Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/Travel Declaration for 2024 March Holidays.md
