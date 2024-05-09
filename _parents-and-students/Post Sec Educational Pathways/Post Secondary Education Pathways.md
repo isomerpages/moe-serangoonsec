@@ -3,6 +3,7 @@ title: Post Secondary Education Pathways
 permalink: /parents-and-students/Post-Sec-Educational-Pathways/
 description: ""
 third_nav_title: Post Sec Educational Pathways
+variant: markdown
 ---
 ### Post-Secondary Educational Pathways
 
@@ -21,8 +22,10 @@ third_nav_title: Post Sec Educational Pathways
 You may wish to speak to your FTs and parents, or book an appointment with Ms Juan Pei-ling, our ECG Counsellor.
 
 <img align="center" style="width:50%" src="/images/Parents%20&amp;%20Students/Juan%20Pei%20Ling.png">
+
+![](/images/Parents%20&amp;%20Students/ecg_room.png)
 		
-<br>Tuesdays and Wednesdays (8am – 5pm) 
+<br>Mondays and Thursdays (8am – 5pm) 
 <br>SSS Learning Hub
 <br>Email: [Juan_Peiling@schools.gov.sg](emailto:Juan_Peiling@schools.gov.sg)
 
