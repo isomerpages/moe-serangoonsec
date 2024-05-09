@@ -11,9 +11,10 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 26/02/2024:     |1.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
-| 15/01/2024:     |2.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
-| 12/01/2024:     |3.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
+| 09/05/2024:     |1.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
+| 26/02/2024:     |2.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
+| 15/01/2024:     |3.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
+| 12/01/2024:     |4.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
 
 ##### 2023 Events
 
