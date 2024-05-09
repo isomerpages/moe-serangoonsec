@@ -1,6 +1,6 @@
 ---
 title: Travel Declaration for 2024 Mid Year Holidays
-permalink: /travel-declaration-for-2024-mid-year-holidays/
+permalink: /announcements/announcements/travel-dcl-2024-jun/
 variant: markdown
 description: ""
 third_nav_title: Announcements
