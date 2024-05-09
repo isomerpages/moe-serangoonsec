@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Travel Declaration for 2024 Mid Year Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Travel Declaration for 2024 Mid Year Holidays.md
       - Announcements/Travel Declaration for 2024 March Holidays.md
       - Announcements/2024 Sec 1 PES & CCA Orientation.md
       - Announcements/Release of O Level Results 2024.md
