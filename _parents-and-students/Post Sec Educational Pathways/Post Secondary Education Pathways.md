@@ -34,6 +34,6 @@ You can scan the QR Code below to book an appointment with me!
 <img align="center" style="width:50%" src="/images/Parents%20&amp;%20Students/sss-ecgc.png">
 
 <center><br>Mondays – Fridays (9am – 5pm)
-<br>Face-to-face or Video (Web)</center>
+<br>Video (Web) session based on availability</center>
 
 <hr>
