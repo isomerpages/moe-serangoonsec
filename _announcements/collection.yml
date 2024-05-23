@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Promotion Sales of Uniforms 2024.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Promotion Sales of Uniforms 2024.md
       - Announcements/Travel Declaration for 2024 Mid Year Holidays.md
       - Announcements/Travel Declaration for 2024 March Holidays.md
       - Announcements/2024 Sec 1 PES & CCA Orientation.md
