@@ -1,6 +1,6 @@
 ---
 title: Promotion Sale of Uniforms 2024
-permalink: /promotion-sale-of-uniforms-2024/
+permalink: /announcements/announcements/promotion-sale-of-uniforms-2024/
 variant: markdown
 description: ""
 third_nav_title: Announcements
