@@ -12,5 +12,6 @@ third_nav_title: Announcements
 below for more information.</p>
 <p><a href="/files/Announcements/Promotion_Sale_of_Uniforms_SSS_17may24.pdf" rel="noopener noreferrer nofollow" target="_blank">Promotion Sale of PE T-shirt</a>
 </p>
+<hr>
 <p></p>
 <p></p>
