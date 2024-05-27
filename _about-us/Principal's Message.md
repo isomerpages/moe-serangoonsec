@@ -186,7 +186,7 @@ Thank you for your presence today.
 <br>**Principal** 
 <br>26 April 2024
 
-Click here for the Principal's archived messages.
+Click here[here](https://www.serangoonsec.moe.edu.sg/about-us/principal-s-message-2023/) for the Principal's archived messages.
 
 <hr>
 
