@@ -42,8 +42,15 @@ From this nucleus, we have our 2 Core Teams. These are our Education Officers, a
 
 [Slide 6] Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student. 
 
+[Slide 7] To deliver this, 3 Key Engines drive my teachers’ professional pedagogical practices in lesson design, planning and enactment. The 3 Key Engines are: the Singapore Teaching Practice or STP, Social &amp; Emotional Learning via CCE 2021 and EdTech Masterplan 2030. 
 
+[Slide 8] These 3 Key Engines support our 3 Curriculum Groups (CG1, CG2, CG3) to navigate the complex landscape of education today and ensure that as a school we operate in accordance with the best practices and standards.
 
+[Slide 9] This brings me to the next number in my 5-4-3-2-1 – that is Number 4. This represents the Four Roles that define our teachers’ identity as a Professional Teaching Workforce. Teachers in my school take pride in their profession and bring out the best in our StaRs. In Serangoon Secondary, every teacher is A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher.
+
+[Slide 10] The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
+
+The 5 Domains of Holistic Education guide us as a school to connect our StaRs’ learning to the real world, and equip them with the knowledge, skills, and values they need to lead fulfilling lives, contribute to society, and do well in the future. 
 
 
 
