@@ -27,15 +27,18 @@ Ladies and gentlemen
 
 **A.	Introduction and Welcome**
 
-[Slide 2] Thank you for joining us this morning at Serangoon Secondary School. We are indeed very honoured to have with us this morning Mr. Roger Foong to grace our 96th Prize Presentation Day. Today, we gather to commemorate the 96-year journey since the founding of our beloved school, and to celebrate the accomplishments of our students and staff.
+![](/images/About%20Us/Principal's%20Message%202024/Slide2.jpg)
+Thank you for joining us this morning at Serangoon Secondary School. We are indeed very honoured to have with us this morning Mr. Roger Foong to grace our 96th Prize Presentation Day. Today, we gather to commemorate the 96-year journey since the founding of our beloved school, and to celebrate the accomplishments of our students and staff.
 
 I stand before you today with great pride and purpose as we witness the culmination of yet another successful academic year for our school. This is not just a day of recognition and accolades; it is a moment to reflect on the journey we have undertaken as a school and the direction in which we are headed. 
 
 **B.	P’s Directional Setting of 54321**
 
-[Slide 3] As a school, one fundamental purpose unites us all – and that is to equip, empower and embolden our StaRs to reach their fullest potential in life. Allow me to share my directional setting for the school to accomplish this. I call this our school’s 5-4-3-2-1.
+![](/images/About%20Us/Principal's%20Message%202024/Slide3.jpg)
+As a school, one fundamental purpose unites us all – and that is to equip, empower and embolden our StaRs to reach their fullest potential in life. Allow me to share my directional setting for the school to accomplish this. I call this our school’s 5-4-3-2-1.
 
-[Slide 4] Let me start by introducing you to the number 1 in my 5-4-3-2-1. At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
+![](/images/About%20Us/Principal's%20Message%202024/Slide4.jpg)
+Let me start by introducing you to the number 1 in my 5-4-3-2-1. At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
 
 From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
 
@@ -43,21 +46,27 @@ Our School Admin Team is the heartbeat of our administrative operations, providi
 
 Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student. 
 
-[Slide 7] To deliver this, 3 Key Engines drive my teachers’ professional pedagogical practices in lesson design, planning and enactment. The 3 Key Engines are: the Singapore Teaching Practice or STP, Social &amp; Emotional Learning via CCE 2021 and EdTech Masterplan 2030. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide7.jpg)
+To deliver this, 3 Key Engines drive my teachers’ professional pedagogical practices in lesson design, planning and enactment. The 3 Key Engines are: the Singapore Teaching Practice or STP, Social &amp; Emotional Learning via CCE 2021 and EdTech Masterplan 2030. 
 
-[Slide 8] These 3 Key Engines support our 3 Curriculum Groups (CG1, CG2, CG3) to navigate the complex landscape of education today and ensure that as a school we operate in accordance with the best practices and standards.
+![](/images/About%20Us/Principal's%20Message%202024/Slide8.jpg)
+These 3 Key Engines support our 3 Curriculum Groups (CG1, CG2, CG3) to navigate the complex landscape of education today and ensure that as a school we operate in accordance with the best practices and standards.
 
-[Slide 9] This brings me to the next number in my 5-4-3-2-1 – that is Number 4. This represents the Four Roles that define our teachers’ identity as a Professional Teaching Workforce. Teachers in my school take pride in their profession and bring out the best in our StaRs. In Serangoon Secondary, every teacher is A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher.
+![](/images/About%20Us/Principal's%20Message%202024/Slide9.jpg)
+This brings me to the next number in my 5-4-3-2-1 – that is Number 4. This represents the Four Roles that define our teachers’ identity as a Professional Teaching Workforce. Teachers in my school take pride in their profession and bring out the best in our StaRs. In Serangoon Secondary, every teacher is A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher.
 
-[Slide 10] The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
+![](/images/About%20Us/Principal's%20Message%202024/Slide10.jpg)
+The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
 
 The 5 Domains of Holistic Education guide us as a school to connect our StaRs’ learning to the real world, and equip them with the knowledge, skills, and values they need to lead fulfilling lives, contribute to society, and do well in the future. 
 
-[Slide 11] We are able to do this only through the commitment of everyone in our school community, from our One StaR Family, our 2 Core Teams, our 3 Curriculum Groups propelled forward by the 3 Key Engines, and through the 4 roles that every teacher in Serangoon Secondary plays as part of a Professional Teaching Workforce: A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher. That is the directional setting encapsulated in my 5-4-3-2-1. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide11.jpg)
+We are able to do this only through the commitment of everyone in our school community, from our One StaR Family, our 2 Core Teams, our 3 Curriculum Groups propelled forward by the 3 Key Engines, and through the 4 roles that every teacher in Serangoon Secondary plays as part of a Professional Teaching Workforce: A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher. That is the directional setting encapsulated in my 5-4-3-2-1. 
 
 **C. Leadership in Curriculum and Instruction**
 
-[Slide 12] As part of my directional setting for the school, the School Management Team (SMT) initiated a consolidation process within our academic, or IP, departments. The purpose of this organisational consolidation was to streamline, integrate, and ensure alignment with our school strategic goals.
+![](/images/About%20Us/Principal's%20Message%202024/Slide12.jpg)
+As part of my directional setting for the school, the School Management Team (SMT) initiated a consolidation process within our academic, or IP, departments. The purpose of this organisational consolidation was to streamline, integrate, and ensure alignment with our school strategic goals.
 
 I am pleased to report that through intentional curriculum design and pedagogical approaches, our academic departments have tailored learning experiences for our StaRs that will equip them with the skills and attributes they need to thrive in today's world.
 
@@ -79,9 +88,11 @@ The learning of Art fosters a sense of identity, culture, and place in society. 
 
 In ICT Department, for Computing, the teachers are committed to providing students with the foundation to continue further studies in Computing at the tertiary level, and to attain skills to participate in a rapidly changing technological environment. For Mobile Robotics, through the four phases of learning for students - Plan, Explore, Practise, and Perform, students are given opportunities for hands-on exploration to construct meaning for themselves through concrete experiences, and to learn in ways that allow them to directly apply knowledge to real world situations.
 
-[Slide 20] The focus on designing high-quality learning experiences for our Serangoon StaRs can also be seen in our Applied Learning Programme or ALP. Our STEM (Science, Technology, Engineering, Math) ALP on Future of Transportation allows our StaRs to integrate Science and Mathematics concepts with Technology and Engineering of Transportation. Students connect their learning to transportation in real life and create their own model of future transportation.
+![](/images/About%20Us/Principal's%20Message%202024/Slide20.jpg)
+The focus on designing high-quality learning experiences for our Serangoon StaRs can also be seen in our Applied Learning Programme or ALP. Our STEM (Science, Technology, Engineering, Math) ALP on Future of Transportation allows our StaRs to integrate Science and Mathematics concepts with Technology and Engineering of Transportation. Students connect their learning to transportation in real life and create their own model of future transportation.
 
-[Slide 21] The greatest strength of our ALP lies in its relevance. The Future of Transportation Applied Learning Programme (ALP) gets students to work together to shape the way we move in future. By connecting learning in drone programming to real-world contexts and issues, our StaRs are not just passive recipients of knowledge, but active participants in their own learning journey.
+![](/images/About%20Us/Principal's%20Message%202024/Slide21.jpg)
+The greatest strength of our ALP lies in its relevance. The Future of Transportation Applied Learning Programme (ALP) gets students to work together to shape the way we move in future. By connecting learning in drone programming to real-world contexts and issues, our StaRs are not just passive recipients of knowledge, but active participants in their own learning journey.
 
 All these reflect our commitment to providing our StaRs with a holistic and enriching education that prepares them for the challenges and opportunities of the 21st Century.
 D. Student Development Programmes
@@ -105,9 +116,11 @@ MOE's Work Plan Seminar 2023 outlined strategic directions aimed at equipping st
 
 In particular, I am excited to highlight two key areas of focus emerging from Work Plan Seminar 2023 that will shape our school’s directions in the years ahead and the future of learning for our StaRs:
 
-[Slide 28] The first one is the integration of technology through the EdTech Masterplan 2030, and
+![](/images/About%20Us/Principal's%20Message%202024/Slide28.jpg)
+The first one is the integration of technology through the EdTech Masterplan 2030, and
 
-[Slide 29] The second one, the Enhanced 21st Century Competencies (21CC) 
+![](/images/About%20Us/Principal's%20Message%202024/Slide29.jpg)
+The second one, the Enhanced 21st Century Competencies (21CC) 
 
 As part of our school-based conversations on WPS 2023, starting with our Staff Review Meetings towards the end of last year, my Vice-Principal (EO) Edmund Chen has actively engaged our School Management Team and our Staff separately and together in meaningful discussions aligned with WPS 2023 directions.
 
@@ -118,20 +131,24 @@ EdTech Masterplan 2030
 
 Allow me to first share with you our school’s implementation plans for EdTech Masterplan 2030. As a school, we recognise the transformative potential of technology as a tool for personalised learning, engagement, and empowerment. 
 
-[Slide 33] Starting from 2025, our school will create even more dynamic and interactive learning environments to inspire curiosity, facilitate exploration, and empower our StaRs to take ownership of their learning journey. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide33.jpg)
+Starting from 2025, our school will create even more dynamic and interactive learning environments to inspire curiosity, facilitate exploration, and empower our StaRs to take ownership of their learning journey. 
 
-[Slide 34] We will do this by leveraging technological advancements to transform teaching and learning in Serangoon Secondary. We have already started this journey to chart a 4-year road map of our EdTech Ecosystem, led by VP Edmund working closely with the ICT team and our Instructional Programme Departments.
+![](/images/About%20Us/Principal's%20Message%202024/Slide34.jpg)We will do this by leveraging technological advancements to transform teaching and learning in Serangoon Secondary. We have already started this journey to chart a 4-year road map of our EdTech Ecosystem, led by VP Edmund working closely with the ICT team and our Instructional Programme Departments.
 
 **Enhanced 21CC Framework**
 
 
 Let me turn our attention next to the Enhanced Framework for 21CC. From 2026 onwards, in alignment with the refreshed Framework for 21CC, our school will advance our 21CC development efforts and place an even greater emphasis on adaptive and inventive thinking, communication, and civic literacy.
 
-[Slide 36] As part of our school’s commitment to enhancing 21st Century Competencies in our StaRs, we will further embed 21CC within and across all aspects of our curriculum, co-curricular activities and programmes beyond the classroom. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide36.jpg)
+As part of our school’s commitment to enhancing 21st Century Competencies in our StaRs, we will further embed 21CC within and across all aspects of our curriculum, co-curricular activities and programmes beyond the classroom. 
 
-[Slide 37] As a school, we recognise that critical thinking, communication, collaboration, and creativity are essential skills that our StaRs need to thrive in a rapidly-changing and increasingly interconnected world. We will strengthen teaching and learning practices in our school to promote inquiry, dialogue, and experiential learning for our StaRs. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide37.jpg)
+As a school, we recognise that critical thinking, communication, collaboration, and creativity are essential skills that our StaRs need to thrive in a rapidly-changing and increasingly interconnected world. We will strengthen teaching and learning practices in our school to promote inquiry, dialogue, and experiential learning for our StaRs. 
 
-[Slide 38] To this end, I am happy to share on our school’s internationalisation programme. Through our overseas learning journeys, we aim to develop our StaRs’ leadership competencies, expand their global perspectives, enhance cultural understanding, and foster friendships and cross-cultural communication skills. This year we will be bringing our StaRs to Brunei and Vietnam. We will be progressively adding other Asean countries to our programme.
+![](/images/About%20Us/Principal's%20Message%202024/Slide38.jpg)
+To this end, I am happy to share on our school’s internationalisation programme. Through our overseas learning journeys, we aim to develop our StaRs’ leadership competencies, expand their global perspectives, enhance cultural understanding, and foster friendships and cross-cultural communication skills. This year we will be bringing our StaRs to Brunei and Vietnam. We will be progressively adding other Asean countries to our programme.
 
 **F. School Infrastructure Upgrading Programme**
 
@@ -145,19 +162,19 @@ VP Admin Mr Raja, together with our 2 Oms and the EAS team, will lead the projec
 
 As I draw my remarks to a close, I would like to draw your attention to our school partnerships. In Serangoon Secondary, we value the partnerships that enrich the learning experience of our students and strengthen our school community. 
 
-[Slide 41] One such partnership is with Dads for Life Movement. Since 2023, we have partnered Dads for Life Movement to conduct workshops for our StaRs and their fathers. These workshops provide valuable resources and guidance to empower our fathers, equipping them with the necessary tools and support to actively engage in parenting, particularly during the challenging teenage years. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide41.jpg)One such partnership is with Dads for Life Movement. Since 2023, we have partnered Dads for Life Movement to conduct workshops for our StaRs and their fathers. These workshops provide valuable resources and guidance to empower our fathers, equipping them with the necessary tools and support to actively engage in parenting, particularly during the challenging teenage years. 
 
-[Slide 42] I am confident that our school, parents, SAC, Alumni, community, Self-Help Groups or SHGs, and industry partners will continue to support our work and partner us in nurturing our StaRs to be Resilient Individuals, Passionate Learners and Active Contributors. I am pleased to report that we have initiated a working relationship with our SHGs: CDAC, Sinda and Mendaki. We have also formed a panel of industrialists in STEM-related and healthcare industries to work with us to enhance Education and Career Guidance in Serangoon Secondary. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide42.jpg)I am confident that our school, parents, SAC, Alumni, community, Self-Help Groups or SHGs, and industry partners will continue to support our work and partner us in nurturing our StaRs to be Resilient Individuals, Passionate Learners and Active Contributors. I am pleased to report that we have initiated a working relationship with our SHGs: CDAC, Sinda and Mendaki. We have also formed a panel of industrialists in STEM-related and healthcare industries to work with us to enhance Education and Career Guidance in Serangoon Secondary. 
 
-[Slide 43] With a strong sense of mission as a school, we will work with all our partners in Moulding Character, Igniting Passion and Building Community in our StaRs. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide43.jpg)With a strong sense of mission as a school, we will work with all our partners in Moulding Character, Igniting Passion and Building Community in our StaRs. 
 
-[Slide 44] This is anchored on our School Values of Self-Directedness, Harmony, Integrity, ResilieNce and Excellence. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide44.jpg)This is anchored on our School Values of Self-Directedness, Harmony, Integrity, ResilieNce and Excellence. 
 
-[Slide 45] In Serangoon Secondary School, we believe that academic achievements are incomplete without the cultivation of strong character and values. Through CCE, we aim to instill in our students a deep sense of integrity, resilience, and empathy, preparing them not just for the challenges of the classroom, but for the complexities of life beyond.
+![](/images/About%20Us/Principal's%20Message%202024/Slide45.jpg)In Serangoon Secondary School, we believe that academic achievements are incomplete without the cultivation of strong character and values. Through CCE, we aim to instill in our students a deep sense of integrity, resilience, and empathy, preparing them not just for the challenges of the classroom, but for the complexities of life beyond.
 
-[Slide 46] In the 21st century, the importance of Character and Citizenship Education or CCE cannot be overstated. Our character defines who we are as individuals, shaping our actions, decisions, and interactions with others.
+![](/images/About%20Us/Principal's%20Message%202024/Slide46.jpg)In the 21st century, the importance of Character and Citizenship Education or CCE cannot be overstated. Our character defines who we are as individuals, shaping our actions, decisions, and interactions with others.
 
-[Slide 47] Moreover, as citizens of our respective countries and the global community, we bear a collective responsibility to contribute positively to society. 
+![](/images/About%20Us/Principal's%20Message%202024/Slide47.jpg)Moreover, as citizens of our respective countries and the global community, we bear a collective responsibility to contribute positively to society. 
 
 In closing, it is my hope that today’s Prize Presentation Day be a celebration of all that our StaRs have accomplished and all that they aspire to become.  
 
