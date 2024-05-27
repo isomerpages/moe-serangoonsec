@@ -164,9 +164,10 @@ VP Admin Mr Raja, together with our 2 Oms and the EAS team, will lead the projec
 
 Thank you for your presence today. 
 
-
-
 *Mr Chen Fook Pang* 
 <br>**Principal** 
-<br>28 April 2023
+<br>26 April 2024
+
+Click here for the Principal's archived messages.
+
 <hr>
