@@ -171,3 +171,41 @@ Thank you for your presence today.
 Click here for the Principal's archived messages.
 
 <hr>
+
+**SPEECH BY MR ROGER FOONG, SAC MEMBER, GUEST-OF-HONOUR AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
+
+Superintendent Mdm Goh Mee Mee, Principal of Serangoon Secondary School Mr. Remington Chen; Distinguished Guests, Alumni, Parents, Staff and Students; Ladies and Gentlemen. 
+
+When I was invited to be the Guest of Honour at Serangoon Secondary School’s 96th Prize Presentation Day, it led me to reflect on how much education has changed since my school days, particularly in the aspect of education and career guidance for students.
+
+When I graduated from the Pre-University programme in Serangoon Secondary School many years ago, I had planned to proceed abroad to pursue further studies in Accountancy. While waiting for the course to commence, I successfully applied for a temporary job in the aviation sector. 
+
+In those short months, I found myself enjoying my work, and my willingness to work hard and learn was recognised by my employer. That fulfilling experience eventually led me to give up my further studies to continue in the field. Those months stretched into years, and what started as a temporary job had become a fulfilling career.
+
+The values, and lessons from my formative schooling years served as my compass in navigating the ups and downs of life. As they had in the past, schools continue to play this critical role in in shaping young minds. 
+
+But education today goes beyond merely acquiring knowledge. In today's fast-paced and ever-changing world, schooling must also equip students with the skills, tools, and mindset they need to navigate the complexities of the modern workforce. In addition, schools must help our young ones to discover their interests and career prospects, just as my short stint after graduation helped me to understand mine.
+
+Therefore, I am heartened that Serangoon Secondary not only has a robust academic programme, but it also places a strong emphasis on education and career guidance (ECG) for its students. 
+
+In Serangoon Secondary, ECG is integrated into their total curriculum – from academic subjects to co-curricular activities. In English, students engage in real-world communication tasks such as writing emails or reports; or giving presentations on topics of interest or relevance to them. 
+
+In Math, students apply math concepts, skills and reasoning to solve practical, everyday challenges. In Science, through learning journeys to high-technology local farms, students learn about sustainability and emerging technologies.  
+
+At the cohort level, ECG experiences are customised to meet students’ needs, interests and aspirations at the different stages of their secondary school journey. In Secondary 2, students learn more about different career paths through industrial talks and career exhibition booths. This helps them decide on the subjects to read in Upper Secondary that best meets their learning and career aspirations.
+
+In Secondary 3, students are given opportunities for industry exposure through partnerships with various organisations and agencies. This helps them to stay abreast of current trends and developments in different sectors. In addition, informal conversations with invited speakers from different fields enable them to learn about the rapidly evolving workplace, and how to adapt and thrive in dynamic environments. 
+
+In Secondary 4 and 5, as a capstone experience, our students embark on learning journeys to various Institutes of Higher Education (IHLs). They explore the diverse range of courses of study, career prospects, and educational pathways, and return feeling inspired to strive for academic excellence in their national exams, and pursue their aspirations with confidence and determination. 
+
+For students who need more personalised education and career guidance, group and individual guidance sessions are provided based on specific needs and interests with the school-based ECG counsellor and other members of the ECG team.
+
+These ECG initiatives in Serangoon Secondary School serve as bridges that connect the learning within the walls of the school to the dynamic realities of the world beyond. Through these initiatives, students see the relevance and application of their learning in real-world contexts. 
+
+To the school leaders and staff, I say this: Through your ECG initiatives, you have empowered your students to explore, discover and make their mark on the world through their educational &amp; career paths, and their contributions to society. And that is the true measure of a school’s success.
+
+In concluding, I offer my heartfelt congratulations and best wishes to your students on this special occasion. 
+
+Thank you.
+
+<hr>
