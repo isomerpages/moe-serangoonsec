@@ -8,102 +8,222 @@ variant: markdown
 
 <img src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-**Celebrating 95 Years: ‘Constellations - Celebrating S³taRs’**
+**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
 
-We marked Serangoon Secondary School’s 95<sup>th</sup> milestone this year. The theme for our anniversary celebration is ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing Students, Staff and Stakeholders who make up the vibrant tapestry of the school. This theme aptly encapsulates the spirit and essence of the celebration, reflecting not only the passage of time but also the countless achievements, memories, and contributions made by our dedicated school community over nearly a century. 
+<br><br><br><br><br>
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide3.JPG)
+Mr. Roger Foong, 
+Guest of Honour, Member, School Advisory Committee
 
-From its humble beginnings, the school has evolved through various phases to become the Serangoon Secondary School we know today. In the spirit of our celebration, let me take a moment to acknowledge the foundation laid by our history.
+School Divisions, N3, Superintendent, Mdm Goh Mee Mee 
 
-<b><u>Appreciating the Past: Our Beginning, Our History</u></b>
+Fellow Members, School Advisory Committee
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide5.JPG)
+Distinguished partners, parents and guests of the school 
 
-Serangoon Secondary School started out as Serangoon English School in 1928, housed in a two-storey building along Simon Road. It was then the only government co-educational school in Singapore, and it also served as a feeder school to Raffles Institution. In 1937, three more standards were added; with this, the school provided education up to Standard Eight (equivalent of present-day Secondary Three). The boys and girls who successfully completed Standard Eight went on to Raffles Institution and Raffles Girls’ School respectively, where they would sit for the School Certificate of Examinations (equivalent to the GCE O-Level examinations today). Serangoon English School remained a feeder school until the eve of the Japanese Occupation of Singapore.
+Teachers, staff members and students
 
-During the Japanese Occupation, the school was known as the Japanese Higher Normal School. It was used to train government officials under the Japanese education system.
+Ladies and gentlemen
 
-In 1949, the school became a full school, with its first School Certificate class offering education from Primary One to Cambridge School Certificate (GCE O-Level equivalent). In 1957, the school officially became a secondary school for the Upper Serangoon district, after ceasing primary school classes that year. In 1965, the first pre-university classes were started, and girls were admitted to these classes.
+**A.	Introduction and Welcome**
 
-In 1967, Serangoon English School relocated to Lowland Road and was renamed as Serangoon Secondary School. In that year, the school badge was modified and the old school motto, ‘Play the Game’, was replaced with ‘Knowledge is Power’. In 1976, pre-university classes were discontinued. In 1989, the school motto was changed again to ‘Seek, Strive, Serve’.
+![](/images/About%20Us/Principal's%20Message%202024/Slide2.jpg)
+Thank you for joining us this morning at Serangoon Secondary School. We are indeed very honoured to have with us this morning Mr. Roger Foong to grace our 96th Prize Presentation Day. Today, we gather to commemorate the 96-year journey since the founding of our beloved school, and to celebrate the accomplishments of our students and staff.
 
-To mark the new millennium, in 2000, the school moved to its present premises at 11 Upper Serangoon View and continues to provide a student-centric, values-driven education. In 2018, we celebrated our 90<sup>th</sup> anniversary.
+I stand before you today with great pride and purpose as we witness the culmination of yet another successful academic year for our school. This is not just a day of recognition and accolades; it is a moment to reflect on the journey we have undertaken as a school and the direction in which we are headed. 
 
-Let me share a story that paints a vivid picture of a young boy's educational journey at Serangoon English School in the 1940s. This narrative, first shared by the person himself in the year 2000, provides us with a glimpse into the past, and insights into the unique experiences of learning during a bygone era. 
+**B.	P’s Directional Setting of 54321**
 
-<b><u>A retrospective glimpse – the story of a young boy’s educational journey</u></b>
+![](/images/About%20Us/Principal's%20Message%202024/Slide3.jpg)
+As a school, one fundamental purpose unites us all – and that is to equip, empower and embolden our StaRs to reach their fullest potential in life. Allow me to share my directional setting for the school to accomplish this. I call this our school’s 5-4-3-2-1.
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide11.JPG)
+![](/images/About%20Us/Principal's%20Message%202024/Slide4.jpg)
+Let me start by introducing you to the number 1 in my 5-4-3-2-1. At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
 
-<i>“In 1945-46, our daily trek to Serangoon English School was a charming journey along country lanes, passing attap villages and occasional brick and mortar bungalows. Those were carefree days filled with joy, where term examinations were minor events compared to the simple pleasures of trapping spiders, catching fighting fish, spinning tops, kicking chatek, scouting, and camping. Sports Day stood out as the pinnacle event of the year, and the rare treat of swimming at the beach or the Mount Emily swimming pool added to the excitement.</i>
+From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
 
-<i>It was a time when 5 cents could buy an ice ball, never mind the hygiene. We were seldom down with the flu, though most of us were undernourished. Eggs and chicken were luxuries, and ikan bilis served as the staple protein.</i>
+Our School Admin Team is the heartbeat of our administrative operations, providing essential support, guidance, and expertise that keep our school running smoothly day in and day out.
 
-<i>School was not one long holiday either! Grades counted. A Grade I in the Senior Cambridge School Certificate examination secured admission to the Post School Certificate class to prepare for the university entrance examinations. A Grade 2 led to entry into the Teachers' Training College, while a Grade 3 offered pathways into jobs such as clerks, the Police Force, and nursing.</i>
+Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student. 
 
-<i>By today's standards, Serangoon English School, or SES, would be considered a neighbourhood school, with students proudly identifying as the 'Oukang' (Hougang) boys. In the eyes of friends from Raffles Institution, we were 'ulu'—country bumpkins.</i>
+![](/images/About%20Us/Principal's%20Message%202024/Slide7.jpg)
+To deliver this, 3 Key Engines drive my teachers’ professional pedagogical practices in lesson design, planning and enactment. The 3 Key Engines are: the Singapore Teaching Practice or STP, Social &amp; Emotional Learning via CCE 2021 and EdTech Masterplan 2030. 
 
-<i>But what we lacked in learning opportunities, we made up for with grit and determination. Most of my classmates came from humble backgrounds. Our parents were mostly clerks, shopkeepers, farmers, mechanics, delivery boys, washer women and maidservants. Only one boy in my class went to school by car.</i>
+![](/images/About%20Us/Principal's%20Message%202024/Slide8.jpg)
+These 3 Key Engines support our 3 Curriculum Groups (CG1, CG2, CG3) to navigate the complex landscape of education today and ensure that as a school we operate in accordance with the best practices and standards.
 
-<i>Our teachers, men of modest means, were kind to us in personal ways. One of my primary school teachers, Mr. Cher Poh Chia, arranged for Scott's Emulsion cod liver oil from his provision shop to strengthen the lungs of my brothers and me. I am truly grateful to these teachers because they helped in ways that mattered.</i>
+![](/images/About%20Us/Principal's%20Message%202024/Slide9.jpg)
+This brings me to the next number in my 5-4-3-2-1 – that is Number 4. This represents the Four Roles that define our teachers’ identity as a Professional Teaching Workforce. Teachers in my school take pride in their profession and bring out the best in our StaRs. In Serangoon Secondary, every teacher is A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher.
 
-<i>Looking back, some of life's tough lessons were learnt in school. Writing lines, a form of collective punishment back then, stood out as a memorable experience. On one occasion, the Literature teacher instructed us to transcribe the entire literature book line by line. That day, I went home and spent the whole afternoon and half the night copying the literature book.</i>
+![](/images/About%20Us/Principal's%20Message%202024/Slide10.jpg)
+The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
 
-<i>Looking back on that experience, I realised the value of integrity. Despite feeling foolish compared to classmates who took shortcuts, I did not regret writing out every word. Honesty and integrity became the hallmark of Serangoon English School boys. Despite humble beginnings and limited opportunities, Serangoon English School boys believed in their potential. With honesty, integrity, and sheer grit, we measured up and held our heads high.</i>
+The 5 Domains of Holistic Education guide us as a school to connect our StaRs’ learning to the real world, and equip them with the knowledge, skills, and values they need to lead fulfilling lives, contribute to society, and do well in the future. 
 
-<i>Our school has produced a Cabinet Minister, Mr Edmund William Barker, ambassadors, educators, doctors, businessmen, administrators, lawyers, and professionals, in various fields. Mr. Tee Tua Bah was a Commissioner of Police while Dr Wong Poh Poh was the leading scholar of climate change. On this note, I would like to pay tribute to our alumni members of the Serangoon Old Students’ Association, currently known as Serangoon Alumni who have continued to serve and contribute back to the school. I know that out there in the heartlands of Singapore, the HDB estates, there are generations of Serangoon boys and girls who are honest, hardworking, solid citizens, good fathers and mothers raising families.”</i>
+![](/images/About%20Us/Principal's%20Message%202024/Slide11.jpg)
+We are able to do this only through the commitment of everyone in our school community, from our One StaR Family, our 2 Core Teams, our 3 Curriculum Groups propelled forward by the 3 Key Engines, and through the 4 roles that every teacher in Serangoon Secondary plays as part of a Professional Teaching Workforce: A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher. That is the directional setting encapsulated in my 5-4-3-2-1. 
 
-This story was first shared by Mr Ngiam Tong Dow on 25 June 2000, the day of the Millennium move to our current site at Upper Serangoon View Road. Mr. Ngiam shared: <i>“I hope that this morning as we move to a new school in the new town of Sengkang, I have been able to convey to you the essence of the school that your parents and perhaps grandparents went to.”</i>
+**C. Leadership in Curriculum and Instruction**
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide25.JPG)
+![](/images/About%20Us/Principal's%20Message%202024/Slide12.jpg)
+As part of my directional setting for the school, the School Management Team (SMT) initiated a consolidation process within our academic, or IP, departments. The purpose of this organisational consolidation was to streamline, integrate, and ensure alignment with our school strategic goals.
 
-<b><u>Treasuring the Present: Care Our Culture &amp; Ethos of our Teachers.</u></b>
+I am pleased to report that through intentional curriculum design and pedagogical approaches, our academic departments have tailored learning experiences for our StaRs that will equip them with the skills and attributes they need to thrive in today's world.
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide26.JPG)
+Allow me to highlight some of these programmes and pedagogical approaches in our academic departments.
 
-Mr. Ngiam's insightful sharing serves as a poignant reminder that values such as honesty, integrity, grit, and determination matter. “Above all, every Serangoon boy and girl carries an eternal debt of gratitude towards our teachers and principals. Besides our parents, we are what we are today because our teachers taught us, comforted us, and loved us during our growing years.”
+In our English Language &amp; Literature Department, the teachers adopted the Gradual Release of Responsibility Framework (by Fisher and Frey) to promote student independence and mastery for improved learning outcomes. Interactive, creative and experiential learning activities such as inter-disciplinary project work, debate activities, library visits, learning journeys, shape poetry learning showcases provide students with the opportunities to apply language and literary skills in authentic contexts, and empowering them to connect, collaborate, innovate, and lead effectively in a rapidly evolving world.
 
-I share his sentiments, and this leads me to now affirm our teachers. In Singapore, the purpose of education is two-fold: Firstly, to develop the character of the child and prepare him for citizenship and the place of work. Serangoon Secondary has a dedicated school team that is committed to the cause of education. Beyond classroom teaching, teachers also help our students develop holistically through the various CCAs. CCA promotes friendships among fellow Serangoon StaRs from diverse backgrounds as they learn, play and grow together. Through CCA, our students discover their interests and talents while developing values and 21<sup>st</sup> century competencies that will prepare them for a rapidly changing world that is increasingly volatile, uncertain, complex, and ambiguous.
+In our Mother Tongue Languages Department, to create an environment where our StaRs feel encouraged to explore and express themselves in their MTLs, the teachers adopted the task-based teaching approach to engage our StaRs and develop their confidence, critical thinking skills, and sense of cultural identity. Through discussions, debates, and Show &amp; Tell activities, our StaRs express and engage themselves in their MTL in authentic and meaningful ways.
 
-In Serangoon Secondary, our teachers care and “guide our children as they learn to be caring and responsible to his family, community; and understand and play their role in contributing to the future of Singapore.” [Ethos]. I am impressed by the aspirations of all our teachers and our team of executive administrative staff who continuously devote their energy and commit their time into “nurturing the whole child to be the best that he/she can be”. I salute all of you for this enthusiastic partnership in shaping Serangoon Secondary School into an institution that places a great emphasis on character building for every child.
+In the Humanities Department, the teachers are committed to fostering critical thinking, cultivating an open-mindedness towards multiple perspectives and ideas, and nurturing curiosity about the world. They have adopted the Inquiry-Based Learning approach to encourage our StaRs to ask questions, investigate, and discover answers on their own. Through authentic learning experiences such as Learning Journeys, and Historical &amp; Geographical Investigations, students take their learning beyond the confines of the classroom to hone their understanding of Humanities in a broader context.
 
-The growth of our school depends on the development of effective classroom teachers. In nurturing the whole child, our beliefs about a teacher in the capacity as a Caring Form Teacher, a Reflective Subject Teacher, an Engaging CCA Teacher and an Ethical CCE Teacher and how the child learns, guide us to helping every child be the best that he/she can be.
+In the Science Department, the teachers are committed to developing strengths and interests in Science to empower StaRs in their pursuit of STEM for future learning and work. Our StaRs learn the skillsets and mindsets that promote scientific inquiry and discovery. Upper Secondary students participate in national competitions, such as the annual ignITE Challenge, various Olympiad competitions, as well as Science learning journeys to extend their learning beyond the curriculum.
 
-* Every child has intrinsic worth; Every child can learn and achieve.  
-* A child learns well when there is order and discipline. 
-* A child’s learning should be developmentally appropriate. 
-* True educators believe they can make a difference to a child’s life.
+In Math Department, the teachers are committed to three fundamental principles: teaching for understanding, building on students' knowledge, and integrating real-world applications. Through hands-on tasks, tech-mediated lessons, interactive games, and quizzes, the teachers create engaging learning experiences that promote conceptual understanding, skills development, and critical thinking in the key strands of Mathematics. Their annual Math Learning Day provides Lower Secondary students with a platform to explore mathematical concepts in fun and meaningful ways to foster positive attitudes and increase their joy of learning Math.
 
-Teachers in this Family work very hard for each and every child. Their commitment is integral to our school’s success and vibrancy.
+In Craft &amp; Technology Department, the teachers design learning experiences to develop the various 21CC traits in our Stars. Their lower secondary curricula for Art, Nutrition &amp; Food Science, and Design &amp; Technology equip StaRs with skills such as visual literacy and art-making; nutrition concepts and food literacy; and strategies in visualisation, exploration and decision making.
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide37.JPG)
+The learning of Art fosters a sense of identity, culture, and place in society. In NFS, or Nutrition and Food Science, the sensory evaluation process during practical lessons helps our StaRs reflect and think critically to identify areas for improvement. In D&amp;T, or Design and Technology, StaRs learn to visualise and concretise design solutions for real-world contexts. They use doodling, sketching, and 3D manipulation of resistant materials as a language for visualisation, communication and presentation.
 
-<b><u>Embracing the Future</u></b>
+In ICT Department, for Computing, the teachers are committed to providing students with the foundation to continue further studies in Computing at the tertiary level, and to attain skills to participate in a rapidly changing technological environment. For Mobile Robotics, through the four phases of learning for students - Plan, Explore, Practise, and Perform, students are given opportunities for hands-on exploration to construct meaning for themselves through concrete experiences, and to learn in ways that allow them to directly apply knowledge to real world situations.
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide43.JPG)
+![](/images/About%20Us/Principal's%20Message%202024/Slide20.jpg)
+The focus on designing high-quality learning experiences for our Serangoon StaRs can also be seen in our Applied Learning Programme or ALP. Our STEM (Science, Technology, Engineering, Math) ALP on Future of Transportation allows our StaRs to integrate Science and Mathematics concepts with Technology and Engineering of Transportation. Students connect their learning to transportation in real life and create their own model of future transportation.
 
-Moving forward, we will continue to sharpen our professional pedagogical areas in the 5 key domains of holistic education: moral, intellectual, physical, social-emotional and the aesthetics. This will be done by supporting our teachers improve their competencies and encouraging lifelong learning through the SkillsFuture for Educators in the following areas:
+![](/images/About%20Us/Principal's%20Message%202024/Slide21.jpg)
+The greatest strength of our ALP lies in its relevance. The Future of Transportation Applied Learning Programme (ALP) gets students to work together to shape the way we move in future. By connecting learning in drone programming to real-world contexts and issues, our StaRs are not just passive recipients of knowledge, but active participants in their own learning journey.
 
-(i)	Developing teaching strategies that are aligned to the Singapore Teaching Practices,
+All these reflect our commitment to providing our StaRs with a holistic and enriching education that prepares them for the challenges and opportunities of the 21st Century.
+D. Student Development Programmes
 
-(ii) Leveraging the use of Education Technology to further ignite the joy of learning for our students, and
+Allow me to now share on how our school delivers a holistic education for our StaRs that goes beyond academic achievement to develop them into well-rounded individuals through our Student Development programmes.
 
-(iii)	Strengthening the Social and Emotional Learning &amp; Enhancing Career Guidance via CCE2021.
+Our Character and Citizenship Education (CCE) curriculum places a strong emphasis on cultivating Good Character; Resilience and Social-Emotional Well-Being; Future Readiness and Active Citizenship in our StaRs. The approach to delivering our CCE curriculum is anchored on MOE’s philosophy, our school's SHINE values, and level-specific themes. It is enacted through various platforms, including CCE lessons, Values-in-Action (VIA), and our Student Leadership Development Programme. 
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide44.jpg)
+We also firmly believe that CCAs play a vital role in providing students with a holistic education that prepares them for success in an ever-changing world. Our diverse array of CCAs offers our StaRs many opportunities to explore their passions, develop various skills, and cultivate essential attributes that go beyond the academic curriculum. Through their relentless hard work, our students have achieved remarkable success in various CCAs, showcasing their talents and bringing immense pride to our Serangoon Family.
 
-Let us all look towards the future with excitement and aspiration. We are well placed to meet the challenges ahead of us and I am confident that our school, parents, SAC, Alumni, community, and industry partners will continue to support our work and partner with us in nurturing students to be <i>Resilient Individuals, Passionate Learners and Active Contributors.</i>
+In Serangoon Secondary, we have designed Level Programmes that cater to students’ needs at each stage of their secondary education journey. The highlight of our level programmes is the iconic StaRs programme, an annual 4-day programme that promotes holistic development through a series of engaging and reflective activities.
 
-With a strong sense of mission, we will work with all our partners in <i>Moulding Character, Igniting Passion and Building Community</i> in all our Serangoon StaRs, anchoring on the School Values (Self-Directedness, Harmony, Integrity, ResilieNce and Excellence). 
+As part of our ongoing commitment to fostering a caring and supportive learning environment, we offer Customised Support to students who may require. The Orion StaRs After School Engagement initiative offers students meaningful after-school activities, such as sports and crafts, to enhance their personal, social, and emotional competencies. Our Mentoring Programmes, conducted in collaboration with community partners, focus on developing students' social-emotional skills and values. Next, our Applied Learning Modules, held in partnership ITEs, Polytechnics and vendors, offer our Sec 3 StaRs short courses so that they can gain a better understanding of post-secondary educational pathways.
 
-![](/images/School%20Management%20Team/Principal's%20Message/Slide46.JPG)
+**E. Work Plan Seminar 2023**
 
-As we celebrate this significant milestone, we express gratitude to all who have been part of our journey.
 
-And as we count down to our 100<sup>th</sup> year celebration, to draw upon key terms from our school’s rich history, we will *Play the Game* differently, enabling *Knowledge is Power* through applied learning opportunities for every StaR to *Seek, Strive and Serve*. As a school, we will give our best and more, and help every StaR be *the best that they can be*.  
+Today, allow me to share with you our school’s plans for the future, inspired by the visionary directions from the Ministry of Education's Schools Work Plan Seminar 2023 in September last year. 
+
+MOE's Work Plan Seminar 2023 outlined strategic directions aimed at equipping students with the values and competencies needed to thrive in a fast-changing world.
+
+In particular, I am excited to highlight two key areas of focus emerging from Work Plan Seminar 2023 that will shape our school’s directions in the years ahead and the future of learning for our StaRs:
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide28.jpg)
+The first one is the integration of technology through the EdTech Masterplan 2030, and
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide29.jpg)
+The second one, the Enhanced 21st Century Competencies (21CC) 
+
+As part of our school-based conversations on WPS 2023, starting with our Staff Review Meetings towards the end of last year, my Vice-Principal (EO) Edmund Chen has actively engaged our School Management Team and our Staff separately and together in meaningful discussions aligned with WPS 2023 directions.
+
+To ensure that our staff feel empowered and supported as we embrace WPS 2023 directions and chart a new course forward as a school, VP Edmund Chen made it a priority to create a supportive environment at our staff engagement sessions where staff feedback was welcomed and actively addressed. Under his facilitation, these sessions have fostered an environment conducive to open dialogue, collaboration, and brainstorming among our staff, setting the stage for productive engagement over the next three years.
+
+As a school, we are committed to managing the pace of implementation for the new initiatives introduced by the Work Plan Seminar 2023 for our staff. We conducted a series of staff surveys to learn more about their readinesss and preferences regarding the upcoming shifts. 
+EdTech Masterplan 2030
+
+Allow me to first share with you our school’s implementation plans for EdTech Masterplan 2030. As a school, we recognise the transformative potential of technology as a tool for personalised learning, engagement, and empowerment. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide33.jpg)
+Starting from 2025, our school will create even more dynamic and interactive learning environments to inspire curiosity, facilitate exploration, and empower our StaRs to take ownership of their learning journey. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide34.jpg)We will do this by leveraging technological advancements to transform teaching and learning in Serangoon Secondary. We have already started this journey to chart a 4-year road map of our EdTech Ecosystem, led by VP Edmund working closely with the ICT team and our Instructional Programme Departments.
+
+**Enhanced 21CC Framework**
+
+
+Let me turn our attention next to the Enhanced Framework for 21CC. From 2026 onwards, in alignment with the refreshed Framework for 21CC, our school will advance our 21CC development efforts and place an even greater emphasis on adaptive and inventive thinking, communication, and civic literacy.
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide36.jpg)
+As part of our school’s commitment to enhancing 21st Century Competencies in our StaRs, we will further embed 21CC within and across all aspects of our curriculum, co-curricular activities and programmes beyond the classroom. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide37.jpg)
+As a school, we recognise that critical thinking, communication, collaboration, and creativity are essential skills that our StaRs need to thrive in a rapidly-changing and increasingly interconnected world. We will strengthen teaching and learning practices in our school to promote inquiry, dialogue, and experiential learning for our StaRs. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide38.jpg)
+To this end, I am happy to share on our school’s internationalisation programme. Through our overseas learning journeys, we aim to develop our StaRs’ leadership competencies, expand their global perspectives, enhance cultural understanding, and foster friendships and cross-cultural communication skills. This year we will be bringing our StaRs to Brunei and Vietnam. We will be progressively adding other Asean countries to our programme.
+
+**F. School Infrastructure Upgrading Programme**
+
+
+To support teaching and learning in Serangoon Secondary, we will also be embarking on a series of school improvement projects. These will include new classrooms to support FSBB, student services hub, synthetic football field, lift installation, and air-conditioning for the school hall. 
+
+VP Admin Mr Raja, together with our 2 Oms and the EAS team, will lead the projects.
+
+**Close**
+
+
+As I draw my remarks to a close, I would like to draw your attention to our school partnerships. In Serangoon Secondary, we value the partnerships that enrich the learning experience of our students and strengthen our school community. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide41.jpg)One such partnership is with Dads for Life Movement. Since 2023, we have partnered Dads for Life Movement to conduct workshops for our StaRs and their fathers. These workshops provide valuable resources and guidance to empower our fathers, equipping them with the necessary tools and support to actively engage in parenting, particularly during the challenging teenage years. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide42.jpg)I am confident that our school, parents, SAC, Alumni, community, Self-Help Groups or SHGs, and industry partners will continue to support our work and partner us in nurturing our StaRs to be Resilient Individuals, Passionate Learners and Active Contributors. I am pleased to report that we have initiated a working relationship with our SHGs: CDAC, Sinda and Mendaki. We have also formed a panel of industrialists in STEM-related and healthcare industries to work with us to enhance Education and Career Guidance in Serangoon Secondary. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide43.jpg)With a strong sense of mission as a school, we will work with all our partners in Moulding Character, Igniting Passion and Building Community in our StaRs. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide44.jpg)This is anchored on our School Values of Self-Directedness, Harmony, Integrity, ResilieNce and Excellence. 
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide45.jpg)In Serangoon Secondary School, we believe that academic achievements are incomplete without the cultivation of strong character and values. Through CCE, we aim to instill in our students a deep sense of integrity, resilience, and empathy, preparing them not just for the challenges of the classroom, but for the complexities of life beyond.
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide46.jpg)In the 21st century, the importance of Character and Citizenship Education or CCE cannot be overstated. Our character defines who we are as individuals, shaping our actions, decisions, and interactions with others.
+
+![](/images/About%20Us/Principal's%20Message%202024/Slide47.jpg)Moreover, as citizens of our respective countries and the global community, we bear a collective responsibility to contribute positively to society. 
+
+In closing, it is my hope that today’s Prize Presentation Day be a celebration of all that our StaRs have accomplished and all that they aspire to become.  
+
+I would like to thank the core planning committee led by VP1/Mr Edmund Chen, VPA/Mr Raja, HOD/Maths Poh Ling and the entire school team for their hard work and perseverance, without which this 96th Prize Presentation Day would not have been possible. 
+
+Thank you for your presence today. 
 
 *Mr Chen Fook Pang* 
 <br>**Principal** 
-<br>28 April 2023
+<br>26 April 2024
+
+Click here[here](https://www.serangoonsec.moe.edu.sg/about-us/principal-s-message-2023/) for the Principal's archived messages.
+
+<hr>
+
+**SPEECH BY MR ROGER FOONG, SAC MEMBER, GUEST-OF-HONOUR AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
+
+Superintendent Mdm Goh Mee Mee, Principal of Serangoon Secondary School Mr. Remington Chen; Distinguished Guests, Alumni, Parents, Staff and Students; Ladies and Gentlemen. 
+
+When I was invited to be the Guest of Honour at Serangoon Secondary School’s 96th Prize Presentation Day, it led me to reflect on how much education has changed since my school days, particularly in the aspect of education and career guidance for students.
+
+When I graduated from the Pre-University programme in Serangoon Secondary School many years ago, I had planned to proceed abroad to pursue further studies in Accountancy. While waiting for the course to commence, I successfully applied for a temporary job in the aviation sector. 
+
+In those short months, I found myself enjoying my work, and my willingness to work hard and learn was recognised by my employer. That fulfilling experience eventually led me to give up my further studies to continue in the field. Those months stretched into years, and what started as a temporary job had become a fulfilling career.
+
+The values, and lessons from my formative schooling years served as my compass in navigating the ups and downs of life. As they had in the past, schools continue to play this critical role in in shaping young minds. 
+
+But education today goes beyond merely acquiring knowledge. In today's fast-paced and ever-changing world, schooling must also equip students with the skills, tools, and mindset they need to navigate the complexities of the modern workforce. In addition, schools must help our young ones to discover their interests and career prospects, just as my short stint after graduation helped me to understand mine.
+
+Therefore, I am heartened that Serangoon Secondary not only has a robust academic programme, but it also places a strong emphasis on education and career guidance (ECG) for its students. 
+
+In Serangoon Secondary, ECG is integrated into their total curriculum – from academic subjects to co-curricular activities. In English, students engage in real-world communication tasks such as writing emails or reports; or giving presentations on topics of interest or relevance to them. 
+
+In Math, students apply math concepts, skills and reasoning to solve practical, everyday challenges. In Science, through learning journeys to high-technology local farms, students learn about sustainability and emerging technologies.  
+
+At the cohort level, ECG experiences are customised to meet students’ needs, interests and aspirations at the different stages of their secondary school journey. In Secondary 2, students learn more about different career paths through industrial talks and career exhibition booths. This helps them decide on the subjects to read in Upper Secondary that best meets their learning and career aspirations.
+
+In Secondary 3, students are given opportunities for industry exposure through partnerships with various organisations and agencies. This helps them to stay abreast of current trends and developments in different sectors. In addition, informal conversations with invited speakers from different fields enable them to learn about the rapidly evolving workplace, and how to adapt and thrive in dynamic environments. 
+
+In Secondary 4 and 5, as a capstone experience, our students embark on learning journeys to various Institutes of Higher Education (IHLs). They explore the diverse range of courses of study, career prospects, and educational pathways, and return feeling inspired to strive for academic excellence in their national exams, and pursue their aspirations with confidence and determination. 
+
+For students who need more personalised education and career guidance, group and individual guidance sessions are provided based on specific needs and interests with the school-based ECG counsellor and other members of the ECG team.
+
+These ECG initiatives in Serangoon Secondary School serve as bridges that connect the learning within the walls of the school to the dynamic realities of the world beyond. Through these initiatives, students see the relevance and application of their learning in real-world contexts. 
+
+To the school leaders and staff, I say this: Through your ECG initiatives, you have empowered your students to explore, discover and make their mark on the world through their educational &amp; career paths, and their contributions to society. And that is the true measure of a school’s success.
+
+In concluding, I offer my heartfelt congratulations and best wishes to your students on this special occasion. 
+
+Thank you.
+
 <hr>
