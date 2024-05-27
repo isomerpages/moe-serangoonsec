@@ -10,6 +10,7 @@ variant: markdown
 
 **SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
 
+<br><br><br><br><br>
 [Slide 1] 
 Mr. Roger Foong, 
 Guest of Honour, Member, School Advisory Committee
