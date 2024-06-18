@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/'My Ideal Canteen' Design Challenge.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/'My Ideal Canteen' Design Challenge.md
       - Announcements/Promotion Sale of Uniforms 2024.md
       - Announcements/Travel Declaration for 2024 Mid Year Holidays.md
       - Announcements/Travel Declaration for 2024 March Holidays.md
