@@ -7,6 +7,6 @@ third_nav_title: General Matters
 ---
 ### Canteen Menu
 
-Check out the our Canteen Menu [here](/files/Parents%20and%20Students/Canteen%20Menu/Canteen_Menu_for_Internet_020224_v2.pdf).
+Check out the our Canteen Menu [here](/files/Parents%20and%20Students/Canteen%20Menu/CANTEEN_MENU_AS_AT_26062024.pdf).
 
 <hr>
