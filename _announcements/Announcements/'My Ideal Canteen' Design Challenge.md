@@ -111,7 +111,7 @@ Here are some guidelines you must follow when designing the canteen space:
 
 **7. - Submission Requirements**
 
-**a.**	All entries must be submitted by 5pm on 25 October 2024 to the school email: Serangoon_ss@moe.edu.sg
+**a.**	All entries must be submitted by 5pm on 25 October 2024 to the school email: <b><a href="mailto:serangoon_ss@moe.edu.sg">Serangoon_ss@moe.edu.sg</a></b>
 
 **b.**	File size must not exceed 20MB.
 
