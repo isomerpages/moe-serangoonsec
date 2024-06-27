@@ -129,7 +129,7 @@ Here are some guidelines you must follow when designing the canteen space:
 
 **b.**	Designers of the shortlisted entries will be required to make a presentation to the panel of judges explaining their ideas. 
 
- 
+
 **9.   Awards**
 
 All participants will be presented with a certificate of participation. The designers of the 12 winning entries will be awarded trophies and vouchers.
