@@ -26,25 +26,33 @@ third_nav_title: Announcements
 **5. Design Challenge Brief**
 <br>The challenge is to redesign our school canteen and re-think how the existing canteen space should, or could, function as a vibrant and healthy space. Your design should contain all the elements present in a typical school canteen – seating space for users, utensils return area, washing area, waste disposal and recycling points. You should also consider sustainability issues and the environmental impact of your design.
 
-<br>We have given a five steps design process that you may use as a guide to complete your design work.
+\We have given a five steps design process that you may use as a guide to complete your design work.
 
 **5.1	Overview**
-<br>a. 	The first step of the design process involves thinking about the big picture.  It’s where you define and state the problem you are trying to solve. You will need to really understand the problem that exists before chasing after solutions.  How is the school canteen designed now?  Start by making notes about what’s working and what isn’t working with the existing design.
 
-<br>b. 	Next, write and post a statement about who are the people that have the need for a new design?  How long has this situation been around?
+**a.** 	The first step of the design process involves thinking about the big picture.  It’s where you define and state the problem you are trying to solve. You will need to really understand the problem that exists before chasing after solutions.  How is the school canteen designed now?  Start by making notes about what’s working and what isn’t working with the existing design.
 
-<br>c. 	Then write and post a short, but clear, success statement.  How will you know if you have a successful solution when you are done?  When you are nearly finished with your design, you can go back to this success statement to see if your design has met the criteria, you first proposed.
- 
+**b.** 	Next, write and post a statement about who are the people that have the need for a new design?  How long has this situation been around?
+
+**c.** 	Then write and post a short, but clear, success statement.  How will you know if you have a successful solution when you are done?  When you are nearly finished with your design, you can go back to this success statement to see if your design has met the criteria, you first proposed.
+
 **5.2	Collection of Information**
-<br>In this step of the design process, you try to gather as much information as possible about the existing canteen, along with the students and staff who use it.  You can't propose new solutions until you figure out what the existing problems are. You may use the following as a checklist:
 
-<br>a.	How many students need to be seated in the canteen during the recesses?
-<br>b.	What types of furniture is used in the existing canteen? Does it need to be movable? 	Why or why not?
-<br>c.	Interview students and staff about what they like and dislike about the existing canteen. What changes would they make to the space if they had a choice?
-<br>d.	Make a list of those features that you really like about how the canteen looks and functions.
-<br>e.	Make a separate list of all the not-so-well-designed features (tables and chairs may be uncomfortable etc).
-<br>f.	Calculate the number of students who eat in the canteen each day. How many recess periods does the school have? Consider how this information will affect your design.
-<br>g.	Does the redesigned canteen need to look like the typical canteen with long rows of tables? 
+In this step of the design process, you try to gather as much information as possible about the existing canteen, along with the students and staff who use it.  You can't propose new solutions until you figure out what the existing problems are. You may use the following as a checklist:
+
+**a.**	How many students need to be seated in the canteen during the recesses?
+
+**b.**	What types of furniture is used in the existing canteen? Does it need to be movable? 	Why or why not?
+
+**c.**	Interview students and staff about what they like and dislike about the existing canteen. What changes would they make to the space if they had a choice?
+
+**d.**	Make a list of those features that you really like about how the canteen looks and functions.
+
+**e.**	Make a separate list of all the not-so-well-designed features (tables and chairs may be uncomfortable etc).
+
+**f.**	Calculate the number of students who eat in the canteen each day. How many recess periods does the school have? Consider how this information will affect your design.
+
+**g.**	Does the redesigned canteen need to look like the typical canteen with long rows of tables? 
 
 **5.3	Brainstorm Ideas**
 <br>In this step of the design process, you put some early ideas down on paper. You may use the following as a checklist:
