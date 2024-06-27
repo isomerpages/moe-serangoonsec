@@ -144,4 +144,7 @@ Click [here](https://go.gov.sg/myidealcanteendesignchallengeregistrationform) to
 
 <img src="/images/Announcements/QRcode__myidealcanteendesignchallengeregistrationform.png" style="width:223px;height:240px;margin-right:15px;" align="left">
 
+<br>
+<br>
+<br>
 <hr>
