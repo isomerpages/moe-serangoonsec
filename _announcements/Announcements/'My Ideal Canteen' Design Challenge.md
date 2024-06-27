@@ -11,19 +11,19 @@ third_nav_title: Announcements
 
 #### Terms and Conditions
 
-**1. Welcome to ‘My Ideal Canteen’ Design Challenge!**
+**1. - Welcome to ‘My Ideal Canteen’ Design Challenge!**
 <br>This initiative is fully sponsored by the School Advisory Committee (SAC).
 
-**2. Challenge Period**
+**2. - Challenge Period**
 <br>The challenge will be open from 1 July 2024 to 25 October 2024 (5pm).
 
-**3. Eligibility**
+**3. - Eligibility**
 <br>The challenge is open to all Serangoon Stars. You may enter the contest as an individual or as a team. 
 
-**4. Design Challenge Background**
+**4. - Design Challenge Background**
 <br>Canteen has undergone little changes since the school opened in 2000. Hence, it is time to refresh the canteen. We believe this is a golden opportunity for you, our StaRs, to express your strong sense of identity and belonging to the school by actively contributing to the change you would like to see in the school. Come forward, Be part of the change!
 
-**5. Design Challenge Brief**
+**5. - Design Challenge Brief**
 <br>The challenge is to redesign our school canteen and re-think how the existing canteen space should, or could, function as a vibrant and healthy space. Your design should contain all the elements present in a typical school canteen – seating space for users, utensils return area, washing area, waste disposal and recycling points. You should also consider sustainability issues and the environmental impact of your design.
 
 \We have given a five steps design process that you may use as a guide to complete your design work.
@@ -95,39 +95,47 @@ In the final step of the design process is to create finished drawings that illu
 
 Here are some guidelines you must follow when designing the canteen space:
 
-a.	It must be a versatile space, functioning as a dining area during recess hours and transforming into a study space during after-school hours.
+**a.**	It must be a versatile space, functioning as a dining area during recess hours and transforming into a study space during after-school hours.
 
-b.	The space must be optimised to accommodate all the students during recesses. Therefore, besides the usual sit-and-eat arrangement, you may propose ideas for stand-and-eat section. 
+**b.**	The space must be optimised to accommodate all the students during recesses. Therefore, besides the usual sit-and-eat arrangement, you may propose ideas for stand-and-eat section. 
 
-c.	Create an open layout that allows for easy movement and a sense of spaciousness. It must not be enclosed or air-conditioned but naturally ventilated, supported by fans. 
+**c.**	Create an open layout that allows for easy movement and a sense of spaciousness. It must not be enclosed or air-conditioned but naturally ventilated, supported by fans. 
 
-d.	Furniture proposed must be safe, comfortable, sturdy, durable, not too heavy, and easy to maintain.
+**d.**	Furniture proposed must be safe, comfortable, sturdy, durable, not too heavy, and easy to maintain.
 
-e.	A single table must accommodate minimally a group of 6 students or staff.
+**e.**	A single table must accommodate minimally a group of 6 students or staff.
 
-f.	Natural elements, such as potted plants can be added to bring life to the canteen space.
+**f.**	Natural elements, such as potted plants can be added to bring life to the canteen space.
 
-g.	Artwork on walls can be considered to add character to the canteen.
+**g.**	Artwork on walls can be considered to add character to the canteen.
 
 **7. - Submission Requirements**
 
-<br>a.	All entries must be submitted by 5pm on 25 October 2024 to the school email: Serangoon_ss@moe.edu.sg
-<br>b.	File size must not exceed 20MB.
-<br>c.	All entries can either be hand crafted or digitally drawn and must be in colour.
-<br>d.	All entries must be accompanied with a write-up explaining the design concept (minimum 250 words).   
-<br>e.	School will accept up to 2 entries per person/ team.
-<br>f.	By submitting the entries, you agree to Serangoon Secondary School using the design ideas in whole or in part to renovate the canteen.
+**a.**	All entries must be submitted by 5pm on 25 October 2024 to the school email: Serangoon_ss@moe.edu.sg
+
+**b.**	File size must not exceed 20MB.
+
+**c.**	All entries can either be hand crafted or digitally drawn and must be in colour.
+
+**d.**	All entries must be accompanied with a write-up explaining the design concept (minimum 250 words).   
+
+**e.**	School will accept up to 2 entries per person/ team.
+
+**f.**	By submitting the entries, you agree to Serangoon Secondary School using the design ideas in whole or in part to renovate the canteen.
 
 **8.	Evaluation of Entries**
 
-<br>a.	A panel of judges comprising School Leaders, School Advisory Committee Representatives and selected teachers will evaluate the entries.
-<br>b.	Designers of the shortlisted entries will be required to make a presentation to the panel of judges explaining their ideas. 
+**a.**	A panel of judges comprising School Leaders, School Advisory Committee Representatives and selected teachers will evaluate the entries.
+
+**b.**	Designers of the shortlisted entries will be required to make a presentation to the panel of judges explaining their ideas. 
 
  
-**9.	Awards**
-<br>All participants will be presented with a certificate of participation. The designers of the 12 winning entries will be awarded trophies and vouchers.
+**9. - Awards**
 
-**10.	Announcement of Results**
-<br>The results will be released before 5pm on 10 January 2025. School’s decision shall be final.
+All participants will be presented with a certificate of participation. The designers of the 12 winning entries will be awarded trophies and vouchers.
+
+**10. - Announcement of Results**
+
+The results will be released **before 5pm on 10 January 2025**. School’s decision shall be final.
 
 <hr>
