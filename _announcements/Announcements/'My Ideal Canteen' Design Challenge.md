@@ -11,24 +11,24 @@ third_nav_title: Announcements
 
 #### Terms and Conditions
 
-**1. - Welcome to ‘My Ideal Canteen’ Design Challenge!**
+**1.   Welcome to ‘My Ideal Canteen’ Design Challenge!**
 <br>This initiative is fully sponsored by the School Advisory Committee (SAC).
 
-**2. - Challenge Period**
+**2.   Challenge Period**
 <br>The challenge will be open from 1 July 2024 to 25 October 2024 (5pm).
 
-**3. - Eligibility**
+**3.   Eligibility**
 <br>The challenge is open to all Serangoon Stars. You may enter the contest as an individual or as a team. 
 
-**4. - Design Challenge Background**
+**4.   Design Challenge Background**
 <br>Canteen has undergone little changes since the school opened in 2000. Hence, it is time to refresh the canteen. We believe this is a golden opportunity for you, our StaRs, to express your strong sense of identity and belonging to the school by actively contributing to the change you would like to see in the school. Come forward, Be part of the change!
 
-**5. - Design Challenge Brief**
+**5.   Design Challenge Brief**
 <br>The challenge is to redesign our school canteen and re-think how the existing canteen space should, or could, function as a vibrant and healthy space. Your design should contain all the elements present in a typical school canteen – seating space for users, utensils return area, washing area, waste disposal and recycling points. You should also consider sustainability issues and the environmental impact of your design.
 
 \We have given a five steps design process that you may use as a guide to complete your design work.
 
-**5.1 - Overview**
+**5.1.   Overview**
 
 **a.** 	The first step of the design process involves thinking about the big picture.  It’s where you define and state the problem you are trying to solve. You will need to really understand the problem that exists before chasing after solutions.  How is the school canteen designed now?  Start by making notes about what’s working and what isn’t working with the existing design.
 
@@ -36,7 +36,7 @@ third_nav_title: Announcements
 
 **c.** 	Then write and post a short, but clear, success statement.  How will you know if you have a successful solution when you are done?  When you are nearly finished with your design, you can go back to this success statement to see if your design has met the criteria, you first proposed.
 
-**5.2 - Collection of Information**
+**5.2.   Collection of Information**
 
 In this step of the design process, you try to gather as much information as possible about the existing canteen, along with the students and staff who use it.  You can't propose new solutions until you figure out what the existing problems are. You may use the following as a checklist:
 
@@ -54,7 +54,7 @@ In this step of the design process, you try to gather as much information as pos
 
 **g.**	Does the redesigned canteen need to look like the typical canteen with long rows of tables? 
 
-**5.3 - Brainstorm Ideas**
+**5.3.   Brainstorm Ideas**
 
 In this step of the design process, you put some early ideas down on paper. You may use the following as a checklist:
 
@@ -64,7 +64,7 @@ In this step of the design process, you put some early ideas down on paper. You 
 
 **c.**	Make a list of all the unique spaces and features you plan to have in the canteen.
 
-**5.4 - Develop Solutions**
+**5.4.   Develop Solutions**
 
 In this step, your rough ideas come together with drawings or models that can show others your solutions for a new canteen. You may use the following as a checklist:
 
@@ -74,7 +74,7 @@ In this step, your rough ideas come together with drawings or models that can sh
 
 **c.**	Going through a detailed design process requires time to gather information, develop ideas, and make improvements. Design submissions that are researched, developed, and well executed will always stand out!
 
-**5.5 - Final Design**
+**5.5.   Final Design**
 
 In the final step of the design process is to create finished drawings that illustrate your ideas to others. Remember, your explanation text, and the types of drawings you share need to tell the entire story of your project. You may use the following as a checklist:
 
@@ -91,7 +91,7 @@ In the final step of the design process is to create finished drawings that illu
 <br>iii.	The quality of drawings you have submitted.
 <br>iv.	How well you have written and explained your thinking behind the design.
 
-**6. - Design Guidelines**
+**6.   Design Guidelines**
 
 Here are some guidelines you must follow when designing the canteen space:
 
@@ -109,7 +109,7 @@ Here are some guidelines you must follow when designing the canteen space:
 
 **g.**	Artwork on walls can be considered to add character to the canteen.
 
-**7. - Submission Requirements**
+**7.   Submission Requirements**
 
 **a.**	All entries must be submitted by 5pm on 25 October 2024 to the school email: <b><a href="mailto:serangoon_ss@moe.edu.sg">Serangoon_ss@moe.edu.sg</a></b>
 
@@ -123,18 +123,18 @@ Here are some guidelines you must follow when designing the canteen space:
 
 **f.**	By submitting the entries, you agree to Serangoon Secondary School using the design ideas in whole or in part to renovate the canteen.
 
-**8.	Evaluation of Entries**
+**8.   Evaluation of Entries**
 
 **a.**	A panel of judges comprising School Leaders, School Advisory Committee Representatives and selected teachers will evaluate the entries.
 
 **b.**	Designers of the shortlisted entries will be required to make a presentation to the panel of judges explaining their ideas. 
 
  
-**9. - Awards**
+**9.   Awards**
 
 All participants will be presented with a certificate of participation. The designers of the 12 winning entries will be awarded trophies and vouchers.
 
-**10. - Announcement of Results**
+**10.   Announcement of Results**
 
 The results will be released **before 5pm on 10 January 2025**. School’s decision shall be final.
 
