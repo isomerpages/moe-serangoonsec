@@ -15,7 +15,7 @@ Click [here](/files/Announcements/Design_Challenge_Terms_and_Conditions__Latest_
 
 <hr>
 
-#### My Ideal Canteen’ Design Challenge Registration Form
+#### 'My Ideal Canteen’ Design Challenge Registration Form
 
 Click [here](https://go.gov.sg/myidealcanteendesignchallengeregistrationform) to register, or scan the QR code below:
 
