@@ -142,10 +142,6 @@ The results will be released **before 5pm on 10 January 2025**. School’s decis
 
 Click [here](https://go.gov.sg/myidealcanteendesignchallengeregistrationform) to register, or scan the QR code below:
 
-![](/images/Announcements/QRcode__myidealcanteendesignchallengeregistrationform.png)
-
-
-
-
+<img src="/images/Announcements/QRcode__myidealcanteendesignchallengeregistrationform.png" style="width:223px;height:240px;margin-right:15px;" align="left">
 
 <hr>
