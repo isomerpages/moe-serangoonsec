@@ -140,7 +140,8 @@ The results will be released **before 5pm on 10 January 2025**. School’s decis
 
 #### My Ideal Canteen’ Design Challenge Registration Form
 
-Click [https://go.gov.sg/myidealcanteendesignchallengeregistrationform](here) to register, or scan the QR code below:
+Click [here](https://go.gov.sg/myidealcanteendesignchallengeregistrationform) to register, or scan the QR code below:
+
 
 
 
