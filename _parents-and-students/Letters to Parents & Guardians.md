@@ -8,7 +8,7 @@ variant: markdown
 
 ##### 2024 Term 3 Letter to Parents
 
-Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_2_Letter_to_Parents.pdf) to view.
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_3_Letter_to_Parents_.pdf) to view.
 
 <hr>
 
