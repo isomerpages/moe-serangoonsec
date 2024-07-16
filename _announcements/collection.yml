@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Character Awards 2024.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/'My Ideal Canteen' Design Challenge.md
