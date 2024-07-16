@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 16/07/2024:     |1.| [Character Awards 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
+| 16/07/2024:     |1.| [Character Awards 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
 | 18/06/2024:     |2.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
 | 23/05/2024:     |3.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
 | 09/05/2024:     |4.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
