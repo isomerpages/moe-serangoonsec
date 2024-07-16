@@ -11,12 +11,13 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 18/06/2024:     |1.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
-| 23/05/2024:     |2.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
-| 09/05/2024:     |3.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
-| 26/02/2024:     |4.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
-| 15/01/2024:     |5.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
-| 12/01/2024:     |6.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
+| 16/07/2024:     |1.| [Character Awards 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
+| 18/06/2024:     |2.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
+| 23/05/2024:     |3.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
+| 09/05/2024:     |4.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
+| 26/02/2024:     |5.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
+| 15/01/2024:     |6.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
+| 12/01/2024:     |7.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
 
 ##### 2023 Events
 
