@@ -30,9 +30,9 @@ e)	Has not been a STSPMF beneficiary for 24 months for the whole schooling years
 **To apply, please inform your child/ward to collect the STSPMF application form from school’s General Office or download the attached forms and submit the completed/signed application form &amp; supporting documents to the GO latest by 11 Sep 2024 (Wed).   **
 
 ***Forms:***
-[](/files/Announcements/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf)
+<br>[Annex A - 2025 STSPMF Application Form for schools](/files/Announcements/Annex_A___2025_STSPMF_Application_Form_for_schools.pdf)
 
-[](/files/Announcements/Annex_B___Income_declaration_form.pdf)
+[Annex B - Income declaration form](/files/Announcements/Annex_B___Income_declaration_form.pdf)
 
 Please contact GO at Tel: 63851589 for enquiries.
 
