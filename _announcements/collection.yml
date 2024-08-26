@@ -2,6 +2,8 @@ collections:
   announcements:
     output: true
     order:
+      - "Announcements/Teacher’s Day Update: Special Visit Arrangements for
+        Serangoon Stars Alumni.md"
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/STSPMF (Cycle 1 2025).md
