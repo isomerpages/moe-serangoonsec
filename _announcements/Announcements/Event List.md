@@ -11,14 +11,15 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 23/08/2024:     |1.|[STSPMF (Cycle 1 2025)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2025/)|
-| 15/08/2024:     |2.|[Travel Declaration for 2024 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-sep/)|
-| 16/07/2024:     |3.| [Character Awards 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
-| 18/06/2024:     |4.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
-| 23/05/2024:     |5.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
-| 09/05/2024:     |6.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
-| 26/02/2024:     |7.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
-| 15/01/2024:     |8.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
+| 26/08/2024:     |1.|[Teacher’s Day Update: Special Visit Arrangements for Serangoon Stars Alumni)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni/)|
+| 23/08/2024:     |2.|[STSPMF (Cycle 1 2025)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2025/)|
+| 15/08/2024:     |3.|[Travel Declaration for 2024 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-sep/)|
+| 16/07/2024:     |4.| [Character Awards 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
+| 18/06/2024:     |5.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
+| 23/05/2024:     |6.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
+| 09/05/2024:     |7.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
+| 26/02/2024:     |8.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
+| 15/01/2024:     |10.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
 | 12/01/2024:     |9.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
 
 ##### 2023 Events
