@@ -6,6 +6,22 @@ variant: markdown
 ---
 ### Letters to Parents &amp; Guardians
 
+##### 2024 Term 4 Letters to Parents
+
+**Sec 1 to 3**
+<br>
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_4_Letter__Sec_1_to_3_.pdf) to view.
+
+**Sec 4E &amp; 5N**
+<br>
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/SSS_2024_Term_4_Letter__Sec_4E5N_.pdf) to view.
+
+**Sec 4N**
+<br>
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/SSS_2024_Term_4_Letter__Sec_4N_.pdf) to view.
+
+<hr>
+
 ##### 2024 Term 3 Letter to Parents
 
 Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_3_Letter_to_Parents_.pdf) to view.
