@@ -20,7 +20,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      background: /images/Hero Banners/hero_banner_exp_v1.gif
+      background: /images/20230302_100639.jpg
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
       subtitle: Announcements
