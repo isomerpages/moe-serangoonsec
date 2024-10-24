@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 257/10/2024:     |1.| [Sale of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
+| 25/10/2024:     |1.| [Sale of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
 | 11/10/2024:     |2.| [Travel Declaration for 2024 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-eoy/)|
 | 26/08/2024:     |3.|[Teacher’s Day Update: Special Visit Arrangements for Serangoon Stars Alumni)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni/)|
 | 23/08/2024:     |4.|[STSPMF (Cycle 1 2025)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2025/)|
