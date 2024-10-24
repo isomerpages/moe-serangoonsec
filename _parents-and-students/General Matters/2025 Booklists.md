@@ -1,11 +1,11 @@
 ---
-title: 2023 Booklists
-permalink: /parents-and-students/General-Matters/booklists-2023/
+title: 2025 Booklists
+permalink: /2025-booklists/
+variant: markdown
 description: ""
 third_nav_title: General Matters
-variant: markdown
 ---
-### 2023 Booklists
+### 2025 Booklists
 
 ##### Secondary 1
 
