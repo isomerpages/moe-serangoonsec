@@ -1,6 +1,6 @@
 ---
 title: 2025 Booklists
-permalink: /2025-booklists/
+permalink: /parents-and-students/general-matters/booklists-2025/
 variant: tiptap
 description: ""
 third_nav_title: General Matters
