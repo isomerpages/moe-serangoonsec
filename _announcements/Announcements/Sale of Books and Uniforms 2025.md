@@ -1,6 +1,6 @@
 ---
 title: Sale of Books and Uniforms 2025
-permalink: /sbu-2025/
+permalink: /announcements/announcements/sbu-2025/
 variant: markdown
 description: ""
 third_nav_title: Announcements
