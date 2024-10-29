@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/School Open House 2024.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/Sale of Books and Uniforms 2025.md
