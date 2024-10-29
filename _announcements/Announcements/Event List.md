@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 25/10/2024:     |1.| [School Open House 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/School-Open-House-2024/)|
+| 25/10/2024:     |1.| [School Open House 2024](https://moeserangoonsec/announcements/Announcements/School-Open-House-2024/)|
 | 23/11/2024:     |2.| [Sales of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
 | 11/10/2024:     |3.| [Travel Declaration for 2024 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-eoy/)|
 | 26/08/2024:     |4.|[Teacher’s Day Update: Special Visit Arrangements for Serangoon Stars Alumni)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni/)|
