@@ -7,7 +7,7 @@ third_nav_title: General Matters
 ---
 <h3>2025 Booklists</h3>
 <h5>Secondary 1</h5>
-<p><a href="https://www.serangoonsec.moe.edu.sg/files/Booklists/Booklists%202025/Serangoon_Sec_Sch_Booklist_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Seondary 1 Booklist</a>
+<p><a href="https://www.serangoonsec.moe.edu.sg/files/Booklists/Booklists%202025/Serangoon_Sec_Sch_Booklist_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a>
 </p>
 <h5>Secondary 2</h5>
 <p><a href="https://www.serangoonsec.moe.edu.sg/files/Booklists/Booklists%202025/Serangoon_Sec_Sch_Booklist_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist</a>
