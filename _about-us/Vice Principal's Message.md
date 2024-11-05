@@ -25,6 +25,8 @@ I look forward to working closely with my colleagues, our parents and community 
 <br>**Vice-Principal**
 
 <hr>
+<br>
+<img src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 **Nurturing Our Shining StaRs**
 
@@ -40,5 +42,7 @@ It is my privilege to join this vibrant community, and I look forward to working
 
 **Seek to Grow, Strive to Excel, Serve with Honour.**
 
+*Mr Marc Lim*
+<br>**Vice-Principal**
 
 <hr>
