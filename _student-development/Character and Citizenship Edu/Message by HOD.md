@@ -8,12 +8,12 @@ variant: markdown
 ### Message from Acting HOD (Character &amp; Citizenship Education)
 
 <img src="/images/School%20Management%20Team/Koh%20Sien%20Kok%20Dennis.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+
 Character and Citizenship Education (CCE) is integral to the holistic development of our students as Resilient Individuals, Passionate Learners, and Active Contributors. We aspire to see Serangoon StaRs thrive - as individuals, and as an integral part of their community.
 
-
-
-
 In Serangoon Secondary School, we are committed to empower Serangoon StaRs to SHINE by developing in them
+
+<br>
 
 •	Good character,<br>
 •	Resilience and social-emotional well-being,<br>
