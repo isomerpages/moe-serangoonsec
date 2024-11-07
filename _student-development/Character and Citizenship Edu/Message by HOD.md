@@ -13,6 +13,7 @@ Character and Citizenship Education (CCE) is integral to the holistic developmen
 
 
 
+
 In Serangoon Secondary School, we are committed to empower Serangoon StaRs to SHINE by developing in them
 
 •	Good character,<br>
