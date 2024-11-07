@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### HODs' and YHs' Messages
 
-<li><a href="/student-development/character-and-citizenship-edu/shhodcce/">Message</a> by Mrs Faith Wong Yeo Sok Yee, <br>HOD (Character and Citizenship Education)</li>
+<li><a href="/student-development/character-and-citizenship-edu/hod-message/">Message</a> by Mr Koh Sien Kok Dennis, <br>Acting HOD (Character and Citizenship Education)</li>
 
 <li><a href="/academic-programmes/craft-and-technology/hod-message/">Message</a> by Mr Alvin Tay, <br>HOD (Craft and Technology)</li>
 
