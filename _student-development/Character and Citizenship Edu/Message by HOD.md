@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character and Citizenship Edu
 variant: markdown
 ---
-### Message from Acting HOD (Character &amp; Citizenship Education)
+### Message from HOD (Character &amp; Citizenship Education)
 
 <img src="/images/School%20Management%20Team/Koh%20Sien%20Kok%20Dennis.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
@@ -56,6 +56,6 @@ It takes a village to raise a child. We warmly invite you - parents, alumni, oth
 We look forward to your support and partnership.
 
 *Mr Koh Sien Kok Dennis*
-<br>**Acting HOD (CCE)**
+<br>**HOD (CCE)**
 
 <hr>
