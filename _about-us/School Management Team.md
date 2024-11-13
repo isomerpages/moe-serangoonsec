@@ -38,13 +38,12 @@ variant: markdown
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/teo_lay_peng_lynn.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Heng%20Tze%20Wei.jpg)|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/teo_lay_peng_lynn.jpg)|
-|![](/images/School%20Management%20Team/lim_tong_yang.jpg)|![](/images/School%20Management%20Team/chew_li_ting.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
-|![](/images/School%20Management%20Team/Kwek%20Cher%20Wei%20Dennis.jpg)|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
-|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|![](/images/School%20Management%20Team/kamal_jupri.jpg)|
-|![](/images/School%20Management%20Team/tan_kai_ling_sharon.jpg)|![](/images/School%20Management%20Team/tan_xiaolin.jpg)|![](/images/School%20Management%20Team/liao_yongzhi.jpg)|
+|![](/images/School%20Management%20Team/lim_tong_yang.jpg)|![](/images/School%20Management%20Team/chew_li_ting.jpg)|![](/images/School%20Management%20Team/Kwek%20Cher%20Wei%20Dennis.jpg)|
+|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|
+|![](/images/School%20Management%20Team/kamal_jupri.jpg)|![](/images/School%20Management%20Team/tan_kai_ling_sharon.jpg)|![](/images/School%20Management%20Team/tan_xiaolin.jpg)|
+|![](/images/School%20Management%20Team/liao_yongzhi.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 
 #### Teacher Leaders Council
