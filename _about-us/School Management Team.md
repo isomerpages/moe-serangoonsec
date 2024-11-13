@@ -12,6 +12,7 @@ variant: markdown
     <tbody><tr>
         <td><img alt="VP1" src="/images/School%20Management%20Team/chen_xuanting_edmund.JPG"></td>
         <td><img alt="P" src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg"></td>
+			  <td><img alt="VP2" src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg"></td>
         <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
     </tr>
 </tbody></table>
@@ -28,7 +29,7 @@ variant: markdown
 
 #### Head of Departments /&nbsp;Year Heads
 
-|![](/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg)|![](/images/School%20Management%20Team/Azrina%20Md%20Salleh.jpg)|![](/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg)|
+|![](/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg)|![](/images/School%20Management%20Team/Vincent%20Wong.jpg)|![](/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg)|
 | -------- | -------- | -------- |
 |![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/tay_hwee_kwang_alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
 |![](/images/School%20Management%20Team/Michelle%20Ong.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
@@ -37,7 +38,7 @@ variant: markdown
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Management%20Team/Vincent%20Wong.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 | -------- | -------- | -------- |
 |![](/images/School%20Management%20Team/Heng%20Tze%20Wei.jpg)|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/teo_lay_peng_lynn.jpg)|
 |![](/images/School%20Management%20Team/lim_tong_yang.jpg)|![](/images/School%20Management%20Team/chew_li_ting.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
