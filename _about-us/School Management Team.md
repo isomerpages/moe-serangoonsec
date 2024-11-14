@@ -21,7 +21,7 @@ variant: markdown
     </tr>
 </tbody></table>
 
-**NOTE:** Mr Chen Xuanting Edmund will be replaced by Mrs Wong-Lim Puay Kheng as Vice-Principal from 15 December 2024.
+**NOTE:** Mr Chen Xuanting Edmund will be posted out on 15 December 2024. Mrs Wong-Lim Puay Kheng will be posted in as Vice-Principal on the same date.
 
 #### School Staff Developer
 
