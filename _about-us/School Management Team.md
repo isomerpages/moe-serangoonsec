@@ -19,12 +19,9 @@ variant: markdown
 			  <td><img alt="VP2" src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg"></td>
         <td><img alt="VP3" src="/images/School%20Management%20Team/wong_lim_puay_kheng.jpg"></td>
     </tr>
-	<tr>
-        <td>till 15 Dec 2024</td>
-			  <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-		<td>after 15 Dec 2024</td>
-    </tr>
 </tbody></table>
+
+**NOTE:** Mr Chen Xuanting Edmund will be replaced by Mrs Wong-Lim Puay Kheng as Vice-Principal from 15 December 2024.
 
 #### School Staff Developer
 
