@@ -11,7 +11,7 @@ variant: markdown
 <li><a href="/academic-programmes/craft-and-technology/hod-message/">Message</a> by Mr Alvin Tay, <br>HOD (Craft and Technology)</li>
 
 
-<li><a href="/academic-programmes/english-language-and-literature/hod-message/">Message</a> by Mdm Azrina Bte Md Salleh, <br>HOD (English Language and Literature)</li>
+<li><a href="/academic-programmes/english-language-and-literature/hod-message/">Message</a> by Mr Vincent Wong, <br>HOD (English Language and Literature)</li>
 
 <li><a href="/academic-programmes/humanities/hod-message">Message</a> by Ms Sabrina Teo, <br>HOD (Humanities)</li>
 
