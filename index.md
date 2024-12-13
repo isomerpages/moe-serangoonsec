@@ -27,8 +27,8 @@ sections:
       id: infopic
       description: The N-level results will be released on 16 December 2024, Monday.
       button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2024/
-      image: /images/SSS_e_banner_Open_House_23_Nov_2024.jpg
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/
+      image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
