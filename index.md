@@ -22,13 +22,13 @@ sections:
           url: /useful-links/
       background: /images/20230302_100639.jpg
   - infopic:
-      title: School Open House 2024
+      title: 2024 GCE ‘N’ Level Results
       subtitle: Announcements
       id: infopic
-      description: Join us for our annual Open House event on 23 November 2024!
+      description: The N-level results will be released on 16 December 2024, Monday.
       button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2024/
-      image: /images/SSS_e_banner_Open_House_23_Nov_2024.jpg
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/
+      image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
