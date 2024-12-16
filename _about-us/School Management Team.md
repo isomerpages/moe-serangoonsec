@@ -36,7 +36,6 @@ variant: markdown
 |![](/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg)|![](/images/School%20Management%20Team/Vincent%20Wong.jpg)|![](/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg)|
 | -------- | -------- | -------- |
 |![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/tay_hwee_kwang_alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
-|![](/images/School%20Management%20Team/Michelle%20Ong.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 |![](/images/School%20Management%20Team/Lum%20Cindy.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|![](/images/School%20Management%20Team/Mr%20Tay%20Ming%20Yang.png)|
 |![](/images/School%20Management%20Team/Koh%20Sien%20Kok%20Dennis.jpg)|![](/images/School%20Management%20Team/Ng%20He%20Li.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
