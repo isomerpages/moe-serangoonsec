@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Principal's Message
 
-<img src="/images/School%20Management%20Team/Chen%20Fook%20Pang.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Chen_Fook_Pang.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 **SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
 
