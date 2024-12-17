@@ -11,20 +11,21 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 16/12/2024:     |1.| [2024 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/) |
-| 23/11/2024:     |2.| [School Open House 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2024/)|
-| 25/10/2024:     |3.| [Sales of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
-| 11/10/2024:     |4.| [Travel Declaration for 2024 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-eoy/)|
-| 26/08/2024:     |5.|[Teacher’s Day Update: Special Visit Arrangements for Serangoon Stars Alumni)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni/)|
-| 23/08/2024:     |6.|[STSPMF (Cycle 1 2025)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2025/)|
-| 15/08/2024:     |7.|[Travel Declaration for 2024 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-sep/)|
-| 16/07/2024:     |8.| [Character Awards 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
-| 18/06/2024:     |9.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
-| 23/05/2024:     |10.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
-| 09/05/2024:     |11.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
-| 26/02/2024:     |12.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
-| 15/01/2024:     |13.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
-| 12/01/2024:     |14.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
+| 17/12/2024:     |1.| [SSS Secondary 1 Registration 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/) |
+| 16/12/2024:     |2.| [2024 GCE N-Level Results (**updated**)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/) |
+| 23/11/2024:     |3.| [School Open House 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2024/)|
+| 25/10/2024:     |4.| [Sales of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
+| 11/10/2024:     |5.| [Travel Declaration for 2024 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-eoy/)|
+| 26/08/2024:     |6.|[Teacher’s Day Update: Special Visit Arrangements for Serangoon Stars Alumni)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni/)|
+| 23/08/2024:     |7.|[STSPMF (Cycle 1 2025)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2025/)|
+| 15/08/2024:     |8.|[Travel Declaration for 2024 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-sep/)|
+| 16/07/2024:     |9.| [Character Awards 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2024/)|
+| 18/06/2024:     |10.| ['My Ideal Canteen' Design Challenge](https://www.serangoonsec.moe.edu.sg/announcements/announcements/my-ideal-canteen-design-challenge/) |
+| 23/05/2024:     |11.| [Promotion Sale of Uniforms 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/promotion-sale-of-uniforms-2024/) |
+| 09/05/2024:     |12.| [Travel Declaration for 2024 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-jun/) |
+| 26/02/2024:     |13.| [Travel Declaration for 2024 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-mar/) |
+| 15/01/2024:     |14.| [2024 Sec 1 PES &amp; CCA Orientation](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-pes-cca-orientation/) |
+| 12/01/2024:     |15.| [Release of O Level Results 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/olevelresults-2024/) |
 
 ##### 2023 Events
 
