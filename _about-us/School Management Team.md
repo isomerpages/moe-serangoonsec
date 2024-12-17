@@ -10,7 +10,7 @@ variant: markdown
 
 <table>
     <tbody><tr>
-        <td><img alt="P" src="/images/School%20Management%20Team/Chen_Fook_Pang.jpg"></td>
+        <td><img alt="P" src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg"></td>
         <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
 			  <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
     </tr>
