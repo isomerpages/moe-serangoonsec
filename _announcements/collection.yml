@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Sec 1 Registration.md
+      - Announcements/SSS Secondary 1 Registration 2024.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/2024 GCE 'N' Level Results.md
