@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### Sec 1 Registration
+### SSS Secondary 1 Registration 2024
 
 ![](/images/Announcements/Sec_1_Registration_2024.jpg)
 
