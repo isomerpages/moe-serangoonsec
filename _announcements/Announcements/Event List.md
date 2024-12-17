@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 20/12/2023:     |1.| [SSS Secondary 1 Registration 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/) |
+| 17/12/2024:     |1.| [SSS Secondary 1 Registration 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/) |
 | 16/12/2024:     |2.| [2024 GCE N-Level Results (**updated**)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/) |
 | 23/11/2024:     |3.| [School Open House 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2024/)|
 | 25/10/2024:     |4.| [Sales of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
