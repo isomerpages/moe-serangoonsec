@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 16/12/2024:     |1.| [2024 GCE N-Level Results](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/) |
+| 16/12/2024:     |1.| [2024 GCE N-Level Results (**updated**)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/) |
 | 23/11/2024:     |2.| [School Open House 2024](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2024/)|
 | 25/10/2024:     |3.| [Sales of Books and Uniforms 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2025/)|
 | 11/10/2024:     |4.| [Travel Declaration for 2024 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2024-eoy/)|
