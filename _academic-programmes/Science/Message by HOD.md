@@ -3,27 +3,28 @@ title: Message by HOD
 permalink: /academic-programmes/science/hod-message/
 description: ""
 third_nav_title: Science
+variant: markdown
 ---
 ### Message by HOD (Science)
 
-<img src="/images/School%20Management%20Team/Michelle%20Ong.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Ho_Sze_Gin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-Science has played a part in enabling the development of important technological innovations and unlocking new frontiers. From developing newer and faster smartphones, to finding a cure for new pathogens such as COVID-19,  it is evident that Science has been and is a critical aspect in advancing towards a better quality of life.
+Science continues to be a cornerstone of progress, driving technological advancements and unlocking new frontiers of knowledge. From groundbreaking innovations like renewable energy solutions to the rapid development of medical breakthroughs during the COVID-19 pandemic, it is clear that Science is a powerful force in improving lives and addressing global challenges.
 
-As we navigate the complexities of a rapidly changing world, the half-life of technology will become shorter and scientific knowledge may become obsolete much faster than before. Therefore, as Science educators, we play an important role in igniting and sustaining students’ passion in learning science and in equipping them with skillsets and mindsets necessary for them to embrace ambiguity in the future. Other than inspiring joyful learning, it is crucial for educators to support students in embracing values in scientific inquiry and discovery, ethics in science and resilience in the pursuit of scientific knowledge and technological advancements. This is also aligned to our schools’ vision ‘Resilient Individuals, Passionate Learners, Active Contributors’.
+In today’s rapidly evolving landscape, where technological cycles are shorter and knowledge becomes outdated faster, it is imperative that we nurture in our students a lifelong curiosity and adaptability in the face of change. As educators, we hold a vital role in cultivating a love for science and equipping our students with the skills and values they need to navigate an uncertain future. Beyond joyful learning, our mission extends to fostering resilience, ethical understanding, and a deep appreciation for the principles of scientific inquiry and innovation. This aligns closely with our school’s vision of developing ‘Resilient Individuals, Passionate Learners, Active Contributors.’
 
-First, our department strives to develop Serangoon StaRs holistically and cultivate their interest and confidence in learning Science. Our talent development model consists of tiers of student-centric programmes which are thoughtfully designed and customised to students of different profiles and needs. These programmes serve to complement and/or extend the learning of science by exposing students to authentic real-world applications and nurturing inquiring minds through hands-on experiences. They also enable students to appreciate the relevance of what they learn in the classroom in a relatable way. 
+Our department is dedicated to the holistic development of our Serangoon StaRs, sparking their interest in Science while building their confidence in the subject. Through our tiered talent development model, we design programmes tailored to meet the diverse needs of our students. These initiatives provide authentic, hands-on experiences that connect classroom learning to real-world applications, allowing students to appreciate the relevance of Science in their daily lives. 
 
 ![](/images/HOD%20Science/science%20dept%20talent%20development%20model-1.png)
 
-Second, our teachers are constantly adapting and adopting a wide range of pedagogical and assessment practices that cater to our diverse student needs. One of our focus is on scientific inquiry, or practices of science, which aims to promote critical thinking and problem-solving skills, deepen sense-making of scientific information and ethical decision-making, as well as enhance the ability and confidence to communicate scientific ideas effectively. With the introduction of Personal Learning Devices (PLDs) in schools, our teachers leverage the affordances of technology to enrich the learning of science using interactive platforms and multimodal representations. We provide opportunities for students to connect meaningfully through experiential learning and engage in collaborative learning to co-create knowledge together with their teachers and peers.
+To meet the diverse needs of our students, our teachers leverage a wide range of pedagogical and assessment approaches. One of our key areas of focus is scientific inquiry, which promotes critical thinking, ethical decision-making, and effective communication of scientific ideas. With the advent of Personal Learning Devices (PLDs) in schools, our educators are harnessing the power of technology to create interactive and engaging learning experiences. This fosters meaningful connections through collaborative and experiential learning opportunities that allow students to co-create knowledge with their peers and teachers.
 
 ![](/images/HOD%20Science/hod_sc_2.png)
 
-Third, to help our students become creators of new solutions for tomorrow’s challenges, our teachers also need to be exposed to diverse and rich experiences beyond the school and keep themselves up-to-date with the latest scientific knowledge, technological advancements, as well as careers and industries of tomorrow. The department is dedicated in learning, unlearning and re-learning. These fresh perspectives and insights that our teachers gain through rigorous reflective cycles and various learning platforms would increase our capacities and capabilities to further broaden the experiences that we could provide for our students.
+Equipping our students to address future challenges also requires us, as educators, to continually learn and grow. By engaging in professional development, staying updated on the latest advancements in science and technology, and exploring emerging careers and industries, our teachers gain fresh insights that enrich the learning experiences we offer. Through reflection and innovation, the department remains committed to broadening the horizons of both our students and ourselves.
 
 ![](/images/HOD%20Science/hod_sc_3.png)
 
-With a committed team of Science teachers who exemplify lifelong learning for our Serangoon StaRs, I am confident that we can pave the way to realise the vision of science education in Singapore, where every student can be inspired by Science, inquire like scientists, and innovate using Science.
+With the unwavering dedication of our Science educators, who exemplify lifelong learning and a passion for teaching, I am confident that we can inspire every student to see the wonder in Science, think critically like scientists, and apply their knowledge to innovate for the future.
 
 <hr>
