@@ -27,4 +27,7 @@ Equipping our students to address future challenges also requires us, as educato
 
 With the unwavering dedication of our Science educators, who exemplify lifelong learning and a passion for teaching, I am confident that we can inspire every student to see the wonder in Science, think critically like scientists, and apply their knowledge to innovate for the future.
 
+*Ms Ho Sze Gin*
+<br>**HOD (Science)**
+
 <hr>
