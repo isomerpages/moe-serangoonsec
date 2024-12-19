@@ -21,7 +21,7 @@ variant: markdown
 
 <li><a href="/academic-programmes/physical-education/hod-message/">Message</a> by Mdm Goh Sze Wei, <br>HOD (Physical Education and Co-Curricular Activities)</li>
 
-<li><a href="/academic-programmes/science/hod-message/">Message</a> by Ms Michelle Ong, <br>HOD (Science)</li>
+<li><a href="/academic-programmes/science/hod-message/">Message</a> by Ms Ho Sze Gin, <br>HOD (Science)</li>
 
 <li><a href="/student-development/student-management/hod-message/">Message</a> by Ms Ng He Li, <br>HOD (Student Management)</li>
 
