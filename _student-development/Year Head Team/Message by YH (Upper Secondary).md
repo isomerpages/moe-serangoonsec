@@ -1,6 +1,6 @@
 ---
 title: Message by YH (Upper Secondary)
-permalink: /student-development/message-yh-us/
+permalink: /student-development/year-head-team/message-yh-us/
 description: ""
 image: /images/year head team 2023.png
 third_nav_title: Year Head Team
