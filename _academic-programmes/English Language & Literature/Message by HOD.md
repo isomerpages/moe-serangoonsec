@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Message by HOD (English Language and Literature)
 
-<img src="/images/School%20Management%20Team/Vincent%20Wong.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Vincent_Wong.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 Globalisation, changing demographics, and technological advancements are some of the key driving forces in the world today, and they will continue to shape our future. At Serangoon Secondary School, the English Language and Literature Department equips students with learning experiences that build the dispositions, skills, and knowledge they need to embrace opportunities and take on challenges of the future.
 
