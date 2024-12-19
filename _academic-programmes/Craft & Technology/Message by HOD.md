@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Message by HOD (Craft and Technology)
 
-<img src="/images/School%20Management%20Team/tay_hwee_kwang_alvin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Tay_Hwee_Kwang_Alvin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 The Craft and Technology department in Serangoon Secondary is passionate about creating an environment that helps our students acquire process skills such as critical and adaptive thinking, problem solving, and communication. The team believes that students equipped with these skills will be ready for the future.
 
