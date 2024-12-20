@@ -10,7 +10,7 @@ variant: markdown
 
 <br>
 
-Click [here](/files/Student%20Handbook/Serangoon_Sec_Handbook_2024_FINAL_8_Dec_web.pdf) for the 2024 Student Handbook.
+Click [here](/files/Student%20Handbook/Serangoon_Sec_Handbook_2024_FINAL_8_Dec_web.pdf) for the 2025 Student Handbook.
 
 <br>
 <br>
