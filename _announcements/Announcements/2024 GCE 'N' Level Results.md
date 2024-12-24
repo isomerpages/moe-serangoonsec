@@ -17,6 +17,21 @@ Please find the attached document (below) for more information about the 'N' Lev
 
 [2024 'N' Level Briefing Slides](/files/Announcements/2024_N_Level_Briefing_Slides_Students__sharing_.pdf)
 
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide1.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide2.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide3.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide4.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide5.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide6.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide7.jpg)
+<br>
+![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/Slide8.jpg)
 
 Thank you.
 
