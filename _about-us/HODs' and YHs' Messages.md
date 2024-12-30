@@ -25,13 +25,12 @@ variant: markdown
 
 <li><a href="/student-development/student-management/hod-message/">Message</a> by Ms Ng He Li, <br>HOD (Student Management)</li>
 
-<li><a href="/academic-programmes/ict/hod-message/">Message</a> by Mr Adrial Tan Chong Jin, <br>HOD (Information and Communication Technology)</li>
+<li><a href="/academic-programmes/ict/hod-message/">Message</a> by Mr Adrial Tan, <br>HOD (ICT)</li>
 
 <li><a href="/hod-data-management-message/">Message</a> by Mrs Lim Pei Lin, <br>HOD (Data Management)</li>
 
 <li><a href="/student-development/year-head-team/message-yh-ls/">Message</a> by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
 
 <li><a href="/student-development/year-head-team/message-yh-us/">Message</a> by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
-
 
 <hr>
