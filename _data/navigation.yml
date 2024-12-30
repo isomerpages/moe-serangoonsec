@@ -15,6 +15,8 @@ links:
         url: /about-us/ssd-message/
       - title: HODs' and YHs' Messages
         url: /about-us/hod-yh-messages/
+      - title: HOD (Data Mgmt)'s Message
+        url: /hod-data-management-message/
       - title: Vision, Mission, Values
         url: /vmv/
       - title: School Identity
@@ -31,8 +33,6 @@ links:
         url: /staff/
       - title: Contact Us
         url: /contact-us/
-      - title: HOD (Data Mgmt)'s Message
-        url: /hod-data-management-message/
   - title: Distinctive Programmes
     url: /distinctive-programmes/stem-applied-learning-programme/
     sublinks:
