@@ -23,7 +23,7 @@ Teachers at Serangoon Secondary School play a pivotal role in this journey. Thro
 
 Together, these initiatives underscore our dedication to nurturing confident, adaptable learners and educators who are ready to face the challenges of tomorrow.
 
-*Mr Adrial Tan Chong Jin*
+*Mr Adrial Tan*
 <br>**HOD (Information and Communication Technology)**
 
 <hr>
