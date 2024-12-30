@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - HOD (Data Management)'s Message.md
       - SAC Chairman's Message.md
       - Principal's Message.md
-      - Principal's Message Archive/Principal's Message 2023.md
       - Principal's Message Archive/.keep
+      - Principal's Message Archive/Principal's Message 2023.md
       - Vice Principal's Message.md
       - Vice Principal (Admin)'s Message.md
       - School Staff Developer's Message.md
+      - HOD (Data Management)'s Message.md
       - HODs' and YHs' Messages.md
       - Vision, Mission, Values, Philosophy, and Strategic Thrusts.md
       - School Identity.md
