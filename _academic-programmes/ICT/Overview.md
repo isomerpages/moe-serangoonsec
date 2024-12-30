@@ -11,13 +11,14 @@ variant: markdown
 
 | Name                     | Designation      |
 |--------------------------|------------------|
-| Mr Adrial Tan Chong Jin  | SH ICT           |
+| Mr Adrial Tan Chong Jin  | HOD ICT           |
+| Mr Lim Tong Yang  | SH ICT           |
 | Mr Muhd Lotfi            | CPA Coordinator  |
 | Mr Yee Kah Leong         | CPA Teacher      |
 | Mr Sng Kok Lam           | ICT Manager      |
 | Mr Muhammad Imran Samat  | ICT Manager      |
 | Mr Anuarezman Sariff | Desktop Engineer |
-| Mr C Aajith Kumar | Desktop Engineer |
+| Mr Farhan | Desktop Engineer |
 
 ##### Key Programmes
 ###### 1\. STEM Applied Learning Programme (ALP) in:
