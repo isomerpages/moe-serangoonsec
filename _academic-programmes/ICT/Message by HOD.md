@@ -5,7 +5,7 @@ description: ""
 third_nav_title: ICT
 variant: markdown
 ---
-### Message by HOD (Infocomm Technology)
+### Message by HOD (Information and Communication Technology)
 
 <img src="/images/School%20Management%20Team/adrial_tan_chong_jin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
@@ -24,6 +24,6 @@ Teachers at Serangoon Secondary School play a pivotal role in this journey. Thro
 Together, these initiatives underscore our dedication to nurturing confident, adaptable learners and educators who are ready to face the challenges of tomorrow.
 
 *Mr Adrial Tan Chong Jin*
-<br>**HOD (Infocomm Technology)**
+<br>**HOD (Information and Communication Technology)**
 
 <hr>
