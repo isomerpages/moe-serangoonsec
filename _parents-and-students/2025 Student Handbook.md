@@ -11,6 +11,8 @@ variant: markdown
 
 <br>
 
-Click [here](/files/Student%20Handbook/Serangoon_Sec_Student_Handbook_2025.pdf) for the 2025 Student Handbook.
+Click [here](/files/Student%20Handbook/serangoon_sec_student_handbook_2025.pdf) for the 2025 Student Handbook.
+
+<br><br><br><br><br>
 
 <hr>
