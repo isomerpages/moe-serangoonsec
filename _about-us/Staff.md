@@ -87,15 +87,15 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 4N1 | Mr Liao Yongzhi<br>Mr Yan Tuck Poh |
-| 4N2 | Ms Jacklyn Lee<br>Mr Yee Kah Leong |
-| 4N3 | Ms Kimberley Kuan<br>Mr Tan Kian Chong |
-| 4N4 | Mr Fathie Bin Ali Abdat<br>Ms Chew Li Ting |
-| 4N5 | Ms Lee Zhi Li<br>Ms Timmie Tan<br>Mr Yee Liang Chien |
-| 4N6 | Mr Daniel Fung<br>Ms Samantha Tan Xinyi |
-| 4N7 | Mr Lim Tong Yang<br>Ms Sun Guizi |
-| 4N8 | Mr Adrian Tay |
-| 5E1 |Mr Ong Chee Meng<br>Mr Goh Ling Pin |
+| 4N1 | Ms Teo Lay Peng Lynn<br>Mr Suratman Bin Masohan |
+| 4N2 | Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari |
+| 4N3 | Ms Gloria Lim<br>Mr Muhammad Nasri |
+| 4N4 | Mr Jeff Mak<br>Ms Amala |
+| 4N5 | Ms Kok Chuan Tin<br>Ms Siti Nur Sufiana |
+| 4N6 | Mdm Ng Siew Kheng<br>Mr Lim Tong Yang |
+| 4N7 | Ms Kanchana<br>Ms Fu Shin Hui |
+| 4N8 | Mr Muhammad Hamzah<br>Mdm You Chang Ying |
+| 5E1 |Ms Kimberley Kuan |
 
 #### Allied Educators 2024
 
