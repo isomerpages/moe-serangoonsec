@@ -60,14 +60,15 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 2H1 | Ms Lim Qiao Chun Caelyn<br>Ms Fong Jia Hui<br> Mr Shawn Seah Wei Xun |
-| 2H2 | Ms Peh Su Fang<br>Mr Hidayat |
-| 2H3 | Mdm Tengku Norita<br>Mr Jarrod Lim |
-| 2H4 | Mdm Hasrita Hosnin<br>Mr Tan Yong Khai<br>Ms Amala|
-| 2H5 | Ms Ivy Phong<br>Mr Muzzaffar |
-| 2H6 | Mr Timotty Tay Jun Jie <br>Mdm Nur Ashirah Binti Nordali |
-| 2H7 | Ms Charlene Lim<br>Ms Alice Yong |
-| 2H8 | Ms Sharon Tan<br>Ms Dasimah<br>Ms Candice Lim |
+| 2H1 | Ms Raudah<br>Mdm Lim Pei Yee |
+| 2H2 | Ms Jenny Guo<br>Ms Sherrie Ng |
+| 2H3 | Ms Ng Xuemin<br>Mrs Rudrapathy Vijayalaskhmi |
+| 2H4 | Ms Teo Zhi Hui Geraldine<br>Mr Tan Boon Hwee<br>Ms Peh Su Fang |
+| 2H5 | Ms Shabana<br>Mr Roger Goh |
+| 2H6 | Mr Tan Peng Yau <br>Ms Sharon Tan<br>Ms Caritas Lee |
+| 2H7 | Mr Sin Kah Fai Denny<br>Ms Kalarani |
+| 2H8 | Ms Bel Quek<br>Mr Darren Tan |
+| 2H9 | Ms Ang Chian Huey<br>Mr Wang Xiao Long |
 
 ##### Secondary 3
 
