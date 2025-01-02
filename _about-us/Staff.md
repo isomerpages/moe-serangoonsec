@@ -6,39 +6,39 @@ variant: markdown
 ---
 ## Staff
 
-### Middle Managers 2024
+### Middle Managers 2025
 
 | Name  | Designation |
 |---|---|
 | Mr Christopher Tan | School Staff Developer |
 | Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
-| Mdm Azrina Bte Md Salleh | HOD / English Language &amp; Literature |
+| Mr Vincent Wong | HOD / English Language &amp; Literature |
 | Ms Sabrina Teo | HOD / Humanities |
 | Mdm Koh Poh Ling | HOD / Mathematics |
 | Mr Alvin Tay | HOD / Craft &amp; Technology |
-| Mr Adrial Tan | HOD / Information &amp; Communications Technology |
-| Ms Ong Meixue Michelle | HOD / Science |
+| Mr Adrial Tan | HOD / ICT |
+| Mrs Low Sze Gin | HOD / Science |
+| Mrs Lim Pei Lin | HOD / Data Management |
 | Mdm Lum Cindy | Year Head |
 | Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
 | Mr Tay Ming Yang | Year Head |
-| Ms Faith Wong-Yeo Sok Yee | HOD / Character &amp; Citizenship Education |
+| Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
 | Mr Vincent Wong | SH / English Language |
 | Ms Guo Kaiqi Jenny | SH / Chinese Language |
-| Mr Heng Tze Wei | SH / Mathematics |
+| Mr Dennis Kwek | SH / Mathematics |
 | Ms Fu Shin Hui | SH / Chemistry |
-| Ms Teo Lay Peng Lynn | Acting SH / Art &amp; Aesthetics |
-| Mr Lim Tong Yang | Acting SH / Information &amp; Communications Technology |
-| Ms Chew Li Ting | Acting SH / Nutrition &amp; Food Science |
-| Mr Kwek Cher Wei Dennis | Assistant Year Head (Sec 2) |
+| Ms Teo Lay Peng Lynn | SH / Art &amp; Aesthetics |
+| Ms Chew Li Ting | SH / Nutrition &amp; Food Science |
+| Mr Chew Hock Chye Aaron | SH / Curriculum &amp; Innovation |
+| Mr Lim Tong Yang | SH / ICT |
 | Ms Ezyanti Siregar Bte Lukman | Assistant Year Head |
-| Mr Koh Sien Kok Dennis | SH / Character &amp; Citizenship Education |
+| Mr Liao Yongzhi | Assistant Year Head |
 | Ms Teo Zhi Hui Geraldine | SH / Physical Education &amp; Co-Curricular Activities |
 | Ms Ang Chian Huey | SH / Student Leadership |
 | Mr Kamal Bin Jupri | SH / Student Management |
-| Ms Sharon Tan Kai Ling | Acting SH / Student Well-Being |
-| Ms Tan Xiaolin | Assistant Year Head (Internal) |
-| Mr Liao Yongzhi | Assistant Year Head (Internal) |
+| Ms Sharon Tan Kai Ling | SH / Student Well-Being |
+| Ms Tan Xiaolin | SH / Special Educational Needs |
 
 ### Classes and Form Teachers 2024
 
