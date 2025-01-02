@@ -46,15 +46,15 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 1SD1 | Ms Raudah<br>Mdm Lim Pei Yee<br>Mr Danapal Kumar |
-| 1SD2 | Ms Jenny Guo<br>Ms Sherrie Ng |
-| 1SD3 | Ms Ng Xuemin<br>Mrs Rudrapathy Vijayalakshmi |
-| 1SD4 | Ms Teo Zhi Hui Geraldine<br>Mr Tan Boon Hwee |
-| 1SD5 | Ms Shabana<br>Mr Roger Goh Chye Boon |
-| 1SD6 | Ms Lim Shilei Ella<br>Mr Tan Peng Yau |
-| 1SD7 | Mr Sin Kah Fai<br>Ms Kalarani |
-| 1SD8 | Ms Bel Quek<br>Mr Heng Tze Wei<br>Ms Lio Dan Wei |
-| 1SD9 | Ms Ang Chian Huey<br>Ms Chiok Hwee Xin Joseline<br>Mr Wang Xiao Long |
+| 1SD1 | Mr Fathie Bin Ali Abdat<br>Ms Mok Wei Tong |
+| 1SD2 | Ms Jacklyn Lee<br>Ms Samantha Tan Xinyi |
+| 1SD3 | Mdm Tengku Norita<br>Mr Ong Chee Meng |
+| 1SD4 | Mr Shawn Seah Wei Xun<br>Mr Danapal Kumar |
+| 1SD5 | Ms Tan Xiaolin<br>Ms Eleanor Cheong |
+| 1SD6 | Mr Yee Liang Chien Matt<br>Ms Lio Dan Wei<br>Ms Sarah Grace Lim |
+| 1SD7 | Ms Dasimah<br>Mr Aaron Chew |
+| 1SD8 | Ms Chew Liting<br>Mr Goh Ling Pin |
+| 1SD9 | Mr Tan Kian Chong<br>Ms Charlene Lim |
 
 ##### Secondary 2
 
