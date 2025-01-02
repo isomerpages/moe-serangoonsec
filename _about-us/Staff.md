@@ -40,7 +40,7 @@ variant: markdown
 | Ms Sharon Tan Kai Ling | SH / Student Well-Being |
 | Ms Tan Xiaolin | SH / Special Educational Needs |
 
-### Classes and Form Teachers 2024
+### Classes and Form Teachers 2025
 
 ##### Secondary 1
 
@@ -97,7 +97,7 @@ variant: markdown
 | 4N8 | Mr Muhammad Hamzah<br>Mdm You Chang Ying |
 | 5E1 |Ms Kimberley Kuan |
 
-#### Allied Educators 2024
+### Allied Educators 2025
 
 | Name | Designation |
 |---|---|
