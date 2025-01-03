@@ -3,8 +3,9 @@ title: Release of O Level Results 2023
 permalink: /announcements/Announcements/olevelresults-2023/
 description: ""
 third_nav_title: Announcements
+variant: markdown
 ---
-### Release of O Level Results 2023
+### Release of O-Level Results 2023
 
 **Congratulations to your O-level results. Please find the information shared on 12 January as attached. All the best for your post-secondary education journey!**
 

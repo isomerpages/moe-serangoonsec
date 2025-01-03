@@ -1,11 +1,11 @@
 ---
-title: Release of O Level Results 2024
-permalink: /announcements/announcements/olevelresults-2024/
+title: 2023 GCE O Level Results Release
+permalink: /announcements/announcements/olevelresults-2023/
 variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### Release of O Level Results 2024
+### Release of O Level Results 2023
 
 ![](/images/Announcements/exam_results.jpeg)
 

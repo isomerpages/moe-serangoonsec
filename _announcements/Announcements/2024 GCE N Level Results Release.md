@@ -1,11 +1,11 @@
 ---
-title: 2024 GCE 'N' Level Results
+title: 2024 GCE N Level Results Release
 permalink: /announcements/announcements/2024-gce-nlevel-results/
 variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### 2024 GCE 'N' Level Results
+### 2024 GCE N-Level Results Release
 
 ![](/images/Announcements/2024%20'N'%20Level%20Results%20Release/2024_N_level_Social_Media_Stories___For_Sch_Website.gif)
 
