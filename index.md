@@ -27,7 +27,7 @@ sections:
       id: infopic
       description: The O-level results will be released on 10 January 2025, Friday.
       button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/
       image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
