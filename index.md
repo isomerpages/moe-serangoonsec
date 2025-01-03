@@ -22,13 +22,13 @@ sections:
           url: /useful-links/
       background: /images/20230302_100639.jpg
   - infopic:
-      title: Secondary 1 Registration
+      title: 2024 GCE O-Level Results Release
       subtitle: Announcements
       id: infopic
       description: Find out more from our microsite.
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/
-      image: /images/Announcements/Sec_1_Registration_2024.jpg
+      image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
       title: 2024 GCE ‘N’ Level Results
