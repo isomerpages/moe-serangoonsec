@@ -7,6 +7,12 @@ variant: markdown
 ---
 ### Event List
 
+##### 2025 Events
+
+| Date |  |Event|
+| -------- | -------- | -------- |
+| 03/01/2025:     |1.| [2024 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/) |
+
 ##### 2024 Events
 
 | Date |  |Event|
