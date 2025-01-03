@@ -31,7 +31,7 @@ sections:
       image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
-      title: 2024 GCE ‘N’ Level Results
+      title: 2024 GCE N-Level Results
       subtitle: Announcements
       id: infopic
       description: The N-level results will be released on 16 December 2024, Monday.
