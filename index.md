@@ -25,7 +25,7 @@ sections:
       title: 2024 GCE O-Level Results Release
       subtitle: Announcements
       id: infopic
-      description: Find out more from our microsite.
+      description: The O-level results will be released on 10 January 2025, Friday.
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2024/
       image: /images/Announcements/n_level_results_2023.jpg
