@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### Release of O Level Results 2024
+### Release of O Level Results 2023
 
 ![](/images/Announcements/exam_results.jpeg)
 
