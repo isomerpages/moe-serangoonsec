@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme
 permalink: /parents-and-students/ndlp/
 description: ""
+variant: markdown
 ---
 ### National Digital Literacy Programme
 
@@ -38,11 +39,14 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 ##### 6.DMA Parent Guides
 1) Click on the links below to access the guides:
 
-[DMA Parent Guide for Default Option Chrome Devices](/files/National%20Digital%20Literacy%20Prog/dma%20parent%20guide%20-%20default%20option.pdf) <br>
-[DMA Parent Guide for Option A Chrome Devices](/files/National%20Digital%20Literacy%20Prog/dma%20parent%20guide%20-%20option%20a.pdf) <br>
-[DMA Parent Guide for Option B Chrome Devices](/files/National%20Digital%20Literacy%20Prog/dma%20parent%20guide%20-%20option%20b.pdf) <br> <br>
+[DMA Parent Guide for Default Option Chrome Devices](/files/National%20Digital%20Literacy%20Prog/Chromebook___Default_Parent_Option_Group.pdf)<br>
 
-2) Please click on the link below to choose your after-school DMA options: <br>
+[DMA Parent Guide for Option A Chrome Devices](/files/National%20Digital%20Literacy%20Prog/Chromebook___Parent_Option_A_Group.pdf)<br>
+
+[DMA Parent Guide for Option B Chrome Devices](/files/National%20Digital%20Literacy%20Prog/Chromebook___Parent_Option_B_Group.pdf)<br>
+
+2) Please click on the link below to choose your after-school DMA options: 
+
 [Parent Option Form for After School DMA Settings](https://form.gov.sg/#!/60ac73688389f100127bbbe2)
 
 **NOTE:**&nbsp;DMA Options requests will only be processed on the first working day of the month.
