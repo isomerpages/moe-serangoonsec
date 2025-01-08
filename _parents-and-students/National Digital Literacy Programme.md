@@ -45,7 +45,8 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 
 [DMA Parent Guide for Option B Chrome Devices](/files/National%20Digital%20Literacy%20Prog/Chromebook___Parent_Option_B_Group.pdf)<br>
 
-2) Please click on the link below to choose your after-school DMA options: <br>
+2) Please click on the link below to choose your after-school DMA options: 
+
 [Parent Option Form for After School DMA Settings](https://form.gov.sg/#!/60ac73688389f100127bbbe2)
 
 **NOTE:**&nbsp;DMA Options requests will only be processed on the first working day of the month.
