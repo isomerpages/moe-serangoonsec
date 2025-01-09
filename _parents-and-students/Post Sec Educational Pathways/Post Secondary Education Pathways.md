@@ -29,9 +29,9 @@ variant: markdown
 
 You may wish to speak to your FTs and parents, or book an appointment with Ms Juan Pei-ling, our ECG Counsellor.
 
-<img align="center" style="width:50%" src="/images/Parents%20&amp;%20Students/Juan%20Pei%20Ling.png">
+![](/images/Parents%20&amp;%20Students/Post%20Secondary%20Pathway/ECGC_SSS_contact___JPL.jpg)
+![](/images/Parents%20&amp;%20Students/Post%20Secondary%20Pathway/2025_ECG_Resource.jpg)
 
-![](/images/Parents%20&amp;%20Students/ecg_room.png)
 		
 <br>Mondays and Thursdays (8am – 5pm) 
 <br>SSS Learning Hub
