@@ -32,15 +32,6 @@ You may wish to speak to your FTs and parents, or book an appointment with Ms Ju
 ![](/images/Parents%20&amp;%20Students/Post%20Secondary%20Pathway/ECGC_SSS_contact___JPL.jpg)
 ![](/images/Parents%20&amp;%20Students/Post%20Secondary%20Pathway/2025_ECG_Resource.jpg)
 
-		
-<br>Mondays and Thursdays (8am – 5pm) 
-<br>SSS Learning Hub
-<br>Email: [Juan_Peiling@schools.gov.sg](emailto:Juan_Peiling@schools.gov.sg)
-
-You can scan the QR Code below to book an appointment with me!
-
-<img align="center" style="width:50%" src="/images/Parents%20&amp;%20Students/sss-ecgc.png">
-
 <center><br>Mondays – Fridays (9am – 5pm)
 <br>Video (Web) session based on availability</center>
 
