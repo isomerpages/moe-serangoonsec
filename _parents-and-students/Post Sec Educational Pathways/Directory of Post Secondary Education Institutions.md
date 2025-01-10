@@ -31,7 +31,7 @@ variant: markdown
 | ST. ANDREW’S JUNIOR COLLEGE | [https://standrewsjc.moe.edu.sg](https://standrewsjc.moe.edu.sg) |
 | ST. JOSEPH’S INSTITUTION (JUNIOR COLLEGE)| [http://www.sji.edu.sg](http://www.sji.edu.sg)|
 | TAMPINES MERIDIAN JUNIOR COLLEGE | [https://tmjc.moe.edu.sg](https://tmjc.moe.edu.sg)|
-| TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|(https://sites.google.com/moe.edu.sg/tjce-openhouse2023)|
+| TEMASEK JUNIOR COLLEGE | [https://www.temasekjc.moe.edu.sg](https://www.temasekjc.moe.edu.sg)|
 | VICTORIA JUNIOR COLLEGE | [https://victoriajc.moe.edu.sg](https://victoriajc.moe.edu.sg)|
 | YISHUN INNOVA JUNIOR COLLEGE | [https://yijc.moe.edu.sg](https://yijc.moe.edu.sg)|
 
@@ -39,10 +39,9 @@ variant: markdown
 
 |                              |                                                          |            |
 | ---------------------------- | -------------------------------------------------------- | ---------- |
-|<b>Name of Institution</b>|<b>Website</b>|<b>Open House</b>|
-| LASALLE COLLEGE OF THE ARTS  | [https://www.lasalle.edu.sg](https://www.lasalle.edu.sg) |13 January 2023<br>(1pm - 6pm)<br>
-14 January 2023<br>(11am - 5pm)<br>[LASALLE Open House 2023](https://www.lasalle.edu.sg/experience/open-house-info-days/openhouse?gclid=EAIaIQobChMIjNqAjtqs_AIVZIdLBR1w5wu0EAAYASAAEgIDnfD_BwE&amp;gclsrc=aw.ds)|
-| NANYANG ACADEMY OF FINE ARTS | [https://www.nafa.edu.sg](https://www.nafa.edu.sg)|13 - 14 January 2023<br>(11am - 7pm)<br>[NAFA Open House 2023](https://enrol.nafa.edu.sg/openhouse)|
+|<b>Name of Institution</b>|<b>Website</b>|
+| LASALLE COLLEGE OF THE ARTS  | [https://www.lasalle.edu.sg](https://www.lasalle.edu.sg) |
+| NANYANG ACADEMY OF FINE ARTS | [https://www.nafa.edu.sg](https://www.nafa.edu.sg)|
 
 ##### Directory of Polytechnics
 
