@@ -17,13 +17,6 @@ variant: markdown
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | Prepares students for A-Levels over 2 years (or 3 years) before pursuing University education | Provides Diploma courses that prepare students for the workforce | Provides education for students with an aptitude for hands-on learning | Offers hands-on Diploma/Degree courses with a focus on visual and performing arts (e.g. Fine Arts, Music, Dance, Media, etc.) |
 
-##### ECG Padlet (a one-stop platform for all ECG-related matters)
-
-![](/images/Parents%20&amp;%20Students/ECG%20Padlet/ecg_padlet.png)
-
-<img align="center" style="width:50%" src="/images/Parents%20&amp;%20Students/ECG%20Padlet/ecd_padlet_qr_code.png">
-
-[https://for.edu.sg/sssecgpadlet](https://for.edu.sg/sssecgpadlet)
 
 ##### Not sure where’s next?
 
