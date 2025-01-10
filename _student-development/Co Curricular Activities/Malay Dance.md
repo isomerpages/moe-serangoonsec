@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /student-development/Co-Curricular-Activities/malay-dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Malay Dance
 
@@ -15,3 +16,7 @@ third_nav_title: Co Curricular Activities
 ![](/images/Malay%20Dance/Slide4.jpg)
 
 ![](/images/Malay%20Dance/Slide5.jpg)
+
+![](/images/Malay%20Dance/Slide6.jpg)
+
+<hr>
