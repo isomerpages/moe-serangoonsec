@@ -16,4 +16,6 @@ The O-level results will be released on 10 January 2025, Friday. Students are to
 
 Thank you.
 
+[2024 O-Level Briefing Slides for Students](/files/Announcements/2024_O_Level_Briefing_Slides_for_Students_.pdf)
+
 <hr>
