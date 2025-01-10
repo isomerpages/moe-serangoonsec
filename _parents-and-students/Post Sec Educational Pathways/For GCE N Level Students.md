@@ -17,5 +17,4 @@ For GCE N-Level students, these are the options available for you to consider:
 
 2.	Students can consider taking part in ITE Early admission exercises (ITE EAE) which take place before the national exams to secure a place in the course/institution of your choice.  You can refer to [https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise](https://www.ite.edu.sg/admissions/full-time-courses/early-admissions-exercise).
 
-
 <hr>
