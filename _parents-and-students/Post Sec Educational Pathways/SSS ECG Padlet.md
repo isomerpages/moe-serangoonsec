@@ -11,6 +11,6 @@ third_nav_title: Post Sec Educational Pathways
 
 <img align="center" style="width:50%" src="/images/Parents%20&amp;%20Students/ECG%20Padlet/ecd_padlet_qr_code.png">
 
-[https://for.edu.sg/sssecgpadlet](https://for.edu.sg/sssecgpadlet)
+https://for.edu.sg/sssecgpadlet
 
 <hr>
