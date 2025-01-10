@@ -45,7 +45,7 @@ variant: markdown
 
 ##### Directory of Polytechnics
 
-| Name of Institution   | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Open House / EAE                                                                                |
+| Name of Institution   | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                          |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | NANYANG POLYTECHNIC   | [https://www.nyp.edu.sg ](https://www.nyp.edu.sg) ||
 | NGEE ANN POLYTECHNIC  | [https://www.np.edu.sg/](https://www.np.edu.sg/Pages/default.aspx)||
@@ -55,7 +55,7 @@ variant: markdown
 
 ##### Directory of ITE
 
-| Name of Institution                        | Website                                                                                                    | Open House / EAE |
+| Name of Institution                        | Website                                                                                                    |
 | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | ---------------- |
 | INSTITUTE OF TECHNICAL EDUCATION (CENTRAL) | [https://www.ite.edu.sg/colleges/ite-college-central](https://www.ite.edu.sg/colleges/ite-college-central) |                  |
 | INSTITUTE OF TECHNICAL EDUCATION (EAST)    | [https://www.ite.edu.sg/colleges/ite-college-east](https://www.ite.edu.sg/colleges/ite-college-east)       |                  |
