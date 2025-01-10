@@ -7,14 +7,14 @@ variant: markdown
 ---
 ### Floorball (Boys &amp; Girls)
 
-![](/images/Floorball/Slide1.PNG)
+![](/images/Floorball/Slide1.jpg)
 
-![](/images/Floorball/Slide2.PNG)
+![](/images/Floorball/Slide2.jpg)
 
-![](/images/Floorball/Slide3.PNG)
+![](/images/Floorball/Slide3.jpg)
 
-![](/images/Floorball/Slide4.PNG)
+![](/images/Floorball/Slide4.jpg)
 
-![](/images/Floorball/Slide5.PNG)
+![](/images/Floorball/Slide5.jpg)
 
 <hr>
