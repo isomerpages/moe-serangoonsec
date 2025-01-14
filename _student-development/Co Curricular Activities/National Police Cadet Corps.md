@@ -7,6 +7,8 @@ variant: markdown
 ---
 ### National Police Cadet Corps (NPCC)
 
+![](/images/NPCC/For%202025/Slide1.jpg)
+<br>
 ![](/images/NPCC/For%202025/NPCC_2024_final_Page_01.jpg)
 <br>
 ![](/images/NPCC/For%202025/NPCC_2024_final_Page_02.jpg)
