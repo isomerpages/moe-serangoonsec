@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Basketball (Boys)
 
-<br>
 
 | General Information||
 | -------- | -------- |
