@@ -8,7 +8,6 @@ variant: markdown
 ### Basketball (Boys)
 
 <br>
-<br>
 
 | General Information||
 | -------- | -------- |
