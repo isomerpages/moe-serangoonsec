@@ -8,7 +8,7 @@ variant: markdown
 
 ##### 2025 Term 1 Letter to Parents
 
-Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2024_Term_1_Letter_to_Parents.pdf) to view.
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2025_Term_1_Letter_to_Parents.pdf) to view.
 
 <hr>
 
