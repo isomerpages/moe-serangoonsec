@@ -1,10 +1,10 @@
 ---
-title: Vice Principal's Message
+title: Vice Principals' Messages
 permalink: /about-us/vp-message/
 description: ""
 variant: markdown
 ---
-### Vice-Principal's Message
+### Vice-Principals' Messages
 
 <img src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
@@ -23,6 +23,20 @@ It is my privilege to join this vibrant community, and I look forward to working
 **Seek to Grow, Strive to Excel, Serve with Honour.**
 
 *Mr Marc Lim*
+<br>**Vice-Principal**
+
+<hr>
+<br>
+<img src="/images/School%20Management%20Team/wong_lim_puay_kheng.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+
+I am glad and honoured to join the Serangoon Family.  As I step into this positive and caring community, I am filled with excitement for the journey ahead and the potential that lies within each member of our school.
+
+At Serangoon Secondary School, we hold a steadfast belief that together, we can empower every Serangoon StaR to SHINE, not only for personal growth but for the betterment of society. Our vision extends beyond academic excellence; we aim to nurture individuals who are anchored in strong values, equipped to navigate the uncertainties of the future with confidence and integrity. In a world of constant change, these values will serve as a compass, guiding our students through challenges and opportunities alike.
+
+I am committed for each Serangoon StaR to have the opportunity to reach their full potential, to shine their brightest, and to be well-positioned for a future filled with promise. Together, we will create an environment where curiosity is encouraged, talents are nurtured, and dreams are pursued with passion. As we embark on this exciting chapter, I look forward to witnessing the remarkable achievements of our students and the positive impact they will undoubtedly make in the world.
+
+
+*Mrs Wong-Lim Puay Kheng*
 <br>**Vice-Principal**
 
 <hr>
