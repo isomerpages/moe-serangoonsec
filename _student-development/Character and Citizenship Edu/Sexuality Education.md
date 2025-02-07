@@ -67,6 +67,7 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 ||a)	Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).
 ||b)	Managing relationships and risky situations in a healthy way.|
 |Classroom-based Lesson|•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making|Term 3 Week 8|
+<hr>
 
 **INFORMATION FOR PARENTS**
 
