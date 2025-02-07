@@ -49,6 +49,16 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **At SERANGOON Secondary School, the following Sexuality Education lessons will be taught in 2025:**
 
+* Click [here](/files/Sexuality%20Education/2025/Sec_1_Programme.pdf) for Secondary 1
+
+* Click [here](/files/Sexuality%20Education/2025/Sec_2_Programme.pdf) for Secondary 2
+
+* Click [here](/files/Sexuality%20Education/2025/Sec_3_Programme.pdf) for Secondary 3
+
+* Click [here](/files/Sexuality%20Education/2025/Sec_4_Programme.pdf) for Secondary 4
+
+* Click [here](/files/Sexuality%20Education/2025/Sec_5_Programme.pdf) for Secondary 5
+
 <hr>
 
 **eTeens Programme:**
