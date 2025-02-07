@@ -68,7 +68,14 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 ||b)	Managing relationships and risky situations in a healthy way.|
 |Classroom-based Lesson|•	Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making|Term 3 Week 8|
 
+**INFORMATION FOR PARENTS**
 
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
+Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here. The completed form is to be submitted by 28/02/2025.
+
+Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable here.  The completed form is to be submitted by 28/02/2025.
+
+Parents can contact the school at <a href="Serangoon_ss@moe.edu.sg">Serangoon_ss@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 <hr>
