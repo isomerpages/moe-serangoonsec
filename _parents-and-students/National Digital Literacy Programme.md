@@ -35,6 +35,8 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 
 ##### 5.Service Centre Details
 
+![](/images/new_PLD_service_centre_location.jpg)
+
 *New Service Centre Location: *
  
 **Servlink Technologies – Lenovo Authorised Service Centre**
