@@ -34,7 +34,18 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 <br> <br> <br> <br> <br> <br>
 
 ##### 5.Service Centre Details
-![](/images/Lenovo%20Service%20Centre.jpg)
+
+*New Service Centre Location: *
+ 
+**Servlink Technologies – Lenovo Authorised Service Centre**
+Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407
+Hotline: +65 6817 1435
+Email: Svcctr@servlink.com.sg
+ 
+**Operating hours:**
+Monday to Friday: 9:00 AM – 6:00 PM
+Saturday: 9:00 AM – 1:00 PM
+Closed on Sundays and Public Holidays
 
 ##### 6.DMA Parent Guides
 1) Click on the links below to access the guides:
