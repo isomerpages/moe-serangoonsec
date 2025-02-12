@@ -26,17 +26,28 @@ This parent handbook shares more information on how owning a personal learning d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6oIAtbruVf4" title="What Do Parents Think About Personal Learning Devices (PLDs)? (Learning Differently With PLDs)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-##### 4.Queries and Feedback
+##### 4. Queries and Feedback
 Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb30011a65395), &nbsp;or scan the QR code below.
 
 <img src="/images/NDLP%20Query%20and%20Feedback%20link.jpg" style="width:35%" align="left">
 
-<br> <br> <br> <br> <br> <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-##### 5.Service Centre Details
-![](/images/Lenovo%20Service%20Centre.jpg)
+##### 5. New Service Centre Location
 
-##### 6.DMA Parent Guides
+![](/images/new_PLD_service_centre_location.jpg)
+
+<p><a href="mailto:svcctr@servlink.com.sg">Email Servlink Technologies</a></p>
+
+
+##### 6. DMA Parent Guides
 1) Click on the links below to access the guides:
 
 [DMA Parent Guide for Default Option Chrome Devices](/files/National%20Digital%20Literacy%20Prog/Chromebook___Default_Parent_Option_Group.pdf)<br>
