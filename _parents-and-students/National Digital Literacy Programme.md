@@ -44,6 +44,9 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 
 ![](/images/new_PLD_service_centre_location.jpg)
 
+<p><a href="mailto:svcctr@servlink.com.sg">Email Servlink Technologies</a></p>
+
+
 ##### 6. DMA Parent Guides
 1) Click on the links below to access the guides:
 
