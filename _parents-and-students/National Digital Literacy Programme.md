@@ -31,7 +31,14 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 
 <img src="/images/NDLP%20Query%20and%20Feedback%20link.jpg" style="width:35%" align="left">
 
-<br> <br> <br> <br> <br> <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ##### 5. Service Centre Details
 
