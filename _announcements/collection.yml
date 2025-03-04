@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Travel Declaration for 2025 March Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Travel Declaration for 2025 March Holidays.md
       - Announcements/2024 GCE O Level Results Release.md
       - Announcements/SSS Secondary 1 Registration 2024.md
       - Announcements/2024 GCE N Level Results Release.md
