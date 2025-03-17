@@ -18,4 +18,11 @@ Objectives of the sharing are:
 
 The following slides and links contain useful information on how you can prepare your child/ward for his/her national examinations. The slides and links also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE). This would be helpful for you as you guide your child/ward on the choices available when he/she pursues the next phase of learning after completing his/her secondary school education.
 
+[Overview](/files/Upper%20Sec/2025/Overview.pdf)
+
+[Sec 4E / 5 Sharing 2025](/files/Upper%20Sec/2025/Sec_4E_5_Sharing_2025.pdf)
+
+[Sec 4NA Sharing 2025](/files/Upper%20Sec/2025/Sec_4NA_Sharing_2025.pdf)
+
+[Sec 4NT Sharing 2025](/files/Upper%20Sec/2025/Sec_4NT_Sharing_2025.pdf)
 <hr>
