@@ -11,8 +11,9 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 04/03/2025:     |1.| [Travel Declaration for 2025 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-mar/) |
-| 03/01/2025:     |2.| [2024 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/) |
+| 24/03/2025:     |1.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2023](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2025/)|
+| 04/03/2025:     |2.| [Travel Declaration for 2025 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-mar/) |
+| 03/01/2025:     |3.| [2024 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/) |
 
 
 ##### 2024 Events
