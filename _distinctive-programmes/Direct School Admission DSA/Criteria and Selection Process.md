@@ -45,7 +45,7 @@ Applicants who do not have prior experience may also apply. The school will asse
 | -------- | -------- |
 |07 May 2025, 11 am to 3 June 2025, 3 pm|30 Jun 2025 – 4 Sep 2025|
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](www.moe.gov.sg/dsa-sec).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
