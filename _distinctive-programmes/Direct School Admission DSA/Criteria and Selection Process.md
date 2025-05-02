@@ -16,16 +16,16 @@ third_nav_title: Direct School Admission DSA
     <th>STEM Applied Learning Programme</th>
   </tr>
   <tr>
-    <td>General Descriptors<br><br>Outward-looking, with awareness of, and concern for, community needs<br><br>Are / have strong potential to be influential, with strong communication and people skills<br><br>Demonstrate leadership skills</td>
-    <td>General Descriptors<br><br>Curiosity with a keen interest in areas such as robotics<br><br>Proficient in Mathematics and Science<br><br>Passionate in STEM-related disciplines</td>
+		<td>General Descriptors<br><br>- Outward-looking, with awareness of, and concern for, community needs<br><br>- Are / have strong potential to be influential, with strong communication and people skills<br><br>- Demonstrate leadership skills</td>
+    <td>General Descriptors<br><br>- Curiosity with a keen interest in areas such as robotics<br><br>- Proficient in Mathematics and Science<br><br>- Passionate in STEM-related disciplines</td>
   </tr>
   <tr>
-    <td>Very good conduct in Primary 6 or last attended school.</td>
-    <td>Good conduct in Primary 6 or last attended school.</td>
+    <td>Conduct<br><br>- Very good conduct in Primary 6 or last attended school.</td>
+    <td>Conduct<br><br>- Good conduct in Primary 6 or last attended school.</td>
   </tr>
   <tr>
-    <td>Record of active participation in at least 1 CCA in Primary 6 or last attended school for at least 3 years.</td>
-    <td>Applicants who have achieved at least a B in either Mathematics or Science at the last school-based examination (or equivalent).</td>
+    <td>Involvement in school/community service<br><br>- Record of active participation in at least 1 CCA in Primary 6 or last attended school for at least 3 years.</td>
+    <td>Involvement in STEM related activities<br><br>- Applicants who have achieved at least a B in either Mathematics or Science at the last school-based examination (or equivalent).</td>
   </tr>
   <tr>
     <td>Has held Leadership position(s) in class / level / CCA / school in last attended school.</td>
