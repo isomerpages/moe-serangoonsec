@@ -24,16 +24,8 @@ third_nav_title: Direct School Admission DSA
     <td>&gt;&gt; Conduct<br><br>• Good conduct in Primary 6 or last attended school.</td>
   </tr>
   <tr>
-    <td>&gt;&gt; Involvement in school/community service<br><br>• Record of active participation in at least 1 CCA in Primary 6 or last attended school for at least 3 years.<br><br>•	Participated actively in community service activities (beyond minimum requirements) as a result of passion to serve the community​.<br></td>
-    <td>&gt;&gt; Involvement in STEM related activities<br><br>• Participated or achieved in STEM-related competitions or enrichment programmes, in particular the application of ICT in the areas of Drones programming and 3D modelling.<br><br>•	Participated in a STEM-related CCA in primary school. (e.g. Robotics Club, Science Club, Infocomm Club, Computer Club, Game Designing Programme, Singapore Youth Flying Club, Inventions Club)</td>
-  </tr>
-  <tr>
-    <td>Has held Leadership position(s) in class / level / CCA / school in last attended school.</td>
-    <td>N.A</td>
-  </tr>
-  <tr>
-    <td>Applicants with good track of service to the community in at least one of the following:<br><br>Participated actively in community service activities (beyond minimum requirements) as a result of passion to serve the community<br><br>Exemplary service to school in environment conservation efforts<br><br>Exemplary service to others in the school community<br><br>Initiated and led a meaningful project for the class / level / CCA / school so as to improve the class / level / CCA / school<br><br>Other suitable involvement</td>
-    <td>Applicants who have at least one of the following:<br><br>Participated or achieved in STEM-related competitions or enrichment programmes, in particular the application of ICT in the areas of Drones programming and 3D modelling.<br><br>Participated in a STEM-related CCA in primary school. (e.g. Robotics Club, Science Club, Infocomm Club, Computer Club, Game Designing Programme, Singapore Youth Flying Club, Inventions Club)</td>
+    <td>&gt;&gt; Involvement in school/community service<br><br>• Record of active participation in at least 1 CCA in Primary 6 or last attended school for at least 3 years.<br><br>•	Participated actively in community service activities (beyond minimum requirements) as a result of passion to serve the community.<br></td>
+    <td>&gt;&gt; Involvement in STEM related activities<br><br>• Participated or achieved in STEM-related competitions or enrichment programmes, in particular the application of ICT in the areas of Drones programming and 3D modelling.<br><br>•	Participated in a STEM-related CCA in primary school. (e.g. Robotics Club, Science Club, Infocomm Club, Computer Club, Game Designing Programme, Singapore Youth Flying Club, Inventions Club)<br><br>•	Other relevant involvement<br></td>
   </tr>
 </tbody></table>
  <hr>
