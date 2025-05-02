@@ -16,16 +16,16 @@ third_nav_title: Direct School Admission DSA
     <th>STEM Applied Learning Programme</th>
   </tr>
   <tr>
-		<td>General Descriptors<br><br>- Outward-looking, with awareness of, and concern for, community needs<br><br>- Are / have strong potential to be influential, with strong communication and people skills<br><br>- Demonstrate leadership skills</td>
-    <td>General Descriptors<br><br>- Curiosity with a keen interest in areas such as robotics<br><br>- Proficient in Mathematics and Science<br><br>- Passionate in STEM-related disciplines</td>
+		<td>&gt;&gt; General Descriptors<br><br>• Outward-looking, with awareness of, and concern for, community needs<br><br>• Are / have strong potential to be influential, with strong communication and people skills<br><br>• Demonstrate leadership skills</td>
+    <td>&gt;&gt; General Descriptors<br><br>• Curiosity with a keen interest in areas such as robotics<br><br>• Proficient in Mathematics and Science<br><br>• Passionate in STEM-related disciplines</td>
   </tr>
   <tr>
-    <td>Conduct<br><br>- Very good conduct in Primary 6 or last attended school.</td>
-    <td>Conduct<br><br>- Good conduct in Primary 6 or last attended school.</td>
+    <td>&gt;&gt; Conduct<br><br>• Very good conduct in Primary 6 or last attended school.</td>
+    <td>&gt;&gt; Conduct<br><br>• Good conduct in Primary 6 or last attended school.</td>
   </tr>
   <tr>
-    <td>Involvement in school/community service<br><br>- Record of active participation in at least 1 CCA in Primary 6 or last attended school for at least 3 years.</td>
-    <td>Involvement in STEM related activities<br><br>- Applicants who have achieved at least a B in either Mathematics or Science at the last school-based examination (or equivalent).</td>
+    <td>&gt;&gt; Involvement in school/community service<br><br>• Record of active participation in at least 1 CCA in Primary 6 or last attended school for at least 3 years.<br><br>•	Participated actively in community service activities (beyond minimum requirements) as a result of passion to serve the community​.<br></td>
+    <td>&gt;&gt; Involvement in STEM related activities<br><br>• Participated or achieved in STEM-related competitions or enrichment programmes, in particular the application of ICT in the areas of Drones programming and 3D modelling.<br><br>•	Participated in a STEM-related CCA in primary school. (e.g. Robotics Club, Science Club, Infocomm Club, Computer Club, Game Designing Programme, Singapore Youth Flying Club, Inventions Club)</td>
   </tr>
   <tr>
     <td>Has held Leadership position(s) in class / level / CCA / school in last attended school.</td>
