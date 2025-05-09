@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Travel Declaration for 2025 Mid Year Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Travel Declaration for 2025 Mid Year Holidays.md
       - Announcements/Reminder to collect School Graduation Certificate (SGC) by
         31 December 2025.md
       - Announcements/Travel Declaration for 2025 March Holidays.md
