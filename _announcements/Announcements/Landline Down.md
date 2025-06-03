@@ -1,11 +1,11 @@
 ---
-title: Power Outage
-permalink: /announcements/announcements/power-outage/
+title: Landline Down
+permalink: /announcements/announcements/landline-down/
 variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### Power Outage
+### Landline Down
 
 On 2 June 2025 at 1110hrs, a power outage occurred at parts of Hougang, Serangoon Secondary School is one of the facilities affected. 
 
