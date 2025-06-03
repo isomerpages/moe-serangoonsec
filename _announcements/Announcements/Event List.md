@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 02/06/2025:     |1.| [Power Outage](https://www.serangoonsec.moe.edu.sg/announcements/announcements/power-outage/) |
+| 02/06/2025:     |1.| [Landline Down](https://www.serangoonsec.moe.edu.sg/announcements/announcements/landline-down/) |
 | 15/05/2025:     |2.| [Travel Declaration for 2025 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-jun/) |
 | 24/03/2025:     |3.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2025/)|
 | 04/03/2025:     |4.| [Travel Declaration for 2025 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-mar/) |
