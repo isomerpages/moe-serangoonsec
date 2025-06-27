@@ -60,7 +60,7 @@ Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide8.png)
 
-To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into Curriculum Group 1 (Languages and Humanities) and Curriculum Group 2 (STEM subjects), overseen by experienced academic leaders. Equally important is Curriculum Group 3, dedicated to holistic Student Development Teams, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
+To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into **Curriculum Group 1 (Languages and Humanities)** and **Curriculum Group 2 (STEM subjects)**, overseen by experienced academic leaders. Equally important is **Curriculum Group 3**, dedicated to holistic **Student Development Teams**, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
 
 ![](/images/About%20Us/Principal's%20Message%202024/Slide10.jpg)
 The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
