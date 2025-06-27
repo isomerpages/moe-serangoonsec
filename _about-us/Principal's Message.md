@@ -42,22 +42,25 @@ Serangoon Secondary School stands tall with a proud and illustrious heritage, ha
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide4.png)
 
-Let me start by introducing you to the number 1 in my 5-4-3-2-1. At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
+Dr Wong Poh Poh, internationally renowned climate change scholar and IPCC contributor; and Mr Ngiam Tong Dow, one of Singapore’s most respected Permanent Secretaries.
 
-From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
+![](/images/About%20Us/Principal's%20Message%202025/Slide5.png)
 
-Our School Admin Team is the heartbeat of our administrative operations, providing essential support, guidance, and expertise that keep our school running smoothly day in and day out.
+Our alumni, found across the heartlands, exemplify the values of integrity, resilience, and compassion—true Serangoon sons and daughters who are not only leaders in their fields but also pillars of their families and communities. We pay tribute to the steadfast members of the Serangoon Alumni, whose continued support keeps our school’s legacy vibrant and strong.
 
-Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student. 
+![](/images/About%20Us/Principal's%20Message%202025/Slide6.png)
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide7.jpg)
-To deliver this, 3 Key Engines drive my teachers’ professional pedagogical practices in lesson design, planning and enactment. The 3 Key Engines are: the Singapore Teaching Practice or STP, Social &amp; Emotional Learning via CCE 2021 and EdTech Masterplan 2030. 
+At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with pride and heartfelt gratitude.
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide8.jpg)
-These 3 Key Engines support our 3 Curriculum Groups (CG1, CG2, CG3) to navigate the complex landscape of education today and ensure that as a school we operate in accordance with the best practices and standards.
+**B.	P’s Directional Setting of 54321 **
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide9.jpg)
-This brings me to the next number in my 5-4-3-2-1 – that is Number 4. This represents the Four Roles that define our teachers’ identity as a Professional Teaching Workforce. Teachers in my school take pride in their profession and bring out the best in our StaRs. In Serangoon Secondary, every teacher is A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher.
+![](/images/About%20Us/Principal's%20Message%202025/Slide7.png)
+
+Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our mission to equip, empower, and embolden every StaR to reach their fullest potential.
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide8.png)
+
+To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into Curriculum Group 1 (Languages and Humanities) and Curriculum Group 2 (STEM subjects), overseen by experienced academic leaders. Equally important is Curriculum Group 3, dedicated to holistic Student Development Teams, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
 
 ![](/images/About%20Us/Principal's%20Message%202024/Slide10.jpg)
 The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
