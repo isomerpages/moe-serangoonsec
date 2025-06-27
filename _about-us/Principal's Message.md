@@ -74,6 +74,32 @@ At the heart of this legacy are our dedicated teachers, who shape minds, build c
 
 **C.	Enhancing the Culture of Care with Class Ecosystem**
 
+![](/images/About%20Us/Principal's%20Message%202025/Slide11.png)
+9 - In growing our StaRs holistically, the Four-Year Learning Roadmap provides a structured and progressive framework that guides students' personal growth and character development throughout their secondary school journey.
+
+**Section C1: StaRs Programme**
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide12.png)
+
+In alignment to the level themes, the StaRs Programme is a series of three engaging programmes that take place throughout the year, designed to enrich our students' educational experience. The StaRs programme contributes significantly in our efforts to develop future-ready students who possess the essential competencies outlined in the MOE's 21st Century Competencies framework.
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide13.png)
+
+Allow me to illustrate with some examples. Our StaRs Programme 1 pushes boundaries through experiential learning.
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide14.png)
+
+When our Secondary 1 and 3 students participate in outdoor adventure camps, they aren't just engaging in physical activities – they are developing resilience, teamwork, and leadership skills.
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide15.png)
+
+I'm particularly proud of our Secondary 2 students' involvement in the Applied Learning Module. By tackling real-world problems, they're developing critical thinking skills and learning to apply their knowledge in practical situations. This is exactly what the E21CC framework emphasises – the ability to connect classroom learning with real-world applications.
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide16.png)
+
+Our Secondary 4 and 5 students' visits to Institutes of Higher Learning provide them with valuable insights into future pathways, helping them make informed decisions about their careers and further education. Through these programmes, we are nurturing confident and self-directed learners who are ready to thrive in an ever-changing world.
+
+
 *Mr Chen Fook Pang* 
 <br>**Principal** 
 <br>26 April 2024
