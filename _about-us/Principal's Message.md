@@ -68,6 +68,9 @@ Furthermore, we build this structure up with clear focus and coherence through**
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide10.png)
 
+We have embarked on a curriculum strategic planning review over the last two years to enhance the holistic learning experience for our Serangoon StaRs. Central to this effort is our comprehensive **Four-Year Learning Road Maps**, spanning from Secondary 1 through to Secondary 4 and 5 customised across G1, G2 and G3 profiles to cater to the needs of different learners. These roadmaps, carefully aligned with the MOE’s Work Plan Seminars and Curriculum Outcomes. It provides a clear, progressive, and holistic structure for our educational programmes. It integrates not just the academic subjects, but also vital Student Development areas like Character and Citizenship Education (CCE), the Year Head Curriculum, and Values-in-Action (VIA), alongside key programmes such as our Applied Learning and Learning for Life Programmes. This ensures we are systematically building essential knowledge, skills, and values, including the crucial 21st Century Competencies and proficiency in Educational Technology, which I will focus on later.
+
+8.	Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
 
 
 *Mr Chen Fook Pang* 
