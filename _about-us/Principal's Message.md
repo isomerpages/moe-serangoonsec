@@ -30,15 +30,15 @@ Ladies and gentlemen
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide1.png)
 
-Welcome to our 97th Prize Presentation Day. We are privileged to have Mr. Andy Ng with us as our Guest-of-Honour on this momentous occasion. As we gather here this morning, we mark nearly a century of educational excellence and also celebrate the remarkable achievements of our school community.
+1 - Welcome to our 97th Prize Presentation Day. We are privileged to have Mr. Andy Ng with us as our Guest-of-Honour on this momentous occasion. As we gather here this morning, we mark nearly a century of educational excellence and also celebrate the remarkable achievements of our school community.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide2.png)
 
-Looking across this assembly today fills me with immense pride. We are here not simply to hand out awards, but to acknowledge a year of growth, resilience, and success. This ceremony represents both a milestone in our school's rich history and a stepping stone towards our future aspirations. This is also a wonderful occasion where we celebrate the outstanding achievements of our students – a testament to their hard work, perseverance, and the pursuit of excellence. Today is not just about acknowledging individual successes, but also about recognizing the supportive environment and the strategic direction that empowers every student to reach their fullest potential.
+2 - Looking across this assembly today fills me with immense pride. We are here not simply to hand out awards, but to acknowledge a year of growth, resilience, and success. This ceremony represents both a milestone in our school's rich history and a stepping stone towards our future aspirations. This is also a wonderful occasion where we celebrate the outstanding achievements of our students – a testament to their hard work, perseverance, and the pursuit of excellence. Today is not just about acknowledging individual successes, but also about recognizing the supportive environment and the strategic direction that empowers every student to reach their fullest potential.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide3.png)
 
-Serangoon Secondary School stands tall with a proud and illustrious heritage, having nurtured generations of leaders who have shaped our nation’s destiny—including Mr Edmund William Barker, former Cabinet Minister; Mr Tee Tua Bah, former Commissioner of Police;
+3 - Serangoon Secondary School stands tall with a proud and illustrious heritage, having nurtured generations of leaders who have shaped our nation’s destiny—including Mr Edmund William Barker, former Cabinet Minister; Mr Tee Tua Bah, former Commissioner of Police;
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide4.png)
 
@@ -56,21 +56,21 @@ At the heart of this legacy are our dedicated teachers, who shape minds, build c
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide7.png)
 
-Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our mission to equip, empower, and embolden every StaR to reach their fullest potential.
+4 - Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our mission to equip, empower, and embolden every StaR to reach their fullest potential.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide8.png)
 
-To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into **Curriculum Group 1 (Languages and Humanities)** and **Curriculum Group 2 (STEM subjects)**, overseen by experienced academic leaders. Equally important is **Curriculum Group 3**, dedicated to holistic **Student Development Teams**, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
+5 - To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into **Curriculum Group 1 (Languages and Humanities)** and **Curriculum Group 2 (STEM subjects)**, overseen by experienced academic leaders. Equally important is **Curriculum Group 3**, dedicated to holistic **Student Development Teams**, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide9.png)
 
-Furthermore, we build this structure up with clear focus and coherence through** Level Themes** that guide our students’ experience year by year. Academically, students progress from **'Transition' in Secondary 1**, through 'Discovery' and 'Building Up', culminating in becoming **'Future Ready Learners' in Secondary 4/5**. In parallel, their developmental journey moves from **'Understanding &amp; Leading Self' to 'Understanding Others &amp; Working Together', 'Impacting &amp; Inspiring Others'**, and finally **'Striving for Excellence &amp; Looking Ahead'**. This intentional sequencing ensures progressive development across all facets of our students’ education. 
+6 - Furthermore, we build this structure up with clear focus and coherence through** Level Themes** that guide our students’ experience year by year. Academically, students progress from **'Transition' in Secondary 1**, through 'Discovery' and 'Building Up', culminating in becoming **'Future Ready Learners' in Secondary 4/5**. In parallel, their developmental journey moves from **'Understanding &amp; Leading Self' to 'Understanding Others &amp; Working Together', 'Impacting &amp; Inspiring Others'**, and finally **'Striving for Excellence &amp; Looking Ahead'**. This intentional sequencing ensures progressive development across all facets of our students’ education. 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide10.png)
 
-We have embarked on a curriculum strategic planning review over the last two years to enhance the holistic learning experience for our Serangoon StaRs. Central to this effort is our comprehensive **Four-Year Learning Road Maps**, spanning from Secondary 1 through to Secondary 4 and 5 customised across G1, G2 and G3 profiles to cater to the needs of different learners. These roadmaps, carefully aligned with the MOE’s Work Plan Seminars and Curriculum Outcomes. It provides a clear, progressive, and holistic structure for our educational programmes. It integrates not just the academic subjects, but also vital Student Development areas like Character and Citizenship Education (CCE), the Year Head Curriculum, and Values-in-Action (VIA), alongside key programmes such as our Applied Learning and Learning for Life Programmes. This ensures we are systematically building essential knowledge, skills, and values, including the crucial 21st Century Competencies and proficiency in Educational Technology, which I will focus on later.
+7 - We have embarked on a curriculum strategic planning review over the last two years to enhance the holistic learning experience for our Serangoon StaRs. Central to this effort is our comprehensive **Four-Year Learning Road Maps**, spanning from Secondary 1 through to Secondary 4 and 5 customised across G1, G2 and G3 profiles to cater to the needs of different learners. These roadmaps, carefully aligned with the MOE’s Work Plan Seminars and Curriculum Outcomes. It provides a clear, progressive, and holistic structure for our educational programmes. It integrates not just the academic subjects, but also vital Student Development areas like Character and Citizenship Education (CCE), the Year Head Curriculum, and Values-in-Action (VIA), alongside key programmes such as our Applied Learning and Learning for Life Programmes. This ensures we are systematically building essential knowledge, skills, and values, including the crucial 21st Century Competencies and proficiency in Educational Technology, which I will focus on later.
 
-8.	Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
+8 - Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
 
 
 *Mr Chen Fook Pang* 
