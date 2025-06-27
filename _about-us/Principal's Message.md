@@ -8,14 +8,14 @@ variant: markdown
 
 <img src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
+**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 97TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  25TH APRIL 2025, 9.00 AM**
 
-<br><br><br><br><br>
+<br><br><br><br>
 
-Mr. Roger Foong, 
+Mr. Andy Ng, 
 Guest of Honour, Member, School Advisory Committee
 
-School Divisions, N3, Superintendent, Mdm Goh Mee Mee 
+School Divisions, S1, Superintendent, Mr Ling Chow Khoon 
 
 Fellow Members, School Advisory Committee
 
@@ -25,19 +25,23 @@ Teachers, staff members and students
 
 Ladies and gentlemen
 
+
 **A.	Introduction and Welcome**
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide2.jpg)
-Thank you for joining us this morning at Serangoon Secondary School. We are indeed very honoured to have with us this morning Mr. Roger Foong to grace our 96th Prize Presentation Day. Today, we gather to commemorate the 96-year journey since the founding of our beloved school, and to celebrate the accomplishments of our students and staff.
+![](/images/About%20Us/Principal's%20Message%202025/Slide1.png)
 
-I stand before you today with great pride and purpose as we witness the culmination of yet another successful academic year for our school. This is not just a day of recognition and accolades; it is a moment to reflect on the journey we have undertaken as a school and the direction in which we are headed. 
+Welcome to our 97th Prize Presentation Day. We are privileged to have Mr. Andy Ng with us as our Guest-of-Honour on this momentous occasion. As we gather here this morning, we mark nearly a century of educational excellence and also celebrate the remarkable achievements of our school community.
 
-**B.	P’s Directional Setting of 54321**
+![](/images/About%20Us/Principal's%20Message%202025/Slide2.png)
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide3.jpg)
-As a school, one fundamental purpose unites us all – and that is to equip, empower and embolden our StaRs to reach their fullest potential in life. Allow me to share my directional setting for the school to accomplish this. I call this our school’s 5-4-3-2-1.
+Looking across this assembly today fills me with immense pride. We are here not simply to hand out awards, but to acknowledge a year of growth, resilience, and success. This ceremony represents both a milestone in our school's rich history and a stepping stone towards our future aspirations. This is also a wonderful occasion where we celebrate the outstanding achievements of our students – a testament to their hard work, perseverance, and the pursuit of excellence. Today is not just about acknowledging individual successes, but also about recognizing the supportive environment and the strategic direction that empowers every student to reach their fullest potential.
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide4.jpg)
+![](/images/About%20Us/Principal's%20Message%202025/Slide3.png)
+
+Serangoon Secondary School stands tall with a proud and illustrious heritage, having nurtured generations of leaders who have shaped our nation’s destiny—including Mr Edmund William Barker, former Cabinet Minister; Mr Tee Tua Bah, former Commissioner of Police;
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide4.png)
+
 Let me start by introducing you to the number 1 in my 5-4-3-2-1. At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
 
 From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
