@@ -62,12 +62,12 @@ Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our 
 
 To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into **Curriculum Group 1 (Languages and Humanities)** and **Curriculum Group 2 (STEM subjects)**, overseen by experienced academic leaders. Equally important is **Curriculum Group 3**, dedicated to holistic **Student Development Teams**, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide10.jpg)
-The next number in my 5-4-3-2-1 is … Number 5. Number 5 reflects our commitment to provide our StaRs with high-quality educational experiences through a comprehensive framework for nurturing the holistic development of our StaRs. These are the 5 Domains of Holistic Education, which are the Moral, Intellectual, Physical, Social and Aesthetics Domains.
+![](/images/About%20Us/Principal's%20Message%202025/Slide9.png)
 
-The 5 Domains of Holistic Education guide us as a school to connect our StaRs’ learning to the real world, and equip them with the knowledge, skills, and values they need to lead fulfilling lives, contribute to society, and do well in the future. 
+Furthermore, we build this structure up with clear focus and coherence through** Level Themes** that guide our students’ experience year by year. Academically, students progress from **'Transition' in Secondary 1**, through 'Discovery' and 'Building Up', culminating in becoming **'Future Ready Learners' in Secondary 4/5**. In parallel, their developmental journey moves from **'Understanding &amp; Leading Self' to 'Understanding Others &amp; Working Together', 'Impacting &amp; Inspiring Others'**, and finally **'Striving for Excellence &amp; Looking Ahead'**. This intentional sequencing ensures progressive development across all facets of our students’ education. 
 
-![](/images/About%20Us/Principal's%20Message%202024/Slide11.jpg)
+![](/images/About%20Us/Principal's%20Message%202025/Slide10.png)
+
 We are able to do this only through the commitment of everyone in our school community, from our One StaR Family, our 2 Core Teams, our 3 Curriculum Groups propelled forward by the 3 Key Engines, and through the 4 roles that every teacher in Serangoon Secondary plays as part of a Professional Teaching Workforce: A Caring Form Teacher, An Engaging CCA Teacher, A Reflective Subject Teacher, and an Ethical CCE Teacher. That is the directional setting encapsulated in my 5-4-3-2-1. 
 
 **C. Leadership in Curriculum and Instruction**
