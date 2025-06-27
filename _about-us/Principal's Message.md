@@ -72,6 +72,7 @@ At the heart of this legacy are our dedicated teachers, who shape minds, build c
 
 8 - Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
 
+**C.	Enhancing the Culture of Care with Class Ecosystem**
 
 *Mr Chen Fook Pang* 
 <br>**Principal** 
