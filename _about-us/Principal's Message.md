@@ -548,7 +548,7 @@ I want to talk with you this morning about navigating the path ahead. It’s a p
 Students today require a strong sense of Purpose, the Skills to thrive amidst uncertainty, and a passion to learn Beyond Grades. These three threads are deeply interwoven, and I see Serangoon Secondary actively nurturing them in you.
 
 1. Building Purpose: Defining Your Unique Success
-2. 
+
 First, let's talk about Purpose. What truly drives you? What kind of person do you aspire to be? Your school provides an excellent starting point with its inspiring vision: to develop "Resilient Individuals, Passionate Learners and Active Contributors". Think about those words. 
 
 Resilient Individuals – those who can face challenges and bounce back stronger. 
