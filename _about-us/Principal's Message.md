@@ -198,73 +198,117 @@ As your Principal, I am also personally committed to developing the curriculum l
 E. EdTech 2030 Masterplan 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide54.png)
 38 - At Serangoon Secondary School, our EdTech ecosystem is guided by the vision that “Teaching and learning can take place anytime, anywhere, with the appropriate digital device.” This vision drives a transformative shift from traditional teaching methods towards a digitally empowered learning experience. Through this ecosystem, students are enabled to rely primarily, if not entirely, on their Personal Learning Devices (PLDs) to support their educational journey, wherever the learning design is facilitated through EdTech-enabled approaches.
+
 39 - Core Digital Learning Experience
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide55.png)
+
 At the core of this ecosystem lies a device-centric learning environment that redefines how students engage with educational content. Learning is enhanced through active participation in pedagogically designed experiences, utilising platforms such as the Student Learning Space (SLS) and Google Classroom. These are grounded in sound educational principles, underpinned by the EdTech Pedagogical Scaffold (EdTech PS).
 Through this framework, we aim to nurture digitally empowered, future-ready learners who demonstrate the following attributes:
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide56.png)
+
 40 - Digitally-Empowered 21st Century Learners
 The following will be captured in the slide:
 •	Self-directed in setting learning goals and managing their learning processes using a variety of digital tools and platforms.
 •	Collaborative and connected through co-construction and sharing of knowledge with peers via digital media.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide57.png)
+
 41 - Digitally Literate Individuals
 The following will be captured in the slide:
 •	Proficient in applying digital literacy and technological skills to critically evaluate and synthesise information.
 •	Practise cyber wellness by engaging with technology in a safe, responsible, and discerning manner.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide58.png)
+
 42 - Empathetic, Technologically Adept Innovators
 The following will be captured in the slide:
 •	Employ human-centred methodologies to identify needs and develop solutions to real-world problems.
 •	Effectively leverage a wide range of digital tools to design and implement innovative solutions.
+
 Students develop these capabilities through technology-enhanced lessons involving digital note-taking and organisation, interactive annotations, real-time collaboration, time management using digital platforms, the cultivation of information literacy, and meaningful communication using PLDs.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide59.png)
+
 43 - Infrastructure and Tools
 The foundation of our EdTech ecosystem is supported by robust infrastructure. Every student is issued a Personal Learning Device from Secondary 1. These devices are integrated with core platforms such as the SLS and Google Workspace, including Gmail, Google Calendar, Google Tasks, Google Drive, and other specialised applications for annotation and note-taking. This integrated suite ensures consistent and reliable access to learning materials and communication tools.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide60.png)
 
 44 - Development of Digital Literacies:
 Students will be systematically equipped with key digital literacies (DLTS) necessary for future readiness by leveraging efforts across the total curriculum to strengthen DLTS, and infusing DLTS into content and learning experiences across the total curriculum. The school also seeks to strengthen Cyber Wellness for students’ safe interaction with technology by establishing a Cyber Wellness strategy working with HOD/CCE.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide60.png)
+
 45 - Pedagogical Approaches 
 As part of the Ministry of Education’s EdTech Masterplan 2030, the school will be adopting E-Pedagogy using a range of unique learning experiences and key applications of technology (KATs). This includes facilitating paperless learning experiences, encouraging digital content creation and curation, enabling real-time feedback and assessment, fostering interactive and collaborative learning activities, supporting self-directed learning opportunities, and creating personalised learning pathways for each student.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide61.png)
+
 46 - Integration of Key 21st Century Competencies (21CC)
 Critical, Adaptive, and Inventive Thinking (CAIT) Our ecosystem nurtures higher-order thinking through digital artefact creation, self- and peer-assessment, digital portfolios, coding, and data analytics tasks.
 Communication, Collaboration, and Information Skills (CCI) Platforms such as SLS and Google Classroom provide extensive opportunities for students to refine their communication and collaboration skills. These are fostered through activities such as peer reviews, group projects, online discussions, and digital presentations. Regular opportunities for reflection and feedback are embedded to help students become more aware of their progress and areas for further growth in these competencies. The school also explore using technology as an enabler to develop and assess 21CC. In particular, to use tech-developed solutions e.g. 21CC Navigator to develop and assess complex and “hard to assess” skills.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide62.png)
+
 47 - Implementation Strategy
+
 The implementation of our EdTech ecosystem is guided by a systematic approach involving PLD distribution and management, technical support, and professional development for staff. Teachers participate in continuous training, some of which are conducted in partnership with Educational Technology Division, to stay abreast of digital pedagogies, while students attend regular digital literacy workshops. The Teacher Leaders’ Council (TLC) is also designing SLS-based online modules that both meet the school’s training goals and immerse teachers in the learner’s experience—encouraging innovation and deeper EdTech integration. Feedback from all stakeholders informs ongoing improvements to ensure sustained relevance and impact.
+
 This transformation empowers students to manage their learning effectively, collaborate meaningfully, and thrive in a dynamic digital world. Beyond equipping students for academic excellence, the ecosystem prepares them for future workplace expectations where digital fluency is essential.
+
 48 - National Network Contribution (Not verbalised)
 Serangoon Secondary School is committed to contributing to the Ministry of Education’s vision of a national EdTech network. We envision this through greater collaboration with parents to reinforce school-led EdTech efforts. This includes aligning home practices with the school’s cyber wellness strategies to ensure a consistent and supportive environment for students' digital development.
+
 F.	Supporting our Staff
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide62.png)
+
 49 - To help our teachers reflect and grow continuously, the school has placed great emphasis on our teachers’ professional development. 
+
 Section F1: Staff Professional Development
+
 50 - In 2023, we have established the Teacher Leaders Council (TLC), comprising our Senior Teachers. [Slide 63] The TLC mounts various platforms for the sharing of expertise, mentoring and driving innovation in teaching and learning. To do so effectively, the TLC fosters strong collaborative relationships between Middle Managers and Teacher Leaders. This partnership has been instrumental in building our teachers' pedagogical capabilities, guided by the Singapore Teaching Practice framework. This support system allows both expertise and experience to flow freely between our educational leaders.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide64.png)
-51 - Our professional development strategy aligns closely with both our Desired Outcomes of Education and our Future of Learning initiatives. We've focused on four key areas when mounting our professional development efforts. 
+
+51 - Our professional development strategy aligns closely with both our Desired Outcomes of Education and our Future of Learning initiatives. We've focused on four key areas when mounting our professional development efforts.
+
 52 - First, we are investing heavily in Educational Technology competencies, enabling our teachers to harness digital tools effectively in their classrooms. Secondly, in the development of 21st Century Competencies, to equip our teachers to nurture future-ready students who can think critically, collaborate effectively, and communicate confidently. Third, we've strengthened our teachers' Assessment Literacy, enabling them to better understand and implement various assessment methods that support learning rather than merely measuring it. Finally, we've enhanced our Instructional Mentoring capabilities, creating a sustainable cycle of professional growth where experienced educators guide and support their colleagues.
+
 Section F2: FWA
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide65.png)
 
 53 - Teaching is more than just a profession; it's a calling that demands dedication, energy, and time. We understand that our educators and staff members also have personal lives, family commitments, and different needs at various life stages. This recognition has driven our commitment to implementing and continuously refining our Flexible Work Arrangements (FWA).
+
 54 - Over the past year, we've made significant strides in creating a more accommodating workplace. In line with the Ministry of Education's (MOE) commitment to supporting staff through various life stages, our FWA framework encompasses flex-time, flex-place, and flex-load arrangements, all designed to support staff while ensuring we maintain our high standards of education and student care.
+
 55 - I'm particularly pleased with how we've managed to integrate flexibility into our daily operations. Our timetabling process now considers personal circumstances where possible. We have successfully implemented home-based work during specific periods, for our staff to better balance their professional and personal responsibilities more effectively.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide66.png)
+
 56 - The following will be captured in the slide:
 Through our Part-Time Employment scheme and case-by-case arrangements, the school remains confident that flexibility and excellence in education can go hand in hand.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide67.png)
+
 The following will be captured in the slide:
 57 - The School Management Team will continue to conduct regular reviews on FWA to foster a supportive and adaptable working environment for all staff.
+
 G. Building and Infrastructure
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide68.png)
+
 58 - As part of our ongoing efforts to provide the best possible education for our students, I am excited to announce a series of infrastructure-upgrading projects. These enhancements will significantly improve the teaching and learning environment for all staff and students. The upgrading works include:
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide69.png)
+
 •	A new Synthetic Football Field: 
 The following will be captured in the slide:
 A state-of-the-art sports facility that will provide our students with a safe and durable space to engage in physical activities and sports.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide70.png)
 
 •	Outdoor Learning Spaces: 
@@ -276,21 +320,33 @@ Additional areas that will allow students to learn and explore in a more interac
 •	New Canteen Design: 
 The following will be captured in the slide:
 •	A modern and hygienic dining space that will provide students with a comfortable and enjoyable experience.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide73.png)
-•	New Lifts Installation: 
+
+•	New Lifts Installation:
+
 The following will be captured in the slide:
+
 •	Improved accessibility for all members of the school community.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide74.png)
+
 •	Air Conditioning of School Hall: A more comfortable and conducive space for assemblies, performances, and events.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide75.png)
+
 •	Makers Space Upgrading Work: 
 The following will be captured in the slide:
 •	Enhanced facilities for creative expression and collaboration.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide76.png)
+
 •	New Science Eco Garden Upgrading Work: 
 The following will be captured in the slide:
 •	An innovative space for hands-on learning and exploration of science and sustainability
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide77.png)
+
 59 - These upgrading projects will make our school a more vibrant and exciting place to learn and teach. They will:
 •	Enhance Student Experience: 
 The following will be captured in the slide:
@@ -301,28 +357,49 @@ The following will be captured in the slide:
 60 - Foster Community: 
 The following will be captured in the slide:
 •	Create spaces that encourage collaboration, interaction, and a sense of belonging among students, staff, and parents.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide78.png)
+
 61 - As we embark on our infrastructure enhancement projects, we remain cognisant that these are also powerful platforms for student leadership development. As representatives of the student population, the student leaders are actively involved in the design considerations for our toilets and canteen renovations. They are empowered to be the voice of their peers and have a say in shaping the spaces they use daily. Their insights will not only lead to more user-centric designs but also deepened their sense of belonging to our school.
 This ownership transforms our school from just a place of learning into a true home that we can all be genuinely proud of.
+
 62 - We are thrilled to embark on these upgrading projects, which will undoubtedly take our school to the next level and usher in the future of learning. We believe that these enhancements will have a positive impact on our students' educational journey and overall school experience.
+
 H. Our Partnerships
+
 Section H1: Self-Helf Groups
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide79.png)
+
 63 - Our commitment to building a robust support network for our students has continued to progress. 
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide80.png)
+
 In 2024, we forged vital partnerships with CDAC, SINDA, and MENDAKI, expanding our capacity to support students through their diverse programmes. I'm particularly pleased to share that through our enhanced collaboration with SINDA, we successfully established a centre within our campus in January this year, serving not just our students but youths across the northeast region. In addition, we are partnering MENDAKI and CDAC to further support our students by tapping into their resources and expertise to provide targeted support—be it in academic, life skills development, or financial assistance. These partnerships allow us to extend a stronger safety net for our students, particularly those who may benefit from additional guidance. MENDAKI and CDAC (collaboration in brief) (to insert photo with SINDA CEO, two photos with MENDAKI with 3 logos and include the title for partnership for success: one slide)
+
 Section H2: PSG
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide81.png)
-64 - The strength of our school community continues to grow through our dynamic Parent Support Group and alumni network. Working closely with Dads for Life since 2023, we have introduced impactful initiatives like the Navigating Teen Years talk and father-child bonding activities. These programmes have created meaningful opportunities for parents, especially fathers, to actively participate in their children's educational journey. 
+
+64 - The strength of our school community continues to grow through our dynamic Parent Support Group and alumni network. Working closely with Dads for Life since 2023, we have introduced impactful initiatives like the Navigating Teen Years talk and father-child bonding activities. These programmes have created meaningful opportunities for parents, especially fathers, to actively participate in their children's educational journey.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide82.png)
+
 65 - These partnerships reflect our belief that education extends beyond the classroom, and that strong community support is essential for our students' success. 
+
 66 - Next, I am delighted to share an important development in our school-home partnership journey. Working hand in hand with our parent community, we have co-constructed meaningful guidelines across three key areas that will strengthen how we work together in nurturing our StaRs. This collaborative approach reflects our belief that the best outcomes emerge when schools and families unite with a shared understanding and common purpose. 
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide83.png)
+
 67 - First, Respectful Communication. Guided by the MOE Engagement Charter as shared by our minister, we are focused on creating meaningful dialogue that serves our children's best interests. We encourage open conversations where both educators and parents listen to and truly understand each other's perspectives about each and every child. To maintain professional boundaries and work-life harmony, we've established clear communication channels and timeframes. Our teachers use official platforms to share updates and respond to queries during working hours. This structure ensures that communication remains effective while respecting everyone's personal time and space.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide84.png)
-68 - Second, we focus on being Role Models. This role extends far beyond academic guidance. We believe in finding joy in everyday learning experiences with our children. When adults show enthusiasm for learning and resilience in facing challenges, children readily absorb these positive attitudes. We aim to build confidence in our students not by doing things for them, but by believing in their abilities and encouraging them to take responsibility.  
+
+68 - Second, we focus on being Role Models. This role extends far beyond academic guidance. We believe in finding joy in everyday learning experiences with our children. When adults show enthusiasm for learning and resilience in facing challenges, children readily absorb these positive attitudes. We aim to build confidence in our students not by doing things for them, but by believing in their abilities and encouraging them to take responsibility. 
+
 The following will be captured in the slide:
-Whether it's a teacher guiding a student to solve a complex problem independently, or a parent allowing their child to manage their own school preparations, these moments help build self-reliance, autonomy, and confidence. Our actions speak louder than words - when we demonstrate integrity, empathy, and resilience in our daily interactions, we're teaching valuable life lessons. (to insert image)
+Whether it's a teacher guiding a student to solve a complex problem independently, or a parent allowing their child to manage their own school preparations, these moments help build self-reliance, autonomy, and confidence. Our actions speak louder than words - when we demonstrate integrity, empathy, and resilience in our daily interactions, we're teaching valuable life lessons.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide85.png)
 
 69 - Third, we emphasise building Real Connections in this increasingly digital world.
