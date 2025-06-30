@@ -445,6 +445,7 @@ The following will be captured in the slide:
 ![](/images/About%20Us/Principal's%20Message%202025/Slide78.png)
 
 61 - As we embark on our infrastructure enhancement projects, we remain cognisant that these are also powerful platforms for student leadership development. As representatives of the student population, the student leaders are actively involved in the design considerations for our toilets and canteen renovations. They are empowered to be the voice of their peers and have a say in shaping the spaces they use daily. Their insights will not only lead to more user-centric designs but also deepened their sense of belonging to our school.
+
 This ownership transforms our school from just a place of learning into a true home that we can all be genuinely proud of.
 
 62 - We are thrilled to embark on these upgrading projects, which will undoubtedly take our school to the next level and usher in the future of learning. We believe that these enhancements will have a positive impact on our students' educational journey and overall school experience.
@@ -502,6 +503,7 @@ This minimises distractions and allow students to be meaningfully engaged with t
 70 - Looking ahead, we're committed to strengthening these partnerships further. We're exploring new ways for more meaningful parent engagement, providing more opportunities for greater parent child bonding opportunities and supporting families in navigating the digital landscape. (not verbalised)
 
 71 - To our parents - your partnership is invaluable. When we work together, we invariably create an environment where every child can flourish.
+
 I.	Close
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide87.png)
@@ -530,7 +532,7 @@ I.	Close
 
 *Mr Chen Fook Pang* 
 <br>**Principal** 
-<br>26 April 2024
+<br>25 April 2025
 
 Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2023/) for the Principal's archived messages.
 
