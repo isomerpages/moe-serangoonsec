@@ -100,15 +100,25 @@ I'm particularly proud of our Secondary 2 students' involvement in the Applied L
 Our Secondary 4 and 5 students' visits to Institutes of Higher Learning provide them with valuable insights into future pathways, helping them make informed decisions about their careers and further education. Through these programmes, we are nurturing confident and self-directed learners who are ready to thrive in an ever-changing world.
 
 Section C2: Overseas Learning Journeys
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide17.png)
+
 11 - Our overseas learning journeys are also pivotal in enriching our Serangoon StaRs’ educational experience and contribute significantly to developing their 21st-century competencies. Following the pandemic, alongside myself, my Vice-Principals and various Key Personnel have strategically planned for these internationalisaion trips with purpose and intentionality, to ensure meaningful learning opportunities for our students. After successful recce trips to Brunei and Vietnam in 2023, the fruits of the groundwork blossomed in 2024 when we successfully conducted two transformative trips. 
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide18.png)
-In June 2024, around thirty of our students embarked on a journey to Brunei, while another group visited Vietnam in November. These experiences challenge our students to step out of their comfort zones, adapt to new environments, and develop the cultural sensitivity that forms a vital part of the E21CC framework. 
+
+In June 2024, around thirty of our students embarked on a journey to Brunei, while another group visited Vietnam in November. These experiences challenge our students to step out of their comfort zones, adapt to new environments, and develop the cultural sensitivity that forms a vital part of the E21CC framework.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide19.png)
-The friendships formed, the perspectives gained, and the self-discovery that occurs during these journeys contribute significantly to building confident, culturally aware individuals who can thrive in global settings. The learning does not end with the trip. 
+
+The friendships formed, the perspectives gained, and the self-discovery that occurs during these journeys contribute significantly to building confident, culturally aware individuals who can thrive in global settings. The learning does not end with the trip.
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide20.png)
+
 Our students return not just with enhanced global awareness, but with strengthened leadership capabilities, improved communication skills, and a deeper sense of responsibility to contribute to their school community. Through post-trip sharing sessions at our school assembly, the students shared their learning insights and inspired their juniors to broaden their perspectives as well. 
+
 ![](/images/About%20Us/Principal's%20Message%202025/Slide21.png)
+
 This year, I am pleased to share that we are expanding our horizons further by including Xiamen, China in addition to Brunei and Ho Chi Minh, Vietnam, to our overseas learning journeys. 
 
 Section C3: One Class, One Kampong, One Serangoon
