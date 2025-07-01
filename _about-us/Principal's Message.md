@@ -112,7 +112,7 @@ In June 2024, around thirty of our students embarked on a journey to Brunei, whi
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide19.png)
 
-The friendships formed, the perspectives gained, and the self-discovery that occurs during these journeys contribute significantly to building confident, culturally aware individuals who can thrive in global settings. The learning does not end with the trip.
+The friendships formed, the perspectives gained, and the self-discovery that occurs during these journeys contribute significantly to **building confident, culturally aware individuals who can thrive in global settings**. The learning does not end with the trip.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide20.png)
 
@@ -122,19 +122,19 @@ Our students return not just with enhanced global awareness, but with strengthen
 
 This year, I am pleased to share that we are expanding our horizons further by including Xiamen, China in addition to Brunei and Ho Chi Minh, Vietnam, to our overseas learning journeys. 
 
-Section C3: One Class, One Kampong, One Serangoon
+***Section C3: One Class, One Kampong, One Serangoon***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide22.png)
 
-12 - To deepen our culture of care in the Serangoon family, we have embarked on an initiative since 2024 - 'One Class, One Kampong, One Serangoon'. Every student matters. This approach is both inclusive and targeted - we focus on uplifting our students through enhanced class experiences while ensuring dedicated and more customized support for those who may require them.
+12 - To deepen our culture of care in the Serangoon family, we have embarked on an initiative since 2024 - **'One Class, One Kampong, One Serangoon'**. Every student matters. This approach is both inclusive and targeted - we focus on uplifting our students through enhanced class experiences while ensuring dedicated and more customized support for those who may require them.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide23.png)
 
-13 - The Student Development Team has worked tirelessly to enhance this support network via a more cohesive support system for our students. I am particularly proud of how our Form Teachers have embraced this initiative. They now have access to a specially designed FT toolbox, equipped with valuable resources including data analytics dashboard, SEL check-in surveys, and social network analysis. This data-driven approach helps our teachers understand their students better and provide more timely and targeted support.
+13 - The Student Development Team has worked tirelessly to enhance this support network via a more cohesive support system for our students. I am particularly proud of how our Form Teachers have embraced this initiative. They now have access to a **specially designed FT toolbox**, equipped with valuable resources including data analytics dashboard, SEL check-in surveys, and social network analysis. This **data-driven approach** helps our teachers understand their students better and provide more timely and targeted support.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide24.png)
 
-14 - While data gives valuable insights, it's how we leverage this information that truly transforms our class ecosystem. Our teachers engage in purposeful collaboration, triangulating various data points to build comprehensive student profiles. This data-informed, team-based approach ensures that every decision we make, from classroom seating arrangements, student leadership opportunities or the adjustment in strategies or interventional plan can all contribute meaningfully to building a positive class culture where every student can thrive.
+14 - While data gives valuable insights, it's how we leverage this information that truly transforms our class ecosystem. Our teachers engage in purposeful collaboration, triangulating various data points to build comprehensive student profiles. This **data-informed, team-based approach** ensures that every decision we make, from classroom seating arrangements, student leadership opportunities or the adjustment in strategies or interventional plan can all contribute meaningfully to building a positive class culture where every student can thrive.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide25.png)
 
@@ -146,13 +146,13 @@ Section C3: One Class, One Kampong, One Serangoon
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide27.png)
 
-We take on a school within a school approach, with VP Mrs Wong overseeing the lower secondary levels while Mr Marc helms the upper secondary levels. Through structured engagement sessions with all classes, the VPs have touchpoints with students to engage them on their level goals and cohort programmes. The VPs are also engaged in dialogues with Form Teachers, to better understand the class dynamics and individual student needs, enabling us to craft responsive support structures. Both Mrs Wong and Mr Marc have journeyed alongside our teachers and even worked directly with students who need additional guidance. This hands-on approach has strengthened relationships across the school community and created multiple touchpoints for student support, contributing to a more nurturing class ecosystem. 
+We take on a **school within a school approach**, with VP Mrs Wong overseeing the lower secondary levels while Mr Marc helms the upper secondary levels. Through structured engagement sessions with all classes, the VPs have touchpoints with students to engage them on their level goals and cohort programmes. The VPs are also engaged in dialogues with Form Teachers, to better understand the class dynamics and individual student needs, enabling us to craft responsive support structures. Both Mrs Wong and Mr Marc have journeyed alongside our teachers and even worked directly with students who need additional guidance. This hands-on approach has strengthened relationships across the school community and created multiple touchpoints for student support, contributing to a more nurturing class ecosystem. 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide28.png)
 
 The Serangoon StaRs have direct access to the SLs to talk, dialogue, chit chat on anything and the distance between them and SL is zero. I have put in place a very flat structure. And SLs will do home visit to support our High Needs Students and families.
 
-17 - The 'One Class, One Kampong, One Serangoon' initiative embodies our belief that a strong culture of care is the foundation of effective learning. When our students feel supported and under
+17 - The 'One Class, One Kampong, One Serangoon' initiative embodies our belief that a **strong culture of care** is the foundation of effective learning. When our students feel supported and under
 stood, they are then better positioned to excel.
 D.	Curriculum and Instruction
 
@@ -160,7 +160,7 @@ D.	Curriculum and Instruction
 
 18 - In 2024, I highlighted how our academic departments have tailored learning experiences for our Serangoon StaRs that will equip them with the skills and attributes they need to thrive in today's world. I outlined the programmes and pedagogical approaches in each of our academic departments.
 
-Section D1: Acknowledgement and Celebration of Success
+***Section D1: Acknowledgement and Celebration of Success***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide30.png)
 
@@ -188,17 +188,18 @@ has gained strong support from parents, many of whom choose to take a leap of fa
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide36.png)
 
-20 - Today, we celebrate not just results, but the character and perseverance that made them possible. 
-Section D2: Department signature programmes
-Section D2A: CG1
+20 - Today, we celebrate not just results, but the character and perseverance that made them possible.
+
+***Section D2: Department signature programmes
+Section D2A: CG1*
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide37.png)
 
-21 - One of the cornerstones of our dynamic learning culture is collaboration. We firmly believe that learning is most powerful when connections are made across disciplines, mirroring the interconnectedness of the real world. A prime example of this synergy is our Secondary 1 Inter-departmental Project Work. Here, our English Language, Science, and Humanities Departments come together, guiding students through real-world learning that involves experimentation, research, and oral presentation. Students learn to integrate knowledge and skills from different domains, break down traditional subject silos and develop holistic problem-solving abilities. 
+21 - One of the cornerstones of our dynamic learning culture is **collaboration**. We firmly believe that learning is most powerful when connections are made across disciplines, mirroring the interconnectedness of the real world. A prime example of this synergy is our **Secondary 1 Inter-departmental Project Work**. Here, our **English Language, Science,** and **Humanities Departments** come together, guiding students through real-world learning that involves experimentation, research, and oral presentation. Students learn to integrate knowledge and skills from different domains, break down traditional subject silos and develop holistic problem-solving abilities. 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide38.png)
 
-22 - Experiential learning activities are supported by innovative application of knowledge. An example is the English Language and Literature Department's 'Script-to-Stage' enrichment with an exciting two-part Literature project. It illustrates our students' enthusiasm and growing love for literature. The journey began on Saturday, 19 April this year, when 30 of our Secondary 1 and 2 students attended the ‘Wicked’ musical at Marina Bay Sands. Inspired by the show’s storytelling, they are now channeling that energy into performing scenes from their literature texts —“LIVE! At the Wet Market" and “Thank You, Ma’am“. We look forward to them taking the stage in Term 3, Week 2.
+22 - **Experiential learning activities are supported by innovative application of knowledge**. An example is the English Language and Literature Department's 'Script-to-Stage' enrichment with an exciting two-part Literature project. It illustrates our students' enthusiasm and growing love for literature. The journey began on Saturday, 19 April this year, when 30 of our Secondary 1 and 2 students attended the ‘Wicked’ musical at Marina Bay Sands. Inspired by the show’s storytelling, they are now channeling that energy into performing scenes from their literature texts —“LIVE! At the Wet Market" and “Thank You, Ma’am“. We look forward to them taking the stage in Term 3, Week 2.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide39.png)
 
@@ -218,17 +219,17 @@ Section D2A: CG1
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide43.png)
 
-Innovation is also evident in the authentic, immersive investigations conducted by our Humanities students – be it exploring geographical hazards in our neighbourhood or tourism trends at Marina Bay. This vibrant approach not only strengthens their critical and inventive thinking skills but, more importantly, sparks a true Joyful Learning that will stay with them long after they leave our classrooms. 
+**Innovation** is also evident in the **authentic, immersive investigations** conducted by our **Humanities students – be it exploring geographical hazards in our neighbourhood or tourism trends at Marina Bay.** This vibrant approach not only strengthens their critical and inventive thinking skills but, more importantly, sparks a true **Joyful Learning** that will stay with them long after they leave our classrooms. 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide44.png)
 
-For example, Ms Ashirah conducted a Sec 1 Geographical Investigation lesson to assess and investigate on the quality of water of our school pond. Students need to make observations of the surrounding area of the school pond and make visual analysis of the water to decide on the water quality. The whole lesson aims to get students to engage students in experiencing the 5 stages of Geographical Investigation themselves. 
+For example, Ms Ashirah conducted a **Sec 1 Geographical Investigation lesson to assess and investigate on the quality of water of our school pond.** Students need to make observations of the surrounding area of the school pond and make visual analysis of the water to decide on the water quality. The whole lesson aims to get students to engage students in experiencing the 5 stages of Geographical Investigation themselves. 
 
-Section D2B:CG2
+***Section D2B:CG2***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide45.png)
 
-27 - Alongside collaboration, innovation is central to how we approach teaching and learning. Within the respective curriculum groups, we constantly seek creative and effective ways to ignite curiosity and make learning deeply meaningful. You see this innovative spirit in the project-based approach adopted by our Craft and Technology department, empowering students to become creative thinkers and problem-solvers as they design and ideate. 
+27 - Alongside collaboration, **innovation** is central to how we approach teaching and learning. Within the respective curriculum groups, we constantly seek creative and effective ways to ignite curiosity and make learning deeply meaningful. You see this innovative spirit in the **project-based approach** adopted by our Craft and Technology department, empowering students to become creative thinkers and problem-solvers as they design and ideate. 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide46.png)
 
@@ -253,6 +254,7 @@ This collaboration underscores the commitment of both Serangoon Secondary School
 30 - The Nutrition and Food Science (NFS) unit celebrates the achievements of our Secondary 3 NFS students in the Connecting Heartily Project. This initiative, aligned with the theme of World Health Day, empowers our students to create and modify dishes that promote adult health, focusing on managing conditions such as diabetes and obesity. Each group of students is tasked with selecting and preparing three dishes that are not only delicious but also nutritionally balanced to support adult health. They will need to research and understand the dietary requirements for managing diabetes and obesity and creatively adapt recipes to meet these needs. This involves careful planning, ingredient selection, and cooking techniques that enhance the health benefits of their dishes.
 
 31 - The following will be captured in the slide:
+
 Through this project, our students not only hone their culinary skills but also develop important competencies such as critical thinking, creativity, and collaboration. Additionally, the project fosters social-emotional learning by encouraging empathy, resilience, and a sense of responsibility towards community health.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide49.png)
@@ -261,30 +263,30 @@ Through this project, our students not only hone their culinary skills but also 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide50.png)
 
-33 - Our Science Department is igniting a powerful vision, one that actively cultivates the 3 ‘IN-s’ in our students. This multifaceted approach ensures our students are not just learning topics in Science, but are truly INspired by Science, INquire like Scientists, and INnovate using Science. We achieve this by immersing them in the dynamic practices of science through robust inquiry-based learning. Furthermore, we strategically connect their learning to the real-world through a diverse array of enriching programmes, including impactful learning journeys and engaging workshops.
+33 - Our Science Department is igniting a powerful vision, one that actively cultivates the 3 ‘IN-s’ in our students. This multifaceted approach ensures our students are not just learning topics in Science, but are truly **INspired by Science, INquire like Scientists, and INnovate using Science.** We achieve this by immersing them in the dynamic practices of science through robust **inquiry-based learning**. Furthermore, we strategically connect their learning to the real-world through a diverse array of enriching programmes, including impactful learning journeys and engaging workshops.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide51.png)
 
-34 - Here, you can see our Math teachers using EdTech Feedback Assistant and SLS Adaptive Learning system to promote self-directed learning of Mathematics. We spark the joy of discovery through signature programmes like Computational Thinking in Mathematics and the Math Learning Day where students apply their knowledge of Math in games.
+34 - Here, you can see our Math teachers using EdTech Feedback Assistant and SLS Adaptive Learning system to promote self-directed learning of Mathematics. **We spark the joy of discovery** through signature programmes like **Computational Thinking** in Mathematics and the **Math Learning Day** where students apply their knowledge of Math in games.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide52.png)
 
-35 - This dedicated culture of collaboration and innovation, championed by every department, does more than just create exciting lessons and programs. In truth, we seek to actively cultivate the emerging and essential competencies and skills our students need for the future: critical thinking, adaptability, creativity, and effective communication. The dynamic, supportive, and forward-looking environment shaped by our staff provides the fertile ground upon which the successes we celebrate today have grown.
+35 - This dedicated culture of collaboration and innovation, championed by every department, does more than just create exciting lessons and programs. In truth, we seek to actively cultivate the **emerging and essential competencies and skills our students need for the future: critical thinking, adaptability, creativity, and effective communication**. The dynamic, supportive, and forward-looking environment shaped by our staff provides the fertile ground upon which the successes we celebrate today have grown.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide53.png)
 
-36 - Furthermore, we are deeply committed to how learning takes place. Our curricular approaches – encompassing content, pedagogy, and assessment – are designed to ignite a genuine Joy of Learning. We prioritise leveraging Educational Technology as a learning multiplier, embarking on MOE’s EdTech Masterplan 2030, in creating an authentic learning experience that foster engagement, sparkle curiosity, and nurture creativity. We believe that learning should be an active and engaging process that prepares students not just for a life of tests, but the test of life.
+36 - Furthermore, we are deeply committed to how learning takes place. Our **curricular approaches** – encompassing **content, pedagogy, and assessment** – are designed to ignite a genuine **Joy of Learning**. We prioritise leveraging **Educational Technology as a learning multiplier**, embarking on **MOE’s EdTech Masterplan 2030,** in creating an authentic learning experience that foster engagement, sparkle curiosity, and nurture creativity. We believe that learning should be an active and engaging process that prepares students not just for a life of tests, but the **test of life**.
 
 37 - The following will be captured in the slide:
-As your Principal, I am also personally committed to developing the curriculum leadership capabilities of our School Management Team through the Leadership in Curriculum and Instruction (LCI) framework, ensuring that our educational practices remain dynamic, responsive, and progressive. This commitment to continuous improvement, supported by the systemic use of data, underpins everything we do.
+As your Principal, I am also personally committed to developing the **curriculum leadership capabilities** of our **School Management Team** through the **Leadership in Curriculum and Instruction (LCI)** framework, ensuring that our educational practices remain dynamic, responsive, and progressive. This commitment to continuous improvement, supported by the systemic use of data, underpins everything we do.
 
-E. EdTech 2030 Masterplan 
+***E. EdTech 2030 Masterplan ***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide54.png)
 
 38 - At Serangoon Secondary School, our EdTech ecosystem is guided by the vision that “Teaching and learning can take place anytime, anywhere, with the appropriate digital device.” This vision drives a transformative shift from traditional teaching methods towards a digitally empowered learning experience. Through this ecosystem, students are enabled to rely primarily, if not entirely, on their Personal Learning Devices (PLDs) to support their educational journey, wherever the learning design is facilitated through EdTech-enabled approaches.
 
-39 - Core Digital Learning Experience
+**39 - Core Digital Learning Experience**
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide55.png)
 
@@ -293,15 +295,19 @@ Through this framework, we aim to nurture digitally empowered, future-ready lear
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide56.png)
 
-40 - Digitally-Empowered 21st Century Learners
+**40 - Digitally-Empowered 21st Century Learners**
+
 The following will be captured in the slide:
+
 •	Self-directed in setting learning goals and managing their learning processes using a variety of digital tools and platforms.
 •	Collaborative and connected through co-construction and sharing of knowledge with peers via digital media.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide57.png)
 
-41 - Digitally Literate Individuals
+**41 - Digitally Literate Individuals**
+
 The following will be captured in the slide:
+
 •	Proficient in applying digital literacy and technological skills to critically evaluate and synthesise information.
 •	Practise cyber wellness by engaging with technology in a safe, responsible, and discerning manner.
 
