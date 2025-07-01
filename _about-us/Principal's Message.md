@@ -313,8 +313,10 @@ The following will be captured in the slide:
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide58.png)
 
-42 - Empathetic, Technologically Adept Innovators
+**42 - Empathetic, Technologically Adept Innovators**
+
 The following will be captured in the slide:
+
 •	Employ human-centred methodologies to identify needs and develop solutions to real-world problems.
 •	Effectively leverage a wide range of digital tools to design and implement innovative solutions.
 
@@ -322,45 +324,53 @@ Students develop these capabilities through technology-enhanced lessons involvin
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide59.png)
 
-43 - Infrastructure and Tools
+**43 - Infrastructure and Tools**
+
 The foundation of our EdTech ecosystem is supported by robust infrastructure. Every student is issued a Personal Learning Device from Secondary 1. These devices are integrated with core platforms such as the SLS and Google Workspace, including Gmail, Google Calendar, Google Tasks, Google Drive, and other specialised applications for annotation and note-taking. This integrated suite ensures consistent and reliable access to learning materials and communication tools.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide60.png)
 
-44 - Development of Digital Literacies:
+**44 - Development of Digital Literacies:**
+
 Students will be systematically equipped with key digital literacies (DLTS) necessary for future readiness by leveraging efforts across the total curriculum to strengthen DLTS, and infusing DLTS into content and learning experiences across the total curriculum. The school also seeks to strengthen Cyber Wellness for students’ safe interaction with technology by establishing a Cyber Wellness strategy working with HOD/CCE.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide60.png)
 
-45 - Pedagogical Approaches 
+**45 - Pedagogical Approaches **
+
 As part of the Ministry of Education’s EdTech Masterplan 2030, the school will be adopting E-Pedagogy using a range of unique learning experiences and key applications of technology (KATs). This includes facilitating paperless learning experiences, encouraging digital content creation and curation, enabling real-time feedback and assessment, fostering interactive and collaborative learning activities, supporting self-directed learning opportunities, and creating personalised learning pathways for each student.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide61.png)
 
-46 - Integration of Key 21st Century Competencies (21CC)
-Critical, Adaptive, and Inventive Thinking (CAIT) Our ecosystem nurtures higher-order thinking through digital artefact creation, self- and peer-assessment, digital portfolios, coding, and data analytics tasks.
-Communication, Collaboration, and Information Skills (CCI) Platforms such as SLS and Google Classroom provide extensive opportunities for students to refine their communication and collaboration skills. These are fostered through activities such as peer reviews, group projects, online discussions, and digital presentations. Regular opportunities for reflection and feedback are embedded to help students become more aware of their progress and areas for further growth in these competencies. The school also explore using technology as an enabler to develop and assess 21CC. In particular, to use tech-developed solutions e.g. 21CC Navigator to develop and assess complex and “hard to assess” skills.
+**46 - Integration of Key 21st Century Competencies (21CC)
+Critical, Adaptive, and Inventive Thinking (CAIT)** Our ecosystem nurtures higher-order thinking through digital artefact creation, self- and peer-assessment, digital portfolios, coding, and data analytics tasks.
+**Communication, Collaboration, and Information Skills (CCI)** Platforms such as SLS and Google Classroom provide extensive opportunities for students to refine their communication and collaboration skills. These are fostered through activities such as peer reviews, group projects, online discussions, and digital presentations. Regular opportunities for reflection and feedback are embedded to help students become more aware of their progress and areas for further growth in these competencies. The school also explore **using technology as an enabler to develop and assess 21CC.** In particular, to use tech-developed solutions e.g. 21CC Navigator to develop and assess complex and “hard to assess” skills.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide62.png)
 
-47 - Implementation Strategy
+**47 - Implementation Strategy**
 
 The implementation of our EdTech ecosystem is guided by a systematic approach involving PLD distribution and management, technical support, and professional development for staff. Teachers participate in continuous training, some of which are conducted in partnership with Educational Technology Division, to stay abreast of digital pedagogies, while students attend regular digital literacy workshops. The Teacher Leaders’ Council (TLC) is also designing SLS-based online modules that both meet the school’s training goals and immerse teachers in the learner’s experience—encouraging innovation and deeper EdTech integration. Feedback from all stakeholders informs ongoing improvements to ensure sustained relevance and impact.
 
 This transformation empowers students to manage their learning effectively, collaborate meaningfully, and thrive in a dynamic digital world. Beyond equipping students for academic excellence, the ecosystem prepares them for future workplace expectations where digital fluency is essential.
 
-48 - National Network Contribution (Not verbalised)
+**48 - National Network Contribution (Not verbalised)**
+
 Serangoon Secondary School is committed to contributing to the Ministry of Education’s vision of a national EdTech network. We envision this through greater collaboration with parents to reinforce school-led EdTech efforts. This includes aligning home practices with the school’s cyber wellness strategies to ensure a consistent and supportive environment for students' digital development.
 
-F.	Supporting our Staff
+***F.	Supporting our Staff***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide62.png)
 
 49 - To help our teachers reflect and grow continuously, the school has placed great emphasis on our teachers’ professional development. 
 
-Section F1: Staff Professional Development
+**Section F1: Staff Professional Development**
 
-50 - In 2023, we have established the Teacher Leaders Council (TLC), comprising our Senior Teachers. [Slide 63] The TLC mounts various platforms for the sharing of expertise, mentoring and driving innovation in teaching and learning. To do so effectively, the TLC fosters strong collaborative relationships between Middle Managers and Teacher Leaders. This partnership has been instrumental in building our teachers' pedagogical capabilities, guided by the Singapore Teaching Practice framework. This support system allows both expertise and experience to flow freely between our educational leaders.
+50 - In 2023, we have established the **Teacher Leaders Council (TLC),** comprising our Senior Teachers. 
+
+![](/images/About%20Us/Principal's%20Message%202025/Slide63.png)
+
+The TLC mounts various platforms for the sharing of expertise, mentoring and driving innovation in teaching and learning. To do so effectively, the TLC fosters strong collaborative relationships between Middle Managers and Teacher Leaders. This partnership has been instrumental in building our teachers' pedagogical capabilities, guided by the Singapore Teaching Practice framework. This support system allows both expertise and experience to flow freely between our educational leaders.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide64.png)
 
@@ -368,27 +378,29 @@ Section F1: Staff Professional Development
 
 52 - First, we are investing heavily in Educational Technology competencies, enabling our teachers to harness digital tools effectively in their classrooms. Secondly, in the development of 21st Century Competencies, to equip our teachers to nurture future-ready students who can think critically, collaborate effectively, and communicate confidently. Third, we've strengthened our teachers' Assessment Literacy, enabling them to better understand and implement various assessment methods that support learning rather than merely measuring it. Finally, we've enhanced our Instructional Mentoring capabilities, creating a sustainable cycle of professional growth where experienced educators guide and support their colleagues.
 
-Section F2: FWA
+**Section F2: FWA**
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide65.png)
 
-53 - Teaching is more than just a profession; it's a calling that demands dedication, energy, and time. We understand that our educators and staff members also have personal lives, family commitments, and different needs at various life stages. This recognition has driven our commitment to implementing and continuously refining our Flexible Work Arrangements (FWA).
+53 - Teaching is more than just a profession; it's a calling that demands dedication, energy, and time. We understand that our educators and staff members also have personal lives, family commitments, and different needs at various life stages. This recognition has driven our commitment to implementing and continuously refining our **Flexible Work Arrangements (FWA).**
 
-54 - Over the past year, we've made significant strides in creating a more accommodating workplace. In line with the Ministry of Education's (MOE) commitment to supporting staff through various life stages, our FWA framework encompasses flex-time, flex-place, and flex-load arrangements, all designed to support staff while ensuring we maintain our high standards of education and student care.
+54 - Over the past year, we've made significant strides in creating a more accommodating workplace. In line with the Ministry of Education's (MOE) commitment to supporting staff through various life stages, our FWA framework encompasses **flex-time, flex-place, and flex-load arrangements,** all designed to support staff while ensuring we maintain our high standards of education and student care.
 
 55 - I'm particularly pleased with how we've managed to integrate flexibility into our daily operations. Our timetabling process now considers personal circumstances where possible. We have successfully implemented home-based work during specific periods, for our staff to better balance their professional and personal responsibilities more effectively.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide66.png)
 
 56 - The following will be captured in the slide:
+
 Through our Part-Time Employment scheme and case-by-case arrangements, the school remains confident that flexibility and excellence in education can go hand in hand.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide67.png)
 
 The following will be captured in the slide:
+
 57 - The School Management Team will continue to conduct regular reviews on FWA to foster a supportive and adaptable working environment for all staff.
 
-G. Building and Infrastructure
+***G. Building and Infrastructure***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide68.png)
 
@@ -397,18 +409,22 @@ G. Building and Infrastructure
 ![](/images/About%20Us/Principal's%20Message%202025/Slide69.png)
 
 •	A new Synthetic Football Field: 
+
 The following will be captured in the slide:
+
 A state-of-the-art sports facility that will provide our students with a safe and durable space to engage in physical activities and sports.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide70.png)
 
 •	Outdoor Learning Spaces: 
+
 The following will be captured in the slide:
 Additional areas that will allow students to learn and explore in a more interactive and engaging way.
 ![](/images/About%20Us/Principal's%20Message%202025/Slide71.png)
 ![](/images/About%20Us/Principal's%20Message%202025/Slide72.png)
 
-•	New Canteen Design: 
+•	New Canteen Design:
+
 The following will be captured in the slide:
 •	A modern and hygienic dining space that will provide students with a comfortable and enjoyable experience.
 
@@ -422,12 +438,14 @@ The following will be captured in the slide:
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide74.png)
 
-•	Air Conditioning of School Hall: A more comfortable and conducive space for assemblies, performances, and events.
+•	**Air Conditioning of School Hall:** A more comfortable and conducive space for assemblies, performances, and events.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide75.png)
 
 •	Makers Space Upgrading Work: 
+
 The following will be captured in the slide:
+
 •	Enhanced facilities for creative expression and collaboration.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide76.png)
@@ -439,6 +457,7 @@ The following will be captured in the slide:
 ![](/images/About%20Us/Principal's%20Message%202025/Slide77.png)
 
 59 - These upgrading projects will make our school a more vibrant and exciting place to learn and teach. They will:
+
 •	Enhance Student Experience: 
 The following will be captured in the slide:
 •	Provide students with modern and functional facilities that support their academic, physical, and creative development.
@@ -457,7 +476,7 @@ This ownership transforms our school from just a place of learning into a true h
 
 62 - We are thrilled to embark on these upgrading projects, which will undoubtedly take our school to the next level and usher in the future of learning. We believe that these enhancements will have a positive impact on our students' educational journey and overall school experience.
 
-H. Our Partnerships
+***H. Our Partnerships***
 
 Section H1: Self-Helf Groups
 
@@ -469,7 +488,7 @@ Section H1: Self-Helf Groups
 
 In 2024, we forged vital partnerships with CDAC, SINDA, and MENDAKI, expanding our capacity to support students through their diverse programmes. I'm particularly pleased to share that through our enhanced collaboration with SINDA, we successfully established a centre within our campus in January this year, serving not just our students but youths across the northeast region. In addition, we are partnering MENDAKI and CDAC to further support our students by tapping into their resources and expertise to provide targeted support—be it in academic, life skills development, or financial assistance. These partnerships allow us to extend a stronger safety net for our students, particularly those who may benefit from additional guidance. MENDAKI and CDAC (collaboration in brief) (to insert photo with SINDA CEO, two photos with MENDAKI with 3 logos and include the title for partnership for success: one slide)
 
-Section H2: PSG
+***Section H2: PSG***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide81.png)
 
@@ -483,35 +502,39 @@ Section H2: PSG
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide83.png)
 
-67 - First, Respectful Communication. Guided by the MOE Engagement Charter as shared by our minister, we are focused on creating meaningful dialogue that serves our children's best interests. We encourage open conversations where both educators and parents listen to and truly understand each other's perspectives about each and every child. To maintain professional boundaries and work-life harmony, we've established clear communication channels and timeframes. Our teachers use official platforms to share updates and respond to queries during working hours. This structure ensures that communication remains effective while respecting everyone's personal time and space.
+67 - **First, Respectful Communication.** Guided by the MOE Engagement Charter as shared by our minister, we are focused on creating meaningful dialogue that serves our children's best interests. We encourage open conversations where both educators and parents listen to and truly understand each other's perspectives about each and every child. To maintain professional boundaries and work-life harmony, we've established clear communication channels and timeframes. Our teachers use official platforms to share updates and respond to queries during working hours. This structure ensures that communication remains effective while respecting everyone's personal time and space.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide84.png)
 
-68 - Second, we focus on being Role Models. This role extends far beyond academic guidance. We believe in finding joy in everyday learning experiences with our children. When adults show enthusiasm for learning and resilience in facing challenges, children readily absorb these positive attitudes. We aim to build confidence in our students not by doing things for them, but by believing in their abilities and encouraging them to take responsibility. 
+68 - **Second, we focus on being Role Models.** This role extends far beyond academic guidance. We believe in finding joy in everyday learning experiences with our children. When adults show enthusiasm for learning and resilience in facing challenges, children readily absorb these positive attitudes. We aim to build confidence in our students not by doing things for them, but by believing in their abilities and encouraging them to take responsibility. 
 
 The following will be captured in the slide:
+
 Whether it's a teacher guiding a student to solve a complex problem independently, or a parent allowing their child to manage their own school preparations, these moments help build self-reliance, autonomy, and confidence. Our actions speak louder than words - when we demonstrate integrity, empathy, and resilience in our daily interactions, we're teaching valuable life lessons.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide85.png)
 
-69 - Third, we emphasise building Real Connections in this increasingly digital world.
+69 - **Third, we emphasise building Real Connections in this increasingly digital world.**
 
 Para 69A: Meaningful relationships
+
 We recognise that meaningful relationships are built through shared experiences and genuine conversations, both online and offline. At school, we create opportunities for face-to-face interactions through collaborative projects, group discussions, and community activities. We're also mindful of helping our students develop healthy habits in using technology. This means teaching them to use digital tools effectively while maintaining control over their screen time. 
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide86.png)
 
 Para 69B: No handphone policy
+
 The school has deliberately and progressively implemented a no-handphone policy during curriculum hours, first introducing it to lower secondary levels with successful implementation supported by staff and consistent rationalisation with students. Following this success, the policy was extended to upper secondary levels as well. 
 
 The following will be captured in the slide:
+
 This minimises distractions and allow students to be meaningfully engaged with teachers and peers. We provide a balanced mix of engaging online and offline activities, and we encourage parents to do the same at home. Whether it's participating in outdoor learning experiences, engaging in sports, or having device-free family meals, these moments help build better habits and stronger bonds within your family.
 
 70 - Looking ahead, we're committed to strengthening these partnerships further. We're exploring new ways for more meaningful parent engagement, providing more opportunities for greater parent child bonding opportunities and supporting families in navigating the digital landscape. (not verbalised)
 
 71 - To our parents - your partnership is invaluable. When we work together, we invariably create an environment where every child can flourish.
 
-I.	Close
+***I.	Close***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide87.png)
 
@@ -534,6 +557,7 @@ I.	Close
 ![](/images/About%20Us/Principal's%20Message%202025/Slide91.png)
 
 77 - I would like to thank the core planning committee led by VP Mrs Wong, VP Mr Marc, VPA/Mr Raja, HOD/Maths Poh Ling and the entire school team for their hard work and perseverance, without which this 97th Prize Presentation Day would not have been possible. 
+
 78 - Thank you for your presence today.
 
 
@@ -616,4 +640,7 @@ Go forth, Serangoon StaRs, and continue to SHINE.
 
 Thank you.
 
+*Mr Andy Ng* 
+<br>**GOH, Member, School Advisory Committee** 
+<br>25 April 2025
 <hr>
