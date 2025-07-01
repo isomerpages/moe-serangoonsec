@@ -26,7 +26,7 @@ Teachers, staff members and students
 Ladies and gentlemen
 
 
-**A.	Introduction and Welcome**
+***A.	Introduction and Welcome***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide1.png)
 
@@ -52,7 +52,7 @@ Our alumni, found across the heartlands, exemplify the values of integrity, resi
 
 At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with pride and heartfelt gratitude.
 
-**B.	P’s Directional Setting of 54321 **
+***B.	P’s Directional Setting of 54321 ***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide7.png)
 
@@ -72,9 +72,10 @@ At the heart of this legacy are our dedicated teachers, who shape minds, build c
 
 8 - Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
 
-**C.	Enhancing the Culture of Care with Class Ecosystem**
+***C.	Enhancing the Culture of Care with Class Ecosystem***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide11.png)
+
 9 - In growing our StaRs holistically, the Four-Year Learning Roadmap provides a structured and progressive framework that guides students' personal growth and character development throughout their secondary school journey.
 
 **Section C1: StaRs Programme**
@@ -99,7 +100,7 @@ I'm particularly proud of our Secondary 2 students' involvement in the Applied L
 
 Our Secondary 4 and 5 students' visits to Institutes of Higher Learning provide them with valuable insights into future pathways, helping them make informed decisions about their careers and further education. Through these programmes, we are nurturing confident and self-directed learners who are ready to thrive in an ever-changing world.
 
-Section C2: Overseas Learning Journeys
+***Section C2: Overseas Learning Journeys***
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide17.png)
 
