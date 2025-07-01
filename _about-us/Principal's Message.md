@@ -565,10 +565,10 @@ This minimises distractions and allow students to be meaningfully engaged with t
 <br>**Principal** 
 <br>25 April 2025
 
-Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2023/) for the Principal's archived messages.
+Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for the Principal's archived messages.
 
 <hr>
-
+<hr>
 
 GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
 
