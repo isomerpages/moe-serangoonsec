@@ -568,9 +568,27 @@ This minimises distractions and allow students to be meaningfully engaged with t
 Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for the Principal's archived messages.
 
 <hr>
+
+#### GOH Speech – combined with inputs from Mr Andy Ng
+
+1. Building Purpose: Defining Your Own Success **(SHINE Values and Social Emotional Learning)**
+
+•	Focus: Inspiring students to define success on their own terms, beyond conventional benchmarks.
+<br>•	Key Points: Self-awareness, discovering personal purpose, and staying authentic in their journey through life.
+
+2. Thriving in Uncertainty: Skills for a Changing World **(Ed Tech + e21CC)**
+
+•	Focus: Equipping students for an unpredictable future by highlighting essential life skills.
+<br>•	Key Points: The importance of critical thinking, emotional intelligence, creativity, and the ability to navigate change confidently.
+
+3. Beyond Grades: Embracing Lifelong Learning **(Joy of Learning vs Academic Pursuits)**
+
+•	Focus: Encouraging students to see education as a lifelong journey rather than a race for academic results.
+<br>•	Key Points: Cultivating curiosity, developing adaptability and resilience, and embracing failure as part of the learning process.
+
 <hr>
 
-GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
+### GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
 
 Distinguished Principal, dedicated members of the teaching and administrative staff, supportive parents and guardians, esteemed community partners, and most importantly, the vibrant and promising students of Serangoon Secondary School – the Serangoon StaRs!
 
@@ -578,11 +596,11 @@ It is with great honour to be able to stand before you today. To be invited into
 
 I want to talk with you this morning about navigating the path ahead. It’s a path filled with incredible opportunities, but also one that requires thoughtful preparation. We live in a world of constant change, and succeeding in it requires more than just academic achievement. 
 
-Students today require a strong sense of Purpose, the Skills to thrive amidst uncertainty, and a passion to learn Beyond Grades. These three threads are deeply interwoven, and I see Serangoon Secondary actively nurturing them in you.
+Students today require a strong sense of **Purpose**, the **Skills** to thrive amidst uncertainty, and a passion to learn **Beyond Grades**. These three threads are deeply interwoven, and I see Serangoon Secondary actively nurturing them in you.
 
 1. Building Purpose: Defining Your Unique Success
 
-First, let's talk about Purpose. What truly drives you? What kind of person do you aspire to be? Your school provides an excellent starting point with its inspiring vision: to develop "Resilient Individuals, Passionate Learners and Active Contributors". Think about those words. 
+First, let's talk about **Purpose**. What truly drives you? What kind of person do you aspire to be? Your school provides an excellent starting point with its inspiring vision: to develop "Resilient Individuals, Passionate Learners and Active Contributors". Think about those words. 
 
 Resilient Individuals – those who can face challenges and bounce back stronger. 
 Passionate Learners – those driven by curiosity and a love for discovery. 
@@ -606,31 +624,31 @@ Your Learning for Life Programme (LLP) in Community Youth Leadership is a prime 
 
 2. Thriving in Uncertainty: Skills for a Transforming World
 
-Secondly, let’s address the undeniable reality of our times: Uncertainty. The world is changing at an unprecedented pace. Technological advancements like Artificial Intelligence and increasing global interconnectedness – evidenced by your school's own overseas learning journeys to countries like Brunei, Vietnam, and China – and an evolving job market demand a special skillset. Rote memorization isn't enough. You need to be adaptable, innovative, and discerning.
+Secondly, let’s address the undeniable reality of our times: **Uncertainty.** The world is changing at an unprecedented pace. Technological advancements like Artificial Intelligence and increasing global interconnectedness – evidenced by your school's own overseas learning journeys to countries like Brunei, Vietnam, and China – and an evolving job market demand a special skillset. Rote memorization isn't enough. You need to be adaptable, innovative, and discerning.
 
-The school’s commitment to the EdTech Masterplan 2030 isn't just about using new gadgets; it's about fundamentally enhancing teaching and learning to cultivate self-directed, collaborative, and digitally literate learners. Students are being equipped with foundational digital literacy skills and leverage online platforms like the Student Learning Space (SLS)  to also explore the potential of AI tools. This is preparation for a future where digital fluency is essential.
+The school’s commitment to the EdTech Masterplan 2030 isn't just about using new gadgets; it's about fundamentally enhancing teaching and learning to cultivate self-directed, collaborative, and digitally literate learners. Students are being equipped with foundational digital literacy skills and leverage **online** platforms like the Student Learning Space (SLS)  to also explore the potential of AI tools. This is preparation for a future where digital fluency is essential.
 
-Over here, the Applied Learning Programme (ALP) – Real World Explorations In ICT focuses on the Future of Transportation. This isn't just abstract theory. Students start by understanding 3D printing and modelling in Secondary 1, designing prototypes to solve real-world problems. By Secondary 2, they delve into aerodynamics and programming drones using block programming, learning to decompose complex problems and create algorithms. For those with deeper interest, there are further opportunities through the Infocomm Club and roles as STEM ambassadors. This hands-on, project-based approach develops critical thinking, creativity, and the practical skills needed to turn ideas into reality.
+Over here, the **Applied Learning Programme (ALP) – Real World Explorations In ICT** focuses on the Future of Transportation. This isn't just abstract theory. Students start by understanding 3D printing and modelling in Secondary 1, designing prototypes to solve real-world problems. By Secondary 2, they delve into aerodynamics and programming drones using block programming, learning to decompose complex problems and create algorithms. For those with deeper interest, there are further opportunities through the Infocomm Club and roles as STEM ambassadors. This hands-on, project-based approach develops **critical thinking, creativity, and the practical skills** needed to **turn ideas into reality.**
 
-While the main implementation focus for emerging 21st Century Competencies (e21CC) might be set for 2026, these skills are already being woven into your learning roadmaps. Critical, adaptive, and inventive thinking are fundamental to future-ready citizens. Alongside these cognitive skills, emotional intelligence – understanding and managing your own emotions and empathizing with others – is vital. These skills allow you to collaborate effectively, navigate complex social situations, and lead with empathy – all crucial in any future path you choose.
+While the main implementation focus for emerging 21st Century Competencies (e21CC) might be set for 2026, these skills are already being **woven into your learning roadmaps**. **Critical, adaptive, and inventive thinking are** fundamental to future-ready citizens. Alongside these cognitive skills, **emotional intelligence** – understanding and managing your own emotions and empathizing with others – is vital. These skills allow you to collaborate effectively, navigate complex social situations, and lead with empathy – all crucial in any future path you choose.
 
 3. Beyond Grades: Cultivating a Lifelong Love for Learning
 
-Finally, let's talk about learning beyond the confines of examinations and grades. While academic achievements open doors, they are only one part of a fulfilling life. True education is about cultivating a 'Joy of Learning' – an enduring curiosity that propels you to explore, question, and grow throughout your life.
+Finally, let's talk about **learning beyond the confines of examinations and grades.** While **academic achievements open doors,** they are **only one part of a fulfilling life.** True education is about cultivating a **'Joy of Learning' – an enduring curiosity that propels you to explore, question, and grow throughout your life.**
 
 Serangoon Secondary provides a rich landscape for this exploration. Think beyond the syllabus. Consider the inter-departmental projects where English, Science, and Humanities collaborate. Engage fully in initiatives like the Mathematics Learning Day with its games and activities, the Science Garden programme, the Humanities investigations exploring historical sites or local environments, or the creative possibilities in Craft and Technology. Participate in debates, cultural celebrations, and competitions. These are great opportunities to discover hidden talents, ignite new passions, and experience the sheer delight of understanding something new.
 
 Your holistic development is paramount, and the engaging StaRs Programmes, with their adventure camps and learning journeys, are intentionally designed to nurture you as well-rounded individuals, equipped not just with knowledge, but with character, teamwork skills, and a broad appreciation for the world.
 
-Conclusion
+**Conclusion**
 
 So, Serangoon StaRs, as you stand at this juncture, poised between your experiences here and the vast possibilities ahead, I urge you to carry these three ideals forward.
 
-•	Build a life of Purpose: Dig deep to understand your values. Use your talents not just for personal gain, but to contribute positively to the world around you.
+•	**Build a life of Purpose:** Dig deep to understand your values. Use your talents not just for personal gain, but to contribute positively to the world around you.
 
-•	Embrace Uncertainty with Skills: Cultivate adaptability, critical thinking, creativity, and digital literacy. These are tools that will allow you to innovate and lead in a constantly changing landscape.
+•	**Embrace Uncertainty with Skills:** Cultivate adaptability, critical thinking, creativity, and digital literacy. These are tools that will allow you to innovate and lead in a constantly changing landscape.
 
-•	Nurture a Lifelong Joy of Learning: Look beyond grades. Stay curious. Explore diverse interests. Embrace challenges as opportunities for growth, and let resilience be your companion in your life journey.
+•	**Nurture a Lifelong Joy of Learning:** Look beyond grades. Stay curious. Explore diverse interests. Embrace challenges as opportunities for growth, and let resilience be your companion in your life journey.
 
 Your dedicated teachers and school leaders are committed to providing you with the environment and opportunities to flourish. They strive constantly to enhance your learning experiences. Your parents offer invaluable support, partnering with the school to champion your growth. Cherish this network of support.
 
