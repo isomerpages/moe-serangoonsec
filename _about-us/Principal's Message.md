@@ -571,6 +571,7 @@ Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for 
 
 #### GOH Speech – combined with inputs from Mr Andy Ng
 
+
 1. Building Purpose: Defining Your Own Success **(SHINE Values and Social Emotional Learning)**
 
 •	Focus: Inspiring students to define success on their own terms, beyond conventional benchmarks.
@@ -589,6 +590,8 @@ Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for 
 <hr>
 
 ### GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
+
+![](/images/About%20Us/Principal's%20Message%202025/andy_ng.jpg)
 
 Distinguished Principal, dedicated members of the teaching and administrative staff, supportive parents and guardians, esteemed community partners, and most importantly, the vibrant and promising students of Serangoon Secondary School – the Serangoon StaRs!
 
