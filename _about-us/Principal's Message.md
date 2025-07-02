@@ -568,98 +568,74 @@ This minimises distractions and allow students to be meaningfully engaged with t
 Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for the Principal's archived messages.
 
 <hr>
-
-#### GOH Speech – combined with inputs from Mr Andy Ng
-
-
-1. Building Purpose: Defining Your Own Success **(SHINE Values and Social Emotional Learning)**
-
-•	Focus: Inspiring students to define success on their own terms, beyond conventional benchmarks.
-<br>•	Key Points: Self-awareness, discovering personal purpose, and staying authentic in their journey through life.
-
-2. Thriving in Uncertainty: Skills for a Changing World **(Ed Tech + e21CC)**
-
-•	Focus: Equipping students for an unpredictable future by highlighting essential life skills.
-<br>•	Key Points: The importance of critical thinking, emotional intelligence, creativity, and the ability to navigate change confidently.
-
-3. Beyond Grades: Embracing Lifelong Learning **(Joy of Learning vs Academic Pursuits)**
-
-•	Focus: Encouraging students to see education as a lifelong journey rather than a race for academic results.
-<br>•	Key Points: Cultivating curiosity, developing adaptability and resilience, and embracing failure as part of the learning process.
-
 <hr>
 
 ### GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
 
 ![](/images/About%20Us/Principal's%20Message%202025/andy_ng.jpg)
 
-Distinguished Principal, dedicated members of the teaching and administrative staff, supportive parents and guardians, esteemed community partners, and most importantly, the vibrant and promising students of Serangoon Secondary School – the Serangoon StaRs!
+**2025 Serangoon Secondary School 
+97th Prize Presentation Day 
+Guest-of-Honour Speech by Mr Andy Ng**
 
-It is with great honour to be able to stand before you today. To be invited into this community, a school with a remarkable legacy stretching back nearly a century, is truly special. Generations have walked through this hall, and today, we celebrate the continuation of that journey – your journey.
+Good morning Principal, teachers, parents, community partners – and most importantly, the amazing students of Serangoon Secondary School – the Serangoon StaRs!
 
-I want to talk with you this morning about navigating the path ahead. It’s a path filled with incredible opportunities, but also one that requires thoughtful preparation. We live in a world of constant change, and succeeding in it requires more than just academic achievement. 
+It’s a real honour to be here today – not just to celebrate your achievements, but to come back to the very school that shaped me in more ways than I expected.
 
-Students today require a strong sense of **Purpose**, the **Skills** to thrive amidst uncertainty, and a passion to learn **Beyond Grades**. These three threads are deeply interwoven, and I see Serangoon Secondary actively nurturing them in you.
+I graduated from Serangoon Secondary in 1992. Back then, the uniform looked different, the canteen food was cheaper, and the only AI we knew was “aiyah!” when we forgot our homework.
 
-1. Building Purpose: Defining Your Unique Success
+If I’m being honest… I wasn’t what you'd call a top student. I have dyslexia – and back then, not many people understood what that meant. I struggled to keep up. I stared at English papers feeling lost, and I failed more than once – in tests, in confidence, even in friendships.
 
-First, let's talk about **Purpose**. What truly drives you? What kind of person do you aspire to be? Your school provides an excellent starting point with its inspiring vision: to develop "Resilient Individuals, Passionate Learners and Active Contributors". Think about those words. 
+But through those struggles, I learned something powerful: how to figure things out in my own way. I had to find my rhythm, ask for help, try again – and again. That mindset didn’t just help me survive school – it helped me become who I am today: an entrepreneur, problem solver, and yes – still a lifelong learner.
 
-Resilient Individuals – those who can face challenges and bounce back stronger. 
-Passionate Learners – those driven by curiosity and a love for discovery. 
-Active Contributors – those who engage with the world and seek to make a positive difference. 
+So today, I want to share three things I wish someone told me when I was in your shoes. Three ideas that I hope you carry with you long after the certificates are framed and the refreshments are gone.
 
-This isn't just a slogan; it's a call to action for your own lives.
+1. LEARN HOW TO LEARN
 
-This vision is anchored by your SHINE values: Self-Directedness, Harmony, Integrity, Resilience, and Excellence. 
+It’s not just about what you score – it’s about how you grow.
+Back in school, I thought the smartest kids were the ones who always got full marks. But later, I realised the real superpower is this: the ability to learn how to learn – to pick up new skills, bounce back from mistakes, and keep improving.
 
-These aren't just words on a banner; they are guiding principles. 
+Take someone like MrBeast – one of the biggest YouTubers in the world today. He didn’t just wake up one day and become famous. He spent years studying how YouTube works. He watched thousands of videos, analysed what made people click, tested different ideas, and learned from every failure. He didn’t stop learning just because he left school – he made learning his secret weapon.
 
-Defining success on your own terms requires self-awareness. Deep down, who are you? What are your strengths, your passions, your values? 
+That’s the mindset that matters. Whether you’re learning to code, trying out a new CCA, or just figuring out how to manage your time better – the ability to keep learning, even when it’s hard, will take you further than any single exam score.
 
-Through Character and Citizenship Education in Serangoon Secondary, incorporating Social Emotional Learning, embedded in level themes, you are guided on this path. 
+2. THE WORLD IS UNCERTAIN – But So Are All Adventures
 
-In Secondary 1, you focus on 'Understanding &amp; Leading Self'. In Secondary 2, it broadens to 'Understanding Others &amp; Working Together'. By Secondary 3, you're encouraged towards 'Impacting &amp; Inspiring Others', culminating in Secondary 4 and 5 with 'Striving for Excellence &amp; Looking Ahead'. 
+We live in fast-changing times. Jobs are shifting. Technology is evolving faster than TikTok trends.
 
-This is a deliberate journey towards maturity and self-understanding.
+But here’s the good news: You don’t need to have everything figured out right now. What you do need is the ability to adapt, explore, and stay curious.
 
-Your Learning for Life Programme (LLP) in Community Youth Leadership is a prime example of purpose in action. It’s not just about acquiring leadership titles; it’s about developing competencies, taking responsibility, and understanding how you can contribute meaningfully. Through Values in Action (VIA) projects, whether caring for peers within the school, serving the elderly at St Luke's Eldercare Centre, or building community connections through CCAs, you learn that purpose often finds its deepest expression in service to others. You learn to exert positive influence, shaping not just your own future, but contributing positively to the school and the wider society. This is purpose that is lived out well.
+You’re already getting a taste of this through your Applied Learning and EdTech programmes. Drones, 3D printing, programming – that’s not science fiction. That’s you, getting future-ready. You’re learning to solve real-world problems, work in teams, and think on your feet.
 
-2. Thriving in Uncertainty: Skills for a Transforming World
+And while not everything will go smoothly, remember: progress beats perfection. Every misstep is a lesson. Every challenge is a chance to grow.
+The future doesn’t belong to those who know all the answers. It belongs to those who keep learning new ones.
 
-Secondly, let’s address the undeniable reality of our times: **Uncertainty.** The world is changing at an unprecedented pace. Technological advancements like Artificial Intelligence and increasing global interconnectedness – evidenced by your school's own overseas learning journeys to countries like Brunei, Vietnam, and China – and an evolving job market demand a special skillset. Rote memorization isn't enough. You need to be adaptable, innovative, and discerning.
+3. DEFINE SUCCESS FOR YOURSELF
 
-The school’s commitment to the EdTech Masterplan 2030 isn't just about using new gadgets; it's about fundamentally enhancing teaching and learning to cultivate self-directed, collaborative, and digitally literate learners. Students are being equipped with foundational digital literacy skills and leverage **online** platforms like the Student Learning Space (SLS)  to also explore the potential of AI tools. This is preparation for a future where digital fluency is essential.
+Success isn’t a one-size-fits-all formula.
 
-Over here, the **Applied Learning Programme (ALP) – Real World Explorations In ICT** focuses on the Future of Transportation. This isn't just abstract theory. Students start by understanding 3D printing and modelling in Secondary 1, designing prototypes to solve real-world problems. By Secondary 2, they delve into aerodynamics and programming drones using block programming, learning to decompose complex problems and create algorithms. For those with deeper interest, there are further opportunities through the Infocomm Club and roles as STEM ambassadors. This hands-on, project-based approach develops **critical thinking, creativity, and the practical skills** needed to **turn ideas into reality.**
+Some of you might become doctors or engineers. Others might start businesses, work in the arts, or champion social causes. All are valid.
 
-While the main implementation focus for emerging 21st Century Competencies (e21CC) might be set for 2026, these skills are already being **woven into your learning roadmaps**. **Critical, adaptive, and inventive thinking are** fundamental to future-ready citizens. Alongside these cognitive skills, **emotional intelligence** – understanding and managing your own emotions and empathizing with others – is vital. These skills allow you to collaborate effectively, navigate complex social situations, and lead with empathy – all crucial in any future path you choose.
+At Serangoon Secondary, you’re already learning what it means to lead, serve, and contribute. Your Community Youth Leadership programme, your VIA projects, your class, CCA, and level experiences – these aren’t just activities to fill a logbook. They’re shaping your character. They’re helping you discover what matters to you.
 
-3. Beyond Grades: Cultivating a Lifelong Love for Learning
+Define success in your own terms. Ask: What am I good at? What do I enjoy? What kind of impact do I want to make? Your purpose doesn’t have to look like anyone else’s – but it does need to mean something to you.
 
-Finally, let's talk about **learning beyond the confines of examinations and grades.** While **academic achievements open doors,** they are **only one part of a fulfilling life.** True education is about cultivating a **'Joy of Learning' – an enduring curiosity that propels you to explore, question, and grow throughout your life.**
+CLOSING THOUGHTS
 
-Serangoon Secondary provides a rich landscape for this exploration. Think beyond the syllabus. Consider the inter-departmental projects where English, Science, and Humanities collaborate. Engage fully in initiatives like the Mathematics Learning Day with its games and activities, the Science Garden programme, the Humanities investigations exploring historical sites or local environments, or the creative possibilities in Craft and Technology. Participate in debates, cultural celebrations, and competitions. These are great opportunities to discover hidden talents, ignite new passions, and experience the sheer delight of understanding something new.
+So, Serangoon StaRs, as you look ahead to what’s next, I leave you with these three ideas:
 
-Your holistic development is paramount, and the engaging StaRs Programmes, with their adventure camps and learning journeys, are intentionally designed to nurture you as well-rounded individuals, equipped not just with knowledge, but with character, teamwork skills, and a broad appreciation for the world.
+- Learn How to Learn – Stay curious. Try. Fail. Try again.
+- Embrace Uncertainty – Because that’s where the adventures are.
+- Define Success for Yourself – Not by someone else’s standards, but by your own purpose and values.
+- 
+You have the support of your teachers, your families, your peers – and you have the potential to make a real difference.
 
-**Conclusion**
+Let me end with a quote from Maya Angelou: “Do the best you can until you know better. Then when you know better, do better.”
 
-So, Serangoon StaRs, as you stand at this juncture, poised between your experiences here and the vast possibilities ahead, I urge you to carry these three ideals forward.
-
-•	**Build a life of Purpose:** Dig deep to understand your values. Use your talents not just for personal gain, but to contribute positively to the world around you.
-
-•	**Embrace Uncertainty with Skills:** Cultivate adaptability, critical thinking, creativity, and digital literacy. These are tools that will allow you to innovate and lead in a constantly changing landscape.
-
-•	**Nurture a Lifelong Joy of Learning:** Look beyond grades. Stay curious. Explore diverse interests. Embrace challenges as opportunities for growth, and let resilience be your companion in your life journey.
-
-Your dedicated teachers and school leaders are committed to providing you with the environment and opportunities to flourish. They strive constantly to enhance your learning experiences. Your parents offer invaluable support, partnering with the school to champion your growth. Cherish this network of support.
-
-The future is not something that simply happens to you; it is something you create. With purpose as your guide, skills as your tools, and a lifelong love of learning as your fuel, you are well-equipped to create a future that is deeply meaningful.
-
-Go forth, Serangoon StaRs, and continue to SHINE.
+Keep learning. Keep growing. And above all – keep shining,
 
 Thank you.
+
 
 *Mr Andy Ng* 
 <br>**GOH, Member, School Advisory Committee** 
