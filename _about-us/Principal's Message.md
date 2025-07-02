@@ -589,7 +589,7 @@ But through those struggles, I learned something powerful: how to figure things 
 
 So today, I want to share three things I wish someone told me when I was in your shoes. Three ideas that I hope you carry with you long after the certificates are framed and the refreshments are gone.
 
-1. LEARN HOW TO LEARN
+1 - LEARN HOW TO LEARN
 
 It’s not just about what you score – it’s about how you grow.
 Back in school, I thought the smartest kids were the ones who always got full marks. But later, I realised the real superpower is this: the ability to learn how to learn – to pick up new skills, bounce back from mistakes, and keep improving.
@@ -598,7 +598,7 @@ Take someone like MrBeast – one of the biggest YouTubers in the world today. H
 
 That’s the mindset that matters. Whether you’re learning to code, trying out a new CCA, or just figuring out how to manage your time better – the ability to keep learning, even when it’s hard, will take you further than any single exam score.
 
-2. THE WORLD IS UNCERTAIN – But So Are All Adventures
+2 - THE WORLD IS UNCERTAIN – But So Are All Adventures
 
 We live in fast-changing times. Jobs are shifting. Technology is evolving faster than TikTok trends.
 
@@ -609,7 +609,7 @@ You’re already getting a taste of this through your Applied Learning and EdTec
 And while not everything will go smoothly, remember: progress beats perfection. Every misstep is a lesson. Every challenge is a chance to grow.
 The future doesn’t belong to those who know all the answers. It belongs to those who keep learning new ones.
 
-3. DEFINE SUCCESS FOR YOURSELF
+3 - DEFINE SUCCESS FOR YOURSELF
 
 Success isn’t a one-size-fits-all formula.
 
