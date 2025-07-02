@@ -568,7 +568,6 @@ This minimises distractions and allow students to be meaningfully engaged with t
 Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for the Principal's archived messages.
 
 <hr>
-<hr>
 
 ### GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
 
