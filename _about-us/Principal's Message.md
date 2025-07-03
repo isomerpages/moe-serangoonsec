@@ -15,7 +15,7 @@ variant: markdown
 Mr. Andy Ng, 
 Guest of Honour, Member, School Advisory Committee
 
-School Divisions, S1, Superintendent, Mr Ling Chow Khoon 
+School Divisions, S1, Superintendent, Mr Ling Khoon Chow 
 
 Fellow Members, School Advisory Committee
 
