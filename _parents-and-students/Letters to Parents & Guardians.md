@@ -6,6 +6,12 @@ variant: markdown
 ---
 ### Letters to Parents &amp; Guardians
 
+##### 2025 Term 3 Letter to Parents
+
+Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2025_Term_3_Letter_to_Parents.pdf) to view.
+
+<hr>
+
 ##### 2025 Term 2 Week 3 Letter to Parents
 
 Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/Letter_to_Parents__Social_Emotional_Support_for_Students.pdf) to view.
