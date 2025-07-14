@@ -82,6 +82,10 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 | Sleep Hours | 0000 - 0600 | Parent-controlled | NA |
 |  | 2300 - 2359 |  |  |
 
+##### 8. Student Self-Service Password Reset Guide
 
+Students will now be able to perform a password reset on their own with the **Student Self-Service Password Reset** function in the **MOE Identity Management System (MIMS) Portal**.
+
+Click [here](/files/National%20Digital%20Literacy%20Prog/Posters_MIMS_SSPR_Guide.pdf) to view the guide.
 
 <hr>
