@@ -24,7 +24,7 @@ variant: markdown
 | Mr Tay Ming Yang | Year Head |
 | Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
-| Mr Vincent Wong | SH / English Language |
+| Ms Danna Thein | SH / English Language |
 | Ms Guo Kaiqi Jenny | SH / Chinese Language |
 | Mr Dennis Kwek | SH / Mathematics |
 | Ms Fu Shin Hui | SH / Chemistry |
@@ -46,27 +46,27 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 1SD1 | Mr Fathie Bin Ali Abdat<br>Ms Mok Wei Tong |
-| 1SD2 | Ms Jacklyn Lee<br>Ms Samantha Tan Xinyi |
+| 1SD1 | Ms Mok Wei Tong<br>Ms Danna Thein<br>Ms Ong Guat Eng (FAJT) |
+| 1SD2 | Ms Jacklyn Lee<br>Ms Samantha Tan Xinyi<br>Ms Joanne Liu (FAJT) |
 | 1SD3 | Mdm Tengku Norita<br>Mr Ong Chee Meng |
-| 1SD4 | Mr Shawn Seah Wei Xun<br>Mr Danapal Kumar |
+| 1SD4 | Mr Shawn Seah Wei Xun<br>Mr Danapal Kumar<br>Mdm Kamaliah Binte Othman|
 | 1SD5 | Ms Tan Xiaolin<br>Ms Eleanor Cheong |
 | 1SD6 | Mr Yee Liang Chien Matt<br>Ms Lio Dan Wei<br>Ms Sarah Grace Lim |
-| 1SD7 | Ms Dasimah<br>Mr Aaron Chew |
-| 1SD8 | Ms Chew Liting<br>Mr Goh Ling Pin |
-| 1SD9 | Mr Tan Kian Chong<br>Ms Charlene Lim |
+| 1SD7 | Ms Dasimah<br>Mr Aaron Chew<br>Mr Wilson Lai (FAJT)|
+| 1SD8 | Ms Chew Liting<br>Mr Goh Ling Pin<br>Mr Khiarul Azri Bin Uthli|
+| 1SD9 | Mr Tan Kian Chong<br>Ms Charlene Lim<br> Mr Bala (FAJT)|
 
 ##### Secondary 2
 
 | Class | Form Teachers |
 |---|---|
 | 2H1 | Ms Raudah<br>Mdm Lim Pei Yee |
-| 2H2 | Ms Jenny Guo<br>Ms Sherrie Ng |
-| 2H3 | Ms Ng Xuemin<br>Mrs Rudrapathy Vijayalaskhmi |
-| 2H4 | Ms Teo Zhi Hui Geraldine<br>Mr Tan Boon Hwee<br>Ms Peh Su Fang |
+| 2H2 | Ms Jenny Guo<br>Ms Sherrie Ng<br>Ms Chen Le |
+| 2H3 | Ms Ng Xuemin<br>Ms Aiswarya D/O Manickavasagam<br>Ms Kelly Woo |
+| 2H4 | Ms Teo Zhi Hui Geraldine<br>Ms Peh Su Fang |
 | 2H5 | Ms Shabana<br>Mr Roger Goh |
-| 2H6 | Mr Tan Peng Yau <br>Ms Sharon Tan<br>Ms Caritas Lee |
-| 2H7 | Mr Sin Kah Fai Denny<br>Ms Kalarani |
+| 2H6 | Ms Sharon Tan<br>Ms Caritas Lee<br>Ms Lee Su Huang (FAJT) |
+| 2H7 | Mr Sin Kah Fai Denny<br>Ms Kalarani<br>Ms Caelyn Lim<br>Mr Lim Guan Liang |
 | 2H8 | Ms Bel Quek<br>Mr Darren Tan |
 | 2H9 | Ms Ang Chian Huey<br>Mr Wang Xiao Long |
 
