@@ -36,8 +36,8 @@ variant: markdown
 |![](/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg)|![](/images/School%20Management%20Team/Vincent_Wong.jpg)|![](/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg)|
 | -------- | -------- | -------- |
 |![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/Tay_Hwee_Kwang_Alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
-|![](/images/School%20Management%20Team/Ho_Sze_Gin.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|
-|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Lim_Pei_Lin.jpg)|![](/images/School%20Management%20Team/Lum%20Cindy.jpg)|
+|![](/images/School%20Management%20Team/Ho_Sze_Gin.jpg)|![](/images/School%20Management%20Team/Lim_Pei_Lin.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|
+|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Lum%20Cindy.jpg)|
 |![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 #### Subject Heads / Assistant Year Heads
@@ -60,9 +60,9 @@ variant: markdown
 
 #### Senior School Counsellors / Admin Managers / Operations Managers / ICT Managers
 
-|![](/images/School%20Management%20Team/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Management%20Team/thahira_tasneem_hajamaideen.jpg)|![](/images/School%20Management%20Team/susan%20lim%20gim%20peng.jpg)|
+|![](/images/School%20Management%20Team/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Management%20Team/susan%20lim%20gim%20peng.jpg)|![](/images/School%20Management%20Team/mahadevan%20jaya.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/mahadevan%20jaya.jpg)|![](/images/School%20Management%20Team/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Management%20Team/lim%20lye%20hock.jpg)|
-|![](/images/School%20Management%20Team/sng%20kok%20lam.jpg)|![](/images/School%20Management%20Team/muhammad%20imran%20samat.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Management%20Team/lim%20lye%20hock.jpg)|![](/images/School%20Management%20Team/sng%20kok%20lam.jpg)|
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/muhammad%20imran%20samat.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 <hr>

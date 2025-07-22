@@ -193,6 +193,8 @@ Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2023/) for 
 
 **SPEECH BY MR ROGER FOONG, SAC MEMBER, GUEST-OF-HONOUR AT THE 96TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  26TH APRIL 2024, 9.00 AM.**
 
+![](/images/About%20Us/Principal's%20Message%202024/roger_foong.jpg)
+
 Superintendent Mdm Goh Mee Mee, Principal of Serangoon Secondary School Mr. Remington Chen; Distinguished Guests, Alumni, Parents, Staff and Students; Ladies and Gentlemen. 
 
 When I was invited to be the Guest of Honour at Serangoon Secondary School’s 96th Prize Presentation Day, it led me to reflect on how much education has changed since my school days, particularly in the aspect of education and career guidance for students.
