@@ -60,9 +60,9 @@ variant: markdown
 
 #### Senior School Counsellors / Admin Managers / Operations Managers / ICT Managers
 
-|![](/images/School%20Management%20Team/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Management%20Team/thahira_tasneem_hajamaideen.jpg)|![](/images/School%20Management%20Team/susan%20lim%20gim%20peng.jpg)|
+|![](/images/School%20Management%20Team/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Management%20Team/susan%20lim%20gim%20peng.jpg)|![](/images/School%20Management%20Team/mahadevan%20jaya.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/mahadevan%20jaya.jpg)|![](/images/School%20Management%20Team/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Management%20Team/lim%20lye%20hock.jpg)|
-|![](/images/School%20Management%20Team/sng%20kok%20lam.jpg)|![](/images/School%20Management%20Team/muhammad%20imran%20samat.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Management%20Team/lim%20lye%20hock.jpg)|![](/images/School%20Management%20Team/sng%20kok%20lam.jpg)|
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/muhammad%20imran%20samat.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 <hr>
