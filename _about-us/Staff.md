@@ -102,6 +102,9 @@ variant: markdown
 | Name | Designation |
 |---|---|
 | Mr Abdul Rahim Bin Zainol<br> | SEN Officer<br> |
+| Ms Eunice Ang<br> | SEN Officer<br> |
 | Ms Aimi'Atiqah Bte Shamsuddin | Student Welfare Officer<br> |
 | Mdm Jade Chee Gek Chin<br>| Senior School Counsellor<br> |
-| Ms Thahira Thasnim Hajamaideen<br> | Senior School Counsellor<br> |
+| Mr Sochantha Huang<br> | School Counsellor<br> |
+| Mr Kenneth Ng<br> | School Counsellor (FAJT)<br> |
+| Mr Goh Kit Meng<br> | After School Care Officer (FAJT)<br> |
