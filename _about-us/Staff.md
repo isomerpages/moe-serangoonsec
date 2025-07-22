@@ -67,18 +67,18 @@ variant: markdown
 | 2H5 | Ms Shabana<br>Mr Roger Goh |
 | 2H6 | Ms Sharon Tan<br>Ms Caritas Lee<br>Ms Lee Su Huang (FAJT) |
 | 2H7 | Mr Sin Kah Fai Denny<br>Ms Kalarani<br>Ms Caelyn Lim<br>Mr Lim Guan Liang |
-| 2H8 | Ms Bel Quek<br>Mr Darren Tan |
+| 2H8 | Ms Bel Quek<br>Mr Darren Tan<br>Ms Teri Tan (FAJT) |
 | 2H9 | Ms Ang Chian Huey<br>Mr Wang Xiao Long |
 
 ##### Secondary 3
 
 | Class | Form Teachers |
 |---|---|
-| 3I1 |Mr Muzzaffar<br>Ms Alice Yong |
-| 3I2 |Mr Yan Tuck Poh<br>Ms Noorhudah<br>Ms Caelyn Lim |
+| 3I1 |Mr Muzzaffar<br>Ms Alice Yong<br>Mr Dennis Wong|
+| 3I2 |Mr Yan Tuck Poh<br>Ms Noorhudah |
 | 3I3 |Mr Hidayat<br>Ms Timmie Tan |
-| 3I4 |Mr Adrian Tay<br>Ms Joey Cheong |
-| 3I5 |Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene |
+| 3I4 |Mr Adrian Tay<br>Ms Joey Chong<br>Mr David Tan<br>Ms Dina Lee (FAJT) |
+| 3I5 |Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene<br>Mr Dennis Kwek<br>Ms Tasneem |
 | 3I6 |Ms Candice Lim<br>Mr Daniel Fung |
 | 3I7 |Mdm Nur Ashirah<br>Mr Jarrod Lim |
 | 3I8 |Ms Ivy Phong<br>Mr Ng Zi Xuan |
@@ -88,12 +88,12 @@ variant: markdown
 | Class | Form Teachers |
 |---|---|
 | 4N1 | Ms Teo Lay Peng Lynn<br>Mr Suratman Bin Masohan |
-| 4N2 | Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari |
-| 4N3 | Ms Gloria Lim<br>Mr Muhammad Nasri |
+| 4N2 | Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari<br>Ms Tang Li Hua (FAJT) |
+| 4N3 | Ms Gloria Lim<br>Mr Muhammad Nasri<br>Ms Nurazlina Bte Samadi (FAJT) |
 | 4N4 | Mr Jeff Mak<br>Ms Amala |
 | 4N5 | Ms Kok Chuan Tin<br>Ms Siti Nur Sufiana |
-| 4N6 | Mdm Ng Siew Kheng<br>Mr Lim Tong Yang |
-| 4N7 | Ms Kanchana<br>Ms Fu Shin Hui |
+| 4N6 | Mdm Ng Siew Kheng<br>Mr Lim Tong Yang<br>Ms Yeo Soek Joo (FAJT)|
+| 4N7 | Ms Kanchana<br>Ms Fu Shin Hui<br>Mr Heng Tze Wei (FAJT) |
 | 4N8 | Mr Muhammad Hamzah<br>Mdm You Chang Ying |
 | 5E1 |Ms Kimberley Kuan |
 
