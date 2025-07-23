@@ -24,7 +24,7 @@ variant: markdown
 | Mr Tay Ming Yang | Year Head |
 | Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
-| Ms Danna Thein | SH / English Language |
+| Ms Danna Thein | SH / Literature |
 | Ms Guo Kaiqi Jenny | SH / Chinese Language |
 | Mr Dennis Kwek | SH / Mathematics |
 | Ms Fu Shin Hui | SH / Chemistry |
