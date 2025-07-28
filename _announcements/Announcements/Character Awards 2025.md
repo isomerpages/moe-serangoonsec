@@ -9,7 +9,7 @@ third_nav_title: Announcements
 
 ![](/images/Announcements/ECHA_Slide_banner_for_school_website_2025.jpg)
 
-e-Nominations are now open till 7 Aug 2025.
+##### e-Nominations are now open till 7 Aug 2025.
 
 <b>ELIGIBILITY CRITERIA</b>
 
