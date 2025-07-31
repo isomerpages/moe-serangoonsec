@@ -207,7 +207,7 @@ Section D2A: CG1*
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide40.png)
 
-24 - In a conversation I had with the teacher-in-charge, Ms Caritas Lee, she mentioned that it is thrilling to witness the endless possibilities of what students can achieve when they set their minds to bring a subject to life. Projects of this nature help our students express themselves confidently and develop empathy for the diverse experiences of others. Truly, this is an example of how our teachers take the path less beaten to bring Literature off the page, onto the stage.
+24 - In a conversation I had with one the teachers-in-charge, Ms Caritas Lee, she mentioned that it is thrilling to witness the endless possibilities of what students can achieve when they set their minds to bring a subject to life. Projects of this nature help our students express themselves confidently and develop empathy for the diverse experiences of others. Truly, this is an example of how our teachers take the path less beaten to bring Literature off the page, onto the stage.
 
 ![](/images/About%20Us/Principal's%20Message%202025/Slide41.png)
 
