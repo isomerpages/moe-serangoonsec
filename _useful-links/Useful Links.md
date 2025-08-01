@@ -47,3 +47,5 @@ variant: markdown
 * [School E-Resource Repository (SERR)](/parents-and-students/general-matters/school-eresource)
 * [SLS](https://vle.learning.moe.edu.sg)
 * [Appraiser](https://go.gov.sg/appraiser)
+
+<hr>
