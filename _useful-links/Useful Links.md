@@ -2,6 +2,7 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
+variant: markdown
 ---
 ### Parent's Space
 
@@ -35,7 +36,7 @@ description: ""
 ##### Quick Links
 * [AEM Portal](https://aem.moe.gov.sg/)
 * [Human Resources Portal](https://www.hrp.gov.sg/hrp/#/)
-* [iCon](workspace.google.com/dashboard)
+* [iCon](https://icon.moe.edu.sg)
 * [iEXAMS2](https://iexams.seab.gov.sg/sso/login)
 * [IT Equipment Fault Reporting](https://docs.google.com/forms/d/e/1FAIpQLSeNMslSj0kgaeuZ3ITuv6EAA0gsNm2pcd-H94_4696En6bzSw/viewform?c=0&amp;w=1)
 * [MOE Intranet](https://intranet.moe.gov.sg/)
@@ -44,3 +45,7 @@ description: ""
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 * [SC Mobile](https://scmobile.moe.edu.sg/login)
 * [School E-Resource Repository (SERR)](/parents-and-students/general-matters/school-eresource)
+* [SLS](https://vle.learning.moe.edu.sg)
+* [Appraiser](https://go.gov.sg/appraiser)
+
+<hr>
