@@ -9,6 +9,8 @@ third_nav_title: Announcements
 
 Dear Parents/Guardians,
 
-Please refer to this [attachment](/files/Announcements/SSS_Hardcopy_Ltr_to_Parents_n_Guardians_Not_Using_PG_2024_September_Hols.pdf) for more information regarding Travel Declaration for the 2025 September Holidays. 
+Please refer to this [attachment](/files/Announcements/SSS_Hardcopy_Ltr_to_Parents_n_Guardians_Not_Using_PG_2025_September_Holidays.pdf) for more information regarding Travel Declaration for the 2025 September Holidays.
+
+
 
 <hr>
