@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Travel Declaration for 2025 September Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Travel Declaration for 2025 September Holidays.md
       - Announcements/STSPMF Cycle 1 2026.md
       - Announcements/Character Awards 2025.md
       - Announcements/Travel Declaration for 2025 Mid Year Holidays.md
