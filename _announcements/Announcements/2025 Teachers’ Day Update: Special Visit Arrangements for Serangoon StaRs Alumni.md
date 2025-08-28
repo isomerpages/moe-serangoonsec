@@ -6,6 +6,8 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
+### 2025 Teachers’ Day Update: Special Visit Arrangements for Serangoon StaRs Alumni
+### 
 Dear Serangoon StaRs Alumni,
 
 We hope this message finds you well. As we approach Teachers’ Day, we want to inform you that, due to a tight schedule on Teachers’ Day Celebration (4 Sept), we will not be able to accommodate visits from ex-students on this special day.
