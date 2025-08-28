@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 28/08/2025:     |1.|[2025 Teachers’ Day Update: Special Visit Arrangements for Serangoon StaRs Alumni)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni-2025/)|
+| 28/08/2025:     |1.|[2025 Teachers’ Day Update: Special Visit Arrangements for Serangoon StaRs Alumni](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni-2025/)|
 | 21/08/2025:     |2.|[Travel Declaration for 2025 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-sep/)|
 | 05/08/2025:     |3.|[STSPMF (Cycle 1 2026)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2026/)|
 | 28/07/2025:     |4.| [Character Awards 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2025/)|
