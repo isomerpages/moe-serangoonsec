@@ -18,7 +18,7 @@ variant: markdown
 <br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/SSS_2025_Term_4_Letter__Sec_4N_.pdf) to view.
 
 **Social &amp; Emotional Support for Students**
-<br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/Letter_to_Parents__Social_Emotional_Support_for_Students__20_Sep_2025_.pdf) to view
+<br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/Letter_to_Parents__Social_Emotional_Support_for_Students__20_Sep_2025_.pdf) to view.
 
 <hr>
 
