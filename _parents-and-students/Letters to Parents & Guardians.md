@@ -8,9 +8,17 @@ variant: markdown
 
 ##### 2025 Term 4 Letters to Parents
 
-Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2025_Term_3_Letter_to_Parents_updated.pdf) to view.
+**Sec 1 to 3**
+<br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/2025_Term_4_Letter__Sec_1_to_3_.pdf) to view.
 
+**Sec 4E &amp; 5N**
+<br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/SSS_2025_Term_4_Letter__Sec_4E5N_.pdf) to view.
 
+**Sec 4N**
+<br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/SSS_2025_Term_4_Letter__Sec_4N_.pdf) to view.
+
+**Social &amp; Emotional Support for Students**
+<br>Click [here](/files/Letters%20to%20Parents%20&amp;%20Guardians/Letter_to_Parents__Social_Emotional_Support_for_Students__20_Sep_2025_.pdf) to view
 
 <hr>
 
