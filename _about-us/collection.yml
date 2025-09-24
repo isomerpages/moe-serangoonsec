@@ -2,11 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Respecting Our Staff.md
       - SAC Chairman's Message.md
       - Principal's Message.md
-      - Principal's Message Archive/Principal's Message 2024.md
       - Principal's Message Archive/.keep
+      - Principal's Message Archive/Principal's Message 2024.md
       - Principal's Message Archive/Principal's Message 2023.md
       - Vice Principals' Messages.md
       - Vice Principal (Admin)'s Message.md
@@ -27,4 +26,5 @@ collections:
       - School Management Team.md
       - School Advisory Committee.md
       - Staff.md
+      - Respecting Our Staff.md
       - Contact Us.md
