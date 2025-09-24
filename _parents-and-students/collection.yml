@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - Respecting Our Staff.md
       - Latest News/.keep
       - Latest News/2024 Joint Admissions Exercise (JAE) Information Sheet for
         Sec 4E and 5NA students.md
