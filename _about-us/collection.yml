@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Respecting Our Staff.md
       - SAC Chairman's Message.md
       - Principal's Message.md
       - Principal's Message Archive/Principal's Message 2024.md
