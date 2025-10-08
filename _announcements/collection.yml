@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Travel Declaration for 2025 Year End Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
       - "Announcements/2025 Teachers’ Day Update: Special Visit Arrangements for
