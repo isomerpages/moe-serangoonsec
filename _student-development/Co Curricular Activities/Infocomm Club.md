@@ -27,6 +27,12 @@ variant: markdown
 
 ![](/images/Infocomm%20Club/Slide10.png)
 
+![](/images/Infocomm%20Club/Slide11.png)
+
+![](/images/Infocomm%20Club/Slide12.png)
+
+![](/images/Infocomm%20Club/Slide13.png)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TosQpFsnoOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <hr>
