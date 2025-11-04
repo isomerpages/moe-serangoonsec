@@ -22,6 +22,16 @@ sections:
           url: /useful-links/
       background: /images/20230302_100639.jpg
   - infopic:
+      title: Open House 2025
+      subtitle: School event
+      id: infopic
+      description: Come discover what makes our school special — explore our
+        programmes, chat with our friendly staff and students.
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2025/
+      image: /images/Announcements/2025_SSS_e_banner.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 GCE O-Level Results Release
       subtitle: Announcements
       id: infopic
