@@ -11,17 +11,18 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 04/11/2025:     |1.| [School Open House 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2025/)|
-| 23/10/2025:     |2.| [Sales of Books and Uniforms 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2026/)|
-| 13/10/2025:     |3.| [Travel Declaration for 2025 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-eoy/)|
-| 28/08/2025:     |4.|[2025 Teachers’ Day Update: Special Visit Arrangements for Serangoon StaRs Alumni](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni-2025/)|
-| 21/08/2025:     |5.|[Travel Declaration for 2025 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-sep/)|
-| 05/08/2025:     |6.|[STSPMF (Cycle 1 2026)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2026/)|
-| 28/07/2025:     |7.| [Character Awards 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2025/)|
-| 15/05/2025:     |8.| [Travel Declaration for 2025 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-jun/) |
-| 24/03/2025:     |9.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2025/)|
-| 04/03/2025:     |10.| [Travel Declaration for 2025 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-mar/) |
-| 03/01/2025:     |11.| [2024 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/) |
+| 07/11/2025:     |1.| [Canteen Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/canteen-advertisement/)|
+| 04/11/2025:     |2.| [School Open House 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2025/)|
+| 23/10/2025:     |3.| [Sales of Books and Uniforms 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2026/)|
+| 13/10/2025:     |4.| [Travel Declaration for 2025 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-eoy/)|
+| 28/08/2025:     |5.|[2025 Teachers’ Day Update: Special Visit Arrangements for Serangoon StaRs Alumni](https://www.serangoonsec.moe.edu.sg/announcements/announcements/special-visit-arrangements-for-serangoon-stars-alumni-2025/)|
+| 21/08/2025:     |6.|[Travel Declaration for 2025 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-sep/)|
+| 05/08/2025:     |7.|[STSPMF (Cycle 1 2026)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2026/)|
+| 28/07/2025:     |8.| [Character Awards 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2025/)|
+| 15/05/2025:     |9.| [Travel Declaration for 2025 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-jun/) |
+| 24/03/2025:     |10.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2025/)|
+| 04/03/2025:     |11.| [Travel Declaration for 2025 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-mar/) |
+| 03/01/2025:     |12.| [2024 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/) |
 
 
 ##### 2024 Events
