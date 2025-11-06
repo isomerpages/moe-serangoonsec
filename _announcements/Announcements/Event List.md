@@ -11,7 +11,7 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 07/11/2025:     |1.| [Canteen Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/canteen-advertisement/)|
+| 07/11/2025:     |1.| [School Canteen Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-canteen-advertisement/)|
 | 04/11/2025:     |2.| [School Open House 2025](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-open-house-2025/)|
 | 23/10/2025:     |3.| [Sales of Books and Uniforms 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/sbu-2026/)|
 | 13/10/2025:     |4.| [Travel Declaration for 2025 Year End Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2025-eoy/)|
