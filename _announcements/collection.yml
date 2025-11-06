@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Canteen Advertisement.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Canteen Advertisement.md
       - Announcements/School Open House 2025.md
       - Announcements/Sales of Books and Uniforms 2026.md
       - Announcements/Travel Declaration for 2025 Year End Holidays.md
