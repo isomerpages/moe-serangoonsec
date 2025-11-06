@@ -31,3 +31,15 @@ Upon successful award, the stallholder is expected to meet these requirements:
 <br>•	New stallholder to obtain the Minimum Hygiene Grade (MHG) of 'B' within 3 months from date of commencement of the license.
 <br>•	Stallholder must be in personal attendance at the stall and cannot sublet his stall to another person.
 <br>•	Stallholder must open an account with Singapore Power Supply for the supply of water and gas.
+
+Submission for Application:
+Please submit completed application form with the following documents to the school's General Office:
+
+<br>•	Proposed food menu and pricing; and
+<br>•	Photocopy of Certificate of Attainment for the WSQ Food Safety Course Level 1.
+
+Closing date for Application: The completed application form with the required documents must be submitted to the school General Office before 5pm on 28 Nov 2025 either by hand or post.
+
+Late/Incomplete applications will not be considered. Only shortlisted applicants will be notified to attend an interview and food-tasting session, if applicable, at his/her own expense.
+
+Person to Contact: Mdm Karthini, Administrative Executive at Tel: 63851589.
