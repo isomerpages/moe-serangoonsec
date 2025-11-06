@@ -23,3 +23,11 @@ Requirements:
 <br>•	Applicant must participate in HPB’s "Healthy Meals in Schools Programme (HMSP)".
 <br>•	Before operating the stall, both applicant and stall assistant(s) must pass the WSQ Food Safety Course Level 1 conducted by SkillsFuture Singapore (SSG) accredited training providers.
 <br>•	Apply for individual Food Stall Licence from SFA.  All stallholders are required to produce the Certificate of Attainment for the WSQ Food Safety Course Level 1.
+
+Upon successful award, the stallholder is expected to meet these requirements:
+
+<br>•	Stallholder should be able to commence operation of the stall immediately. 
+<br>•	Stallholder must operate the stall from 7.00 am to 3.00 pm from Mon to Fri during term time and as and when necessary, during the school holidays.
+<br>•	New stallholder to obtain the Minimum Hygiene Grade (MHG) of 'B' within 3 months from date of commencement of the license.
+<br>•	Stallholder must be in personal attendance at the stall and cannot sublet his stall to another person.
+<br>•	Stallholder must open an account with Singapore Power Supply for the supply of water and gas.
