@@ -16,7 +16,7 @@ variant: markdown
 ![](/images/NPCC/For%202026/Slide4.png)
 <br>
 ![](/images/NPCC/For%202026/Slide5.png)
-<hr>
+<br>
 ![](/images/NPCC/For%202026/Slide6.png)
 <br>
 ![](/images/NPCC/For%202026/Slide7.png)
@@ -36,7 +36,7 @@ variant: markdown
 ![](/images/NPCC/For%202026/Slide14.png)
 <br>
 ![](/images/NPCC/For%202026/Slide15.png)
-<hr>
+<br>
 ![](/images/NPCC/For%202026/Slide16.png)
 <br>
 ![](/images/NPCC/For%202026/Slide17.png)
@@ -56,7 +56,7 @@ variant: markdown
 ![](/images/NPCC/For%202026/Slide24.png)
 <br>
 ![](/images/NPCC/For%202026/Slide25.png)
-<hr>
+<br>
 ![](/images/NPCC/For%202026/Slide26.png)
 <br>
 ![](/images/NPCC/For%202026/Slide27.png)
@@ -76,7 +76,6 @@ variant: markdown
 ![](/images/NPCC/For%202026/Slide34.png)
 <br>
 ![](/images/NPCC/For%202026/Slide35.png)
-<hr>
-![](/images/NPCC/For%202026/Slide36.png)
 <br>
+![](/images/NPCC/For%202026/Slide36.png)
 <hr>
