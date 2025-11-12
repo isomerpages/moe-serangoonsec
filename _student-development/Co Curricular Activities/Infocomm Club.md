@@ -7,32 +7,34 @@ variant: markdown
 ---
 ### Infocomm Club
 
-![](/images/Infocomm%20Club/Slide1.png)
+![](/images/Infocomm%20Club/ICC_2026/Slide1.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide2.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide3.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide4.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide5.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide6.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide7.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide8.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide9.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide10.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide11.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide12.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide13.png)
+<br>
+![](/images/Infocomm%20Club/ICC_2026/Slide14.png)
 
-![](/images/Infocomm%20Club/Slide2.png)
-
-![](/images/Infocomm%20Club/Slide3.png)
-
-![](/images/Infocomm%20Club/Slide4.png)
-
-![](/images/Infocomm%20Club/Slide5.png)
-
-![](/images/Infocomm%20Club/Slide6.png)
-
-![](/images/Infocomm%20Club/Slide7.png)
-
-![](/images/Infocomm%20Club/Slide8.png)
-
-![](/images/Infocomm%20Club/Slide9.png)
-
-![](/images/Infocomm%20Club/Slide10.png)
-
-![](/images/Infocomm%20Club/Slide11.png)
-
-![](/images/Infocomm%20Club/Slide12.png)
-
-![](/images/Infocomm%20Club/Slide13.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TosQpFsnoOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Watch [us](https://www.youtube.com/watch?v=TosQpFsnoOg) on Youtube!
 
 <hr>
