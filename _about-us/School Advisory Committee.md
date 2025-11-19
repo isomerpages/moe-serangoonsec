@@ -17,5 +17,5 @@ variant: markdown
 | Committee Member  |<img src="/images/School%20Advisory%20Committee/Mr%20Roger%20Foong.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Mr Roger Foong Yan Sung |
 |  Committee Member |<img src="/images/School%20Advisory%20Committee/Mr%20Thomas%20Shalom.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Mr Thomas Shalom Liau Ching Hai |
 | Committee Member | <img src="/images/School%20Advisory%20Committee/Ms%20Gladys%20Wong.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Ms Wong Hooi Chuan Gladys  |
-| Committee Member | <img src="/images/School%20Advisory%20Committee/Mr_Chua_Kwan_Ping.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Ms Wong Hooi Chuan Gladys  |
-| Committee Member | <img src="/images/School%20Advisory%20Committee/Dr_Tan_Lay_Pheng.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Ms Wong Hooi Chuan Gladys  |
+| Committee Member | <img src="/images/School%20Advisory%20Committee/Mr_Chua_Kwan_Ping.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Mr Chua Kwan Ping  |
+| Committee Member | <img src="/images/School%20Advisory%20Committee/Dr_Tan_Lay_Pheng.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Dr Tan Lay Pheng  |
