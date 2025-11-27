@@ -23,7 +23,6 @@ By 2024, secondary schools will have implemented the following aspects of Full S
 <hr>
 
 ### Full SBB in Serangoon Secondary School
-<br>
 
 <table>
   <tbody><tr>
