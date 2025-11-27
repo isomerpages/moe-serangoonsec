@@ -22,7 +22,8 @@ By 2024, secondary schools will have implemented the following aspects of Full S
 
 <hr>
 
-### Full SBB in Serangoon Secondary School in 2023
+### Full SBB in Serangoon Secondary School
+<br>
 
 <table>
   <tbody><tr>
@@ -49,14 +50,23 @@ In their mixed form classes, students take a set of subjects at a common level, 
 <br>
 <br>
 These subjects are:
-
+<b>
+<br>
+<br>
 * Art
+<br>
 * Character and Citizenship Education
+<br>
 * Design and Technology
+<br>
 * Food and Consumer Education
+<br>
 * Music
+<br>
 * Physical Education
-
+<br>
+</b>
+<br>
 Teachers adopted a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
 <br>
 <br>
