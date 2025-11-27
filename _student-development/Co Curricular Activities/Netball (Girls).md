@@ -7,11 +7,11 @@ variant: markdown
 ---
 ### Netball (Girls)
 
-![](/images/Netball/2025/1.png)
-
-![](/images/Netball/2025/2.png)
-
-![](/images/Netball/2025/3.png)
-
-![](/images/Netball/2025/4.png)
+![](/images/Netball/2026/1.png)
+<br>
+![](/images/Netball/2026/2.png)
+<br>
+![](/images/Netball/2026/3.png)
+<br>
+![](/images/Netball/2026/4.png)
 <hr>
