@@ -7,15 +7,20 @@ variant: markdown
 ---
 ### National Cadet Corps (Land)
 
-![](/images/NCC/Slide1.JPG)
+![](/images/NCC/2026/Slide1.jpg)
+<br>
+![](/images/NCC/2026/Slide2.jpg)
+<br>
+![](/images/NCC/2026/Slide3.jpg)
+<br>
+![](/images/NCC/2026/Slide4.jpg)
+<br>
+![](/images/NCC/2026/Slide5.jpg)
+<br>
+![](/images/NCC/2026/Slide6.jpg)
 
-![](/images/NCC/Slide2.JPG)
 
-![](/images/NCC/Slide3.JPG)
-
-![](/images/NCC/Slide4.JPG)
-
-##### Teachers In Charge
+### Teachers In Charge
 
 | Ms Candice Lim   |
 | ---------------- |
@@ -24,6 +29,6 @@ variant: markdown
 | Ms Fu Shin Hui |
 | Mr Goh Ling Pin |
 | Mr Hamzah  |
-| Ms Sherrie Ng |
+| Mr Dennis Wong |
 
 <hr>
