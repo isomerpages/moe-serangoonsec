@@ -31,8 +31,11 @@ We adopt an integrated and holistic approach, anchored on MOE’s philosophy of 
 •	Student Leadership Development Programme (SLD)<br>
 •	Values-In-Action (VIA)<br>
 
-![](/images/About%20Us/HOD%20CCE's%20Message/NDP.jpg)<br>
-![](/images/About%20Us/HOD%20CCE's%20Message/RHD.jpg)
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_1.jpg)
+<br>
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_2a.jpg)
+<br>
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_2b.jpg)
 
 Serangoon StaRs are engaged in experiential learning and put into practice values and social emotional competencies taught. We envision a deepening of their learning and broadening of their spheres of influence, as they grow from
 
@@ -47,9 +50,13 @@ ECG is strongly emphasized in Serangoon Secondary School. Serangoon StaRs discov
 
 Serangoon StaRs learn to proactively manage their individual pathways to success and are encouraged to have regular conversations with their teachers and the ECG counsellor, Ms Juan, on their education and career aspirations and plans. 
 
-![](/images/About%20Us/HOD%20CCE's%20Message/SWA.jpg)
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_3.jpg)
 <br>
-![](/images/About%20Us/HOD%20CCE's%20Message/SWA2.jpg)
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_4.jpg)
+<br>
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_5.jpg)
+<br>
+![](/images/Character%20and%20Citizenship%20Edu/2026/Picture_6.jpg)
 
 It takes a village to raise a child. We warmly invite you - parents, alumni, other stakeholders and members of the public - to partner with us to enhance and enrich the school experiences for our Serangoon StaRs.
 
