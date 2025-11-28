@@ -7,14 +7,17 @@ variant: markdown
 ---
 ### Chinese Instrumental Ensemble
 
-![](/images/Chinese%20Instrumental%20Ensemble/Slide1.JPG)
-
-![](/images/Chinese%20Instrumental%20Ensemble/Slide2.JPG)
-
-![](/images/Chinese%20Instrumental%20Ensemble/Slide3.JPG)
-
-![](/images/Chinese%20Instrumental%20Ensemble/Slide4.JPG)
-
-![](/images/Chinese%20Instrumental%20Ensemble/Slide5.JPG)
-
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide1.jpg)
+<br>
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide2.jpg)
+<br>
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide3.jpg)
+<br>
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide4.jpg)
+<br>
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide5.jpg)
+<br>
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide6.jpg)
+<br>
+![](/images/Chinese%20Instrumental%20Ensemble/2026/Slide7.jpg)
 <hr>
