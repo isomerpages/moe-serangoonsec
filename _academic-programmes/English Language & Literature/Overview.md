@@ -104,4 +104,10 @@ Students demonstrated strong critical thinking and confident delivery throughout
 
 Before the competition, participants received enrichment and training from experienced debate coaches. Beyond sharpening their speaking skills, the debaters grew in confidence and consistently supported one another, creating a positive and collaborative learning experience!
 
+**III. Blackout Poetry for Sec 1 (StaRs Programme 3)**
 
+The English and Literature Department organised a blackout poetry activity at the Indoor Sports Hall for all Secondary 1 students. Inspired by the Secondary 2 Literature text they will study next year, the session introduced students to the world of words, meaning, characterisation, and plot through a creative and engaging hands-on experience for our talented students as they designed their unique tote bags!
+
+As part of the programme, we also welcomed 40 Primary 6 students from Fernvale Primary School, who joined us during their secondary school tour to experience the vibrant learning environment in our department.
+
+<hr>
