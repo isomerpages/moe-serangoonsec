@@ -69,42 +69,41 @@ The department places a strong emphasis on students’ motivation to learn Mathe
 
 #### Our Programme Highlights
 
-To develop positive attitudes (beliefs, interests, appreciation, confidence, perseverance) and joy of learning Mathematics in students, students are given opportunities to learn Mathematics through playing of games and working on collaborative tasks.
+To deepen students’ motivation to learn Mathematics, students are given opportunities to learn Mathematics through the use of Student Learning Space (SLS) AI tools, SLS gamification features and working on problems in real world contexts.
 
-<img src="/images/Mathematics/01.png" style="width:400px">
-<figcaption><center>Students working collaboratively on mathematical exploratory tasks.</center></figcaption>
+Students learning digital literacy and technological skills such as the use of Spreadsheets and Mathematical graphing software.
 
-<img src="/images/Mathematics/02.png" style="width:400px">
-<figcaption><center>Students apply their creative and critical thinking skills to solve open-ended Mathematics performance tasks.</center></figcaption>
+Students engaging in self-directed learning through the use of Student Learning Space (SLS) AI tools such as SLS FA-Math and SLS Adaptive Learning System to engage in self-assessment and to develop their metacognition in Mathematics.
 
+Students applying their communication and reasoning skills by working collaboratively on mathematical exploratory tasks.
 
-<table>
-  <tbody><tr>
-    <td><img src="/images/Mathematics/03.png" style="width:400px"></td>
-    <td><img src="/images/Mathematics/04.png" style="width:400px"></td>
-  </tr>
-</tbody></table>
+Students applying their critical, adaptive and inventive thinking skills to solve Mathematical problems in real-world context. 
 
-<figcaption><center>Students applying their learning of Mathematical concepts through playing mathematics game cards designed by the department teachers.</center></figcaption>
+Learning Mathematics in fun and meaningful ways: Students applying their learning of Mathematical concepts through playing Mathematics game cards designed by their Mathematics teachers.
+
+Financial Literacy: Students learning about their financial needs at various life stages to develop their financial capabilities to plan for their future.
 
 <hr>
 
 #### Principles of Accounts (POA)
-##### Introduction
-Principles of Accounts introduces students to the world of business. Students will learn the basics of financial accounting and develop their abilities to prepare and analyse accounting information to provide insights about the performance and position of a business as well as to communicate and use the information for decision-making. 
+
+**Introduction**
+
+Principles of Accounts introduces students to the world of business. Students will learn the basics of financial accounting and develop their abilities to prepare and analyse accounting information to provide insights about the performance and position of a business as well as to communicate and use the information for decision-making.
 
 In the learning process, students will also realise the importance of professional ethics in the business environment. These thinking skills, values and approaches to problem solving are enduring and valuable for any field of work that the students may endeavour to undertake in an increasingly complex world.
+
 <hr>
 
-##### Our Support for Students Learning POA
+**Our Support for Students Learning POA**
 
 Students will learn POA through a variety of experiences such as:
+
 * Mastery Learning Programme
 * Hands-on activities
 * Reading of articles
 * Working collaboratively
 * Learning through videos
+* Competitions
 
-<img src="/images/Mathematics/05.png" style="width:400px">
-<figcaption><center>Students describing and identifying the ledger account card chosen.</center></figcaption>
 <hr>
