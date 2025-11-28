@@ -17,7 +17,7 @@ variant: markdown
 
 <hr>
 
-### <center>2024 Science Department Team</center>
+### <center>2026 Science Department Team</center>
 
 
 <table>
@@ -47,31 +47,31 @@ variant: markdown
 <tr>
     <td>Ng Siew Kheng</td>
     <td>Ang Chian Huey (SH / Student Leadership)</td>
-	  <td>Lim Tong Yang (Ag SH / ICT)</td>
+	  <td>Lim Tong Yang (SH / ICT)</td>
     
   </tr>
 <tr>
     <td>Peh Su Fang</td>
-    <td>Chong Jiaqi, Joey</td>
+    <td>Chew Hock Chye Aaron (SH / Curriculum &amp; Innovation)</td>
 	  <td>Caelyn Lim</td>
 	  
     
   </tr>
 <tr>
-    <td>Sin Ka Fai Denny</td>
-    <td>Fong Jia Hui</td>
+    <td>Sin Kah Fai Denny</td>
+    <td>Yan Tuck Poh</td>
 	  <td>Lim Zhou Yu, Jarrod</td>
     
   </tr>
 <tr>
     <td></td>
-    <td>Tan Boon Hwee</td>
+    <td>Noorhudah Abd Wahid</td>
 	  <td>Ong Chee Meng</td>
     
   </tr>
 <tr>
     <td></td>
-    <td>Tan Yong Khai</td>
+    <td>Sin Li Huang</td>
   	<td>Quek Hoon Lui Bel</td>
   </tr>
 <tr>
