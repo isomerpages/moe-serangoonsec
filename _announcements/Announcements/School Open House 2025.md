@@ -17,4 +17,6 @@ Come discover what makes our school special — explore our programmes, chat wit
 
 Find out more at [https://go.gov.sg/sss-open-house-25](https://go.gov.sg/sss-open-house-25).
 
+Click [here](https://drive.google.com/file/d/1cBM35RoJ41Tr6dtarhGzu1lSeA8JpLdW/view?usp=sharing) to view our e-Brochure!
+
 <hr>
