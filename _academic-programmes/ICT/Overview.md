@@ -18,6 +18,8 @@ variant: markdown
 | Mr Anuarezman Sariff | Desktop Engineer |
 | Mr Muhammad Farhan Kamaluddin | Desktop Engineer |
 
+<hr>
+
 ##### Key Programmes
 **1. STEM Applied Learning Programme (ALP) in:**
 
@@ -64,3 +66,5 @@ In Computing, students develop and apply computational and inventive thinking sk
 
 </li><li>Game Category (Gold Award)
 </li>
+
+<hr>
