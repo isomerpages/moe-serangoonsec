@@ -47,7 +47,7 @@ variant: markdown
 | Sec 3 (G1) and Sec 4NT<br>(To be discontinued from 2027)   | Mobile Robotics (MR)     |
 <hr>
 
-**G1-G3 Computing as Elective Subjects at Upper Secondary**
+##### G1-G3 Computing as Elective Subjects at Upper Secondary
 
 Sec 3 and Sec 4 students will have opportunities to pursue their interest and apply their knowledge and skills in the STEM discipline through Computing. The Computing subject will be offered as an elective subject to G1, G2 and G3 students at the upper secondary level to students who are keen to pursue their interest in Computing, and meet the academic requirements to be offered the subject at Sec 3.
 
@@ -55,7 +55,7 @@ In Computing, students develop and apply computational and inventive thinking sk
 
 <hr>
 
-**Achievements**
+##### Achievements
 
 1) Media Computing (MEC) Competition 2024
 
