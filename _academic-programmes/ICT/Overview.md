@@ -39,11 +39,11 @@ variant: markdown
 
 | Level / Stream | Subject |
 | -------- | -------- |
-| Sec 3 (G1)     | G1 Computing     |
-| Sec 3 (G2)     | G2 Computing     |
-| Sec 3 (G3) and Sec 4 EXP     | G3 Computing     |
-| Sec 4NT     | Computer Applications (CPA)     |
-| Sec 3 (G1) and Sec 4NT (To be discontinued from 2027)   | Mobile Robotics (MR)     |
+| Sec 3 (G1)     | G1 Computing   |
+| Sec 3 (G2)     | G2 Computing   |
+| Sec 3 (G3) and Sec 4 EXP     | G3 Computing    |
+| Sec 4NT     | Computer Applications (CPA) |
+| Sec 3 (G1) and Sec 4NT (To be discontinued from 2027)     | Mobile Robotics (MR)    |
 <hr>
 
 ##### G1-G3 Computing as Elective Subjects at Upper Secondary
