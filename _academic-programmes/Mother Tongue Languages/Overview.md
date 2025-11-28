@@ -3,9 +3,8 @@ title: Overview
 permalink: /academic-programmes/mother-tongue/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
-
-
 ### Mother Tongue Languages
 ![](/images/MT001.jpg)
 
@@ -30,3 +29,5 @@ third_nav_title: Mother Tongue Languages
 ![](/images/MT011.jpg)
 
 ![](/images/MT012.jpg)
+
+<hr>
