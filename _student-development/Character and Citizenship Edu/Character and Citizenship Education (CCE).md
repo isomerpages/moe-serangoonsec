@@ -3,10 +3,35 @@ title: Character and Citizenship Education (CCE)
 permalink: /student-development/cce/
 description: ""
 third_nav_title: Character and Citizenship Edu
+variant: markdown
 ---
 ### Character and Citizenship Education
 
-Anchored on the school’s core values of **S**elf-Directedness, **H**armony, **I**ntegrity, Resilie**N**ce and **E**xcellence, Character and Citizenship Education (CCE) in Serangoon Secondary School engages students in the cognitive, behavioural, and affective domains (i.e. knowing, doing, and being).  By facilitating student engagement and voice, and empowering students to derive personal meaning from school activities, we equip our StaRs with the knowledge, skills, values, and social emotional competencies, and develop character and citizenship dispositions that enable them to grow holistically and learn for life, empowering our students to be Resilient Individuals, Passionate Learners, Active Contributors.
+Anchored on the school’s core values of **S**elf-Directedness, **H**armony, **I**ntegrity, Resilie**N**ce and **E**xcellence, Character and Citizenship Education (CCE) in Serangoon Secondary School engages students in the cognitive, behavioural, and affective domains (i.e. knowing, doing, and being).  By facilitating student engagement and voice, and empowering students to derive personal meaning from school activities, we equip our StaRs with the knowledge, skills, values, and social emotional competencies, and develop character and citizenship dispositions that enable them to grow holistically and learn for life, empowering our students to be Resilient Individuals, Passionate Learners, Active Contributors.
+
+<hr>
+
+In Serangoon Secondary School, our Character and Citizenship Education (CCE) program is a deliberate, four-year developmental journey guided by a holistic roadmap.
+
+**Strategic Foundation** 
+
+Our entire CCE direction is anchored on the school’s core values: **S**elf-Directedness, **H**armony, **I**ntegrity, Resilie**N**ce and **E**xcellence (**SHINE**). This structure ensures a progressive and sustained focus across the lower and upper secondary years.
+
+**The 4-Year CCE Learning Roadmap** 
+
+We are guided by the **4-year CCE Learning Roadmap** to chart our direction and focuses. This progressive framework ensures that students continually develop the necessary knowledge, skills, values, and social-emotional competencies (SECs) across the three core domains of learning:
+
+1.) **Knowing (Cognitive):** Developing ethical reasoning and understanding of self and community.<br>
+2) **Doing (Behavioural):** Translating values into positive action, contribution, and responsible decision-making.<br>
+3) **Being (Affective):** Internalizing values and cultivating a strong, positive identity as a resilient citizen.
+
+**Empowering Student Voice and Agency**
+
+By facilitating student engagement and empowering students to derive personal meaning from school activities and lessons, we build **student agency**. We equip our **StaRs** with the dispositions that enable them to grow holistically and learn for life, empowering them to become:
+
+* Resilient Individuals: Capable of adapting and thriving amid complexity.
+* Passionate Learners: Driven by curiosity and a commitment to continuous growth.
+* Active Contributors: Responsible citizens who contribute meaningfully to the school, community, and nation.
 
 Our CCE efforts have been featured on MOE's Schoolbag website!
 
@@ -25,21 +50,20 @@ To help our students adapt to disruptions in a rapidly evolving world, the knowl
 
 With CCE 2021, we aim to develop in our students
 
-*   **Good Character:** Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others, and strive for excellence.
+*   **Good Character:**&nbsp;Have a sound moral compass, a strong sense of right and wrong, think critically and ethically, be discerning in judgement, take responsibility for choices and actions, be caring towards others, and strive for excellence.
 
   
 
-*   **Resilience and Social-Emotional Well-Being:** Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation.
+*   **Resilience and Social-Emotional Well-Being:**&nbsp;Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation.
 
-*   **Active Citizenship:** Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
+*   **Active Citizenship:**&nbsp;Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others and building a future for our nation.
 
-*   **Future Readiness:** Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
+*   **Future Readiness:**&nbsp;Have a sense of purpose in life, develop the dispositions of adaptability and lifelong learning so as to be able to navigate education and career pathways purposefully and take on the challenges of the future, including the world of work.
 
 #### Mental Health Education and Student Well-Being
 
 Through CCE lessons and discussions of relevant contemporary issues, Serangoon StaRs are equipped with knowledge and skills to manage their mental health. Teachers regularly converse one-to-one with students, and students also have access to School Counsellors. The Class Committee, Peer Support Leaders, and a buddy system in every class and CCA further supports the mental well-being of our Serangoon StaRs. Student Development Experiences such as the signature cohort programmes and initiatives such as the Class Bingo are platforms that help students deepen their bond and engagement with the school community, further strengthening their mental resilience.
 
-Read more about Mental Health Education and Student Well-Being at Serangoon Secondary [here](https://serangoonsec.moe.edu.sg/parents-n-students/latest-news/visit-by-ms-sun-xueling)
 
 #### CCE Lessons
 
@@ -53,13 +77,13 @@ Students are guided to form and share fair and substantiated views, and to respe
 
 ![](/images/cce56.gif)
 
-Learning is collaborative.  Students have the opportunity to share their perspectives and learn from their friends in a safe setting.
+Learning is collaborative.&nbsp; Students have the opportunity to share their perspectives and learn from their friends in a safe setting.
 
 ![](/images/cce%20lesson%207.jpg)
 
 Students enjoy vibrant discussions, where their voices and perspectives are heard and valued. This allows students to learn to express their views coherently, respectfully and confidently.
 
 ![](/images/cce89.gif)
-Our teachers engage students in the cognitive, behavioural and affective domains.
+Our teachers engage students in the cognitive, behavioural&nbsp;and affective domains.
 
 ![](/images/cce%20lesson%2010.jpg)

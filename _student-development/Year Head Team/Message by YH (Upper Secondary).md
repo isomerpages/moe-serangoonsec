@@ -8,7 +8,8 @@ variant: markdown
 ---
 ### Message by Year Head (Upper Secondary)
 
-<img src="/images/School%20Management%20Team/Lum%20Cindy.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/Student%20Management/2026/TMY.png" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+
 
 In SSS, we believe that every student is unique, and we want to nurture each child to his or her fullest potential. We adopt a thematic approach in our holistic development of students. These themes are developmentally progressive with a we-statement to help our Serangoon StaRs understand their level of focus. Each theme is also aligned to our school values and motto with a sphere of influence which we want to see in our students. The respective level themes are very much aligned to supporting the transitioning and growing up challenges faced by students in their secondary school journeys.
 
@@ -66,13 +67,13 @@ The Secondary 4 and 5 StaRs celebrate the end of their memorable journey in SSS 
 
 ![](/images/Student%20Management/Upper%20Sec%20YH%20Message/pic_7.jpg)
 <br>
-![](/images/Student%20Management/Upper%20Sec%20YH%20Message/pic_8.jpg)
+![](/images/Student%20Management/2026/Slide1.jpg)
 <br>
-![](/images/Student%20Management/Upper%20Sec%20YH%20Message/pic_9.jpg)
+![](/images/Student%20Management/2026/Slide2.jpg)
 
 In summary, the above level programmes help hone our students’ social and emotional competencies and enable them to grow holistically. We nurture a culture of care among students by fostering strong and meaningful relationships with their teachers and peers. Strong school-home partnership is also critical to provide the effective environments for our students to develop through structures and routines. The teachers will partner the parents as trusted adults who will journey with our students, through the ups and downs as they navigate this journey. Together, we empower every Serangoon StaR to SHINE, for the growth of self and good of others.
 
-<i>Mdm Cindy Lum</i>
+<i>Mr Tay Ming Yang</i>
 <br><b>Year Head</b>
 
 <hr>

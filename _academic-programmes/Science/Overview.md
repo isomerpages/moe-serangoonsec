@@ -17,7 +17,7 @@ variant: markdown
 
 <hr>
 
-### <center>2024 Science Department Team</center>
+### <center>2026 Science Department Team</center>
 
 
 <table>
@@ -47,31 +47,31 @@ variant: markdown
 <tr>
     <td>Ng Siew Kheng</td>
     <td>Ang Chian Huey (SH / Student Leadership)</td>
-	  <td>Lim Tong Yang (Ag SH / ICT)</td>
+	  <td>Lim Tong Yang (SH / ICT)</td>
     
   </tr>
 <tr>
     <td>Peh Su Fang</td>
-    <td>Chong Jiaqi, Joey</td>
+    <td>Chew Hock Chye Aaron (SH / Curriculum &amp; Innovation)</td>
 	  <td>Caelyn Lim</td>
 	  
     
   </tr>
 <tr>
-    <td>Sin Ka Fai Denny</td>
-    <td>Fong Jia Hui</td>
+    <td>Sin Kah Fai Denny</td>
+    <td>Yan Tuck Poh</td>
 	  <td>Lim Zhou Yu, Jarrod</td>
     
   </tr>
 <tr>
     <td></td>
-    <td>Tan Boon Hwee</td>
+    <td>Noorhudah Abd Wahid</td>
 	  <td>Ong Chee Meng</td>
     
   </tr>
 <tr>
     <td></td>
-    <td>Tan Yong Khai</td>
+    <td>Sin Li Huang</td>
   	<td>Quek Hoon Lui Bel</td>
   </tr>
 <tr>
@@ -79,6 +79,17 @@ variant: markdown
     <td>Yan Tuck Poh</td>
 	 <td>Roger Goh</td>
     <td></td>
+  </tr>
+<tr>
+    <td></td>
+    <td></td>
+	  <td>Eleanor Tan</td>
+    
+  </tr>
+<tr>
+    <td></td>
+    <td></td>
+  	<td>Darren Tan</td>
   </tr>
 </tbody></table>
 
@@ -135,24 +146,34 @@ Using e-Pedagogy as a means to connect students’ learning through multi-modal 
 ![](/images/Science/sci_dept_pic_4c.png)
 Students engaging in STEM Learning Experiences (LEs)
 
-### <center>Talent Development Model</center>
+### <center>Science Talent Development Framework</center>
 
-![](/images/Science/sci_dept_pic_5.png)
+![](/images/Science/2026/Slide1.jpg)
 
-Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
+The Elemental Forge, the Science Talent Framework, is an extension of the Science Department’s Teaching and Learning Framework, to stretch our students through a structured, tiered approach in our enrichment programme.  It has two wings – The Practical and Experiential wing as well as the Creative and Innovative wing.
+
+The Practical and Experiential wing aims to develop cognitive rigour and practical scientific skillsets and exposure to authentic laboratory and field-based experiences. This wing directly supports the teaching and learning emphasis on scientific inquiry. Through real-world and experiential activities, students become inspired by the relevance of science, strengthening both motivation and conceptual understanding.
+
+The Creative and Innovative wing focuses on innovation, design, prototyping and creative problem-solving through science. It reinforces the department’s belief that science is not a body of knowledge but also a tool for improving lives and contributing to society.
+
+The Elemental Forge uses cross-cutting themes such as forces of nature, resilient society, Human Health and Well-being as well as Sustainable Living Systems.
+
+The diagram shows the tired approach in our enrichment programme. The activities in each tier are some examples of our students’ experience.
+
+![](/images/Science/2026/Slide2.jpg)
 
 <b>Programmes</b>
 	
-![](/images/Science/sci_dept_pic_6.jpg)
-Students engaging in forensic science investigations
+![](/images/Science/2026/Slide6.jpg)
+Students applying Science concepts to make bath bombs
 
-![](/images/Science/sci_dept_pic_7.JPG)
-Students exploring the hydroponics system in the school’s Science Garden
+![](/images/Science/2026/Slide5.jpg)
+Students growing their own vegetables in the school’s Science Garden
 
-![](/images/Science/sci_dept_pic_8.jpeg)
-Students building and testing their car prototype on an actual race track
+![](/images/Science/2026/Slide4.jpg)
+Excited students launching their Pet Rockets
 
-![](/images/Science/sci_dept_pic_9.jpg)
+![](/images/Science/2026/Slide3.jpg)
 Out-of-classroom learning opportunities for students to make connections with what they learn in school
 	
 
@@ -167,5 +188,19 @@ Students and teacher mentors in scientific research-based competitions
 
 ![](/images/Science/sci_dept_pic_11b.jpg)
 Students participating in competitions to stretch their logical reasoning and critical thinking skills
+
+<hr>
+
+##### STEM playground 2025
+
+Our secondary 4 and 5 StaRs participated in the STEM Playground Challenge jointly organized by CPDD, MOE, Science Centre and the James Dyson Foundation. We are happy to share that that we came in 9th in Challenge #1. Watch our students in action in this [video](https://www.instagram.com/reel/DGzer_rPyIh/?igsh=bzN5amV4azQ4YmM3).
+
+##### Fe STEM Teacher Challenge
+
+The Fe STEM Teacher Challenge is a competition that originated from the Iron Science Teacher competition, which was first organised by the Exploratorium in San Francisco in 1998. Science Centre Singapore adapted and ran this concept in Singapore from 2005 to 2008. After a hiatus, the competition was revived in 2023 with a new name: the Fe STEM Teacher Challenge. This challenge aims to provide educators with a platform to showcase innovation and creativity in STEM education in Singapore. 
+
+Ms Caelyn Lim and Mrs Eleanor Tan took part in the Fe STEM Teacher Challenge and emerged as the Champion. They also clinched the People’s Choice Award! Congratulations to Ms Caelyn Lim and Mrs Eleanor Tan! 
+
+
 
 <hr>

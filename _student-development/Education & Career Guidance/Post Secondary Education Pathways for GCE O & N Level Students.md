@@ -1,11 +1,11 @@
 ---
-title: Post Secondary Education Pathways
+title: Post Secondary Education Pathways for GCE O & N Level Students
 permalink: /student-development/ecg/
 description: ""
 third_nav_title: Education & Career Guidance
 variant: markdown
 ---
-### Post-Secondary Educational Pathways
+### Post-Secondary Educational Pathways for GCE O &amp; N Level Students
 
 ##### Where to After Secondary School?
  

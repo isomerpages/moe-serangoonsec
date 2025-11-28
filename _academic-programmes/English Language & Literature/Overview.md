@@ -11,8 +11,12 @@ variant: markdown
 
 <table>
   <tbody><tr>
-    <td><b>Head Of Department (HOD)</b></td>
+    <td><b>Head Of Department (HOD EL &amp; Lit)</b></td>
     <td>Mr Vincent Wong</td>
+  </tr>
+<tr>
+    <td><b>Subject Head (English Literature)</b></td>
+    <td>Ms Danna Thein</td>
   </tr>
  <tr>
     <td><b>Teachers</b></td>
@@ -24,11 +28,11 @@ variant: markdown
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Kanchana</td>
+    <td>Mr Dennis Wong</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mdm Lim Pei Yee</td>
+    <td>Ms Kanchana</td>
   </tr>
  <tr>
     <td><b></b></td>
@@ -36,194 +40,130 @@ variant: markdown
   </tr>
 <tr>
     <td><b></b></td>
-    <td>Ms Siti Nur Sufiana Hashim</td>
+    <td>Mdm Lim Pei Yee</td>
   </tr>
 <tr>
     <td><b></b></td>
-    <td>Mr Shawn Seah</td>
+    <td>Ms Mok Wei Tong</td>
  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Siti Nur Sufiana Hashim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Shawn Seah</td>
+  </tr>
  <tr>
     <td><b></b></td>
     <td>Ms Timmie Tan</td>
   </tr>
 </tbody></table>
 
-##### EL Learning Outcomes (Syllabus 2020) for Sec 1-4 students in 2023
+### 2025 English Language and Literature Programme Highlights
 
+##### READING PROGRAMME
 
-| Area of Language Learning | | Learning Outcomes |
-| -------- | -------- | -------- |
-|<b> Listening &amp; Viewing | 1.     | Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour     |
-|| 2.     | Develop listening and viewing skills for understanding by focusing on literal and inferential meaning    |
-|| 3.     | Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation    |
-|| 4.     | Listen to, view and respond to a variety texts    |
-|<b>Reading &amp; Viewing | 1.     | Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour     |
-|| 2.     | Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning    |
-|| 3.     | Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement    |
-|| 4.     | Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts    |
-|<b>Speaking &amp; Representing | 1.     | Develop knowledge and awareness of the features of speaking and representing     |
-|| 2.     | Develop accuracy and fluency in speaking and representing    |
-|| 3.     | Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures   |
-|| 4.     | Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures    |
-|| 5.     | Monitor, review, revise and refine responsibly before, during and after speaking and representing   |
-|<b>Writing &amp; Representing | 1.     | Develop writing readiness and handwriting to write accurately and fluently     |
-|| 2.     | Use accurate and consistent spelling    |
-|| 3.     | Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures   |
-|| 4.     | Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures    |
-|| 5.     | Review, revise, edit and proofread to improve writing and representing  |
-|<b>Grammar | 1.     | Use metalanguage for learning and talking about language structures and language in use     |
-|| 2.     | Apply knowledge of grammatical rules at word and phrase levels    |
-|| 3.     | Apply knowledge of grammatical rules at sentence level   |
-|| 4.     | Show understanding of how the purposeful use of language shapes meaning in texts    |
-|<b>Vocabulary | 1.     | Develop word consciousness and use metalanguage in building vocabulary knowledge     |
-|| 2.     | Build rich vocabulary knowledge that supports the development of listening, reading, viewing, speaking, writing and representing skills    |
-|| 3.     | Use words appropriate for purpose, audience, context and culture  |
+Our reading programme aims to develop good reading habits and instill a lifelong passion for reading in our students.
 
-##### EL Learning Outcomes (Syllabus 2010) for Sec 5 students in 2023
+**‘Read and SHINE’ daily**
 
-| Area of Language Learning | | Learning Outcomes |
-| -------- | -------- | -------- |
-|<b> Listening &amp; Viewing | 1.     |Demonstrate positive listening and viewing attitudes and behaviour by showing attentiveness and understanding|
-|| 2.     |Use appropriate skills and strategies to process meaning from texts|
-|| 3.     |Use appropriate skills and strategies to evaluate texts|
-|| 4.     |Listen to and view a variety of literary selections and informational/functional texts|
-|<b>Reading &amp; Viewing | 1.     |Use reading readiness and word identification skills|
-|| 2.     |Process and comprehend age-/year level appropriate texts at literal and inferential levels|
-|| 3.     |Apply critical reading and viewing by focusing on implied meaning, higher-order thinking, judgement and evaluation|
-|| 4.     |Apply close and critical reading and viewing to a variety of literary selections and informational/functional texts, from print and non-print sources, for learning in the literary/ content areas and to understand how lexical and grammatical items are used in context|
-|| 5.     |LO5b: Sustain reading and viewing widely for pleasure, personal development and learning in the literary/content areas (Secondary)|
-|<b>Speaking &amp; Representing | 1.     |Demonstrate knowledge of spoken grammar and register|
-|| 2.     |Speak with accurate pronunciation and appropriate intonation|
-|| 3.     |Plan and present information and ideas for a variety of purposes|
-|| 4.     |Use appropriate skills, strategies and language to convey and construct meaning during interactions|
-|| 5.     |Produce spontaneous and planned spoken texts that are grammatically accurate, fluent, coherent and cohesive |
-|<b>Writing &amp; Representing | 1.     |Develop writing readiness and penmanship to write accurately and fluently in print and cursive script|
-|| 2.     |Use accurate and consistent spelling|
-|| 3.     |Generate and select ideas for writing and representing for a variety of purposes, audiences, contexts and cultures|
-|| 4.     |Develop, organise and express ideas coherently and cohesively in writing and representing for a variety of purposes, audiences, contexts and cultures|
-|| 5.     |Review, revise, proofread and edit to improve writing and representation|
-|| 6.     |Produce a variety of texts for creative, personal, academic, and functional purposes, using an appropriate register and tone|
-|<b>Grammar | 1.     |Use metalanguage for learning and talking about language structures and language in use     |
-|| 2.     |Apply knowledge of grammatical rules at word, phrase and sentence levels|
-|| 3.     |Show understanding of how the purposeful use of language shapes meaning in texts|
-|<b>Vocabulary | 1.     |Use metalanguage in building and using vocabulary|
-|| 2.     |Demonstrate a rich vocabulary that supports the development of listening, reading, viewing, speaking, writing and representing skills|
-|| 3.     |Use words appropriate for purpose, audience, context and culture|
-	
-##### 2022 Department Programme Highlights
-	
-**READING PROGRAMME**
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide1.jpg)
 
-Our reading programme aims to develop good reading habits and instill lifelong passion for reading in our students.
+Through our reading programme, we cultivate a love of reading in our students, by balancing carefully between assigned reading materials and giving students a choice on what to read. Students are given exposure to books and articles of various genres and view related videos to broaden &amp; deepen their perspectives. We have piloted the use of Personal Learning Devices (PLDs) for morning reading and will introduce bite-sized reading and interest-driven approaches to engage and enrich students through meaningful reading experiences.
 
-**I.	Read and SHINE daily morning reading programme**
+<hr>
 
-<a target="_blank" href="/images/English%20Language%20&amp;%20Literature/01.png">
-<img src="/images/English%20Language%20&amp;%20Literature/01.png" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
-</a>
+##### INTER-DEPARTMENTAL COLLABORATIONS
 
-Through our morning reading programme, we cultivate a love of reading in our students, by balancing carefully between assigned reading materials and giving students a choice on what to read. 
+With targeted inter-departmental collaborations, we aim to extend students’ learning of English Language and Literature beyond the confines of the classroom, providing students with authentic and varied language experiences.
 
-This year, we also collaborated with all IP departments on a weekly subject content reading via class Padlets. Students read articles and view related videos to broaden &amp; deepen their perspectives and to integrate learning across the different subjects.
+**I.	Script-to-Stage Learning Experience (2025)**
 
-**INTER-DEPARTMENTAL COLLABORATIONS**
+🎭A two-part English Literature enrichment project. Selected Secondary 1 and 2 students were inspired at the ‘Wicked’ musical at Marina Bay Sands on the 19 April 2025. Subsequently, they extended their learning through authentic exploration of the Aesthetics and Language Arts, applying insights from the performance to deepen their appreciation of English and Literature. This was a synergistic collaboration between the English Language and Literature department and the Craft and Technology’s Aesthetic programme.
 
-Through inter-departmental collaborations, we aim to extend students’ learning of English beyond the English classroom and provide students with authentic and varied language experiences.   
+This fresh approach to our Aesthetics Assembly Programme demonstrated how literature can move beyond the page to become a lived, shared experience for our SSS community!
 
-**I.	Sec 1 Geography-Science-EL Inter-Disciplinary Project Work 2022**
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide2.jpg)
 
-<a target="_blank" href="/images/English%20Language%20&amp;%20Literature/02.png">
-<img src="/images/English%20Language%20&amp;%20Literature/02.png" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
-</a>
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide3.jpg)
 
-This year, we embarked on a level-wide Science-EL Project Work for our Sec 1 students. Students were guided in oral communication skills – e.g. preparing a script, accurate pronunciation, addressing the audience – for their Project Work class presentation, which formed part of their school-based assessment.
+**II. Sec 1 Science-Humanities-English Inter-Disciplinary Project Work**
 
-**II.	Humanities-EL Learning Journeys 2022**
+One of the cornerstones of our dynamic learning culture is ***collaboration***. We firmly believe that learning is most powerful when connections are made across disciplines, mirroring the interconnectedness of the real world. A prime example of this synergy is our ***Secondary 1 Inter-departmental Project Work***. Here, our ***English Language, Science,*** and ***Humanities Departments*** come together, guiding students through real-world learning that involves experimentation, research, and oral presentation. Students learn to integrate knowledge and skills from different domains, break down traditional subject silos, and develop holistic problem-solving abilities. Students were guided in oral communication skills – e.g. preparing a script, practising accurate pronunciation, and addressing their audience – for their Project Work presentation, which formed a meaningful part of their school-based assessment.
 
-<a target="_blank" href="/images/English%20Language%20&amp;%20Literature/03.png">
-<img src="/images/English%20Language%20&amp;%20Literature/03.png" style="width:500px; border:0.5px solid Gainsboro; padding: 5px">
-</a>
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide4.jpg)
 
-As part of post-exam activities this year, we collaborated with the Humanities Department to organise Learning Journeys for Sec 1 and 2 students. Our Sec 1 StaRs had the chance to visit the Kranji War Memorial where they saw for themselves the 4,461 gravestones lined up proudly on a slope to honour the fallen heroes of WWII. Meanwhile, our Sec 2 StaRs enjoyed a scenic treetop walk enroute to the historic coastal fort of Fort Siloso where they learnt more about British defence of Southern Singapore during WWII. 
+<hr>
 
-Armed with their mobile devices, our StaRs vlogged their experience as they explored these sites.
-	
-**TALENT DEVELOPMENT &amp; ENRICHMENT PROGRAMMES
+##### TALENT DEVELOPMENT &amp; ENRICHMENT PROGRAMMES
 
-**I.	Online Singapore Secondary School Debating Championship 2022**
+**I. Script-to-Stage Performance (2025)**
+
+🎭✨ Serangoon Secondary School’s inaugural ***Script-to-Stage*** programme brought students’ passion to life through the joint efforts of both the English Language &amp; Literature and Craft &amp; Technology departments.
+
+Selected Secondary 1 and 2 students were empowered to perform ***‘LIVE! At the Wet Market’*** and ***‘Thank You, Ma’am’*** for the school, showcasing how literature can leap off the page and onto the stage. From the confident actors and emcees delivering their lines to our creative backstage crew crafting stage-worthy props, every student was a shining Serangoon STAR. Inspired by their 'Wicked' theatre experience, these young performers turned their learning into an unforgettable showcase of creativity and teamwork! 📚🌟 
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide5.jpg)
+
+**II. Inter-class Debating Competition (Sec 3)**
+
+The English Language and Humanities Departments came together to organise an engaging two-part Inter-class English Debate, featuring motions inspired by Social Studies issues!
+
+Students demonstrated strong critical thinking and confident delivery throughout the rounds, supported by teachers who continually encouraged and believed in their abilities.
+
+Before the competition, participants received enrichment and training from experienced debate coaches. Beyond sharpening their speaking skills, the debaters grew in confidence and consistently supported one another, creating a positive and collaborative learning experience!
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide6.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide7.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide8.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide9.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide10.jpg)
+
+**III. Blackout Poetry for Sec 1 (StaRs Programme 3)**
+
+The English and Literature Department organised a blackout poetry activity at the Indoor Sports Hall for all Secondary 1 students. Inspired by the Secondary 2 Literature text they will study next year, the session introduced students to the world of words, meaning, characterisation, and plot through a creative and engaging hands-on experience for our talented students as they designed their unique tote bags!
+
+As part of the programme, we also welcomed 40 Primary 6 students from Fernvale Primary School, who joined us during their secondary school tour to experience the vibrant learning environment in our department.
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide11.jpg)
+
+<hr>
+
+### EL Learning Outcomes (Syllabus 2020) for Secondary School Students
 
 <table>
   <tbody><tr>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/04.png">
-<img src="/images/English%20Language%20&amp;%20Literature/04.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-</a></td>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/05.png">
-<img src="/images/English%20Language%20&amp;%20Literature/05.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-	</a></td>
+    <td><b>Area of Language Learning</b></td>
+		<td><b>Learning Outcomes</b></td>
+  </tr>
+<tr>
+	<td><b>Listening &amp; Viewing</b></td>
+    <td>1. Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour<br><br>2. Develop listening and viewing skills for understanding by focusing on literal and inferential meaning<br><br>3. Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation<br><br>4. Listen to, view and respond to a variety texts</td>
+  </tr>
+<tr>
+    <td><b>Reading &amp; Viewing</b></td>
+    <td>1. Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour<br><br>2. Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning<br><br>3. Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement<br><br>4. Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts</td>
+  </tr>
+<tr>
+    <td><b>Speaking &amp; Representing</b></td>
+    <td>1. Develop knowledge and awareness of the features of speaking and representing<br><br>2. Develop accuracy and fluency in speaking and representing<br><br>3. Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures<br><br>4. Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures<br><br>5. Monitor, review, revise and refine responsibly before, during and after speaking and representing</td>
+  </tr>
+<tr>
+    <td><b>Writing &amp; Representing</b></td>
+    <td>1. Develop writing readiness and handwriting to write accurately and fluently<br><br>2. Use accurate and consistent spelling<br><br>3. Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures<br><br>4. Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures<br><br>5. Review, revise, edit and proofread to improve writing and representing</td>
+  </tr>
+<tr>
+    <td><b>Grammar</b></td>
+    <td>1. Use metalanguage for learning and talking about language structures and language in use<br><br>2. Apply knowledge of grammatical rules at word and phrase levels<br><br>3. Apply knowledge of grammatical rules at sentence level<br><br>4. Show understanding of how the purposeful use of language shapes meaning in texts</td>
+  </tr>
+<tr>
+    <td><b>Vocabulary</b></td>
+    <td>1. Develop word consciousness and use metalanguage in building vocabulary knowledge<br><br>2. Build rich vocabulary knowledge that supports the development of listening, reading, viewing, speaking, writing and representing skills<br><br>3. Use words appropriate for purpose, audience, context and culture</td>
   </tr>
 </tbody></table>
-
-A small group of students with a passion for debating is trained every year for the Singapore Secondary School Debating Championship. This year, we ranked 11th out of 26 schools that took part in Division III of the championship. One of our students also emerged among the Top 20 Speakers in the division. 
-
-Watch our team of debaters in action in 2021 EL Debating Showcase post-exam activity.
-
-Watch the debate here: [2021 EL Debating Showcase](https://youtu.be/I9NMhuGCQA8)
-
-**II.	Post-Exam Activity - EL Oratorical Showcase 2022**
-
-<table>
-  <tbody><tr>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/06.png">
-<img src="/images/English%20Language%20&amp;%20Literature/06.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-</a></td>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/07.png">
-<img src="/images/English%20Language%20&amp;%20Literature/07.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-	</a></td>
-  </tr>
-  <tr>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/08.png">
-<img src="/images/English%20Language%20&amp;%20Literature/08.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-</a></td>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/09.png">
-<img src="/images/English%20Language%20&amp;%20Literature/09.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-	</a></td>
-  </tr>
-</tbody></table>	
-
-As part of our department’s focus on oracy skills, a group of Sec 3 students took part in the 3E and 3NA Oratorical Showcases as part of their post-exam activity this year where three students were crowned Best Orators of each competition.
-
-**III.	Inter-Class Writing Competition**
-
-<table>
-  <tbody><tr>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/10.png">
-<img src="/images/English%20Language%20&amp;%20Literature/10.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-</a></td>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/11.png">
-<img src="/images/English%20Language%20&amp;%20Literature/11.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-	</a></td>
-  </tr>
-  <tr>
-    <td><center>Secondary 3 Winners</center></td>
-    <td><center>Secondary 4 Winners</center></td>
-  </tr>
-</tbody></table>
-
-To promote the love of writing among our students, we organised inter-class writing competitions for the different levels this year. Our budding writers had a go at writing flash fiction and full length essays.
-
-**IV.	Literature Instagram Poetry Enrichment Workshop**
-
-<table>
-  <tbody><tr>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/12.png">
-<img src="/images/English%20Language%20&amp;%20Literature/12.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-</a></td>
-    <td><a target="_blank" href="/images/English%20Language%20&amp;%20Literature/13.png">
-<img src="/images/English%20Language%20&amp;%20Literature/13.png" style="width:250px; border:0.5px solid Gainsboro; padding: 5px">
-	</a></td>
-  </tr>
-</tbody></table>
-
-To make the study of Literature come alive, selected Sec 1 students attended an ‘Instagram Poetry’ workshop by local poet-cum-writer Theophilus Kwek on 3 June in a tie-in with this year’s Words Go Round (WGR) programme.
-
-At the workshop, our budding poets explored the school premises to find inspiration to write a poem about a space in school that holds a personal significance to them. They then got other participants to guess where in the school their poem was set.</b></b></b></b></b></b></b></b></b></b></b></b>
+<hr>
