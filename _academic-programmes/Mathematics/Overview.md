@@ -3,9 +3,8 @@ title: Overview
 permalink: /academic-programmes/math/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-
-
 ### Mathematics
 
 
@@ -20,21 +19,35 @@ Every student is passionate about Mathematics
 <hr>
 
 #### Our Curriculum
-##### Key Objectives
-* Enable students to acquire mathematical concepts and skills
 
-* Develop cognitive and metacognitive skills (Processes, self-directed learning)
+**Key Objectives**
 
-* Develop positive attitudes towards Mathematics (confidence, interest, appreciation, perseverance, beliefs)
+* Provide opportunities for students to learn and apply concepts and skills to solve problems, including those in real-world contexts;
+
+* Develop process and meta-cognitive skills through a mathematical approach to problem solving;
+
+* Inculcate positive attitudes towards Mathematics (confidence, interest, appreciation, perseverance, beliefs);
+
+* Strengthen the development of students’ digital literacy and technological skills through Mathematics
+
+* Develop students’ 21st century competencies to think critically, adaptively and inventively, reason logically and communicate effectively using mathematics, work individually as well as in groups, using EdTech tools where appropriate in learning and doing mathematics. 
 
 
-#### Learning Experience
-The department places a strong emphasis on how students learn. We believe in providing Learning Experiences in Mathematics through:
+#### Overview of our Mathematics Learning Framework
 
-* Inductive approach in discovering mathematical concepts and skills
-* e-Pedagogy 
-* Relating Mathematics to the real-world context 
-* Learning of Mathematics in a fun way
+**Learning Experiences for students**
+
+The department places a strong emphasis on students’ motivation to learn Mathematics. We believe students have diverse learning needs and seek to provide learning experiences for them through three phases of their learning – Readiness, Engagement and Mastery:
+
+* Establishing a Positive Mathematics Classroom Culture
+
+* Leveraging EdTech to customise students’ learning and develop their digital literacy and technological skills
+
+* Developing Computational Thinking skills in the students through tasks involving algorithm design
+
+* Providing opportunities for students to work independently and collaboratively on tasks relating Mathematics to the real-world context 
+
+* Facilitating activity-based and inquiry-based learning in Mathematics
 
 <hr>
 
@@ -58,11 +71,11 @@ To develop positive attitudes (beliefs, interests, appreciation, confidence, per
 
 
 <table>
-  <tr>
+  <tbody><tr>
     <td><img src="/images/Mathematics/03.png" style="width:400px"></td>
     <td><img src="/images/Mathematics/04.png" style="width:400px"></td>
   </tr>
-</table>
+</tbody></table>
 
 <figcaption><center>Students applying their learning of Mathematical concepts through playing mathematics game cards designed by the department teachers.</center></figcaption>
 
