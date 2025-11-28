@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Education & Career Guidance
 variant: markdown
 ---
-### Post-Secondary Educational Pathways for GCE O &amp; N level students
+### Post-Secondary Educational Pathways for GCE O &amp; N Level Students
 
 ##### Where to After Secondary School?
  
