@@ -8,7 +8,7 @@ variant: markdown
 ---
 ### Message by Year Head (Upper Secondary)
 
-<img src="/images/School%20Management%20Team/Lum%20Cindy.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Tay_Ming_Yang.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 In SSS, we believe that every student is unique, and we want to nurture each child to his or her fullest potential. We adopt a thematic approach in our holistic development of students. These themes are developmentally progressive with a we-statement to help our Serangoon StaRs understand their level of focus. Each theme is also aligned to our school values and motto with a sphere of influence which we want to see in our students. The respective level themes are very much aligned to supporting the transitioning and growing up challenges faced by students in their secondary school journeys.
 
