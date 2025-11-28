@@ -115,7 +115,6 @@ As part of the programme, we also welcomed 40 Primary 6 students from Fernvale P
 ### EL Learning Outcomes (Syllabus 2020) for Secondary School Students
 
 
-| Area of Language Learning |  | Learning Outcomes |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| Area of Language Learning | Learning Outcomes |
+| -------- | -------- |
+| Text     | Text     |
