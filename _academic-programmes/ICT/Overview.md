@@ -61,11 +61,10 @@ In Computing, students develop and apply computational and inventive thinking sk
 
 1) Media Computing (MEC) Competition 2024
 
-</li><li>Animation and Game Category (Gold Award)
+* Animation and Game Category (Gold Award)
 
 2) Media Computing (MEC) Competition 2025
 
-</li><li>Game Category (Gold Award)
-</li>
+* Game Category (Gold Award)
 
-<hr>
+<hr></li>
