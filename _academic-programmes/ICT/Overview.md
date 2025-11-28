@@ -31,6 +31,8 @@ variant: markdown
 	
 </li><li>Tier 2 Sec 2 and Sec 3 Infocomm Club Programmes
  <br>Selected Sec 2 and Sec 3 students are provided with opportunities to pursue their interest in programming and apply their knowledge and skills in the Infocomm Club programmes.
+
+<hr>
 	
 ##### Subjects Offered in 2026
 
@@ -42,11 +44,15 @@ variant: markdown
 |Sec 4NT|Computer Applications (CPA)|
 |Sec 3 (G1) and Sec 4NT <br>(To be discontinued from 2027)|Mobile Robotics (MR)|
 
+<hr>
+
 ##### G1-G3 Computing as Elective Subjects at Upper Secondary
 
 Sec 3 and Sec 4 students will have opportunities to pursue their interest and apply their knowledge and skills in the STEM discipline through Computing. The Computing subject will be offered as an elective subject to G1, G2 and G3 students at the upper secondary level to students who are keen to pursue their interest in Computing, and meet the academic requirements to be offered the subject at Sec 3.
 
 In Computing, students develop and apply computational and inventive thinking skills to formulate computing solutions, and develop students’ dispositions towards striving for accuracy and thoroughness. The extension of learning in Computing will allow students to participate in Advanced Elective Modules (AEMs) offered by polytechnics.
+
+<hr>
 
 ##### Achievements
 
