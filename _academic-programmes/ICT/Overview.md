@@ -9,14 +9,16 @@ variant: markdown
 
 ##### Department Staff
 
-| Name                     | Designation      |
-|--------------------------|------------------|
-| Mr Adrial Tan Chong Jin  | HOD ICT           |
-| Mr Lim Tong Yang  | SH ICT           |
-| Mr Muhd Lotfi            | Computing Coordinator  |
-| Mr Muhammad Imran Samat  | ICT Manager      |
-| Mr Anuarezman Sariff | Desktop Engineer |
-| Mr Muhammad Farhan Kamaluddin | Desktop Engineer |
+
+
+| Name | Designation |
+| -------- | -------- |
+| Mr Adrial Tan Chong Jin     | HOD ICT    |
+| Mr Lim Tong Yang     | SH ICT    |
+| Mr Muhd Lotfi     | Computing Coordinator    |
+| Mr Muhammad Imran Samat     | ICT Manager |
+| Mr Anuarezman Sariff     | Desktop Engineer    |
+| Mr Muhammad Farhan Kamaluddin     | Desktop Engineer    |
 
 <hr>
 
