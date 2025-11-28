@@ -106,4 +106,10 @@ Students will learn POA through a variety of experiences such as:
 * Learning through videos
 * Competitions
 
+POA students taking part in the National Financial Literacy Challenge, where they apply their accounting knowledge in authentic real-world financial scenarios.
+
+**Professional Learning for Staff**
+
+We believe in building the capacities and competencies of our Mathematics and POA teachers through regular Professional Learning opportunities in 3 areas – assignments, relationships, courses. 
+
 <hr>
