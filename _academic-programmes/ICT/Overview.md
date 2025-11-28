@@ -38,6 +38,8 @@ variant: markdown
 	
 ##### Subjects Offered in 2026
 
+<br>
+
 | Level / Stream                  | Subject                                  |
 |---------------------------------|------------------------------------------|
 |Sec 3 (G1)|G1 Computing|
@@ -49,7 +51,7 @@ variant: markdown
 <hr>
 
 ##### G1-G3 Computing as Elective Subjects at Upper Secondary
-
+<br>
 Sec 3 and Sec 4 students will have opportunities to pursue their interest and apply their knowledge and skills in the STEM discipline through Computing. The Computing subject will be offered as an elective subject to G1, G2 and G3 students at the upper secondary level to students who are keen to pursue their interest in Computing, and meet the academic requirements to be offered the subject at Sec 3.
 
 In Computing, students develop and apply computational and inventive thinking skills to formulate computing solutions, and develop students’ dispositions towards striving for accuracy and thoroughness. The extension of learning in Computing will allow students to participate in Advanced Elective Modules (AEMs) offered by polytechnics.
@@ -57,7 +59,7 @@ In Computing, students develop and apply computational and inventive thinking sk
 <hr>
 
 ##### Achievements
-
+<br>
 1) Media Computing (MEC) Competition 2024
 
 </li><li>Animation and Game Category (Gold Award)
