@@ -6,6 +6,23 @@ variant: markdown
 ---
 ## Parent Support Group (PSG)
 
+#### 2025 Parent Workshop: Navigating the Teen Years
+
+On 16 August, the PSG Committee partnered with the Centre for Fathering to conduct the *Navigating the Teen Years* workshop for Sec 1 parents. The session was well-received, and parents gained practical and actionable tips on supporting and managing their teenagers at home.
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide1.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide2.jpg)
+
+#### 2025 Sec 1 Parent-Teacher Workshop
+
+On 30 May, the form teachers engaged their Sec 1 parents in a facilitated Parent-Teacher Workshop. This session helped to build a supportive class ecosystem by strengthening home-school partnerships and deepening engagement with parents.
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide3.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide4.jpg)
+
+
 #### Sharing on ‘The Fathering Difference’ on 6 April 2024
 
 Dear Parents and Guardians, thank you for attending the above virtual sharing by Mr. Kevin Goh (Group Head Engagements and Programmes of the Centre for Fathering Singapore). Please find the video and the slides as attached.
@@ -72,5 +89,13 @@ Dear Parents and Guardians, thank you for attending the 1st PSG virtual event on
 #### Our PSG in Action
 
 ![](/images/parent%20support%20group%20in%20action.gif)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide5.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide6.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide7.jpg)
+
+![](/images/Parents%20&amp;%20Students/Parent%20Support%20Group%20(PSG)/Slide8.jpg)
 
 <hr>
