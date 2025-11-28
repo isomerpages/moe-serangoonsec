@@ -124,31 +124,24 @@ As part of the programme, we also welcomed 40 Primary 6 students from Fernvale P
     <td>1. Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour<br><br>2. Develop listening and viewing skills for understanding by focusing on literal and inferential meaning<br><br>3. Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation<br><br>4. Listen to, view and respond to a variety texts</td>
   </tr>
 <tr>
-    <td>Reading &amp; Viewing</td>
+    <td><b>Reading &amp; Viewing</b></td>
     <td>1. Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour<br><br>2. Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning<br><br>3. Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement<br><br>4. Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts</td>
   </tr>
 <tr>
-    <td>Speaking &amp; Representing</td>
+    <td><b>Speaking &amp; Representing</b></td>
     <td>1. Develop knowledge and awareness of the features of speaking and representing<br><br>2. Develop accuracy and fluency in speaking and representing<br><br>3. Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures<br><br>4. Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures<br><br>5. Monitor, review, revise and refine responsibly before, during and after speaking and representing</td>
   </tr>
 <tr>
-    <td>Writing &amp; Representing</td>
+    <td><b>Writing &amp; Representing</b></td>
     <td>1. Develop writing readiness and handwriting to write accurately and fluently<br><br>2. Use accurate and consistent spelling<br><br>3. Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures<br><br>4. Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures<br><br>5. Review, revise, edit and proofread to improve writing and representing</td>
   </tr>
 <tr>
-    <td>Sec 3 (G1) and Sec 4NT<br>(To be discontinued from 2027)</td>
-    <td>Mobile Robotics (MR)</td>
+    <td><b>Grammar</b></td>
+    <td>1. Use metalanguage for learning and talking about language structures and language in use<br><br>2. Apply knowledge of grammatical rules at word and phrase levels<br><br>3. Apply knowledge of grammatical rules at sentence level<br><br>4. Show understanding of how the purposeful use of language shapes meaning in texts</td>
+  </tr>
+<tr>
+    <td><b>Vocabulary</b></td>
+    <td>1. Develop word consciousness and use metalanguage in building vocabulary knowledge<br><br>2. Build rich vocabulary knowledge that supports the development of listening, reading, viewing, speaking, writing and representing skills<br><br>3. Use words appropriate for purpose, audience, context and culture</td>
   </tr>
 </tbody></table>
-<hr>
-
-
-| Area of Language Learning | Learning Outcomes |
-| -------- | -------- |
-| **Listening &amp; Viewing**     | 1. Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour<br><br>2. Develop listening and viewing skills for understanding by focusing on literal and inferential meaning<br><br>3. Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation<br><br>4. Listen to, view and respond to a variety texts|
-| **Reading &amp; Viewing**     | 1. Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour<br><br>2. Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning<br><br>3. Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement<br><br>4. Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts|
-| **Speaking &amp; Representing**     | 1. Develop knowledge and awareness of the features of speaking and representing<br><br>2. Develop accuracy and fluency in speaking and representing<br><br>3. Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures<br><br>4. Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures<br><br>5. Monitor, review, revise and refine responsibly before, during and after speaking and representing|
-| **Writing &amp; Representing**     | 1. Develop writing readiness and handwriting to write accurately and fluently<br><br>2. Use accurate and consistent spelling<br><br>3. Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures<br><br>4. Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures<br><br>5. Review, revise, edit and proofread to improve writing and representing|
-| **Grammar**     | 1. Use metalanguage for learning and talking about language structures and language in use<br><br>2. Apply knowledge of grammatical rules at word and phrase levels<br><br>3. Apply knowledge of grammatical rules at sentence level<br><br>4. Show understanding of how the purposeful use of language shapes meaning in texts|
-| **Vocabulary**     | 1. Develop word consciousness and use metalanguage in building vocabulary knowledge<br><br>2. Build rich vocabulary knowledge that supports the development of listening, reading, viewing, speaking, writing and representing skills<br><br>3. Use words appropriate for purpose, audience, context and culture|
 <hr>
