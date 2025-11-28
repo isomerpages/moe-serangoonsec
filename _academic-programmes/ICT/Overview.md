@@ -37,6 +37,57 @@ variant: markdown
 
 ##### Subjects Offered in 2026
 
+<table>
+  <tbody><tr>
+    <td><b>Head Of Department (HOD EL &amp; Lit)</b></td>
+    <td>Mr Vincent Wong</td>
+  </tr>
+<tr>
+    <td><b>Subject Head (English Literature)</b></td>
+    <td>Ms Danna Thein</td>
+  </tr>
+ <tr>
+    <td><b>Teachers</b></td>
+    <td>Ms Caritas Lee</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Charlene Lim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Dennis Wong</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Kanchana</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Mok Wei Tong</td>
+  </tr>
+<tr>
+    <td><b></b></td>
+    <td>Mdm Lim Pei Yee</td>
+  </tr>
+<tr>
+    <td><b></b></td>
+    <td>Ms Mok Wei Tong</td>
+ </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Siti Nur Sufiana Hashim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Shawn Seah</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Timmie Tan</td>
+  </tr>
+</tbody></table>
+
 | Level / Stream | Subject |
 | -------- | -------- |
 | Sec 3 (G1)     | G1 Computing   |
