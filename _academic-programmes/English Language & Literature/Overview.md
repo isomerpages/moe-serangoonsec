@@ -68,6 +68,8 @@ Our reading programme aims to develop good reading habits and instill a lifelong
 
 **‘Read and SHINE’ daily**
 
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide1.jpg)
+
 Through our reading programme, we cultivate a love of reading in our students, by balancing carefully between assigned reading materials and giving students a choice on what to read. Students are given exposure to books and articles of various genres and view related videos to broaden &amp; deepen their perspectives. We have piloted the use of Personal Learning Devices (PLDs) for morning reading and will introduce bite-sized reading and interest-driven approaches to engage and enrich students through meaningful reading experiences.
 
 <hr>
@@ -82,9 +84,15 @@ With targeted inter-departmental collaborations, we aim to extend students’ le
 
 This fresh approach to our Aesthetics Assembly Programme demonstrated how literature can move beyond the page to become a lived, shared experience for our SSS community!
 
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide2.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide3.jpg)
+
 **II. Sec 1 Science-Humanities-English Inter-Disciplinary Project Work**
 
 One of the cornerstones of our dynamic learning culture is ***collaboration***. We firmly believe that learning is most powerful when connections are made across disciplines, mirroring the interconnectedness of the real world. A prime example of this synergy is our ***Secondary 1 Inter-departmental Project Work***. Here, our ***English Language, Science,*** and ***Humanities Departments*** come together, guiding students through real-world learning that involves experimentation, research, and oral presentation. Students learn to integrate knowledge and skills from different domains, break down traditional subject silos, and develop holistic problem-solving abilities. Students were guided in oral communication skills – e.g. preparing a script, practising accurate pronunciation, and addressing their audience – for their Project Work presentation, which formed a meaningful part of their school-based assessment.
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide4.jpg)
 
 <hr>
 
@@ -96,6 +104,8 @@ One of the cornerstones of our dynamic learning culture is ***collaboration***. 
 
 Selected Secondary 1 and 2 students were empowered to perform ***‘LIVE! At the Wet Market’*** and ***‘Thank You, Ma’am’*** for the school, showcasing how literature can leap off the page and onto the stage. From the confident actors and emcees delivering their lines to our creative backstage crew crafting stage-worthy props, every student was a shining Serangoon STAR. Inspired by their 'Wicked' theatre experience, these young performers turned their learning into an unforgettable showcase of creativity and teamwork! 📚🌟 
 
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide5.jpg)
+
 **II. Inter-class Debating Competition (Sec 3)**
 
 The English Language and Humanities Departments came together to organise an engaging two-part Inter-class English Debate, featuring motions inspired by Social Studies issues!
@@ -104,11 +114,23 @@ Students demonstrated strong critical thinking and confident delivery throughout
 
 Before the competition, participants received enrichment and training from experienced debate coaches. Beyond sharpening their speaking skills, the debaters grew in confidence and consistently supported one another, creating a positive and collaborative learning experience!
 
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide6.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide7.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide8.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide9.jpg)
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide10.jpg)
+
 **III. Blackout Poetry for Sec 1 (StaRs Programme 3)**
 
 The English and Literature Department organised a blackout poetry activity at the Indoor Sports Hall for all Secondary 1 students. Inspired by the Secondary 2 Literature text they will study next year, the session introduced students to the world of words, meaning, characterisation, and plot through a creative and engaging hands-on experience for our talented students as they designed their unique tote bags!
 
 As part of the programme, we also welcomed 40 Primary 6 students from Fernvale Primary School, who joined us during their secondary school tour to experience the vibrant learning environment in our department.
+
+![](/images/English%20Language%20&amp;%20Literature/2026/Slide11.jpg)
 
 <hr>
 
