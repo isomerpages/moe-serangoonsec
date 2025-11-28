@@ -114,6 +114,34 @@ As part of the programme, we also welcomed 40 Primary 6 students from Fernvale P
 
 ### EL Learning Outcomes (Syllabus 2020) for Secondary School Students
 
+<table>
+  <tbody><tr>
+    <td><b>Area of Language Learning</b></td>
+		<td><b>Learning Outcomes</b></td>
+  </tr>
+<tr>
+	<td><b>Listening &amp; Viewing</b></td>
+    <td>1. Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour<br><br>2. Develop listening and viewing skills for understanding by focusing on literal and inferential meaning<br><br>3. Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation<br><br>4. Listen to, view and respond to a variety texts</td>
+  </tr>
+<tr>
+    <td>Reading &amp; Viewing</td>
+    <td>1. Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour<br><br>2. Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning<br><br>3. Analyse, evaluate and appreciate age-/year level appropriate texts by focusing on implied meaning, higher-order thinking and judgement<br><br>4. Respond to a wide and extensive range of texts for enjoyment and understanding how grammatical/lexical items and semiotic modes are used in diverse contexts</td>
+  </tr>
+<tr>
+    <td>Speaking &amp; Representing</td>
+    <td>1. Develop knowledge and awareness of the features of speaking and representing<br><br>2. Develop accuracy and fluency in speaking and representing<br><br>3. Explore, generate, develop and organise ideas respectfully as individuals and collaboratively in planned and/or spontaneous situations for a variety of purposes, audiences, contexts and cultures<br><br>4. Speak and represent confidently, coherently and cohesively for a variety of purposes, audiences, contexts and cultures<br><br>5. Monitor, review, revise and refine responsibly before, during and after speaking and representing</td>
+  </tr>
+<tr>
+    <td>Writing &amp; Representing</td>
+    <td>1. Develop writing readiness and handwriting to write accurately and fluently<br><br>2. Use accurate and consistent spelling<br><br>3. Generate, select and organise ideas for writing and representing creatively and critically for a variety of purposes, audiences, contexts and cultures<br><br>4. Develop, organise and express ideas coherently, cohesively, creatively and critically in writing and representing to produce texts for a variety of purposes, audiences, contexts and cultures<br><br>5. Review, revise, edit and proofread to improve writing and representing</td>
+  </tr>
+<tr>
+    <td>Sec 3 (G1) and Sec 4NT<br>(To be discontinued from 2027)</td>
+    <td>Mobile Robotics (MR)</td>
+  </tr>
+</tbody></table>
+<hr>
+
 
 | Area of Language Learning | Learning Outcomes |
 | -------- | -------- |
