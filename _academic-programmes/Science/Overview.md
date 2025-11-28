@@ -188,3 +188,17 @@ Students and teacher mentors in scientific research-based competitions
 Students participating in competitions to stretch their logical reasoning and critical thinking skills
 
 <hr>
+
+##### STEM playground 2025
+
+Our secondary 4 and 5 StaRs participated in the STEM Playground Challenge jointly organized by CPDD, MOE, Science Centre and the James Dyson Foundation. We are happy to share that that we came in 9th in Challenge #1. Watch our students in action in this [video](https://www.instagram.com/reel/DGzer_rPyIh/?igsh=bzN5amV4azQ4YmM3).
+
+##### Fe STEM Teacher Challenge
+
+The Fe STEM Teacher Challenge is a competition that originated from the Iron Science Teacher competition, which was first organised by the Exploratorium in San Francisco in 1998. Science Centre Singapore adapted and ran this concept in Singapore from 2005 to 2008. After a hiatus, the competition was revived in 2023 with a new name: the Fe STEM Teacher Challenge. This challenge aims to provide educators with a platform to showcase innovation and creativity in STEM education in Singapore. 
+
+Ms Caelyn Lim and Mrs Eleanor Tan took part in the Fe STEM Teacher Challenge and emerged as the Champion. They also clinched the People’s Choice Award! Congratulations to Ms Caelyn Lim and Mrs Eleanor Tan! 
+
+
+
+<hr>
