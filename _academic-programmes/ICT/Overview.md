@@ -9,8 +9,6 @@ variant: markdown
 
 ##### Department Staff
 
-
-
 | Name | Designation |
 | -------- | -------- |
 | Mr Adrial Tan Chong Jin     | HOD ICT    |
@@ -37,8 +35,8 @@ variant: markdown
  <br>Selected Sec 2 and Sec 3 students are provided with opportunities to pursue their interest in programming and apply their knowledge and skills in the Infocomm Club programmes.
 
 <hr>
-	
-**Subjects Offered in 2026**
+
+##### Subjects Offered in 2026
 
 | Level / Stream | Subject |
 | -------- | -------- |
