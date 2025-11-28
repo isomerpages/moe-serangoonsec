@@ -54,9 +54,17 @@ The department places a strong emphasis on students’ motivation to learn Mathe
 #### Our Support for Students Learning Mathematics
 
 * Mastery Learning Programme
-* Foundation Mathematics Bridging Programme
-* SBB/OOS Bridging Programme
+
+* Lower Sec Foundation Mathematics Bridging Programme
+
+* Bridging Programmes for students taking more demanding level subjects
+
 * Secondary 1 Math Learning Day
+
+* Financial Literacy Programmes
+
+* Mathematical Competitions
+
 <hr>
 
 #### Our Programme Highlights
