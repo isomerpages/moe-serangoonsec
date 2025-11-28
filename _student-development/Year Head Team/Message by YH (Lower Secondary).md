@@ -7,7 +7,8 @@ third_nav_title: Year Head Team
 ---
 ### Message by Year Head (Lower Secondary)
 
-<img src="/images/School%20Management%20Team/Tay_Ming_Yang.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+<img src="/images/School%20Management%20Team/Lum%20Cindy.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
+
 
 In SSS, we adopt a thematic approach in the holistic development of our students. These themes are developmentally progressive with we-statements to help our Serangoon StaRs understand the respective level focus. Each theme is also aligned to our school values and motto with a sphere of influence which we want to see in our students.
 
