@@ -3,6 +3,7 @@ title: Character and Citizenship Education (CCE)
 permalink: /student-development/cce/
 description: ""
 third_nav_title: Character and Citizenship Edu
+variant: markdown
 ---
 ### Character and Citizenship Education
 
@@ -39,7 +40,6 @@ With CCE 2021, we aim to develop in our students
 
 Through CCE lessons and discussions of relevant contemporary issues, Serangoon StaRs are equipped with knowledge and skills to manage their mental health. Teachers regularly converse one-to-one with students, and students also have access to School Counsellors. The Class Committee, Peer Support Leaders, and a buddy system in every class and CCA further supports the mental well-being of our Serangoon StaRs. Student Development Experiences such as the signature cohort programmes and initiatives such as the Class Bingo are platforms that help students deepen their bond and engagement with the school community, further strengthening their mental resilience.
 
-Read more about Mental Health Education and Student Well-Being at Serangoon Secondary [here](https://serangoonsec.moe.edu.sg/parents-n-students/latest-news/visit-by-ms-sun-xueling)
 
 #### CCE Lessons
 
