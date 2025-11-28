@@ -117,4 +117,5 @@ As part of the programme, we also welcomed 40 Primary 6 students from Fernvale P
 
 | Area of Language Learning | Learning Outcomes |
 | -------- | -------- |
-| Listening &amp; Viewing     | 1. Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour<br><br>2. Develop listening and viewing skills for understanding by focusing on literal and inferential meaning<br><br>3. Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation<br><br>4. Listen to, view and respond to a variety texts|
+| **Listening &amp; Viewing**     | 1. Develop auditory discrimination skills and positive listening and viewing attitudes and behaviour<br><br>2. Develop listening and viewing skills for understanding by focusing on literal and inferential meaning<br><br>3. Develop critical listening and viewing by focusing on implied meaning, higher-order thinking and evaluation<br><br>4. Listen to, view and respond to a variety texts|
+| **Reading &amp; Viewing**     | 1. Develop reading and viewing readiness, word recognition skills, accuracy, fluency and positive reading and viewing attitudes and behaviour<br><br>2. Process and comprehend age-/year level appropriate texts by focusing on literal and inferential meaning|
