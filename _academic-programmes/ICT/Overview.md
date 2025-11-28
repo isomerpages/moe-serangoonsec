@@ -39,62 +39,30 @@ variant: markdown
 
 <table>
   <tbody><tr>
-    <td><b>Head Of Department (HOD EL &amp; Lit)</b></td>
-    <td>Mr Vincent Wong</td>
+    <td><b>Level / Stream</b></td>
+		<td><b>Subject</b></td>
   </tr>
 <tr>
-    <td><b>Subject Head (English Literature)</b></td>
-    <td>Ms Danna Thein</td>
-  </tr>
- <tr>
-    <td><b>Teachers</b></td>
-    <td>Ms Caritas Lee</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Charlene Lim</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Dennis Wong</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Kanchana</td>
-  </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Mok Wei Tong</td>
+    <td>Sec 3 (G1)</td>
+    <td>G1 Computing</td>
   </tr>
 <tr>
-    <td><b></b></td>
-    <td>Mdm Lim Pei Yee</td>
+    <td>Sec 3 (G2)</td>
+    <td>G2 Computing</td>
   </tr>
 <tr>
-    <td><b></b></td>
-    <td>Ms Mok Wei Tong</td>
- </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Siti Nur Sufiana Hashim</td>
+    <td>Sec 3 (G3) and Sec 4 EXP</td>
+    <td>G3 Computing</td>
   </tr>
- <tr>
-    <td><b></b></td>
-    <td>Mr Shawn Seah</td>
+<tr>
+    <td>Sec 4NT</td>
+    <td>Computer Applications (CPA)</td>
   </tr>
- <tr>
-    <td><b></b></td>
-    <td>Ms Timmie Tan</td>
+<tr>
+    <td>Sec 3 (G1) and Sec 4NT<br>(To be discontinued from 2027)</td>
+    <td>Mobile Robotics (MR)</td>
   </tr>
 </tbody></table>
-
-| Level / Stream | Subject |
-| -------- | -------- |
-| Sec 3 (G1)     | G1 Computing   |
-| Sec 3 (G2)     | G2 Computing   |
-| Sec 3 (G3) and Sec 4 EXP     | G3 Computing    |
-| Sec 4NT     | Computer Applications (CPA) |
-| Sec 3 (G1) and Sec 4NT (To be discontinued from 2027)     | Mobile Robotics (MR)    |
 <hr>
 
 ##### G1-G3 Computing as Elective Subjects at Upper Secondary
