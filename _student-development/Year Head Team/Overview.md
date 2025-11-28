@@ -12,12 +12,11 @@ At Serangoon Secondary School (SSS), we believe every student is unique and capa
 Each level is guided by a clear *we-statement* that shapes students’ focus and supports their social, emotional and character development throughout their secondary school journey.
 
 Across their four to five years with us, our StaRs learn to:
-<b>
-* grow with others,
-* build harmony and teamwork,
-* inspire and influence, and
-* strive for excellence.
-</b>
+
+* <b>grow with others,</b>
+* <b>build harmony and teamwork,</b>
+* <b>inspire and influence,</b> and
+* <b>strive for excellence.</b>
 
 This journey is supported through intentional structures, caring relationships and strong school–home partnerships.
 
