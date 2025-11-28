@@ -148,9 +148,17 @@ Students engaging in STEM Learning Experiences (LEs)
 
 ### <center>Talent Development Model</center>
 
-![](/images/Science/sci_dept_pic_5.png)
 
-Through various tiers of programmes catered to the needs of different segments of students, students can learn by doing and have opportunities to demonstrate and deepen their ways of thinking and doing science and critical thinking skills. These experiences beyond the classroom would also enable them to connect theoretical concepts to real-life applications.
+
+The Elemental Forge, the Science Talent Framework, is an extension of the Science Department’s Teaching and Learning Framework, to stretch our students through a structured, tiered approach in our enrichment programme.  It has two wings – The Practical and Experiential wing as well as the Creative and Innovative wing. 
+The Practical and Experiential wing aims to develop cognitive rigour and practical scientific skillsets and exposure to authentic laboratory and field-based experiences. This wing directly supports the teaching and learning emphasis on scientific inquiry. Through real-world and experiential activities, students become inspired by the relevance of science, strengthening both motivation and conceptual understanding.
+
+The Creative and Innovative wing focuses on innovation, design, prototyping and creative problem-solving through science. It reinforces the department’s belief that science is not a body of knowledge but also a tool for improving lives and contributing to society.
+
+The Elemental Forge uses cross-cutting themes such as forces of nature, resilient society, Human Health and Well-being as well as Sustainable Living Systems.
+
+The diagram shows the tired approach in our enrichment programme. The activities in each tier are some examples of our students’ experience.
+
 
 <b>Programmes</b>
 	
