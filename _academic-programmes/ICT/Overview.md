@@ -13,35 +13,34 @@ variant: markdown
 |--------------------------|------------------|
 | Mr Adrial Tan Chong Jin  | HOD ICT           |
 | Mr Lim Tong Yang  | SH ICT           |
-| Mr Muhd Lotfi            | CPA Coordinator  |
-| Mr Sng Kok Lam           | ICT Manager      |
+| Mr Muhd Lotfi            | Computing Coordinator  |
 | Mr Muhammad Imran Samat  | ICT Manager      |
 | Mr Anuarezman Sariff | Desktop Engineer |
-| Mr Farhan | Desktop Engineer |
+| Mr Muhammad Farhan Kamaluddin | Desktop Engineer |
 
 ##### Key Programmes
-###### 1\. STEM Applied Learning Programme (ALP) in:
-*   Tier 1 Sec 1_&nbsp;3D Modelling and Printing Programme (Semester 2)<br>
-    The Sec 1 ALP focuses on 3D modelling and printing. In this programme, Sec 1 Exp, Sec 1NA and Sec 1NT students are immersed in 3D modelling activities to hone their Science, Technology, Engineering and Mathematics (STEM) skills. Through the use of Tinkercad, a 3D modelling software, students design 3D models which can be used to solve problems in the real world context.
-		
+**1. STEM Applied Learning Programme (ALP) in:**
+
+*	Tier 1: Sec 1  3D Modelling and Printing Programme (Semester 2)
+<br>The Sec 1 ALP focuses on 3D modelling and printing. In this programme, all Secondary 1 students are immersed in 3D modelling activities to hone their Science, Technology, Engineering and Mathematics (STEM) skills. Through the use of Tinkercad, a 3D modelling software, students design 3D models which can be used to solve problems in the real world context on the theme of “The Future Of Transportation”.
 <br>
 
-*   Tier 1 Sec 2_Drones programming (Semester 1)<br>
-	The Sec 2 ALP focuses on drones programming. In this programme, Sec 2 Exp, Sec 2NA and Sec 2NT students are immersed in coding activities using Tynker, a programming application, to hone their basic block coding skills. Through the hands-on activities, students apply their learning through the use of programming and critical thinking skills to solve problems in flight simulation, and improve the flight of the parrot drones.
+*   Tier 1: Sec 2 Drones programming (Semester 1)
+<br>The Sec 2 ALP focuses on drones programming. In this programme, All Secondary 2 students are immersed in coding activities using Tynker, a programming application, to hone their basic block coding skills. Through the hands-on activities, students apply their learning through the use of programming and critical thinking skills to solve problems in flight simulation, and improve the flight of programmable drones.
+<br>
 	
-	<br>
+* Tier 2 Sec 2 and Sec 3 Infocomm Club Programmes
+ <br>Selected Sec 2 and Sec 3 students are provided with opportunities to pursue their interest in programming and apply their knowledge and skills in the Infocomm Club programmes.
 	
-*   Tier 2 Sec 2 and Sec 3 Infocomm Club Programmes <br>
-	Selected Sec 2 and Sec 3 EXP/NA students&nbsp;are provided&nbsp;with opportunities&nbsp;to pursue their interest in programming and apply their knowledge and skills in Infocomm Club programmes.
-	
-##### Subjects Offered
+##### Subjects Offered in 2026
 
 | Level / Stream                  | Subject                                  |
 |---------------------------------|------------------------------------------|
-|  Sec 1-2NT                      | Computer Applications (CPA)              |
-|  Sec 3-4NT                      | GCE N-Level Computer Applications (CPA)  |
-|  Sec 3-4NT (Selected Students)  | GCE N-Level Mobile Robotics (MR)         |
-|  Sec 3-4EXP (Selected Students) | GCE O-Level Computing (CP)               |
+|  Sec 3 (G1)                   | Computer Applications (CPA)              |
+|  Sec 3 (G2)                     | GCE N-Level Computer Applications (CPA)  |
+|  Sec 3 (G3) an Sec 4 EXP| GCE N-Level Mobile Robotics (MR)         |
+|  Sec 4NT| GCE O-Level Computing (CP)|
+|  Sec 3 (G1) and Sec 4NT <br>(To be discontinued from 2027)| GCE O-Level Computing (CP)|
 
 ##### MOE / ITE Applied Subjects
 Selected Sec 3 Express and Sec 3 Normal Technical students will have opportunities to pursue their interest and apply their knowledge and skills in MOE or MOE-ITE applied subjects, such as, Computing and Mobile Robotics.
