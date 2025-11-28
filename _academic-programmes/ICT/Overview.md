@@ -23,17 +23,16 @@ variant: markdown
 ##### Key Programmes
 **1. STEM Applied Learning Programme (ALP) in:**
 
-<li>Tier 1: Sec 1  3D Modelling and Printing Programme (Semester 2)
+* Tier 1: Sec 1  3D Modelling and Printing Programme (Semester 2)
 <br>The Sec 1 ALP focuses on 3D modelling and printing. In this programme, all Secondary 1 students are immersed in 3D modelling activities to hone their Science, Technology, Engineering and Mathematics (STEM) skills. Through the use of Tinkercad, a 3D modelling software, students design 3D models which can be used to solve problems in the real world context on the theme of “The Future Of Transportation”.
 <br>
 
-</li><li>Tier 1: Sec 2 Drones programming (Semester 1)
+* Tier 1: Sec 2 Drones programming (Semester 1)
 <br>The Sec 2 ALP focuses on drones programming. In this programme, All Secondary 2 students are immersed in coding activities using Tynker, a programming application, to hone their basic block coding skills. Through the hands-on activities, students apply their learning through the use of programming and critical thinking skills to solve problems in flight simulation, and improve the flight of programmable drones.
 <br>
 	
-</li><li>Tier 2 Sec 2 and Sec 3 Infocomm Club Programmes
+* Tier 2 Sec 2 and Sec 3 Infocomm Club Programmes
  <br>Selected Sec 2 and Sec 3 students are provided with opportunities to pursue their interest in programming and apply their knowledge and skills in the Infocomm Club programmes.
-
 <hr>
 
 ##### Subjects Offered in 2026
@@ -65,4 +64,4 @@ In Computing, students develop and apply computational and inventive thinking sk
 
 * Game Category (Gold Award)
 
-<hr></li>
+<hr>
