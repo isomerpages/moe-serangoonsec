@@ -3,35 +3,23 @@ title: English Drama
 permalink: /student-development/Co-Curricular-Activities/english-drama/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### English Drama
 
-![](/images/Drama001.jpg)
-
-![](/images/Drama002.jpg)
-
-![](/images/Drama003.jpg)
-
-![](/images/Drama004.jpg)
-
-![](/images/Drama005.jpg)
-
-![](/images/Drama006.jpg)
-
-![](/images/Drama007.jpg)
-
-![](/images/Drama008.jpg)
-
-![](/images/Drama009.jpg)
-
-![](/images/Drama010.jpg)
-
-![](/images/Drama011.jpg)
-
-![](/images/Drama012.jpg)
-
-![](/images/Drama013.jpg)
-
-![](/images/Drama014.jpg)
-
-![](/images/Drama015.jpg)
+![](/images/Drama/Slide1.jpg)
+<br>
+![](/images/Drama/Slide2.jpg)
+<br>
+![](/images/Drama/Slide3.jpg)
+<br>
+![](/images/Drama/Slide4.jpg)
+<br>
+![](/images/Drama/Slide5.jpg)
+<br>
+![](/images/Drama/Slide6.jpg)
+<br>
+![](/images/Drama/Slide7.jpg)
+<br>
+![](/images/Drama/Slide8.jpg)
+<hr>
