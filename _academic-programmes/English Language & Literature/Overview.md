@@ -11,8 +11,12 @@ variant: markdown
 
 <table>
   <tbody><tr>
-    <td><b>Head Of Department (HOD)</b></td>
+    <td><b>Head Of Department (HOD EL &amp; Lit)</b></td>
     <td>Mr Vincent Wong</td>
+  </tr>
+<tr>
+    <td><b>Subject Head (English Literature)</b></td>
+    <td>Ms Danna Thein</td>
   </tr>
  <tr>
     <td><b>Teachers</b></td>
@@ -24,11 +28,11 @@ variant: markdown
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Ms Kanchana</td>
+    <td>Mr Dennis Wong</td>
   </tr>
  <tr>
     <td><b></b></td>
-    <td>Mdm Lim Pei Yee</td>
+    <td>Ms Kanchana</td>
   </tr>
  <tr>
     <td><b></b></td>
@@ -36,12 +40,20 @@ variant: markdown
   </tr>
 <tr>
     <td><b></b></td>
-    <td>Ms Siti Nur Sufiana Hashim</td>
+    <td>Mdm Lim Pei Yee</td>
   </tr>
 <tr>
     <td><b></b></td>
-    <td>Mr Shawn Seah</td>
+    <td>Ms Mok Wei Tong</td>
  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Ms Siti Nur Sufiana Hashim</td>
+  </tr>
+ <tr>
+    <td><b></b></td>
+    <td>Mr Shawn Seah</td>
+  </tr>
  <tr>
     <td><b></b></td>
     <td>Ms Timmie Tan</td>
