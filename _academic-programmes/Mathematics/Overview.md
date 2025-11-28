@@ -35,6 +35,8 @@ Every student is passionate about Mathematics
 
 #### Overview of our Mathematics Learning Framework
 
+![](/images/Mathematics/2026/Slide1.jpg)
+
 **Learning Experiences for students**
 
 The department places a strong emphasis on students’ motivation to learn Mathematics. We believe students have diverse learning needs and seek to provide learning experiences for them through three phases of their learning – Readiness, Engagement and Mastery:
@@ -71,16 +73,26 @@ The department places a strong emphasis on students’ motivation to learn Mathe
 
 To deepen students’ motivation to learn Mathematics, students are given opportunities to learn Mathematics through the use of Student Learning Space (SLS) AI tools, SLS gamification features and working on problems in real world contexts.
 
+![](/images/Mathematics/2026/Slide2.jpg)
 Students learning digital literacy and technological skills such as the use of Spreadsheets and Mathematical graphing software.
 
+![](/images/Mathematics/2026/Slide3.jpg)
 Students engaging in self-directed learning through the use of Student Learning Space (SLS) AI tools such as SLS FA-Math and SLS Adaptive Learning System to engage in self-assessment and to develop their metacognition in Mathematics.
 
+![](/images/Mathematics/2026/Slide4.jpg)
 Students applying their communication and reasoning skills by working collaboratively on mathematical exploratory tasks.
 
-Students applying their critical, adaptive and inventive thinking skills to solve Mathematical problems in real-world context. 
+![](/images/Mathematics/2026/Slide5.jpg)
+Students applying their critical, adaptive and inventive thinking skills to solve Mathematical problems in real-world context.
 
+![](/images/Mathematics/2026/Slide6.jpg)
+
+![](/images/Mathematics/2026/Slide7.jpg)
 Learning Mathematics in fun and meaningful ways: Students applying their learning of Mathematical concepts through playing Mathematics game cards designed by their Mathematics teachers.
 
+![](/images/Mathematics/2026/Slide8.jpg)
+
+![](/images/Mathematics/2026/Slide9.jpg)
 Financial Literacy: Students learning about their financial needs at various life stages to develop their financial capabilities to plan for their future.
 
 <hr>
@@ -106,10 +118,15 @@ Students will learn POA through a variety of experiences such as:
 * Learning through videos
 * Competitions
 
+![](/images/Mathematics/2026/Slide10.jpg)
+
+![](/images/Mathematics/2026/Slide11.jpg)
 POA students taking part in the National Financial Literacy Challenge, where they apply their accounting knowledge in authentic real-world financial scenarios.
 
 **Professional Learning for Staff**
 
-We believe in building the capacities and competencies of our Mathematics and POA teachers through regular Professional Learning opportunities in 3 areas – assignments, relationships, courses. 
+We believe in building the capacities and competencies of our Mathematics and POA teachers through regular Professional Learning opportunities in 3 areas – assignments, relationships, courses.
+
+![](/images/Mathematics/2026/Slide12.jpg)
 
 <hr>
