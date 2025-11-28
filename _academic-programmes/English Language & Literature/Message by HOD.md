@@ -21,7 +21,6 @@ At the heart of all we do, we focus on students’ learning needs and preference
 
 With the growing influence of A.I. and how language is increasingly used for impact, our teachers constantly leverage a suite of reliable digital tools to enhance engagement of students. These platforms allow students to explore at their own pace and collaborate with their peers, contributing to deeper and more connected learning experiences. Through these approaches, we create pathways for students to become competent readers, confident communicators, and creative inquirers of English Language and Literature - for life.
 
-
 *Mr Vincent Wong*
 <br>**HOD (English Language and Literature)**
 
