@@ -111,3 +111,11 @@ The English and Literature Department organised a blackout poetry activity at th
 As part of the programme, we also welcomed 40 Primary 6 students from Fernvale Primary School, who joined us during their secondary school tour to experience the vibrant learning environment in our department.
 
 <hr>
+
+### EL Learning Outcomes (Syllabus 2020) for Secondary School Students
+
+
+| Area of Language Learning |  | Learning Outcomes |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
