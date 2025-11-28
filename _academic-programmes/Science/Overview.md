@@ -80,6 +80,17 @@ variant: markdown
 	 <td>Roger Goh</td>
     <td></td>
   </tr>
+<tr>
+    <td></td>
+    <td></td>
+	  <td>Eleanor Tan</td>
+    
+  </tr>
+<tr>
+    <td></td>
+    <td></td>
+  	<td>Darren Tan</td>
+  </tr>
 </tbody></table>
 
 <p><br></p>
