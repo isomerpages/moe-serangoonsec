@@ -7,10 +7,6 @@ variant: markdown
 ---
 ### Character and Citizenship Education
 
-Anchored on the school’s core values of **S**elf-Directedness, **H**armony, **I**ntegrity, Resilie**N**ce and **E**xcellence, Character and Citizenship Education (CCE) in Serangoon Secondary School engages students in the cognitive, behavioural, and affective domains (i.e. knowing, doing, and being).  By facilitating student engagement and voice, and empowering students to derive personal meaning from school activities, we equip our StaRs with the knowledge, skills, values, and social emotional competencies, and develop character and citizenship dispositions that enable them to grow holistically and learn for life, empowering our students to be Resilient Individuals, Passionate Learners, Active Contributors.
-
-<hr>
-
 In Serangoon Secondary School, our Character and Citizenship Education (CCE) program is a deliberate, four-year developmental journey guided by a holistic roadmap.
 
 **Strategic Foundation** 
