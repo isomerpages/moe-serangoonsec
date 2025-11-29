@@ -23,7 +23,7 @@ variant: markdown
 <table>
   <tbody><tr>
     <td><b>HOD Science</b></td>
-    <td>Ms Michelle Ong</td>
+    <td>Mrs Low Sze Gin</td>
   </tr>
  <tr>
     <td><b>SH Chemistry</b></td>
@@ -40,8 +40,8 @@ variant: markdown
     <td><b>Physics</b></td>
   </tr>
  <tr>
-    <td>Kok Chuan Tin (ST/CCE)</td>
-    <td>Yogeswari d/o Selvaraja (ST/Chemistry)</td>
+    <td>Kok Chuan Tin (ST / CCE)</td>
+    <td>Yogeswari d/o Selvaraja (ST / Chemistry)</td>
     <td>Tay Ming Yang (Year Head)</td>
   </tr>
 <tr>
