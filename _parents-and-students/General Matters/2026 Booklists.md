@@ -17,7 +17,7 @@ third_nav_title: General Matters
 
 ##### Secondary 3
 
-[Secondary 3 Booklist](/files/Booklists/Booklists%202026/Serangoon_Secondary_2026____Sec_3_revised_5_Nov_2025.pdf)
+[Secondary 3 Booklist](/files/Booklists/Booklists%202026/Serangoon_Secondary_2026____Sec_3_revised_28_11.pdf)
 
 ##### Secondary 4
 
