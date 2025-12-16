@@ -20,3 +20,4 @@ To effectively cater to the diverse needs of our student profiles, we implement 
 <br>•	Interest-based activities such as sports, arts and crafts and cooking.
 
 These varied activities strengthen our students’ personal and socio-emotional learning (SEL) competencies as they learn to collaborate with one other. The programme also strives to help our students develop self-awareness as they discover personal strengths and interests.
+
