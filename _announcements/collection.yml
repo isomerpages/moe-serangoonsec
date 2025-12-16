@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/2025 GCE N Level Results Release.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/2025 GCE N Level Results Release.md
       - Announcements/School Canteen Advertisement.md
       - Announcements/School Open House 2025.md
       - Announcements/Sales of Books and Uniforms 2026.md
