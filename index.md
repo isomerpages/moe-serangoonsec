@@ -39,8 +39,7 @@ sections:
         December 2025, Thursday.
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/
-      image: /images/Announcements/2024 'N' Level Results
-        Release/2024_N_level_Social_Media_Stories___For_Sch_Website.gif
+      image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
       title: 2024 GCE O-Level Results Release
