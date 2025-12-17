@@ -7,7 +7,7 @@ third_nav_title: Announcements
 ---
 ### SSS Secondary 1 Registration 2025
 
-![](/images/Announcements/Sec_1_Registration_2024.jpg)
+![](/images/Announcements/2025_Sec_1_Reg_Banner.jpg)
 
 Please refer to the [microsite](https://go.gov.sg/sss-s1reg2025)  or scan the QR code (above, in poster) for more details.
 
