@@ -32,6 +32,16 @@ sections:
       image: /images/Announcements/2025_SSS_e_banner.jpg
       alt: Image alt text
   - infopic:
+      title: 2025 GCE N(A) & N(T) Level Examination Results
+      subtitle: Announcements
+      id: infopic
+      description: The N(A) & N(T) Level examination results will be released on 18
+        December 2025, Thursday.
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/
+      image: /images/Announcements/n_level_results_2023.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 GCE O-Level Results Release
       subtitle: Announcements
       id: infopic
@@ -39,16 +49,6 @@ sections:
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/
       image: /images/Announcements/n_level_results_2023.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 GCE N-Level Results
-      subtitle: Announcements
-      id: infopic
-      description: The N-level results will be released on 16 December 2024, Monday.
-      button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-nlevel-results/
-      image: /images/Announcements/2024 'N' Level Results
-        Release/2024_N_level_Social_Media_Stories___For_Sch_Website.gif
       alt: Image alt text
   - infopic:
       title: Celebrating 95 Years of Enduring Legacy
