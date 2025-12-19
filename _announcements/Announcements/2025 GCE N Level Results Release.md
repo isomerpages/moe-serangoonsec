@@ -18,7 +18,7 @@ Thank you.
 
 ### VP Marc's Address to Graduating Students Receiving Their 2025 N Level Results
 
-
+![](/images/Announcements/vp_marc_address_n_level_grad_2025.jpg)
 
 Good morning students, teachers, and parents
 
