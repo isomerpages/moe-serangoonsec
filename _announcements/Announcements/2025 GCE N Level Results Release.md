@@ -14,6 +14,8 @@ The N-level results will be released on 18 December 2025, Thursday. Students are
 
 Thank you.
 
+Click [here](/files/Announcements/2025_N_Level_Briefing_Slides_Students.pdf) for the N-Level Results Briefing slides.
+
 <hr>
 
 ### VP Marc's Address to Graduating Students Receiving Their 2025 N Level Results
