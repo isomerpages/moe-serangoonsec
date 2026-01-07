@@ -52,9 +52,8 @@ variant: markdown
 | 1SD4 | Mr Imran Hussain<br>Mr Chen Xinghui<br>Mdm Lim Pei Yee |
 | 1SD5 | Mr Lim Tong Yang<br>Ms Amala<br>Ms Kalarani |
 | 1SD6 | Ms Teo Lay Peng Lynn<br>Ms Kanchana |
-| 1SD7 | Ms Dasimah<br>Mr Aaron Chew<br>Mr Wilson Lai (FAJT)|
-| 1SD8 | Ms Chew Liting<br>Mr Goh Ling Pin<br>Mr Khiarul Azri Bin Uthli|
-| 1SD9 | Mr Tan Kian Chong<br>Ms Charlene Lim<br> Mr Bala (FAJT)|
+| 1SD7 | Ms Lim Qiao Chun Caelyn<br>Ms Wang Yanhua<br>Mdm You Chang Ying |
+| 1SD8 | Ms Yogeswari d/o Selvaraja<br>Mr Wang Xiao Long<br>Ms Caritas Lee |
 
 ##### Secondary 2
 
