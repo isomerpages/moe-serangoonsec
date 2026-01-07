@@ -94,8 +94,8 @@ variant: markdown
 | 4N5 | Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene |
 | 4N6 | Ms Candice Lim<br>Mr Daniel Fung<br>Ms Nurazlina Bte Samadi (FAJT)|
 | 4N7 | Mdm Nur Ashirah Binti Nordali<br>Mr Jarrod Lim |
-| 4N8 | Ms Ivy Phong<br>Mdm You Chang Ying |
-| 5E1 |Ms Kimberley Kuan |
+| 4N8 | Ms Ivy Phong<br>Mr Ng Zi Xuan |
+| 5E1 |Mr Jeff Mak<br>Mdm Kamaliah Binte Othman |
 
 ### Allied Educators 2025
 
