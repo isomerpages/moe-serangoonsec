@@ -97,7 +97,7 @@ variant: markdown
 | 4N8 | Ms Ivy Phong<br>Mr Ng Zi Xuan |
 | 5E1 |Mr Jeff Mak<br>Mdm Kamaliah Binte Othman |
 
-### Allied Educators 2025
+### Allied Educators 2026
 
 | Name | Designation |
 |---|---|
