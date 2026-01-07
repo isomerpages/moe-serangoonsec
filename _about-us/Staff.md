@@ -19,13 +19,13 @@ variant: markdown
 | Mr Adrial Tan | HOD / ICT |
 | Mrs Low Sze Gin | HOD / Science |
 | Mrs Lim Pei Lin | HOD / Data Management |
-| Mdm Lum Cindy | Year Head |
 | Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
 | Mr Tay Ming Yang | Year Head |
 | Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
 | Ms Danna Thein | SH / Literature |
 | Ms Guo Kaiqi Jenny | SH / Chinese Language |
+| Mr Imran Hussain Shah | SH / History |
 | Mr Dennis Kwek | SH / Mathematics |
 | Ms Fu Shin Hui | SH / Chemistry |
 | Ms Teo Lay Peng Lynn | SH / Art &amp; Aesthetics |
@@ -40,7 +40,7 @@ variant: markdown
 | Ms Sharon Tan Kai Ling | SH / Student Well-Being |
 | Ms Tan Xiaolin | SH / Special Educational Needs |
 
-### Classes and Form Teachers 2025
+### Classes and Form Teachers 2026
 
 ##### Secondary 1
 
