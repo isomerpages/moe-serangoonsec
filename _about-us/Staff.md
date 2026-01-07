@@ -87,10 +87,10 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 4N1 | Ms Teo Lay Peng Lynn<br>Mr Suratman Bin Masohan |
-| 4N2 | Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari<br>Ms Tang Li Hua (FAJT) |
-| 4N3 | Ms Gloria Lim<br>Mr Muhammad Nasri<br>Ms Nurazlina Bte Samadi (FAJT) |
-| 4N4 | Mr Jeff Mak<br>Ms Amala |
+| 4N1 | Mr Muzzaffar<br>Ms Alice Yong |
+| 4N2 | Mr Dennis Kwek<br>Mr Yan Tuck Poh<br>Ms Noorhudah Binte Abd Wahid |
+| 4N3 | Mr Hidayat<br>Ms Timmie Tan |
+| 4N4 | Mr Adrian Tay<br>Ms Aiswarya D/O Manickavasagam |
 | 4N5 | Ms Kok Chuan Tin<br>Ms Siti Nur Sufiana |
 | 4N6 | Mdm Ng Siew Kheng<br>Mr Lim Tong Yang<br>Ms Yeo Soek Joo (FAJT)|
 | 4N7 | Ms Kanchana<br>Ms Fu Shin Hui<br>Mr Heng Tze Wei (FAJT) |
