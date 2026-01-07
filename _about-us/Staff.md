@@ -73,10 +73,10 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 3I1 |Mr Muzzaffar<br>Ms Alice Yong<br>Mr Dennis Wong|
-| 3I2 |Mr Yan Tuck Poh<br>Ms Noorhudah |
-| 3I3 |Mr Hidayat<br>Ms Timmie Tan |
-| 3I4 |Mr Adrian Tay<br>Ms Joey Chong<br>Mr David Tan<br>Ms Dina Lee (FAJT) |
+| 3I1 |Ms Bel Quek<br>Ms Siti Nur Sufiana Binte Hashim<br>Ms Lee Su Huang (FAJT) |
+| 3I2 |Ms Shabana<br>Mr Sin Kah Fai |
+| 3I3 |Ms Peh Su Fang<br>Mr Suratman Bin Masohan |
+| 3I4 |Ms Fu Shin Hui<br>Mr Darren Tan<br>Mr Heng Tze Wei (FAJT) |
 | 3I5 |Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene<br>Mr Dennis Kwek<br>Ms Tasneem |
 | 3I6 |Ms Candice Lim<br>Mr Daniel Fung |
 | 3I7 |Mdm Nur Ashirah<br>Mr Jarrod Lim |
