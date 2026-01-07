@@ -91,10 +91,10 @@ variant: markdown
 | 4N2 | Mr Dennis Kwek<br>Mr Yan Tuck Poh<br>Ms Noorhudah Binte Abd Wahid |
 | 4N3 | Mr Hidayat<br>Ms Timmie Tan |
 | 4N4 | Mr Adrian Tay<br>Ms Aiswarya D/O Manickavasagam |
-| 4N5 | Ms Kok Chuan Tin<br>Ms Siti Nur Sufiana |
-| 4N6 | Mdm Ng Siew Kheng<br>Mr Lim Tong Yang<br>Ms Yeo Soek Joo (FAJT)|
-| 4N7 | Ms Kanchana<br>Ms Fu Shin Hui<br>Mr Heng Tze Wei (FAJT) |
-| 4N8 | Mr Muhammad Hamzah<br>Mdm You Chang Ying |
+| 4N5 | Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene |
+| 4N6 | Ms Candice Lim<br>Mr Daniel Fung<br>Ms Nurazlina Bte Samadi (FAJT)|
+| 4N7 | Mdm Nur Ashirah Binti Nordali<br>Mr Jarrod Lim |
+| 4N8 | Ms Ivy Phong<br>Mdm You Chang Ying |
 | 5E1 |Ms Kimberley Kuan |
 
 ### Allied Educators 2025
