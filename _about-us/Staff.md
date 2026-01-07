@@ -77,10 +77,11 @@ variant: markdown
 | 3I2 |Ms Shabana<br>Mr Sin Kah Fai |
 | 3I3 |Ms Peh Su Fang<br>Mr Suratman Bin Masohan |
 | 3I4 |Ms Fu Shin Hui<br>Mr Darren Tan<br>Mr Heng Tze Wei (FAJT) |
-| 3I5 |Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene<br>Mr Dennis Kwek<br>Ms Tasneem |
-| 3I6 |Ms Candice Lim<br>Mr Daniel Fung |
-| 3I7 |Mdm Nur Ashirah<br>Mr Jarrod Lim |
-| 3I8 |Ms Ivy Phong<br>Mr Ng Zi Xuan |
+| 3I5 |Ms Ng Xuemin<br>Mr Muhd Lotfi Bin Murad |
+| 3I6 |Ms Sharon Tan<br>Ms Sherrie Ng |
+| 3I7 |Ms Jenny Guo<br>Mdm Ng Siew Kheng |
+| 3I8 |Ms Ang Chian Huey<br>Mr Dennis Wong Wei Meng |
+| 3I9 |Ms Teo Zhi Hui Geraldine<br>Mr Roger Goh Chye Boon |
 
 ##### Secondary 4 &amp; 5
 
