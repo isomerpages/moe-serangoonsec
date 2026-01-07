@@ -46,12 +46,12 @@ variant: markdown
 
 | Class | Form Teachers |
 |---|---|
-| 1SD1 | Ms Mok Wei Tong<br>Ms Danna Thein<br>Ms Ong Guat Eng (FAJT) |
-| 1SD2 | Ms Jacklyn Lee<br>Ms Samantha Tan Xinyi<br>Ms Joanne Liu (FAJT) |
-| 1SD3 | Mdm Tengku Norita<br>Mr Ong Chee Meng |
-| 1SD4 | Mr Shawn Seah Wei Xun<br>Mr Danapal Kumar<br>Mdm Kamaliah Binte Othman|
-| 1SD5 | Ms Tan Xiaolin<br>Ms Eleanor Cheong |
-| 1SD6 | Mr Yee Liang Chien Matt<br>Ms Lio Dan Wei<br>Ms Sarah Grace Lim |
+| 1SD1 | Ms Kimberley Kuan<br>Mr Muhammad Nasri |
+| 1SD2 | Ms Kok Chuan Tin<br>Ms Samantha Tan Xinyi |
+| 1SD3 | Ms Raudah<br>Ms Sarah Grace Lim Qin Hui |
+| 1SD4 | Mr Imran Hussain<br>Mr Chen Xinghui<br>Mdm Lim Pei Yee |
+| 1SD5 | Mr Lim Tong Yang<br>Ms Amala<br>Ms Kalarani |
+| 1SD6 | Ms Teo Lay Peng Lynn<br>Ms Kanchana |
 | 1SD7 | Ms Dasimah<br>Mr Aaron Chew<br>Mr Wilson Lai (FAJT)|
 | 1SD8 | Ms Chew Liting<br>Mr Goh Ling Pin<br>Mr Khiarul Azri Bin Uthli|
 | 1SD9 | Mr Tan Kian Chong<br>Ms Charlene Lim<br> Mr Bala (FAJT)|
