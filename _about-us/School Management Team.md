@@ -37,8 +37,8 @@ variant: markdown
 | -------- | -------- | -------- |
 |![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/Tay_Hwee_Kwang_Alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
 |![](/images/School%20Management%20Team/Ho_Sze_Gin.jpg)|![](/images/School%20Management%20Team/Lim_Pei_Lin.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|
-|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Lum%20Cindy.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 #### Subject Heads / Assistant Year Heads
 
