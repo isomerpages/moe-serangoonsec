@@ -22,6 +22,16 @@ sections:
           url: /useful-links/
       background: /images/20230302_100639.jpg
   - infopic:
+      title: 2025 GCE O-Level Examination Results Release
+      subtitle: Announcements
+      id: infopic
+      description: The O-level Examination results will be released on 14 January
+        2026, Wednesday.
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-o-level-results-release/
+      image: /images/Announcements/n_level_results_2023.jpg
+      alt: Image alt text
+  - infopic:
       title: SSS Secondary 1 Registration 2025
       subtitle: School event
       id: infopic
@@ -38,16 +48,6 @@ sections:
         2025, Thursday.
       button: Click here to read more
       url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-nlevel-results/
-      image: /images/Announcements/n_level_results_2023.jpg
-      alt: Image alt text
-  - infopic:
-      title: 2024 GCE O-Level Examination Results Release
-      subtitle: Announcements
-      id: infopic
-      description: The O-level Examination results will be released on 10 January
-        2025, Friday.
-      button: Click here to read more
-      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2024-gce-o-level-results-release/
       image: /images/Announcements/n_level_results_2023.jpg
       alt: Image alt text
   - infopic:
