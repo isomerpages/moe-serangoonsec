@@ -20,7 +20,8 @@ variant: markdown
 | Mrs Low Sze Gin | HOD / Science |
 | Mrs Lim Pei Lin | HOD / Data Management |
 | Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
-| Mr Tay Ming Yang | Year Head |
+| Mr Ng Wee Nghee | Year Head / Lower Sec |
+| Mr Tay Ming Yang | Year Head / Upper Sec |
 | Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
 | Ms Ng He Li | HOD / Student Management |
 | Ms Danna Thein | SH / Literature |
