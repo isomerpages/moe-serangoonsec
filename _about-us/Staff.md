@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Staff
 
-### Middle Managers 2025
+### Middle Managers 2026
 
 | Name  | Designation |
 |---|---|
@@ -77,26 +77,27 @@ variant: markdown
 | 3I2 |Ms Shabana<br>Mr Sin Kah Fai |
 | 3I3 |Ms Peh Su Fang<br>Mr Suratman Bin Masohan |
 | 3I4 |Ms Fu Shin Hui<br>Mr Darren Tan<br>Mr Heng Tze Wei (FAJT) |
-| 3I5 |Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene<br>Mr Dennis Kwek<br>Ms Tasneem |
-| 3I6 |Ms Candice Lim<br>Mr Daniel Fung |
-| 3I7 |Mdm Nur Ashirah<br>Mr Jarrod Lim |
-| 3I8 |Ms Ivy Phong<br>Mr Ng Zi Xuan |
+| 3I5 |Ms Ng Xuemin<br>Mr Muhd Lotfi Bin Murad |
+| 3I6 |Ms Sharon Tan<br>Ms Sherrie Ng |
+| 3I7 |Ms Jenny Guo<br>Mdm Ng Siew Kheng |
+| 3I8 |Ms Ang Chian Huey<br>Mr Dennis Wong Wei Meng |
+| 3I9 |Ms Teo Zhi Hui Geraldine<br>Mr Roger Goh Chye Boon |
 
 ##### Secondary 4 &amp; 5
 
 | Class | Form Teachers |
 |---|---|
-| 4N1 | Ms Teo Lay Peng Lynn<br>Mr Suratman Bin Masohan |
-| 4N2 | Mr Muhd Lotfi Bin Murad<br>Ms Yogeswari<br>Ms Tang Li Hua (FAJT) |
-| 4N3 | Ms Gloria Lim<br>Mr Muhammad Nasri<br>Ms Nurazlina Bte Samadi (FAJT) |
-| 4N4 | Mr Jeff Mak<br>Ms Amala |
-| 4N5 | Ms Kok Chuan Tin<br>Ms Siti Nur Sufiana |
-| 4N6 | Mdm Ng Siew Kheng<br>Mr Lim Tong Yang<br>Ms Yeo Soek Joo (FAJT)|
-| 4N7 | Ms Kanchana<br>Ms Fu Shin Hui<br>Mr Heng Tze Wei (FAJT) |
-| 4N8 | Mr Muhammad Hamzah<br>Mdm You Chang Ying |
-| 5E1 |Ms Kimberley Kuan |
+| 4N1 | Mr Muzzaffar<br>Ms Alice Yong |
+| 4N2 | Mr Dennis Kwek<br>Mr Yan Tuck Poh<br>Ms Noorhudah Binte Abd Wahid |
+| 4N3 | Mr Hidayat<br>Ms Timmie Tan |
+| 4N4 | Mr Adrian Tay<br>Ms Aiswarya D/O Manickavasagam |
+| 4N5 | Mdm Hasrita Hosnin<br>Mr Khoo Xuan Wei Eugene |
+| 4N6 | Ms Candice Lim<br>Mr Daniel Fung<br>Ms Nurazlina Bte Samadi (FAJT)|
+| 4N7 | Mdm Nur Ashirah Binti Nordali<br>Mr Jarrod Lim |
+| 4N8 | Ms Ivy Phong<br>Mr Ng Zi Xuan |
+| 5E1 |Mr Jeff Mak<br>Mdm Kamaliah Binte Othman |
 
-### Allied Educators 2025
+### Allied Educators 2026
 
 | Name | Designation |
 |---|---|
