@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Lower Sec
 ---
-### Secondary 1 Parent Engagement Session and CCA Orientation 2025
+### Secondary 1 Parent Engagement Session and CCA Orientation 2026
 
 Dear Parents and Guardians of 2025 Secondary 1 cohort,
 
