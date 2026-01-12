@@ -27,5 +27,3 @@ We would also like to extend our heartfelt appreciation to our teachers and pare
 To support our students as they take their next steps, materials and resources for the Joint Admissions Exercise (JAE) application have been provided below. Students and parents are encouraged to review these materials carefully and seek guidance from teachers if needed, so that informed and confident choices can be made.
 
 Once again, congratulations to our graduating cohort. We wish every student the very best as you embark on the next chapter of your educational journey.
-
-
