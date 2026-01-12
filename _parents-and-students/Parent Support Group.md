@@ -6,6 +6,28 @@ variant: markdown
 ---
 ## Parent Support Group (PSG)
 
+### Join Our Parent Support Group!
+
+Dear parents,  
+
+We warmly invite all parents to be part of our Parent Support Group (PSG). This is a wonderful opportunity to connect with other parents, support school programmes, and work together to enrich our students’ learning experiences.
+
+[Sign up today](https://www.serangoonsec.moe.edu.sg/parents-and-students/psg/) and be part of our school community’s journey in nurturing every child. 
+
+[https://www.serangoonsec.moe.edu.sg/parents-and-students/psg/](https://www.serangoonsec.moe.edu.sg/parents-and-students/psg/)
+
+<img src="/images/Announcements/join_psg.png" style="width:223px;height:240px;margin-right:15px;" align="left">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+
 #### 2025 Parent Workshop: Navigating the Teen Years
 
 On 16 August, the PSG Committee partnered with the Centre for Fathering to conduct the *Navigating the Teen Years* workshop for Sec 1 parents. The session was well-received, and parents gained practical and actionable tips on supporting and managing their teenagers at home.
