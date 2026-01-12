@@ -18,16 +18,18 @@ https://www.serangoonsec.moe.edu.sg/parents-and-students/psg/
 
 <img src="/images/Announcements/join_psg.png" style="width:223px;height:240px;margin-right:15px;" align="left">
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 #### 2025 Parent Workshop: Navigating the Teen Years
 
