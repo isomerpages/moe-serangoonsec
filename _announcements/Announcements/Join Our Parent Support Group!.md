@@ -15,4 +15,6 @@ We warmly invite all parents to be part of our Parent Support Group (PSG). This 
 
 https://www.serangoonsec.moe.edu.sg/parents-and-students/psg/
 
+![](/images/Announcements/join_psg.png)
+
 <hr>
