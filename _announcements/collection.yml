@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Announcements/Join Our Parent Support Group!.md
       - Announcements/.keep
       - Announcements/Event List.md
+      - Announcements/Join Our Parent Support Group!.md
       - Announcements/2025 GCE O Level Results Release.md
       - Announcements/SSS Secondary 1 Registration 2025.md
       - Announcements/2025 GCE N Level Results Release.md
