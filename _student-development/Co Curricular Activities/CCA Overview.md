@@ -3,6 +3,7 @@ title: CCA Overview
 permalink: /student-development/cca/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Co-Curricular Activities
 
@@ -10,7 +11,9 @@ Co-Curricular Activities (CCAs) provide an important platform in developing stud
 
 CCAs enrich students' school experience immensely. Through sustained participation, they develop passion, leadership, teamwork, friendship, and a sense of belonging. The values and social-emotional competencies cultivated through active participation in CCAs are important in overcoming future challenges. This is the reason why we provide a good range of CCAs to cater to the diverse needs of pupils.
 
-Click [here](https://serangoonsec-moe-edu-sg-admin.cwp.sg/qql/slot/u179/Parents%20&%20Students/LEAPS%202.0/LEAPS_2.0_Public_Version.pdf) for more information on MOE's LEAPS 2.0 Framework for the Co-Curriculum.
+Click [here](/files/Parents%20and%20Students/Co%20Curricular%20Activities/LEAPS_2_0__Public_Version_.pdf) for more information on MOE's LEAPS 2.0 Framework for the Co-Curriculum.
+
+
 
 To date, we provide 17 CCAs to unleash the potential in our pupils. These CCAs are categorised as follows:
 
