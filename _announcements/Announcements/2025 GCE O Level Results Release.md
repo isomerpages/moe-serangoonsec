@@ -17,3 +17,20 @@ The O-level results will be released on 14 Jan 2026. Students are to report to t
 Thank you.
 
 <hr>
+
+To our graduating cohort, we commend you for the perseverance, resilience and dedication you have shown over the years. Your efforts, both seen and unseen, have brought you to this important milestone.
+
+Regardless of individual outcomes, we are proud of the growth you have achieved and the character you have demonstrated.
+
+We would also like to extend our heartfelt appreciation to our teachers and parents for your steadfast support, guidance and encouragement throughout our students’ learning journey.
+
+To support our students as they take their next steps, materials and resources for the Joint Admissions Exercise (JAE) application have been provided below. Students and parents are encouraged to review these materials carefully and seek guidance from teachers if needed, so that informed and confident choices can be made.
+
+Once again, congratulations to our graduating cohort. We wish every student the very best as you embark on the next chapter of your educational journey.
+
+[2025 O-Level Briefing Slides for Students](/files/Announcements/2025_O_Level_Briefing_Slides_for_Students.pdf)
+
+[5) 2026 JAE Information Sheet](/files/Announcements/5__2026_JAE_Information_Sheet.pdf)
+  
+Thanks all for the support. 
+<hr>
