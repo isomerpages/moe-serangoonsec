@@ -26,7 +26,7 @@ variant: markdown
 <table>
     <tbody><tr>
         <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-        <td><img alt="SSD" src="/images/School%20Management%20Team/christopher_tan_swan_kiat.jpg"></td>
+        <td><img alt="SSD" src="/images/School%20Management%20Team/john_chris_tan.jpg"></td>
         <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
     </tr>
 </tbody></table>
