@@ -21,7 +21,7 @@ In conclusion, investing in the professional development and well-being of our s
 
 Thank you for your partnership as we work together to create a vibrant and successful learning community who Seek to grow, Strive to excel and Serve with honour.
 
-*Mr Christopher Tan*
+*Mr John Chris Tan*
 <br>**School Staff Developer**
 
 <hr>
