@@ -10,7 +10,7 @@ variant: markdown
 
 | Name  | Designation |
 |---|---|
-| Mr Christopher Tan | School Staff Developer |
+| Mr John Chris Tan | School Staff Developer |
 | Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
 | Mr Vincent Wong | HOD / English Language &amp; Literature |
 | Ms Sabrina Teo | HOD / Humanities |
