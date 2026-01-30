@@ -37,18 +37,18 @@ variant: markdown
 | -------- | -------- | -------- |
 |![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/Tay_Hwee_Kwang_Alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
 |![](/images/School%20Management%20Team/Ho_Sze_Gin.jpg)|![](/images/School%20Management%20Team/Lim_Pei_Lin.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|
-|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Ng_Wee_Nghee.jpg)|
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Management%20Team/Danna_Thein.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|
+|![](/images/School%20Management%20Team/Danna_Thein.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/Imran_Hussain_Shah.jpg)|
 | -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Teo_Lay_Peng_Lynn.jpg)|![](/images/School%20Management%20Team/Lim_Tong_Yang.jpg)|![](/images/School%20Management%20Team/Chew_Li_Ting.jpg)|
-|![](/images/School%20Management%20Team/Dennis_Kwek.jpg)|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|
-|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|![](/images/School%20Management%20Team/kamal_jupri.jpg)|![](/images/School%20Management%20Team/Tan_Kai_Ling_Sharon.jpg)|
-|![](/images/School%20Management%20Team/Tan_Xiaolin.jpg)|![](/images/School%20Management%20Team/Liao_Yongzhi.jpg)|![](/images/School%20Management%20Team/Aaron_Chew.jpg)|
-
+|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/Teo_Lay_Peng_Lynn.jpg)|![](/images/School%20Management%20Team/Lim_Tong_Yang.jpg)|
+|![](/images/School%20Management%20Team/Chew_Li_Ting.jpg)|![](/images/School%20Management%20Team/Dennis_Kwek.jpg)|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|
+|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|![](/images/School%20Management%20Team/kamal_jupri.jpg)|
+|![](/images/School%20Management%20Team/Tan_Kai_Ling_Sharon.jpg)|![](/images/School%20Management%20Team/Tan_Xiaolin.jpg)|![](/images/School%20Management%20Team/Liao_Yongzhi.jpg)|
+|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Aaron_Chew.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
 
 #### Teacher Leaders Council
 
