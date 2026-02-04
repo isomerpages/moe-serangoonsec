@@ -59,5 +59,5 @@ a.	Science
 
 | Topics/Lessons | Programme Learning Objectives | Time Period <br>(e.g. Term 3 Week 9)|
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+| Mass Talk delivered through a pre-recorded video | •	Raise awareness and provide knowledge on:<br><br>a)	Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact<br><br>b)	Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)<br><br>c)	Managing relationships and risky situations in a healthy way, including avenues for help-seeking.| Term 3 Week 5 |
+| Classroom-based Lesson | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making| Term 3 Week 6 |
