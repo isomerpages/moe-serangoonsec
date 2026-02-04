@@ -11,13 +11,13 @@ variant: markdown
 
 SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
-**2]** The Goals of Sexuality Education are to:
+**2]** The **Goals** of Sexuality Education are to:
 
 (a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
 <br><br>(b)	Guide students to make wise, informed and responsible decisions on sexuality matters. 
 <br><br>(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
-**3]** The Key Messages of Sexuality Education are:
+**3]** The **Key Messages** of Sexuality Education are:
 
 (a)	Love and respect yourself as you love and respect others;
 <br><br>(b)	Build positive relationships based on love and respect (which are the foundation for strong families);
@@ -49,11 +49,12 @@ The need for peer acceptance can be overwhelmingly strong and hinder one’s abi
 
 **At Serangoon Secondary School, the following Sexuality Education lessons will be taught in 2026:**
 
-* Click here for Secondary 1
-* Click here for Secondary 2
-* Click here for Secondary 3
-* Click here for Secondary 4
-* Click here for Secondary 5
+* Click [here](/files/Sexuality%20Education/2026/Sec_1_Sexuality_Education_2026.pdf) for Secondary 1
+* Click [here](/files/Sexuality%20Education/2026/Sec_2_Sexuality_Education_2026.pdf) for Secondary 2
+* Click [here](/files/Sexuality%20Education/2026/Sec_3_Sexuality_Education_2026.pdf) for Secondary 3
+* Click [here](/files/Sexuality%20Education/2026/Sec_4_Sexuality_Education_2026.pdf) for Secondary 4
+* Click [here](/files/Sexuality%20Education/2026/Sec_5_Sexuality_Education_2026.pdf) for Secondary 5
+
 
 <hr>
 
@@ -78,10 +79,10 @@ The desired outcome of the eTeens programme is that students are empowered to ma
 
 **10]**	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-**11]** Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is available here (please upload parents opt-out form Annex A) or via this link digitally (Pls insert hyperlink: https://form.gov.sg/698180be6edd8f4fe2a2debe). The completed form is to be submitted by 07/03/2026.
+**11]** Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is available [here](/files/Sexuality%20Education/2026/Annex_A.pdf) or via this [link digitally](https://form.gov.sg/698180be6edd8f4fe2a2debe). The completed form is to be submitted by 07/03/2026.
 
-**12**] Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is available here (please upload parents opt-out form Annex B) or via this link digitally (Pls insert hyperlink: https://form.gov.sg/6981844fdc162cf07997ba4b). The completed form is to be submitted by 07/03/2026.
+**12**] Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is available [here](/files/Sexuality%20Education/2026/Annex_B.pdf) or via this [link digitally](https://form.gov.sg/6981844fdc162cf07997ba4b). The completed form is to be submitted by 07/03/2026.
 
-13] Parents can contact the school at Serangoon_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme. 
+13] Parents can contact the school at serangoon_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme. 
 
 <hr>
