@@ -82,9 +82,9 @@ The desired outcome of the eTeens programme is that students are empowered to ma
         <td>•	Raise awareness and provide knowledge on:
 <br><br>a)	Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact
 
-b)	Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)
+<br>b)	Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)
 
-c)	Managing relationships and risky situations in a healthy way, including avenues for help-seeking.
+<br>c)	Managing relationships and risky situations in a healthy way, including avenues for help-seeking.
 </td>
 			<td>Term 3 Week 5</td>
 		</tr>
