@@ -26,6 +26,8 @@ SEd is premised on the importance of the family as the basic unit of society. Th
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
+<hr>
+
 **OVERVIEW OF SERANGOON SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026**
 
 **4]** Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
@@ -34,6 +36,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 a.	Science 
 <br>b.	Character and Citizenship Education (CCE)
+
+<hr>
 
 **Sexuality Education Lessons:**
 
@@ -51,6 +55,8 @@ The need for peer acceptance can be overwhelmingly strong and hinder one’s abi
 * Click here for Secondary 4
 * Click here for Secondary 5
 
+<hr>
+
 **eTeens Programme:**
 
 **8]** eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. 
@@ -60,10 +66,22 @@ The desired outcome of the eTeens programme is that students are empowered to ma
 **9]** Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
 
 **At Serangoon Secondary School, the eTeens programme will be implemented as follows in 2026:**
-
-
+<hr>
 
 | Topics/Lessons | Programme Learning Objectives | Time Period <br>(e.g. Term 3 Week 9)|
 | -------- | -------- | -------- |
 | Mass Talk delivered through a pre-recorded video | •	Raise awareness and provide knowledge on:<br><br>a)	Sexually transmitted infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use), consequences and impact<br><br>b)	Skills for respecting boundaries (e.g. decision-making, assertiveness, negotiation to say ‘no’ to peer pressure)<br><br>c)	Managing relationships and risky situations in a healthy way, including avenues for help-seeking.| Term 3 Week 5 |
 | Classroom-based Lesson | • Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making| Term 3 Week 6 |
+<hr>
+
+**INFORMATION FOR PARENTS**
+
+**10]**	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+**11]** Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is available here (please upload parents opt-out form Annex A) or via this link digitally (Pls insert hyperlink: https://form.gov.sg/698180be6edd8f4fe2a2debe). The completed form is to be submitted by 07/03/2026.
+
+**12**] Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is available here (please upload parents opt-out form Annex B) or via this link digitally (Pls insert hyperlink: https://form.gov.sg/6981844fdc162cf07997ba4b). The completed form is to be submitted by 07/03/2026.
+
+13] Parents can contact the school at Serangoon_ss@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme. 
+
+<hr>
