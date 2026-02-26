@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Announcements/Travel Declaration for 2026 March Holidays.md
       - Announcements/.keep
       - Announcements/Event List.md
       - Announcements/Join Our Parent Support Group!.md
