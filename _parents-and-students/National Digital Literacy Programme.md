@@ -88,4 +88,8 @@ Students will now be able to perform a password reset on their own with the **St
 
 Click [here](/files/National%20Digital%20Literacy%20Prog/Posters_MIMS_SSPR_Guide.pdf) to view the guide.
 
+##### 9. Student Device Information Kit 2026
+
+Click [here](/files/Parents%20and%20Students/NDLP/DR4c___Student_Device_Information_Kit_2026__Lenovo_Devices_AsiaPac_.pdf) to find out more about the Chromebook Persona Learning Device (PLD).
+
 <hr>
