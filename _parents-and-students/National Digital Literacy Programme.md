@@ -78,7 +78,7 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 | | Default | Option A | Option B
 | -------- | -------- | -------- | -------- |
 | School Hours | NA | NA | NA |
-| After-School Hours | 0600 - 2300 | Whole Day | Whole Day |
+| After-School Hours | 0600 - 2229 | Whole Day | Whole Day |
 | Sleep Hours | 0000 - 0600 | Parent-controlled | NA |
 |  | 2230 - 2359 |  |  |
 
