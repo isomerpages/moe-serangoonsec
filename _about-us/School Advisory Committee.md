@@ -19,3 +19,7 @@ variant: markdown
 | Committee Member | <img src="/images/School%20Advisory%20Committee/Ms%20Gladys%20Wong.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Ms Wong Hooi Chuan Gladys  |
 | Committee Member | <img src="/images/School%20Advisory%20Committee/Mr_Chua_Kwan_Ping.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Mr Chua Kwan Ping  |
 | Committee Member | <img src="/images/School%20Advisory%20Committee/Dr_Tan_Lay_Pheng.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Dr Tan Lay Pheng  |
+| SAC Secretariat | <img src="/images/School%20Management%20Team/mahadevan%20jaya.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Mahadevan Jaya  |
+| SAC Secretariat | <img src="/images/School%20Management%20Team/susan%20lim%20gim%20peng.jpg" style="width:25%;  border:0.5px solid Gainsboro; padding: 5px"> Susan Lim Gim Peng  |
+
+<hr>
