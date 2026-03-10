@@ -62,7 +62,7 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 
 **NOTE:**&nbsp;DMA Options requests will only be processed on the first working day of the month.
 
-##### 7. DMA Hours 2025
+##### 7. DMA Hours 2026
 
 ##### **Weekdays**
 
@@ -70,7 +70,7 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 | -------- | -------- | -------- | -------- |
 | School Hours | 0700 - 1559 |  |  |
 | After-School Hours | 0600 - 0659 |  |  |
-|      | 1600 - 2259 |   |  |
+|      | 1600 - 2229 |   |  |
 | Sleep Hours | 2230 - 0559 |  |  |
 
 ##### **Weekends / School Holidays**
