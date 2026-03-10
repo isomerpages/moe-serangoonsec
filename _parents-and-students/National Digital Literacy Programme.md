@@ -71,7 +71,7 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 | School Hours | 0700 - 1559 |  |  |
 | After-School Hours | 0600 - 0659 |  |  |
 |      | 1600 - 2259 |   |  |
-| Sleep Hours | 2300 - 0559 |  |  |
+| Sleep Hours | 2230 - 0559 |  |  |
 
 ##### **Weekends / School Holidays**
 
@@ -80,7 +80,7 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 | School Hours | NA | NA | NA |
 | After-School Hours | 0600 - 2300 | Whole Day | Whole Day |
 | Sleep Hours | 0000 - 0600 | Parent-controlled | NA |
-|  | 2300 - 2359 |  |  |
+|  | 2230 - 2359 |  |  |
 
 ##### 8. Student Self-Service Password Reset Guide
 
