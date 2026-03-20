@@ -9,20 +9,16 @@ variant: markdown
 
 Dear Parents/Guardians,
 
-On 15 March 2025 (Saturday), a Parent Talk was held for parents of our Secondary 4 and 5 students.
-Objectives of the sharing are:
+Thank you for joining us for our Sec 4/5 Post-Secondary School Pathways Talk 2026 on 14 March 2026.
 
- (1) to provide information on the current educational landscape as well as the post-secondary pathways available,
+The objectives of the sharing are:
 
- (2) to partner parents in providing supervision and guidance to their child in preparation for the upcoming national examinations.
+(1) to provide information on the current educational landscape as well as the post-secondary pathways available,
 
-The following slides and links contain useful information on how you can prepare your child/ward for his/her national examinations. The slides and links also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE). This would be helpful for you as you guide your child/ward on the choices available when he/she pursues the next phase of learning after completing his/her secondary school education.
+(2) to partner parents in providing supervision and guidance to their child in preparation for the upcoming national examinations.
 
-[Overview](/files/Upper%20Sec/2025/Overview.pdf)
+The following slides and links contain useful information on how you can prepare your child/ward for his/her national examinations. The slides and links also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE). 
 
-[Sec 4E / 5 Sharing 2025](/files/Upper%20Sec/2025/Sec_4E_5_Sharing_2025.pdf)
+This would be helpful for you as you guide your child/ward on the choices available when he/she pursues the next phase of learning after completing his/her secondary school education.
 
-[Sec 4NA Sharing 2025](/files/Upper%20Sec/2025/Sec_4NA_Sharing_2025.pdf)
-
-[Sec 4NT Sharing 2025](/files/Upper%20Sec/2025/Sec_4NT_Sharing_2025.pdf)
 <hr>
