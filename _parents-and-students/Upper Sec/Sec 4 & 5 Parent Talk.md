@@ -17,7 +17,15 @@ The objectives of the sharing are:
 
 (2) to partner parents in providing supervision and guidance to their child in preparation for the upcoming national examinations.
 
-The following slides and links contain useful information on how you can prepare your child/ward for his/her national examinations. The slides and links also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE). 
+The following slides and links contain useful information on how you can prepare your child/ward for his/her national examinations. The slides and links also offer information on the post-secondary pathways your child/ward can pursue, and the different admissions exercises and programmes available to help gain entry into a post-secondary education institution (e.g. junior college, Millennia Institute, polytechnic, ITE).
+
+[Sec 4 &amp; 5 Parent Talk Main Deck slides](https://drive.google.com/file/d/1Do8ub60ZUFUsa-nrCrUXXeoDOFohIT0b/view?usp=sharing)
+
+[Sec 4E 5 Sharing 2026 slides](https://drive.google.com/file/d/1xfSa1exLG-KgqGK1Ezwc5mSJw2UggRve/view?usp=sharing)
+
+[Sec 4NA Sharing 2026 slides](https://drive.google.com/file/d/1b-WqTz3m9TQDVs7SU-jriMr2lMrNrK8z/view?usp=sharing)
+
+[Sec 4NT Sharing 2026 slides](https://drive.google.com/file/d/1KIF6VW6glkCH-LhNh_2k8csNBi9xF1Sf/view?usp=sharing)
 
 This would be helpful for you as you guide your child/ward on the choices available when he/she pursues the next phase of learning after completing his/her secondary school education.
 
