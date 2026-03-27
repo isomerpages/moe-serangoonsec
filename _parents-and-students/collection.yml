@@ -2,6 +2,7 @@ collections:
   parents-and-students:
     output: true
     order:
+      - SSS in the News.md
       - Respecting Our Staff.md
       - Latest News/.keep
       - Latest News/2024 Joint Admissions Exercise (JAE) Information Sheet for
