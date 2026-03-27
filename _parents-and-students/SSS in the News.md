@@ -8,7 +8,7 @@ description: ""
 
 ##### 疫后六年复办 全国学生露营大会逾440学生参与
 
-![](/images/Parents%20&amp;%20Students/SSS%20in%20the%20News/440____.jpg)
+![](/images/Parents%20&amp;%20Students/SSS%20in%20the%20News/The_National_Student_Camping_Festival__held_six_years_after_the_pandemic__saw_over_440_students_participate.jpg)
 
 <hr>
 
@@ -32,7 +32,7 @@ description: ""
 
 ##### 引导情绪失控特需生 青年教师获颁杰出奖
 
-![](/images/Parents%20&amp;%20Students/SSS%20in%20the%20News/.jpg)
+![](/images/Parents%20&amp;%20Students/SSS%20in%20the%20News/Young_teacher_awarded_Outstanding_Award_for_guiding_students_with_special_needs_who_are_experiencing_emotional_distress.jpg)
 
 <hr>
 
