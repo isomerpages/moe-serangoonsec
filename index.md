@@ -62,14 +62,14 @@ sections:
       image: /images/Announcements/sss_95_ann.gif
       alt: Image alt text
   - infopic:
-      title: Straits Times Bouquets
+      title: SSS in the News
       subtitle: Latest news
       id: infopic
       description: Daughter leaves secondary school with many life changing lessons
         and good memories
       button: CLICK HERE TO READ MORE
-      url: /parents-and-students/latest-news/stbouquets/
-      image: /images/SSS in the
-        News/Serangoon_Sec_forumd_ARTWORK_APPROVED_on_20230913.jpg
+      url: /parents-and-students/sss-in-the-news/
+      image: /images/Parents & Students/SSS in the
+        News/Daughter_leaves_secondary_school_with_many_life_changing_lessons_and_good_memories.jpg
       alt: Image alt text
 ---
