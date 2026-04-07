@@ -2,6 +2,7 @@
 title: School Identity
 permalink: /school-identity/
 description: ""
+variant: markdown
 ---
 ### School Identity
 
@@ -16,7 +17,7 @@ Seek to Grow, Strive to Excel, Serve with Honour
 <br>With youthful vigour, youthful zest,  
 <br>We'll make our school the best!  
   
-<p align="center"><i>Chorus</i>
+</p><p align="center"><i>Chorus</i>
 <br>Forward, march on,  
 <br>Serangoon Secondary School!  
 <br>We will lift our voices and sing,  
@@ -25,7 +26,7 @@ Seek to Grow, Strive to Excel, Serve with Honour
 Honours to you we'll bring!  
 (Repeat)  
   
-<p align="center"><i>Chorus</i>
+</p><p align="center"><i>Chorus</i>
 <br>Forward, march on,  
 <br>Serangoon Secondary School!  
 <br>We will lift our voices and sing,  
@@ -39,10 +40,12 @@ Honours to you we'll bring!
 <img src="/images/school_logo_tiny.png" style="width:185px;" align="Center">
 
 ##### The School Logo
+
 The zeal with which we pursue our mission is expressed in the symbols and colours of our badge and flag.
 
 
 ##### The Symbols
+
 **Eagle** - The eagle depicted is the German Eagle that symbolises self-discipline, dignity, esteem, and power.  
   
 **Lamp** - The lamp, with its radiant and glowing flame, symbolises knowledge acquired through the studying of academic subjects and a pupil's all-round development, well-being, and balanced personality. Together, they symbolise the determination with which we seek to achieve our goals.
