@@ -11,6 +11,8 @@ variant: markdown
 
 Seek to Grow, Strive to Excel, Serve with Honour
 
+<hr>
+
 ##### School Song 
 <p align="center">We proudly sing about our school  
 <br>That shines among the rest.  
@@ -34,6 +36,7 @@ Honours to you we'll bring!
 <br>We will serve with pride,  
 <br>Honours to you!</p>
   
+<hr>
 
 ### School Emblems
 
@@ -57,3 +60,5 @@ The zeal with which we pursue our mission is expressed in the symbols and colour
 **White** embodies everything that is pure and wholesome, particularly, purity in thought, word, and deed.  
   
 **Orange** represents strength - both in character and physique, integrity - strength and firmness of character, and endurance - the spirit of determination and the ability to persevere to the very end.
+
+<hr>
