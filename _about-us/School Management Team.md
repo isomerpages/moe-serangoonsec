@@ -8,28 +8,11 @@ variant: markdown
 
 #### School Leaders
 
-<table>
-    <tbody><tr>
-        <td><img alt="P" src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg"></td>
-        <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
-			  <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-    </tr>
-		<tr>
-							<td><img alt="VP2" src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg"></td>
-        <td><img alt="VP3" src="/images/School%20Management%20Team/wong_lim_puay_kheng.jpg"></td>
-		</tr>
-</tbody></table>
 
 
 #### School Staff Developer
 
-<table>
-    <tbody><tr>
-        <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-        <td><img alt="SSD" src="/images/School%20Management%20Team/john_chris_tan.jpg"></td>
-        <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-    </tr>
-</tbody></table>
+
 
 #### Head of Departments /&nbsp;Year Heads
 
