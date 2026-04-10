@@ -8,30 +8,57 @@ variant: markdown
 
 #### School Leaders
 
-
+| Name  | Designation |
+|---|---|
+| Mr Chen Fook Pang | Principal |
+| Ms Lim Kah Leong Marc | Vice-Principal |
+| Mrs Wong-Lim Puay Kheng | Vice-Principal |
+| Mr Nadarajan Thevar | Vice-Principal (Administration) |
 
 #### School Staff Developer
 
-
+| Name  | Designation |
+|---|---|
+| Mr John Chris Tan | School Staff Developer |
 
 #### Head of Departments /&nbsp;Year Heads
 
-|![](/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg)|![](/images/School%20Management%20Team/Vincent_Wong.jpg)|![](/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/Tay_Hwee_Kwang_Alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
-|![](/images/School%20Management%20Team/Ho_Sze_Gin.jpg)|![](/images/School%20Management%20Team/Lim_Pei_Lin.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|
-|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Ng_Wee_Nghee.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+| Name  | Designation |
+|---|---|
+| Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
+| Mr Vincent Wong | HOD / English Language &amp; Literature |
+| Ms Sabrina Teo | HOD / Humanities |
+| Mdm Koh Poh Ling | HOD / Mathematics |
+| Mr Alvin Tay | HOD / Craft &amp; Technology |
+| Mr Adrial Tan | HOD / ICT |
+| Mrs Low Sze Gin | HOD / Science |
+| Mrs Lim Pei Lin | HOD / Data Management |
+| Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
+| Mr Ng Wee Nghee | Year Head / Lower Sec |
+| Mr Tay Ming Yang | Year Head / Upper Sec |
+| Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
+| Ms Ng He Li | HOD / Student Management |
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Management%20Team/Danna_Thein.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/Imran_Hussain_Shah.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/Teo_Lay_Peng_Lynn.jpg)|![](/images/School%20Management%20Team/Lim_Tong_Yang.jpg)|
-|![](/images/School%20Management%20Team/Chew_Li_Ting.jpg)|![](/images/School%20Management%20Team/Dennis_Kwek.jpg)|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|
-|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|![](/images/School%20Management%20Team/kamal_jupri.jpg)|
-|![](/images/School%20Management%20Team/Tan_Kai_Ling_Sharon.jpg)|![](/images/School%20Management%20Team/Tan_Xiaolin.jpg)|![](/images/School%20Management%20Team/Liao_Yongzhi.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Aaron_Chew.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+| Name  | Designation |
+|---|---|
+| Ms Danna Thein | SH / Literature |
+| Ms Guo Kaiqi Jenny | SH / Chinese Language |
+| Mr Imran Hussain Shah | SH / History |
+| Mr Dennis Kwek | SH / Mathematics |
+| Ms Fu Shin Hui | SH / Chemistry |
+| Ms Teo Lay Peng Lynn | SH / Art &amp; Aesthetics |
+| Ms Chew Li Ting | SH / Nutrition &amp; Food Science |
+| Mr Chew Hock Chye Aaron | SH / Curriculum &amp; Innovation |
+| Mr Lim Tong Yang | SH / ICT |
+| Ms Ezyanti Siregar Bte Lukman | Assistant Year Head |
+| Mr Liao Yongzhi | Assistant Year Head |
+| Ms Teo Zhi Hui Geraldine | SH / Physical Education &amp; Co-Curricular Activities |
+| Ms Ang Chian Huey | SH / Student Leadership |
+| Mr Kamal Bin Jupri | SH / Student Management |
+| Ms Sharon Tan Kai Ling | SH / Student Well-Being |
+| Ms Tan Xiaolin | SH / Special Educational Needs |
 
 #### Teacher Leaders Council
 
