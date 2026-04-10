@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Message by HOD (Science)
 
-<img src="/images/School%20Management%20Team/Ho_Sze_Gin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 Science education is a powerful tool that opens doors to understanding the world around us. It empowers one to think critically, solve problems, and engage with the ever-evolving challenges of our world. By fostering curiosity and a love for discovery, science education nurtures creativity and innovation. Whether it is technological disruptions (e.g. artificial intelligence), or solving global issues like climate change, science is the foundation of progress in improving lives and addressing global challenges. 
 
