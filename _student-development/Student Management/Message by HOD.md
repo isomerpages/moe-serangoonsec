@@ -7,8 +7,6 @@ variant: markdown
 ---
 ### Message by HOD (Student Management)
 
-<img src="/images/School%20Management%20Team/Ng_He_Li.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
-
 In Serangoon Secondary, we firmly believe that students learn well when there is order and discipline. At the same time, they need care, encouragement, and space to learn from their mistakes and improve.
 
 We adopt the positive and proactive approach to discipline in school. Our teachers work very closely to promote supportive and nurturing environment for your child in school. Together with the Student Development Team and the Year Head team, we work closely in identifying possible challenges faced in the classrooms and mitigate risk factors to prevent challenging behaviour from happening and disrupting learning. Despite preventive measures, students could still display inappropriate behaviours due to various reasons. We will address and correct the inappropriate behaviour promptly so that it does not disrupt teaching and learning. We have measures that we put in place in school as a proxy for consequences of the poor choices made. These will be meted out fairly, firmly, and appropriately. As our goal is for students to develop self-discipline and good character, it is important for teachers to help misbehaving students to replace their inappropriate behaviour with appropriate ones, and to restore relationships with others hurt by their actions.
