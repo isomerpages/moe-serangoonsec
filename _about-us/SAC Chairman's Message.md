@@ -8,8 +8,6 @@ description: ""
 
 ![](/images/School%20Management%20Team/SAC%20Chairman's%20Message/95th_Main_Slide.jpg)
 
-<img src="/images/School%20Management%20Team/SAC%20Chairman's%20Message/sac_chairman.jpg" style="width:265px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
-
 It is with great privilege and honour that I pen this message to mark the 95th Anniversary of Serangoon Secondary, and celebrate the remarkable contributions and achievements of students, staff, and stakeholders of the school. This is aptly captured by its 95th Anniversary Celebrations theme – ‘Constellations: Celebrating S³taRs’, with the S³ in S³taRs representing the Students, Staff and Stakeholders.   This theme embodies the spirit of unity and collaboration that has been the foundation of the school’s success over the years.
 
 As we celebrate the school’s 95th milestone, let us pause for a moment to reflect on its incredible journey of the last 5 years. This year’s theme of ‘Constellations’ in fact builds upon the theme of its 90th Anniversary five years ago, which is ‘Constellation’ (in the singular form). Five years ago, the image of Serangoon Secondary School’s students as a group of stars charting the way forward was a powerful one. 2018 to 2021 was a period of change and transformation for the school against the backdrop of changes in the MOE landscape – from the introduction of Subject Based Banding to the integration of SkillsFuture Singapore.
