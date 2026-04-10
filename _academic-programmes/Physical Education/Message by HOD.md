@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Message by HOD (Physical Education &amp; CCA)
 
-<img src="/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 At Serangoon Secondary School, we believe in and are committed to develop physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly. Play is an essential part of Physical Education (PE), but PE is not “just play”. Movement is fundamental to PE, and is used as a means to facilitate students holistic development through learning in movement, learning about movement and learning through movement.
 
