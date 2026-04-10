@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Message by HOD (Mother Tongue Languages)
 
-<img src="/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 At Serangoon Secondary School, the **Mother Tongue Department** plays a vital role in preserving and promoting the richness of our cultural heritage through the teaching and learning of the Mother Tongue Languages (MTLs).
 
