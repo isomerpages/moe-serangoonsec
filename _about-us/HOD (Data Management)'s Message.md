@@ -6,7 +6,6 @@ description: ""
 ---
 ### Message by HOD (Data Management)
 
-<img src="/images/School%20Management%20Team/Lim_Pei_Lin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 Data management in schools refers to the systematic process of collection, organization and use of data to support the school's academic and operational excellence.
 
