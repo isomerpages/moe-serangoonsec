@@ -62,11 +62,15 @@ variant: markdown
 
 #### Teacher Leaders Council
 
-|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|![](/images/School%20Management%20Team/hasrita_hosnin.jpg)|![](/images/School%20Management%20Team/danapal%20kumar.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/tay%20weng%20heng%20adrian.jpg)|![](/images/School%20Management%20Team/tengku%20norita.jpg)|
-|![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
-
+| Name  | Designation |
+|---|---|
+| Mdm You Chang Ying | ST / Chinese Language |
+| Mdm Hasrita Bte Hosnin | ST / Malay Language |
+| Mr Danapal Kumar | ST / Tamil Language |
+| Mdm Yogeswari D/O Selvaraja | ST / Chemistry |
+| Mr Tay Weng Heng Adrian | ST / Mathematics |
+| Mdm Tengku Norita | ST / Design &amp; Technology |
+| Ms Kok Chuan Tin | ST / Character &amp; Citizenship Education |
 
 #### Senior School Counsellors / Admin Managers / Operations Managers / ICT Managers
 
