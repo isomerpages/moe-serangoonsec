@@ -8,61 +8,79 @@ variant: markdown
 
 #### School Leaders
 
-<table>
-    <tbody><tr>
-        <td><img alt="P" src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg"></td>
-        <td><img alt="VPA" src="/images/School%20Management%20Team/Meyyappan%20Nadarajan%20Thevar.jpg"></td>
-			  <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-    </tr>
-		<tr>
-							<td><img alt="VP2" src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg"></td>
-        <td><img alt="VP3" src="/images/School%20Management%20Team/wong_lim_puay_kheng.jpg"></td>
-		</tr>
-</tbody></table>
-
+| Name  | Designation |
+|---|---|
+| Mr Chen Fook Pang | Principal |
+| Ms Lim Kah Leong Marc | Vice-Principal |
+| Mrs Wong-Lim Puay Kheng | Vice-Principal |
+| Mr Nadarajan Thevar | Vice-Principal (Administration) |
 
 #### School Staff Developer
 
-<table>
-    <tbody><tr>
-        <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-        <td><img alt="SSD" src="/images/School%20Management%20Team/john_chris_tan.jpg"></td>
-        <td><img alt="blank" src="/images/School%20Management%20Team/KP_blank.jpg"></td>
-    </tr>
-</tbody></table>
+| Name  | Designation |
+|---|---|
+| Mr John Chris Tan | School Staff Developer |
 
 #### Head of Departments /&nbsp;Year Heads
 
-|![](/images/School%20Management%20Team/Liam%20Hsiao%20Wen.jpg)|![](/images/School%20Management%20Team/Vincent_Wong.jpg)|![](/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Koh%20Poh%20Ling.jpg)|![](/images/School%20Management%20Team/Tay_Hwee_Kwang_Alvin.jpg)|![](/images/School%20Management%20Team/adrial_tan_chong_jin.jpg)|
-|![](/images/School%20Management%20Team/Ho_Sze_Gin.jpg)|![](/images/School%20Management%20Team/Lim_Pei_Lin.jpg)|![](/images/School%20Management%20Team/Goh%20Sze%20Wei.jpg)|
-|![](/images/School%20Management%20Team/Ng_He_Li.jpg)|![](/images/School%20Management%20Team/Koh_Sien_Kok_Dennis.jpg)|![](/images/School%20Management%20Team/Ng_Wee_Nghee.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Tay_Ming_Yang.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+| Name  | Designation |
+|---|---|
+| Ms Liam Hsiao Wen | HOD / Mother Tongue Languages |
+| Mr Vincent Wong | HOD / English Language &amp; Literature |
+| Ms Sabrina Teo | HOD / Humanities |
+| Mdm Koh Poh Ling | HOD / Mathematics |
+| Mr Alvin Tay | HOD / Craft &amp; Technology |
+| Mr Adrial Tan | HOD / ICT |
+| Mrs Low Sze Gin | HOD / Science |
+| Mrs Lim Pei Lin | HOD / Data Management |
+| Mdm Goh Sze Wei | HOD / Physical Education &amp; Co-Curricular Activities |
+| Mr Ng Wee Nghee | Year Head / Lower Sec |
+| Mr Tay Ming Yang | Year Head / Upper Sec |
+| Mr Dennis Koh | HOD / Character &amp; Citizenship Education |
+| Ms Ng He Li | HOD / Student Management |
 
 #### Subject Heads / Assistant Year Heads
 
-|![](/images/School%20Management%20Team/Danna_Thein.jpg)|![](/images/School%20Management%20Team/Guo%20Kaiqi%20Jenny.jpg)|![](/images/School%20Management%20Team/Imran_Hussain_Shah.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/Fu%20Shin%20Hui.jpg)|![](/images/School%20Management%20Team/Teo_Lay_Peng_Lynn.jpg)|![](/images/School%20Management%20Team/Lim_Tong_Yang.jpg)|
-|![](/images/School%20Management%20Team/Chew_Li_Ting.jpg)|![](/images/School%20Management%20Team/Dennis_Kwek.jpg)|![](/images/School%20Management%20Team/ezyanti_siregar_lukman.jpg)|
-|![](/images/School%20Management%20Team/Teo%20Zhi%20Hui%20Geraldine.jpg)|![](/images/School%20Management%20Team/ang_chian_huey.jpg)|![](/images/School%20Management%20Team/kamal_jupri.jpg)|
-|![](/images/School%20Management%20Team/Tan_Kai_Ling_Sharon.jpg)|![](/images/School%20Management%20Team/Tan_Xiaolin.jpg)|![](/images/School%20Management%20Team/Liao_Yongzhi.jpg)|
-|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/Aaron_Chew.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
+| Name  | Designation |
+|---|---|
+| Ms Danna Thein | SH / Literature |
+| Ms Guo Kaiqi Jenny | SH / Chinese Language |
+| Mr Imran Hussain Shah | SH / History |
+| Mr Dennis Kwek | SH / Mathematics |
+| Ms Fu Shin Hui | SH / Chemistry |
+| Ms Teo Lay Peng Lynn | SH / Art &amp; Aesthetics |
+| Ms Chew Li Ting | SH / Nutrition &amp; Food Science |
+| Mr Chew Hock Chye Aaron | SH / Curriculum &amp; Innovation |
+| Mr Lim Tong Yang | SH / ICT |
+| Ms Ezyanti Siregar Bte Lukman | Assistant Year Head |
+| Mr Liao Yongzhi | Assistant Year Head |
+| Ms Teo Zhi Hui Geraldine | SH / Physical Education &amp; Co-Curricular Activities |
+| Ms Ang Chian Huey | SH / Student Leadership |
+| Mr Kamal Bin Jupri | SH / Student Management |
+| Ms Sharon Tan Kai Ling | SH / Student Well-Being |
+| Ms Tan Xiaolin | SH / Special Educational Needs |
 
 #### Teacher Leaders Council
 
-|![](/images/School%20Management%20Team/you%20chang%20ying.jpg)|![](/images/School%20Management%20Team/hasrita_hosnin.jpg)|![](/images/School%20Management%20Team/danapal%20kumar.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/yogeswari%20selvaraja.jpg)|![](/images/School%20Management%20Team/tay%20weng%20heng%20adrian.jpg)|![](/images/School%20Management%20Team/tengku%20norita.jpg)|
-|![](/images/School%20Management%20Team/kok%20chuan%20tin.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|![](/images/School%20Management%20Team/KP_blank.jpg)|
-
+| Name  | Designation |
+|---|---|
+| Mdm You Chang Ying | ST / Chinese Language |
+| Mdm Hasrita Bte Hosnin | ST / Malay Language |
+| Mr Danapal Kumar | ST / Tamil Language |
+| Mdm Yogeswari D/O Selvaraja | ST / Chemistry |
+| Mr Tay Weng Heng Adrian | ST / Mathematics |
+| Mdm Tengku Norita | ST / Design &amp; Technology |
+| Ms Kok Chuan Tin | ST / Character &amp; Citizenship Education |
 
 #### Senior School Counsellors / Admin Managers / Operations Managers / ICT Managers
 
-|![](/images/School%20Management%20Team/jade%20chee%20gek%20chin.jpg)|![](/images/School%20Management%20Team/susan%20lim%20gim%20peng.jpg)|![](/images/School%20Management%20Team/mahadevan%20jaya.jpg)|
-| -------- | -------- | -------- |
-|![](/images/School%20Management%20Team/ho%20pak%20heng%20ray.jpg)|![](/images/School%20Management%20Team/lim%20lye%20hock.jpg)|![](/images/School%20Management%20Team/muhammad%20imran%20samat.jpg)|
-
+| Name  | Designation |
+|---|---|
+| Mdm Jade Chee Gek Chin | Senior School Counsellor |
+| Ms Susan Lim Gim Peng | Administration Manager |
+| Mdm Mahadevan Jaya | Administration Manager |
+| Mr Ho Pak Heng Ray | Operations Manager |
+| Mr Lim Lye Hock | Operations Manager |
+| Mr Muhammad Imran Bin Samat | ICT Manager |
 
 <hr>

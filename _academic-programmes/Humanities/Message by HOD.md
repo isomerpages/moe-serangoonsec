@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Message by HOD (Humanities)
 
-<img src="/images/School%20Management%20Team/teo_wei_ping_sabrina.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 The Humanities Department in Serangoon Secondary is dedicated to fostering an environment that promotes learning, growth, and the development of essential skills, knowledge, and values in the field of Humanities.
 

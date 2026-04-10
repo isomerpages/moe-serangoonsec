@@ -7,7 +7,6 @@ variant: markdown
 ---
 ### Message by HOD (ICT)
 
-<img src="/images/School%20Management%20Team/adrial_tan_chong_jin.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 At Serangoon Secondary School, we are committed to leveraging technology to empower our students and teachers in a digitally evolving world. Our ICT initiatives focus on nurturing future-ready individuals equipped with the skills to thrive in the 21st century.
 
