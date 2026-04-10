@@ -6,7 +6,6 @@ variant: markdown
 ---
 ### Vice-Principals' Messages
 
-<img src="/images/School%20Management%20Team/lim_kah_leong_marc.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 **Nurturing Our Shining StaRs**
 
@@ -27,7 +26,6 @@ It is my privilege to join this vibrant community, and I look forward to working
 
 <hr>
 <br>
-<img src="/images/School%20Management%20Team/wong_lim_puay_kheng.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
 I am glad and honoured to join the Serangoon Family.  As I step into this positive and caring community, I am filled with excitement for the journey ahead and the potential that lies within each member of our school.
 
