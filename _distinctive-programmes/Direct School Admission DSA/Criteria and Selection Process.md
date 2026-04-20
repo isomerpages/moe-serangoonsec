@@ -43,16 +43,16 @@ Applicants who do not have prior experience may also apply. The school will asse
 
 | APPLICATION PERIOD | SELECTION PERIOD |
 | -------- | -------- |
-|07 May 2025, 11 am to 3 June 2025, 3 pm|30 Jun 2025 – 4 Sep 2025|
+|6 May 2026, 11 am to 2 June 2026, 4.30 pm|29 Jun 2026 – 28 Aug 2026|
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 7 May 2025, 11am to 3 Jun 2025, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 6 May 2026, 11am to 2 Jun 2026, <u>4.30pm</u>. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/secondary/dsa).
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
 **Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.**
 
-The selection period for schools for DSA-Sec is from 30 June to 4 September 2025. The school will be conducting ***in-person selection*** for both DSA talent areas for 2025. Shortlisted candidates who meet the selection criteria in the DSA talent area they have applied for will be invited to attend an interview at the school. You will receive notification from the school by 10 July 2025, if your child has been shortlisted to undergo Direct School Admission (DSA) selection.
+The selection period for schools for DSA-Sec is from 29 Jun 2026 – 28 Aug 2026. The school will be conducting ***in-person selection*** for both DSA talent areas for 2026. Shortlisted candidates who meet the selection criteria in the DSA talent area they have applied for will be invited to attend an interview at the school. You will receive notification from the school by 10 July 2026, if your child has been shortlisted to undergo Direct School Admission (DSA) selection.
 
-All applicants will receive their application outcomes between **25 Aug and 4 Sep 2025**. 
+All applicants will receive their application outcomes between **17 Aug and 28 Aug 2026**. 
 
 <hr>
