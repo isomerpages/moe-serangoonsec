@@ -8,10 +8,6 @@ variant: markdown
 ### Post-Secondary Educational Pathways for GCE O &amp; N Level Students
 
 ##### Where to After Secondary School?
- 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ndDVlzT-z0g" height="315" width="560"></iframe>
-
-<br> <br>
 
 | Junior Colleges/ Centralised Institute                                                        | Polytechnics                                                     | Institute of Technical Education (ITE)                                 | Arts Institutions (LASALLE &amp; NAFA)                                                                                            |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -20,7 +16,7 @@ variant: markdown
 
 ##### Not sure where’s next?
 
-You may wish to speak to your FTs and parents, or book an appointment with Ms Juan Pei-ling, our ECG Counsellor.
+You may wish to speak to your FTs and parents, or book an appointment with Ms Juan Pei-ling, our Senior ECG Counsellor.
 
 ![](/images/Parents%20&amp;%20Students/Post%20Secondary%20Pathway/ECGC_SSS_contact___JPL.jpg)
 ![](/images/Parents%20&amp;%20Students/Post%20Secondary%20Pathway/2025_ECG_Resource.jpg)
