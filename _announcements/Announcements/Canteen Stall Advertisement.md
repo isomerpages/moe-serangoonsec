@@ -11,7 +11,7 @@ third_nav_title: Announcements
 
 <b>Closing Date: <mark>29 May 2026</mark>, (Friday)</b>
 
-Interested applicants may obtain the application form from the school's Guard Room, General Office or <b>download here</b>. 
+Interested applicants may obtain the application form from the school's Guard Room, General Office or <b>[download here](/files/Announcements/Application_for_Canteen_Stall_FormBF7.pdf)</b>. 
 
 Please forward the completed form to the school by the closing date.
 
