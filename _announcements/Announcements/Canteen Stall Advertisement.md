@@ -39,3 +39,22 @@ Upon successful award, the stallholder is expected to meet these requirements:
 <li>Stallholder must be in personal attendance at the stall and cannot sublet his stall to another person.</li>
 <li>Stallholder must open an account with Singapore Power Supply for the supply of water and gas.</li>
 </ul>
+
+<hr>
+
+<b><u>Submission for Application:</u></b>
+
+Please submit completed application form with the following documents to the school's General Office:
+
+<ul>
+	<li>Proposed food menu and pricing; and</li>
+<li>Photocopy of Certificate of Attainment for the WSQ Food Safety Course Level 1.</li>
+</ul>
+
+Closing date for Application: The completed application form with the required documents must be submitted to the school General Office <b><u>before 5pm on 29 May 2026, (Friday)</u></b> either by hand or post.
+
+Late/Incomplete applications will not be considered. Only shortlisted applicants will be notified to attend an interview and food-tasting session, if applicable, at his/her own expense.
+
+<b><u>Person to Contact:</u></b> Mdm Karthini, Administrative Executive at Tel: <b>63851589</b>.
+
+<hr>
