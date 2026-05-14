@@ -12,9 +12,9 @@ variant: markdown
 | Date |  |Event|
 | -------- | -------- | -------- |
 | 14/05/2026:     |1.| [Travel Declaration for 2026 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-jun/)|
-| 26/02/2026:     |2.|[Travel Declaration for 2026 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-mar/)|
-| 07/01/2026:     |3.| [2025 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-o-level-results-release/) |
-| 07/01/2026:     |4.| [School Canteen Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-canteen-advertisement/)|
+| 13/05/2026:     |2.| [School Canteen Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/school-canteen-advertisement/)|
+| 26/02/2026:     |3.|[Travel Declaration for 2026 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-mar/)|
+| 07/01/2026:     |4.| [2025 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-o-level-results-release/) |
 
 ##### 2025 Events
 
