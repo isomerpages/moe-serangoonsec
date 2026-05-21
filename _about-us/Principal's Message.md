@@ -287,31 +287,52 @@ On that note, I would like to celebrate Ethan and Javier from 4N8, who represent
 [](/images/About%20Us/Principal's%20Message%202026/Slide53.png)
 
 48 - Looking ahead to 2026, we will continue to align our EdTech and 21st Century Competencies efforts for greater synergy, with three planned ETD consultancies to strengthen our implementation and ensure our students emerge as confident, self-directed, and technologically adept learners ready for the future.
-F. Strategic Approach for E21CC in SSS
 
-49 - [Slide 54] We are guided by the Framework for 21st Century Competencies and Student Outcomes (21CC Framework) which articulates MOE’s vision for holistic student development. Values form the core, supported by Social-Emotional Competencies, and extended through the Emerging 21st Century Competencies (E21CC) domains. At SSS, we are taking on a phased approach to emphasise alignment in our existing programmes and focusing on professional capacity building.
+**F. Strategic Approach for E21CC in SSS**
 
-50 - [Slide 55 – AI Generated slide] Rather than treating E21CC as a standalone initiative, we have started integrating it within existing curriculum structures from 2024 to 2025, notably the Four-Year Learning Roadmaps. Departments mapped their programmes and syllabi to relevant E21CC domains: Languages and Humanities focused on Communication, Collaboration, and Information Skills; STEM subjects emphasized Critical, Adaptive, and Inventive Thinking; Student Development areas prioritized Social-Emotional Competencies and Civic, Global, and Cross-Cultural Literacy. A stocktaking exercise was done to reveal the extent of E21CC presence and identify areas needing greater intentionality and alignment. This mapping surfaced existing competency development and identified opportunities to strengthen it across levels.
+[](/images/About%20Us/Principal's%20Message%202026/Slide54.png)
 
-51 - [Slide 56] From this year, we take on a professional learning approach, for teachers to have common understanding of the development milestones in the respective domains and strengthen the intentionality to explicitly integrate E21CC into their lesson objectives through appropriate lesson designs and assessment when opportune.
+49 - We are guided by the Framework for 21st Century Competencies and Student Outcomes (21CC Framework) which articulates MOE’s vision for holistic student development. Values form the core, supported by Social-Emotional Competencies, and extended through the Emerging 21st Century Competencies (E21CC) domains. At SSS, we are taking on a phased approach to emphasise alignment in our existing programmes and focusing on professional capacity building.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide55.png)
+
+50 - Rather than treating E21CC as a standalone initiative, we have started integrating it within existing curriculum structures from 2024 to 2025, notably the Four-Year Learning Roadmaps. Departments mapped their programmes and syllabi to relevant E21CC domains: Languages and Humanities focused on Communication, Collaboration, and Information Skills; STEM subjects emphasized Critical, Adaptive, and Inventive Thinking; Student Development areas prioritized Social-Emotional Competencies and Civic, Global, and Cross-Cultural Literacy. A stocktaking exercise was done to reveal the extent of E21CC presence and identify areas needing greater intentionality and alignment. This mapping surfaced existing competency development and identified opportunities to strengthen it across levels.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide56.png)
+
+51 - From this year, we take on a professional learning approach, for teachers to have common understanding of the development milestones in the respective domains and strengthen the intentionality to explicitly integrate E21CC into their lesson objectives through appropriate lesson designs and assessment when opportune.
 
 **G.	Supporting our Staff**
 
-52 - [Slide 57] To foster a culture of continuous reflection and growth among our teachers, the school has placed strong emphasis on professional learning for our staff. 
+[](/images/About%20Us/Principal's%20Message%202026/Slide57.png)
+
+52 - To foster a culture of continuous reflection and growth among our teachers, the school has placed strong emphasis on professional learning for our staff. 
 
 **Section G1: Staff Professional Learning**
 
-53 - [Slide 58] Since establishing the Teacher Leaders Council in 2023, we have witnessed remarkable growth in our professional development culture. This year, we have expanded the TLC to include associate members, creating a structured pathway for educators to develop within the teaching track and fostering the next generation of teacher leaders.
+[](/images/About%20Us/Principal's%20Message%202026/Slide58.png)
 
-54 - [Slide 59 – AI generated slide] The TLC continues to drive professional growth across four key areas as shown in this image. In Educational Technology, the TLC played an integral role in designing SLS-based training modules that immersed teachers in the learner's experience, advancing our EdTech Masterplan 2030 initiatives. In 21st Century Competencies, our teachers are equipped to nurture future-ready students who think critically, collaborate effectively, and communicate confidently. In Assessment Literacy, teachers are better equipped to implement assessment methods that support learning rather than merely measure it. Finally, our Instructional Mentoring programme, which has supported beginning teachers, is now being extended to experienced teachers as well — reinforcing our commitment to pedagogical excellence at every level. 
+53 - Since establishing the Teacher Leaders Council in 2023, we have witnessed remarkable growth in our professional development culture. This year, we have expanded the TLC to include associate members, creating a structured pathway for educators to develop within the teaching track and fostering the next generation of teacher leaders.
 
-55 - [Slide 60] The TLC has also demonstrated outstanding leadership by mounting Professional Learning Workshops on Student Motivation, helping us create learning environments that foster engagement, curiosity, and creativity. I commend the TLC for their dedication and leadership — their work exemplifies our commitment to empowering every educator to bring out the very best in our students.
+[](/images/About%20Us/Principal's%20Message%202026/Slide59.png)
+
+54 - The TLC continues to drive professional growth across four key areas as shown in this image. In Educational Technology, the TLC played an integral role in designing SLS-based training modules that immersed teachers in the learner's experience, advancing our EdTech Masterplan 2030 initiatives. In 21st Century Competencies, our teachers are equipped to nurture future-ready students who think critically, collaborate effectively, and communicate confidently. In Assessment Literacy, teachers are better equipped to implement assessment methods that support learning rather than merely measure it. Finally, our Instructional Mentoring programme, which has supported beginning teachers, is now being extended to experienced teachers as well — reinforcing our commitment to pedagogical excellence at every level.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide60.png)
+
+55 - The TLC has also demonstrated outstanding leadership by mounting Professional Learning Workshops on Student Motivation, helping us create learning environments that foster engagement, curiosity, and creativity. I commend the TLC for their dedication and leadership — their work exemplifies our commitment to empowering every educator to bring out the very best in our students.
 
 **Section G2: SWBC **
 
-56 - [Slide 61] We began in 2023 with the theme Leading Living — my promise to staff that I would take care of them, so they could, in turn, take care of the school. From extended family care leave to time for personal medical needs, these gestures mattered deeply. Staff no longer had to worry about choosing between their responsibilities and their family commitments.
+[](/images/About%20Us/Principal's%20Message%202026/Slide61.png)
 
-57 - From there, we kept asking: what more can we do? We shifted CCA and meeting days, introduced TGIF afternoons, and gave staff the gift of time. What followed proved something important — when you trust people, they rise to the occasion. Serangoon staff upheld their professionalism even as more was given to them. We are, as I like to say, an uncommon breed. [Slide 62] Because we care.
+56 - We began in 2023 with the theme Leading Living — my promise to staff that I would take care of them, so they could, in turn, take care of the school. From extended family care leave to time for personal medical needs, these gestures mattered deeply. Staff no longer had to worry about choosing between their responsibilities and their family commitments.
+
+57 - From there, we kept asking: what more can we do? We shifted CCA and meeting days, introduced TGIF afternoons, and gave staff the gift of time. What followed proved something important — when you trust people, they rise to the occasion. Serangoon staff upheld their professionalism even as more was given to them. We are, as I like to say, an uncommon breed.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide62.png)
+
+Because we care.
 
 58 - That conviction has only grown stronger. We moved to more online end-of-year meetings and extended the PVT framework. Most recently, we completed renovations to our Staff Pantry, creating a vibrant and welcoming space for our teachers. More Flexible Workplace Arrangements are now on the horizon.
 
