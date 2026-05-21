@@ -97,62 +97,62 @@ Our alumni embody integrity, resilience, and compassion — leaders in their fie
 
 12 - Our signature StaRs Programme is a series of three engaging programmes that take place throughout the year, designed to enrich our students’ educational experience. The various StaRs Programme activities are aligned to our level themes for a coherent student experience. Allow me to share some of our StaRs’ learning in the StaRs Programme from Term 1 this year.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide16.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide16.png)
 
 13 - Our Secondary 1 took part in the outdoor adventure camps in March. Various experiences here serve as powerful platforms for character development, where students cultivate essential life skills including resilience and collaborative teamwork. I particularly like the last photo with our Sec 1 StaRs coming together with their class flags, as one cohort.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide17.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide17.png)
 
 14 - The Secondary 2 Applied Learning Module represents another cornerstone of our programme, where students engage with authentic, real-world challenges that demand innovative solutions. Students had the chance to work in teams, develop their analytical thinking abilities and opportunities to demonstrate and present their learnings – perfectly embedding E21CC within.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide18.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide18.png)
 
 15 - Our Secondary 3 students benefit tremendously from structured visits to Institutes of Higher Learning, gaining invaluable exposure to diverse academic pathways and career possibilities. These experiences empower them to make well-informed decisions about their future educational and professional trajectories.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide19.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide19.png)
 
 16 - Last but not least, our Secondary 4 and 5 students engage in comprehensive Education and Career Guidance portfolio development, where they refine their personal statements and enhance their interview competencies through mentorship and practice sessions.
 
 ***Section C2: Overseas Learning Journeys***
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide20.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide20.png)
 
 17 - Overseas learning journeys remain central to developing our students' 21st Century Competencies. Building on recce trips to Brunei and Vietnam in 2023, 
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide21.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide21.png)
 
 we expanded the programme in 2025 with a third destination  —  China —
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide22.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide22.png)
 
 reflecting our commitment to a structured,
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide23.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide23.png)
 
 progressive global learning experience in ASEAN and Asia.  These journeys push students to step beyond their comfort zones, 
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide24.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide24.png)
 
 building cultural sensitivity, resilience, and cross-cultural communication skills. 
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide25.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide25.png)
 
 The learning continues beyond the trip itself, with post-trip sharing sessions at assembly where students reflect on their growth and inspire their peers.
 
 **Section C3: One Class, One Kampong, One Serangoon**
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide26.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide26.png)
 
 18 - SSS has consistently pride herself with a strong culture of care as a core strength. The Student Development Team (SDT) plays a critical role in the planning, implementing and monitoring to guide our Serangoon StaRs. Allow me to share broadly key directional shifts over the past few years:
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide27.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide27.png)
 
 19 - In 2023, the team noted the importance of care element in the work we do, and we renamed the Case Management Team to Care and Case Management Team (C2MT). We discussed roles and responsibilities within SDT, upstream and downstream measures, and looked into streamlining and integrating processes to help uplift our students with additional needs. This outlines the importance of inclusivity.
 
 
 20 - In 2024, we started making shifts and embarked on ‘One Class, One Kampong, One Serangoon’. Firstly, having our Year Heads and School Counsellors follow up with their cohorts to ensure greater Teacher-Student Relationships, and reallocating Educational Support processes into Year Head and Student Management workflows. The C2MT triage workflow was also formulated and digitalized, and the SD road maps were drawn out. The class ecosystem data toolkit was introduced to consolidate key information through a data analytics dashboard, comprising check-in surveys, social network analysis and various class-based information parameters.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide28.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide28.png)
 
 21 - In 2025, the School Staff Developer, HOD/Data Management and HOD/CCE joined the C2MT. This allowed us to better coordinate upstream measures, strengthened the use of data and looked into further building staff capacity. For the first time, the respective level FTs and subject teachers came together to discuss about the students during the conduct grade exercise. The sharing of good practices was also enhanced, with multiple sharing sessions at Staff Contact Time by FTs, for FTs. This allowed FTs to better provide more timely and targeted support at the class level.
 
@@ -164,19 +164,19 @@ The learning continues beyond the trip itself, with post-trip sharing sessions a
 
 25 - We are also expanding our Form Teacher (FT) data toolkit: with SDCD's Enhanced Social-Emotional Competency Rating Tool (My SEI) to help teachers better understand and support students' social-emotional development. All insights and student development progress will then be documented in CCE journals to facilitate person-centred Parent Engagement Sessions.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide29.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide29.png)
 
 26 - The School Leaders will walk the talk in our efforts to grow our Serangoon StaRs. All students will continue to have direct access to the SLs to dialogue and provide their views and feedback. SLs will also do home visits to support our students with additional needs. We strongly believe that a strong culture of care is the foundation of effective learning. When our students feel supported and understood, they are then better positioned to excel.
 
 **D.	Curriculum and Instruction**
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide30.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide30.png)
 
 27 - In the last two years, I have shared how our academic departments have tailored learning experiences for our Serangoon StaRs that will equip them with the skills and attributes they need to thrive in today’s world.
 
 **Section D1: Acknowledgement and Celebration of Success**
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide31.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide31.png)
 
 28 - Before I go further, let me acknowledge the Class of 2025's National Examination results. Across both N and O Levels, we saw an encouraging upward trend — more students qualifying for polytechnic pathways and post-secondary options of their choice. The Early Admission Exercise also saw strong uptake, with a significant proportion securing placements ahead of results day. These results reflect our students' resilience and the steadfast support of our teachers and families.
 
@@ -186,49 +186,49 @@ The learning continues beyond the trip itself, with post-trip sharing sessions a
 
 **Section D2A: CG1**
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide32.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide32.png)
 
 30 - At the heart of our learning culture is collaboration — the belief that learning is most powerful when connections are made across disciplines, mirroring the real world. Learning comes alive when subjects connect. Our Secondary 1 Inter-departmental Project Work brings together English Language, Science, and Humanities, guiding students through real-world experimentation, research, and presentation — breaking down subject silos and building holistic problem-solving skills. Students work together to construct a water filtration system, learn about soil composition from Geography lesson and finally presenting the project in front of their peers.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide33.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide33.png)
 
 31 - Our English Language and Literature teachers believe that to truly understand a subject, students need to feel it. The 'Script to Stage' programme, now in its second year, has students staging their own plays — building adaptive thinking, collaboration, and communication along the way. As student Chelsy from 2H1 put it, "Bringing us out of the classroom to stage our play has made us more interested in the subject.".
 
 32 - This year, EL department expanded our Talent Development Programme with 'Plates to Plays', where students explore creative writing under a professional artiste through the NAC Artist-in-Residence scheme, drawing on the uniquely Singaporean experience of food to find their own voices.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide34.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide34.png)
 
 33 - Innovation continues in the classroom too — Ms Timmie Tan's 'Character Chatbot' lets students interact directly with literary characters, an approach so well-received it was shared at the SG Learning Designers' Circle.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide35.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide35.png)
 
 34 - Our Mother Tongue Language Department ignites a joyful learning experience for students through enriching and authentic cultural experiences, deepening their linguistic proficiency while fostering a profound appreciation for their heritage and identity.
 
 35 - Debating continues to be a signature platform shared across all three language streams, with students from the Chinese, Malay, and Tamil units participating in both school-based and national competitions. These experiences sharpen critical thinking, strengthen communication skills, and build the confidence to articulate perspectives with clarity and conviction.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide36.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide36.png)
 
 36 - Beyond debating, each unit also offers enrichment programmes that connect students to their cultural roots in meaningful ways. The Chinese Language Unit's Xin Yao Appreciation Workshop brings students closer to Singapore's local Chinese music heritage through music, storytelling, and lyric writing.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide37.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide37.png)
 
 The Malay Language Unit engages students through culturally authentic activities that deepen their appreciation of Malay language and traditions.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide38.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide38.png)
 
 The Tamil Language Unit similarly nurtures students' connection to Tamil culture and identity through purposeful and engaging learning experiences.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide39.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide39.png)
 
 37 - The Humanities Engagement Programme builds knowledge and passion progressively — from investigating water quality at our school pond in Secondary 1, to exploring Singapore's history at Kranji War Cemetery and Fort Siloso in Secondary 2, to engaging with real-world issues through their electives in Secondary 3.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide40.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide40.png)
 
 Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamzah and Mr Matt Yee have transformed feedback and harnessed AI for Socratic questioning and targeted essay, while  collaborating with NIE and the Academy of Singapore Teachers, to keep our curriculum at the cutting edge.
 
 **Section D2B:CG2**
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide41.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide41.png)
 
 38 - Innovation is at the heart of our Craft and Technology Department, spanning Design and Technology, Nutrition and Food Science, and Art. In Design and Technology, our collaboration with Samsung brings Interactive Flat Displays and tablets into the classroom, while our partnership with STUCK Design's HYPERSKETCH platform deepens students' AI literacy and design thinking. Students also showcase their skills at competitions such as the D&amp;T Awards and the Design Innovation Challenge. 
 
