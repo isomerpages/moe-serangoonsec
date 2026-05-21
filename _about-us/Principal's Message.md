@@ -428,46 +428,80 @@ Last year, our school embarked on its first year of partnership with Nanyang Pol
 
 **Section I1: PSG**
 
-73 - [Slide 78] Our school takes a multi-channel approach to parent engagement, ensuring parents are active partners in their child's education. Parent Engagement Sessions are held twice a year for one-to-one conversations with form teachers, complemented by level-specific touchpoints aligned to key student milestones — from the Sec 1 Parent Engagement and CCA Orientation to the Sec 4 and 5 Post-Secondary Pathways Talk.
+[](/images/About%20Us/Principal's%20Message%202026/Slide78.png)
 
-74 - [Slide 79] Since 2025, we have deepened this partnership through two key efforts. The first is our parent-for-parent engagement model, where parents share insights and strategies with fellow parents — particularly in supporting students with Special Educational Needs.
+73 - Our school takes a multi-channel approach to parent engagement, ensuring parents are active partners in their child's education. Parent Engagement Sessions are held twice a year for one-to-one conversations with form teachers, complemented by level-specific touchpoints aligned to key student milestones — from the Sec 1 Parent Engagement and CCA Orientation to the Sec 4 and 5 Post-Secondary Pathways Talk.
 
-75 - [Slide 80] The second is our Solution-Focused approach, introduced with last year's Sec 1 cohort. This represents a deliberate shift from problem-centred to possibility-focused communication — emphasising strengths, collaborative problem-solving, and co-creating success narratives with families.
+[](/images/About%20Us/Principal's%20Message%202026/Slide79.png)
+
+74 - Since 2025, we have deepened this partnership through two key efforts. The first is our parent-for-parent engagement model, where parents share insights and strategies with fellow parents — particularly in supporting students with Special Educational Needs.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide80.png)
+
+75 - The second is our Solution-Focused approach, introduced with last year's Sec 1 cohort. This represents a deliberate shift from problem-centred to possibility-focused communication — emphasising strengths, collaborative problem-solving, and co-creating success narratives with families.
 
 **Section I2: Alumni**
 
-76 - [Slide 81] We are also taking deliberate steps to build a vibrant youth alumni community that stays connected to Serangoon Secondary and gives back meaningfully. Through existing initiatives like Learning from the StaRs, our alumni are returning to share their post-secondary experiences and insights with our graduating cohorts. [Mr Chen to invite Eugene up here and present him with plaque, Click] We envision our youth alumni as partners and mentors who can inspire, guide, and contribute their growing expertise to enrich the school community. A wonderful example of this is Eugene, who is currently reading Architecture at Temasek Polytechnic and has gone above and beyond by actively collaborating with us on the redesign of our school canteen — bringing his emerging skills and fresh perspectives to a space that every Serangoon StaR calls their own. Eugene's involvement exemplifies the kind of meaningful, reciprocal relationship we hope to cultivate with our alumni — one where their growth and our school's growth go hand in hand. Let us welcome Eugene up on stage!
+[](/images/About%20Us/Principal's%20Message%202026/Slide81.png)
+
+76 - We are also taking deliberate steps to build a vibrant youth alumni community that stays connected to Serangoon Secondary and gives back meaningfully. Through existing initiatives like Learning from the StaRs, our alumni are returning to share their post-secondary experiences and insights with our graduating cohorts. 
+
+We envision our youth alumni as partners and mentors who can inspire, guide, and contribute their growing expertise to enrich the school community. A wonderful example of this is Eugene, who is currently reading Architecture at Temasek Polytechnic and has gone above and beyond by actively collaborating with us on the redesign of our school canteen — bringing his emerging skills and fresh perspectives to a space that every Serangoon StaR calls their own. Eugene's involvement exemplifies the kind of meaningful, reciprocal relationship we hope to cultivate with our alumni — one where their growth and our school's growth go hand in hand. Let us welcome Eugene up on stage!
 
 **Section I4: School Advisory Committee**
 
-77 - [Slide 82] Our School Advisory Committee remains an invaluable partner in enriching our students' learning beyond the classroom. Through Brown Bag Series sessions, Prize Presentation Day addresses, and programme engagements, our SAC members bring authentic stories of resilience, adaptability, and success that resonate deeply with our students. Their contributions have been wide-ranging and meaningful. Mr Desmond Fu, our SAC Chairman, has championed the unity and resilience that define our school community. Mr Roger Foong opened students' eyes to the value of non-linear career journeys, while Mr Andy Ng powerfully demonstrated that success extends beyond academic grades. Ms Gladys Wong's participation in our Connecting Heartily programme further deepened students' understanding of real-world applications of their learning.
+[](/images/About%20Us/Principal's%20Message%202026/Slide82.png)
 
-78 - [Slide 83] We are also pleased to welcome two new members to our SAC — Dr Tan Lay Pheng, Director at NAFA-University of The Arts Singapore, and Mr Chua Kwan Ping, Deputy CEO, Asia Pacific Sustainable Aviation Centre (APSAC).. We look forward to the perspectives and expertise they will bring to our school community. Through their continued commitment, our SAC strengthens the bridge between school and community — ensuring our students are prepared not just academically, but as confident, adaptable individuals ready to make their mark on the world.
+77 - Our School Advisory Committee remains an invaluable partner in enriching our students' learning beyond the classroom. Through Brown Bag Series sessions, Prize Presentation Day addresses, and programme engagements, our SAC members bring authentic stories of resilience, adaptability, and success that resonate deeply with our students. Their contributions have been wide-ranging and meaningful. Mr Desmond Fu, our SAC Chairman, has championed the unity and resilience that define our school community. Mr Roger Foong opened students' eyes to the value of non-linear career journeys, while Mr Andy Ng powerfully demonstrated that success extends beyond academic grades. Ms Gladys Wong's participation in our Connecting Heartily programme further deepened students' understanding of real-world applications of their learning.
 
-79 - [Slide 84] Our partnership with parents is built on three foundations — Respectful Communication, Being Role Models, and Building Real Connections. Guided by the MOE Engagement Charter, we foster meaningful dialogue through open conversations and established channels, while respecting everyone's work-life harmony.
+[](/images/About%20Us/Principal's%20Message%202026/Slide83.png)
 
-80 - [Slide 85] I would like to sincerely thank all our parents for upholding the MOE Engagement Charter — your commitment to respectful and constructive communication makes a real difference to our school community and, most importantly, to your children. We are truly grateful for your trust and partnership. 
+78 - We are also pleased to welcome two new members to our SAC — Dr Tan Lay Pheng, Director at NAFA-University of The Arts Singapore, and Mr Chua Kwan Ping, Deputy CEO, Asia Pacific Sustainable Aviation Centre (APSAC).. We look forward to the perspectives and expertise they will bring to our school community. Through their continued commitment, our SAC strengthens the bridge between school and community — ensuring our students are prepared not just academically, but as confident, adaptable individuals ready to make their mark on the world.
 
-81 - [Slide 86] Looking ahead, we’re committed to strengthening these partnerships further. Recent parent feedback highlights how our collaborative approach - from arranging bridging programmes for transitioning students to facilitating school transfers for students with medical needs - demonstrates our commitment to supporting each family's unique circumstances. To our parents, your partnership remains invaluable. When we work together with shared understanding and purpose, we create an environment where every StaR can truly shine.
+[](/images/About%20Us/Principal's%20Message%202026/Slide84.png)
+
+79 - Our partnership with parents is built on three foundations — Respectful Communication, Being Role Models, and Building Real Connections. Guided by the MOE Engagement Charter, we foster meaningful dialogue through open conversations and established channels, while respecting everyone's work-life harmony.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide85.png)
+
+80 - I would like to sincerely thank all our parents for upholding the MOE Engagement Charter — your commitment to respectful and constructive communication makes a real difference to our school community and, most importantly, to your children. We are truly grateful for your trust and partnership.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide86.png)
+
+81 - Looking ahead, we’re committed to strengthening these partnerships further. Recent parent feedback highlights how our collaborative approach - from arranging bridging programmes for transitioning students to facilitating school transfers for students with medical needs - demonstrates our commitment to supporting each family's unique circumstances. To our parents, your partnership remains invaluable. When we work together with shared understanding and purpose, we create an environment where every StaR can truly shine.
 
 **J.	Close**
 
 82 - In closing, it is my hope that today’s Prize Presentation Day be a celebration of all that our StaRs have accomplished and all that they aspire to become.
 
-83 - [Slide 87] At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
+[](/images/About%20Us/Principal's%20Message%202026/Slide87.png)
+
+83 - At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
 
 84 - From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
 
-85 - [Slide 88] Our School Admin Team is the heartbeat of our administrative operations, providing essential support, guidance, and expertise that keep our school running smoothly day in and day out.
+[](/images/About%20Us/Principal's%20Message%202026/Slide88.png)
 
-86 - [Slide 89] Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student. 
+85 - Our School Admin Team is the heartbeat of our administrative operations, providing essential support, guidance, and expertise that keep our school running smoothly day in and day out.
 
-87 - [Slide 90] On this note, I would like to extend my heartiest congratulations to all the staff who are promoted in April 2026.
+[](/images/About%20Us/Principal's%20Message%202026/Slide89.png)
 
-88 - [Slide 91] Reflecting on my years at Serangoon Secondary School, Staff Welfare has been one of the most important domains driving us forward. I have always believed that taking care of the school means taking care of our people first. To lift a quote from our founding father, our late PM LKY "For the young, let me tell you the sky has turned brighter. There's a glorious rainbow that beckons those with the spirit of adventure. And there are rich findings at the end of the rainbow. To the young and to the not-so-old, I say, look at that horizon, follow that rainbow, go ride it."  Diving deeper into the text, he meant to say that  This signals hope and optimism after a difficult period. “Sky has turned brighter” suggests clouds/trouble have passed. For students, it frames the future as full of possibility, not fear..The “rainbow” = new opportunities, dreams, goals. But it only “beckons” — calls out to — people willing to take risks and explore. No adventure, no rainbow...“Rich findings” = growth, skills, friendships, purpose, character. It’s about what you become on the journey...“Young and not-so-old” = Inclusive. This isn’t just for Sec 1s — staff, alumni, parents can all still chase dreams...Have vision. Lift your eyes beyond the daily grind...“Follow that rainbow” = Commit to the journey. It takes Self-directedness and Resilience....“Go ride it” = Don’t just watch — act. Be bold. This is the call to agency and leadership. 
+86 - Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student.
 
-89 - [Slide 92] I would like to thank the core planning committee led by VP/ Mrs Wong, VP/ Mr Marc, VPA/ Mr Raja, HOD C&amp;T/ Alvin, HOD Data Management/ Pei Lin and HOD Science/ Sze Gin and the entire school team for their hard work and perseverance, without which this 98th Prize Presentation Day would not have been possible.
+[](/images/About%20Us/Principal's%20Message%202026/Slide90.png)
 
-90 - [Slide 93] Thank you for your presence today.
+87 - On this note, I would like to extend my heartiest congratulations to all the staff who are promoted in April 2026.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide91.png)
+
+88 - Reflecting on my years at Serangoon Secondary School, Staff Welfare has been one of the most important domains driving us forward. I have always believed that taking care of the school means taking care of our people first. To lift a quote from our founding father, our late PM LKY "For the young, let me tell you the sky has turned brighter. There's a glorious rainbow that beckons those with the spirit of adventure. And there are rich findings at the end of the rainbow. To the young and to the not-so-old, I say, look at that horizon, follow that rainbow, go ride it."  Diving deeper into the text, he meant to say that  This signals hope and optimism after a difficult period. “Sky has turned brighter” suggests clouds/trouble have passed. For students, it frames the future as full of possibility, not fear..The “rainbow” = new opportunities, dreams, goals. But it only “beckons” — calls out to — people willing to take risks and explore. No adventure, no rainbow...“Rich findings” = growth, skills, friendships, purpose, character. It’s about what you become on the journey...“Young and not-so-old” = Inclusive. This isn’t just for Sec 1s — staff, alumni, parents can all still chase dreams...Have vision. Lift your eyes beyond the daily grind...“Follow that rainbow” = Commit to the journey. It takes Self-directedness and Resilience....“Go ride it” = Don’t just watch — act. Be bold. This is the call to agency and leadership. 
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide92.png)
+
+89 - I would like to thank the core planning committee led by VP/ Mrs Wong, VP/ Mr Marc, VPA/ Mr Raja, HOD C&amp;T/ Alvin, HOD Data Management/ Pei Lin and HOD Science/ Sze Gin and the entire school team for their hard work and perseverance, without which this 98th Prize Presentation Day would not have been possible.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide93.png)
+
+90 - Thank you for your presence today.
 
 <hr>
