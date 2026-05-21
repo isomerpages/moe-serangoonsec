@@ -336,19 +336,45 @@ Because we care.
 
 58 - That conviction has only grown stronger. We moved to more online end-of-year meetings and extended the PVT framework. Most recently, we completed renovations to our Staff Pantry, creating a vibrant and welcoming space for our teachers. More Flexible Workplace Arrangements are now on the horizon.
 
-Section G3: FWA
+**Section G3: FWA**
 
-59 - [Slide 63] Our commitment to staff well-being goes beyond professional development. Building on our Flexible Work Arrangements framework, we have taken a more systematic approach this year — giving staff greater flexibility in when they work (flexi-time), where they work (flexi-place), and how their workload is structured (flexi-load), all aligned with the Teacher Work Management Framework. Work-from-Home arrangements are now structured around designated days each term, with clear guidelines for all parties. [Slide 64] Our Part-Time Employment scheme and individualised arrangements continue to show that flexibility and educational excellence can go hand in hand. [Slide 65] Looking ahead, we are actively exploring early dismissal arrangements for Term 3, 2026, and remain committed to regular reviews to ensure our FWA policies evolve with our staff's needs.
+[](/images/About%20Us/Principal's%20Message%202026/Slide63.png)
+
+59 - Our commitment to staff well-being goes beyond professional development. Building on our Flexible Work Arrangements framework, we have taken a more systematic approach this year — giving staff greater flexibility in when they work (flexi-time), where they work (flexi-place), and how their workload is structured (flexi-load), all aligned with the Teacher Work Management Framework. Work-from-Home arrangements are now structured around designated days each term, with clear guidelines for all parties.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide64.png)
+
+Our Part-Time Employment scheme and individualised arrangements continue to show that flexibility and educational excellence can go hand in hand.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide65.png)
+
+Looking ahead, we are actively exploring early dismissal arrangements for Term 3, 2026, and remain committed to regular reviews to ensure our FWA policies evolve with our staff's needs.
 
 **H.	Building and Infrastructure**
 
-60 - [Slide 66] As part of our ongoing efforts to provide the best possible education for our students, [Slide 67 – AI generated] we continue work in infrastructure-upgrading projects. These enhancements will significantly improve the teaching and learning environment for all staff and students.
+[](/images/About%20Us/Principal's%20Message%202026/Slide66.png)
 
-61 - [Slide 68] I am pleased to share about the redesign of the Student Activity Centre, the ORION Room to transform it into a safe, welcoming, and student-centred space. We envision the ORION Room as a multi-functional space. Students can seek support through peer conversations and counselling. It will be a hub for student-led initiatives and other bonding activities, encouraging positive peer relationships. 
+60 - As part of our ongoing efforts to provide the best possible education for our students,
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide67.png)
+
+we continue work in infrastructure-upgrading projects. These enhancements will significantly improve the teaching and learning environment for all staff and students.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide68.png)
+
+61 - I am pleased to share about the redesign of the Student Activity Centre, the ORION Room to transform it into a safe, welcoming, and student-centred space. We envision the ORION Room as a multi-functional space. Students can seek support through peer conversations and counselling. It will be a hub for student-led initiatives and other bonding activities, encouraging positive peer relationships. 
 
 62 - Importantly, student agency is at the heart of this redesign. Student leaders are actively involved in shaping the purpose and functions of the space. We want this space to reflect students’ voices, while also fostering a strong sense of ownership and belonging within the school.
 
-63 - As we embark on our infrastructure enhancement projects, we remain cognizant that these are also powerful platforms for student leadership development. Last year marked significant milestones in our efforts to enhance the school environment for our students. [Slide 69] We successfully commissioned the Student Services Hub, a one-stop centre providing critical support services to our students. We also realised the long-awaited [Slide 70] synthetic field, and completed the upgrading of our toilets, giving our students fresh and improved facilities.
+63 - As we embark on our infrastructure enhancement projects, we remain cognizant that these are also powerful platforms for student leadership development. Last year marked significant milestones in our efforts to enhance the school environment for our students.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide69.png)
+
+We successfully commissioned the Student Services Hub, a one-stop centre providing critical support services to our students. We also realised the long-awaited
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide70.png)
+
+synthetic field, and completed the upgrading of our toilets, giving our students fresh and improved facilities.
 
 64 - Building on this momentum, I am pleased to announce a series of infrastructure upgrading projects that will further transform our school environment. These enhancements reflect our unwavering commitment to providing a conducive and welcoming space where our students and staff can thrive. The upgrading works include:
 
