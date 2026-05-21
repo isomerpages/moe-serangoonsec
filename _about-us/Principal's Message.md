@@ -222,35 +222,71 @@ The Tamil Language Unit similarly nurtures students' connection to Tamil culture
 
 [](/images/About%20Us/Principal's%20Message%202026/Slide39.png)
 
-37 - The Humanities Engagement Programme builds knowledge and passion progressively — from investigating water quality at our school pond in Secondary 1, to exploring Singapore's history at Kranji War Cemetery and Fort Siloso in Secondary 2, to engaging with real-world issues through their electives in Secondary 3. [Slide 40] Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamzah and Mr Matt Yee have transformed feedback and harnessed AI for Socratic questioning and targeted essay, while  collaborating with NIE and the Academy of Singapore Teachers, to keep our curriculum at the cutting edge.
+37 - The Humanities Engagement Programme builds knowledge and passion progressively — from investigating water quality at our school pond in Secondary 1, to exploring Singapore's history at Kranji War Cemetery and Fort Siloso in Secondary 2, to engaging with real-world issues through their electives in Secondary 3.
 
-Section D2B:CG2
+[](/images/About%20Us/Principal's%20Message%202026/Slide40.png)
 
-38 - [Slide 41] Innovation is at the heart of our Craft and Technology Department, spanning Design and Technology, Nutrition and Food Science, and Art. In Design and Technology, our collaboration with Samsung brings Interactive Flat Displays and tablets into the classroom, while our partnership with STUCK Design's HYPERSKETCH platform deepens students' AI literacy and design thinking. Students also showcase their skills at competitions such as the D&amp;T Awards and the Design Innovation Challenge. [Slide 42] In Nutrition and Food Science, the Connecting Heartily Project empowers students to create nutritious, sustainable food products addressing real-world health challenges. This year, Secondary 3 students visited Lee Wee Brothers for authentic industry exposure, developing not just culinary skills but also critical thinking and a sense of responsibility towards community health. [Slide 43] In Art, students progress from foundational visual literacy to advanced portfolio development, enriched by gallery visits and a Design Immersion Programme with tertiary institutions that bridge secondary education to future career pathways. Across all three units, our Craft and Technology Department cultivates creative problem-solving, digital literacy, and social responsibility — preparing students to be creatively confident and future-ready.
+Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamzah and Mr Matt Yee have transformed feedback and harnessed AI for Socratic questioning and targeted essay, while  collaborating with NIE and the Academy of Singapore Teachers, to keep our curriculum at the cutting edge.
 
-39 - [Slide 44] Our Science Department operates on a deliberate 4-year roadmap to ensure every experience is purposeful and progressive — inspiring students to inquire like scientists and innovate using science. This comes to life through initiatives like the Science Garden Project, where students grow their own vegetables to explore food security, and STEM activities such as designing water filtration systems, solar ovens, and marble runs at the Science Centre.
+**Section D2B:CG2**
 
-40 - [Slide 45] I am also proud to launch The Elemental Forge, our revamped Science Talent Framework, which takes a structured, tiered approach to nurturing scientific talent — from lab and field experiences to design thinking and competitions. [slide 46] On that note, I would like to celebrate Ethan and Javier from 4N8, who represented our school at the 27th International Elementz Fair. Their AI-powered recycling sorter, RecySense, earned them a well-deserved Silver Award. Please join me in congratulating them. Our students from Infocomm Club have also done us proud, with the team comprising Javier, Fernando from 4N8 and Brandon from 4N7 clinching the first place in the RoboCup 2026, Under 19 category.
+[](/images/About%20Us/Principal's%20Message%202026/Slide41.png)
 
-41 - [Slide 47] Our Mathematics Department brings the joy of discovery to life through signature programmes that extend learning beyond the classroom. Sec 1 students engage in game-based activities on Mathematics Learning Day to build reasoning and communication skills, while Pi Day sparks curiosity through hands-on exploration. At the upper secondary level, our Financial Literacy Programme connects Mathematics to real-world applications in budgeting, investment, and scam awareness. EdTech tools like SLS FA-Math and the Adaptive Learning System further empower students through personalised feedback and self-directed learning.
+38 - Innovation is at the heart of our Craft and Technology Department, spanning Design and Technology, Nutrition and Food Science, and Art. In Design and Technology, our collaboration with Samsung brings Interactive Flat Displays and tablets into the classroom, while our partnership with STUCK Design's HYPERSKETCH platform deepens students' AI literacy and design thinking. Students also showcase their skills at competitions such as the D&amp;T Awards and the Design Innovation Challenge. 
 
-42 - [Slide 48] I am also proud to congratulate Ms Eleanor Cheong, together with Science teacher Ms Caelyn Lim, for clinching the People's Choice Award and emerging as Champion in the STEM Teacher Challenge in 2025 — a wonderful testament to the creativity and dedication of our teachers in pushing the boundaries of teaching and learning.
+[](/images/About%20Us/Principal's%20Message%202026/Slide42.png)
+
+In Nutrition and Food Science, the Connecting Heartily Project empowers students to create nutritious, sustainable food products addressing real-world health challenges. This year, Secondary 3 students visited Lee Wee Brothers for authentic industry exposure, developing not just culinary skills but also critical thinking and a sense of responsibility towards community health.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide43.png)
+
+In Art, students progress from foundational visual literacy to advanced portfolio development, enriched by gallery visits and a Design Immersion Programme with tertiary institutions that bridge secondary education to future career pathways. Across all three units, our Craft and Technology Department cultivates creative problem-solving, digital literacy, and social responsibility — preparing students to be creatively confident and future-ready.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide44.png)
+
+39 - Our Science Department operates on a deliberate 4-year roadmap to ensure every experience is purposeful and progressive — inspiring students to inquire like scientists and innovate using science. This comes to life through initiatives like the Science Garden Project, where students grow their own vegetables to explore food security, and STEM activities such as designing water filtration systems, solar ovens, and marble runs at the Science Centre.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide45.png)
+
+40 - I am also proud to launch The Elemental Forge, our revamped Science Talent Framework, which takes a structured, tiered approach to nurturing scientific talent — from lab and field experiences to design thinking and competitions.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide46.png)
+
+On that note, I would like to celebrate Ethan and Javier from 4N8, who represented our school at the 27th International Elementz Fair. Their AI-powered recycling sorter, RecySense, earned them a well-deserved Silver Award. Please join me in congratulating them. Our students from Infocomm Club have also done us proud, with the team comprising Javier, Fernando from 4N8 and Brandon from 4N7 clinching the first place in the RoboCup 2026, Under 19 category.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide47.png)
+
+41 - Our Mathematics Department brings the joy of discovery to life through signature programmes that extend learning beyond the classroom. Sec 1 students engage in game-based activities on Mathematics Learning Day to build reasoning and communication skills, while Pi Day sparks curiosity through hands-on exploration. At the upper secondary level, our Financial Literacy Programme connects Mathematics to real-world applications in budgeting, investment, and scam awareness. EdTech tools like SLS FA-Math and the Adaptive Learning System further empower students through personalised feedback and self-directed learning.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide48.png)
+
+42 - I am also proud to congratulate Ms Eleanor Cheong, together with Science teacher Ms Caelyn Lim, for clinching the People's Choice Award and emerging as Champion in the STEM Teacher Challenge in 2025 — a wonderful testament to the creativity and dedication of our teachers in pushing the boundaries of teaching and learning.
 
 43 - This culture of collaboration and innovation, championed by every department, does more than create exciting lessons — it actively cultivates the competencies our students need for the future: critical thinking, adaptability, creativity, and effective communication. We are equally committed to how learning takes place. Our curricular approaches — spanning content, pedagogy, and assessment — are designed to ignite a genuine Joy of Learning.
 
-44 - [Slide 49] Underpinning all of this is our commitment to curriculum leadership. Through the Leadership in Curriculum and Instruction (LCI) framework, I am personally committed to developing the curriculum leadership capabilities of our School Management Team — ensuring our educational practices remain dynamic, responsive, and progressive, supported by the systemic use of data.
+[](/images/About%20Us/Principal's%20Message%202026/Slide49.png)
+
+44 - Underpinning all of this is our commitment to curriculum leadership. Through the Leadership in Curriculum and Instruction (LCI) framework, I am personally committed to developing the curriculum leadership capabilities of our School Management Team — ensuring our educational practices remain dynamic, responsive, and progressive, supported by the systemic use of data.
 
 **E.	EdTech 2030 Masterplan **
 
-45 - [Slide 50] At Serangoon Secondary School, our EdTech journey is guided by the vision that "Teaching and learning can take place anytime, anywhere, with the appropriate digital device." This vision drives a transformative shift towards a digitally empowered learning experience, where students rely on their Personal Learning Devices to support their educational journey wherever learning is facilitated through EdTech-enabled approaches.
+[](/images/About%20Us/Principal's%20Message%202026/Slide50.png)
+
+45 - At Serangoon Secondary School, our EdTech journey is guided by the vision that "Teaching and learning can take place anytime, anywhere, with the appropriate digital device." This vision drives a transformative shift towards a digitally empowered learning experience, where students rely on their Personal Learning Devices to support their educational journey wherever learning is facilitated through EdTech-enabled approaches.
 
 **Core Digital Learning Experience**
 
-46 - [Slide 51 – AI Generated slide] Over the past few years, we have made significant strides in building this ecosystem. In 2024, we launched our structured Home-Based Learning routine, enabling students to learn from home on alternate Fridays using their devices. We also introduced Generative AI tools to our staff, digitalised key administrative workflows, and conducted a thorough review of our EdTech priorities — laying the groundwork for a four-year digital literacies curriculum and maximising the use of the Student Learning Space platform.
+[](/images/About%20Us/Principal's%20Message%202026/Slide51.png)
 
-47 - [Slide 52 - AI Generated slide] In 2025, we deepened our efforts through targeted staff training in partnership with ETD, the formation of an EdTech Taskforce, and the development of a comprehensive EdTech ecosystem paper that articulates how device-centric environments can transform teaching and learning. We also shared our journey with our cluster schools through a sharing session entitled "Building on Strengths, Ensuring Continuity" — a testament to our commitment to growing together as a community of educators.
+46 - Over the past few years, we have made significant strides in building this ecosystem. In 2024, we launched our structured Home-Based Learning routine, enabling students to learn from home on alternate Fridays using their devices. We also introduced Generative AI tools to our staff, digitalised key administrative workflows, and conducted a thorough review of our EdTech priorities — laying the groundwork for a four-year digital literacies curriculum and maximising the use of the Student Learning Space platform.
 
-48 - [Slide 53 - AI Generated slide] Looking ahead to 2026, we will continue to align our EdTech and 21st Century Competencies efforts for greater synergy, with three planned ETD consultancies to strengthen our implementation and ensure our students emerge as confident, self-directed, and technologically adept learners ready for the future.
+[](/images/About%20Us/Principal's%20Message%202026/Slide52.png)
+
+47 - In 2025, we deepened our efforts through targeted staff training in partnership with ETD, the formation of an EdTech Taskforce, and the development of a comprehensive EdTech ecosystem paper that articulates how device-centric environments can transform teaching and learning. We also shared our journey with our cluster schools through a sharing session entitled "Building on Strengths, Ensuring Continuity" — a testament to our commitment to growing together as a community of educators.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide53.png)
+
+48 - Looking ahead to 2026, we will continue to align our EdTech and 21st Century Competencies efforts for greater synergy, with three planned ETD consultancies to strengthen our implementation and ensure our students emerge as confident, self-directed, and technologically adept learners ready for the future.
 F. Strategic Approach for E21CC in SSS
 
 49 - [Slide 54] We are guided by the Framework for 21st Century Competencies and Student Outcomes (21CC Framework) which articulates MOE’s vision for holistic student development. Values form the core, supported by Social-Emotional Competencies, and extended through the Emerging 21st Century Competencies (E21CC) domains. At SSS, we are taking on a phased approach to emphasise alignment in our existing programmes and focusing on professional capacity building.
