@@ -172,27 +172,39 @@ The learning continues beyond the trip itself, with post-trip sharing sessions a
 
 **D.	Curriculum and Instruction**
 
-27 - [slide 30] In the last two years, I have shared how our academic departments have tailored learning experiences for our Serangoon StaRs that will equip them with the skills and attributes they need to thrive in today’s world.
+[](/images/About%20Us/Principal's%20Message%202026/Slide30.png)
+
+27 - In the last two years, I have shared how our academic departments have tailored learning experiences for our Serangoon StaRs that will equip them with the skills and attributes they need to thrive in today’s world.
 
 **Section D1: Acknowledgement and Celebration of Success**
 
-28 - [Slide 31] Before I go further, let me acknowledge the Class of 2025's National Examination results. Across both N and O Levels, we saw an encouraging upward trend — more students qualifying for polytechnic pathways and post-secondary options of their choice. The Early Admission Exercise also saw strong uptake, with a significant proportion securing placements ahead of results day. These results reflect our students' resilience and the steadfast support of our teachers and families.
+[](/images/About%20Us/Principal's%20Message%202026/Slide31.png)
+
+28 - Before I go further, let me acknowledge the Class of 2025's National Examination results. Across both N and O Levels, we saw an encouraging upward trend — more students qualifying for polytechnic pathways and post-secondary options of their choice. The Early Admission Exercise also saw strong uptake, with a significant proportion securing placements ahead of results day. These results reflect our students' resilience and the steadfast support of our teachers and families.
 
 29 - Today, we celebrate not just results, but the character and perseverance that made them possible. 
 
-Section D2: Department signature programmes
+**Section D2: Department signature programmes**
 
-Section D2A: CG1
+**Section D2A: CG1**
 
-30 - [Slide 32] At the heart of our learning culture is collaboration — the belief that learning is most powerful when connections are made across disciplines, mirroring the real world. Learning comes alive when subjects connect. Our Secondary 1 Inter-departmental Project Work brings together English Language, Science, and Humanities, guiding students through real-world experimentation, research, and presentation — breaking down subject silos and building holistic problem-solving skills. Students work together to construct a water filtration system, learn about soil composition from Geography lesson and finally presenting the project in front of their peers.
+[](/images/About%20Us/Principal's%20Message%202026/Slide32.png)
 
-31 - [Slide 33] Our English Language and Literature teachers believe that to truly understand a subject, students need to feel it. The 'Script to Stage' programme, now in its second year, has students staging their own plays — building adaptive thinking, collaboration, and communication along the way. As student Chelsy from 2H1 put it, "Bringing us out of the classroom to stage our play has made us more interested in the subject.".
+30 - At the heart of our learning culture is collaboration — the belief that learning is most powerful when connections are made across disciplines, mirroring the real world. Learning comes alive when subjects connect. Our Secondary 1 Inter-departmental Project Work brings together English Language, Science, and Humanities, guiding students through real-world experimentation, research, and presentation — breaking down subject silos and building holistic problem-solving skills. Students work together to construct a water filtration system, learn about soil composition from Geography lesson and finally presenting the project in front of their peers.
 
-32 - This year, EL department expanded our [Click] Talent Development Programme with 'Plates to Plays', where students explore creative writing under a professional artiste through the NAC Artist-in-Residence scheme, drawing on the uniquely Singaporean experience of food to find their own voices.
+[](/images/About%20Us/Principal's%20Message%202026/Slide33.png)
 
-33 - [Slide 34] Innovation continues in the classroom too — Ms Timmie Tan's 'Character Chatbot' lets students interact directly with literary characters, an approach so well-received it was shared at the SG Learning Designers' Circle.
+31 - Our English Language and Literature teachers believe that to truly understand a subject, students need to feel it. The 'Script to Stage' programme, now in its second year, has students staging their own plays — building adaptive thinking, collaboration, and communication along the way. As student Chelsy from 2H1 put it, "Bringing us out of the classroom to stage our play has made us more interested in the subject.".
 
-34 - [Slide 35] Our Mother Tongue Language Department ignites a joyful learning experience for students through enriching and authentic cultural experiences, deepening their linguistic proficiency while fostering a profound appreciation for their heritage and identity.
+32 - This year, EL department expanded our Talent Development Programme with 'Plates to Plays', where students explore creative writing under a professional artiste through the NAC Artist-in-Residence scheme, drawing on the uniquely Singaporean experience of food to find their own voices.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide34.png)
+
+33 - Innovation continues in the classroom too — Ms Timmie Tan's 'Character Chatbot' lets students interact directly with literary characters, an approach so well-received it was shared at the SG Learning Designers' Circle.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide35.png)
+
+34 - Our Mother Tongue Language Department ignites a joyful learning experience for students through enriching and authentic cultural experiences, deepening their linguistic proficiency while fostering a profound appreciation for their heritage and identity.
 
 35 - Debating continues to be a signature platform shared across all three language streams, with students from the Chinese, Malay, and Tamil units participating in both school-based and national competitions. These experiences sharpen critical thinking, strengthen communication skills, and build the confidence to articulate perspectives with clarity and conviction.
 
