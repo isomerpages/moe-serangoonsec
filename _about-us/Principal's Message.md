@@ -57,13 +57,11 @@ Mr Ngiam Tong Dow, one of Singapore's most respected top Civil Service Permanent
 
 Our alumni embody integrity, resilience, and compassion — leaders in their fields and pillars of their communities. We pay tribute to the Serangoon Alumni, whose continued support keeps our school's legacy vibrant and strong.
 
-***B.	P’s Directional Setting of 54321 ***
-
 ![](/images/About%20Us/Principal's%20Message%202026/Slide8.png)
 
 4 - At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with heartfelt gratitude.
 
-***B.	P’s Directional Setting of 54321 ***
+**B.	P’s Directional Setting of 54321**
 
 ![](/images/About%20Us/Principal's%20Message%202026/Slide9.png)
 
