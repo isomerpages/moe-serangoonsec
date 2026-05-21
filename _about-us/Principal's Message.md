@@ -394,19 +394,37 @@ Our school campus will be refreshed and reimagined through a vibrant palette of 
 
 68 - Reimagined Canteen
 
-[Slide 72] The reimagined canteen will be far more than just a dining space. Thoughtfully designed as a phone-free premier social hub, it will engage and stimulate the senses, foster meaningful connections among students, provide a platform for showcasing individual talents, and support collaborative group work.
+[](/images/About%20Us/Principal's%20Message%202026/Slide72.png)
+
+The reimagined canteen will be far more than just a dining space. Thoughtfully designed as a phone-free premier social hub, it will engage and stimulate the senses, foster meaningful connections among students, provide a platform for showcasing individual talents, and support collaborative group work.
 
 69 - Creative Hub
 
-[Slide 73] The Creative Hub will serve as a dynamic extension of our learning spaces, seamlessly connecting our arts, science, and language building into a vibrant node of creativity and expression. It will be a space where the arts in all forms flourish, talents are celebrated, and outdoor teaching and learning come alive. Students will be encouraged to experiment freely with arts and crafts, music, and the natural environment, nurturing curiosity, imagination, and a love for learning.
+[](/images/About%20Us/Principal's%20Message%202026/Slide73.png)
+
+The Creative Hub will serve as a dynamic extension of our learning spaces, seamlessly connecting our arts, science, and language building into a vibrant node of creativity and expression. It will be a space where the arts in all forms flourish, talents are celebrated, and outdoor teaching and learning come alive. Students will be encouraged to experiment freely with arts and crafts, music, and the natural environment, nurturing curiosity, imagination, and a love for learning.
 
 70 - At the heart of all these upgrading projects is the spirit of student agency and staff participation. By involving our school community in shaping these spaces, we foster a deep sense of ownership, pride, and belonging — ensuring that these are not merely physical upgrades, but meaningful investments in the soul of our school.
 
 **I.	Our Partnerships**
 
-71 - [Slide 74] No school thrives in isolation. Our partnerships with external stakeholders — be it industry partners, community organisations, or institutions of higher learning — are integral to enriching the schooling experience we provide. [Slide 75] These collaborations allow us to tap into a wider pool of expertise, resources, and real-world perspectives that would be difficult to replicate within the school alone. By building a strong community of support around our students, we are able to create opportunities that are more diverse, meaningful, and relevant — preparing them not just for examinations, but for life beyond school.
+[](/images/About%20Us/Principal's%20Message%202026/Slide74.png)
 
-72 - In our partnerships with Self-help groups, we continue our vital partnerships with CDAC, SINDA, and MENDAKI to support students through their diverse programmes.  Beyond academic support, our students also contribute actively to the community. [Slide 76] A prime example is our Malay Dance group, which recently partnered with the Police Headquarters to support and perform for their Hari Raya Celebrations, fostering strong ties with our uniformed partners. [Slide 77] Last year, our school embarked on its first year of partnership with Nanyang Polytechnic (NYP) School of Engineering (SEG), centred on an opportunity for students who had applied to NYP SEG courses as their first choice through the EAE. To date, we are also exploring possible ECG collaborations with Republic Polytechnic, NAFA-University of the Arts Singapore and LASALLE College of the Arts.
+71 - No school thrives in isolation. Our partnerships with external stakeholders — be it industry partners, community organisations, or institutions of higher learning — are integral to enriching the schooling experience we provide.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide75.png)
+
+These collaborations allow us to tap into a wider pool of expertise, resources, and real-world perspectives that would be difficult to replicate within the school alone. By building a strong community of support around our students, we are able to create opportunities that are more diverse, meaningful, and relevant — preparing them not just for examinations, but for life beyond school.
+
+72 - In our partnerships with Self-help groups, we continue our vital partnerships with CDAC, SINDA, and MENDAKI to support students through their diverse programmes.  Beyond academic support, our students also contribute actively to the community.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide76.png)
+
+A prime example is our Malay Dance group, which recently partnered with the Police Headquarters to support and perform for their Hari Raya Celebrations, fostering strong ties with our uniformed partners.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide77.png)
+
+Last year, our school embarked on its first year of partnership with Nanyang Polytechnic (NYP) School of Engineering (SEG), centred on an opportunity for students who had applied to NYP SEG courses as their first choice through the EAE. To date, we are also exploring possible ECG collaborations with Republic Polytechnic, NAFA-University of the Arts Singapore and LASALLE College of the Arts.
 
 **Section I1: PSG**
 
