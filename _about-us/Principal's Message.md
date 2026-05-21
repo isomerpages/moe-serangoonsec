@@ -117,25 +117,58 @@ Our alumni embody integrity, resilience, and compassion — leaders in their fie
 
 ***Section C2: Overseas Learning Journeys***
 
-17 - [Slide 20] Overseas learning journeys remain central to developing our students' 21st Century Competencies. Building on recce trips to Brunei and Vietnam in 2023, [Slide 21] we expanded the programme in 2025 with a third destination  —  China — [Slide 22] reflecting our commitment to a structured, [Slide 23] progressive global learning experience in ASEAN and Asia.  These journeys push students to step beyond their comfort zones, [Slide 24]  building cultural sensitivity, resilience, and cross-cultural communication skills.  [Slide 25] The learning continues beyond the trip itself, with post-trip sharing sessions at assembly where students reflect on their growth and inspire their peers. [Slide 25] 
-Section C3: One Class, One Kampong, One Serangoon
+[](/images/About%20Us/Principal's%20Message%202026/Slide20.png)
 
-18 - [Slide 26] SSS has consistently pride herself with a strong culture of care as a core strength. The Student Development Team (SDT) plays a critical role in the planning, implementing and monitoring to guide our Serangoon StaRs. Allow me to share broadly key directional shifts over the past few years:
+17 - Overseas learning journeys remain central to developing our students' 21st Century Competencies. Building on recce trips to Brunei and Vietnam in 2023, 
 
-19 - [Slide 27 -  AI generated] In 2023, the team noted the importance of care element in the work we do, and we renamed the Case Management Team to Care and Case Management Team (C2MT). We discussed roles and responsibilities within SDT, upstream and downstream measures, and looked into streamlining and integrating processes to help uplift our students with additional needs. This outlines the importance of inclusivity.  
-20 - [Click] In 2024, we started making shifts and embarked on ‘One Class, One Kampong, One Serangoon’. [Click] Firstly, having our Year Heads and School Counsellors follow up with their cohorts to ensure greater Teacher-Student Relationships, and reallocating Educational Support processes into Year Head and Student Management workflows. [Click] The C2MT triage workflow was also formulated and digitalized, and the SD road maps were drawn out. [Click] The class ecosystem data toolkit was introduced to consolidate key information through a data analytics dashboard, comprising check-in surveys, social network analysis and various class-based information parameters.
+[](/images/About%20Us/Principal's%20Message%202026/Slide21.png)
 
-21 - [Slide 28 – AI generated] In 2025, the School Staff Developer, HOD/Data Management and HOD/CCE joined the C2MT. This allowed us to better coordinate upstream measures, strengthened the use of data and looked into further building staff capacity. For the first time, the respective level FTs and subject teachers came together to discuss about the students during the conduct grade exercise. The sharing of good practices was also enhanced, with multiple sharing sessions at Staff Contact Time by FTs, for FTs. This allowed FTs to better provide more timely and targeted support at the class level.
+we expanded the programme in 2025 with a third destination  —  China —
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide22.png)
+
+reflecting our commitment to a structured,
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide23.png)
+
+progressive global learning experience in ASEAN and Asia.  These journeys push students to step beyond their comfort zones, 
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide24.png)
+
+building cultural sensitivity, resilience, and cross-cultural communication skills. 
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide25.png)
+
+The learning continues beyond the trip itself, with post-trip sharing sessions at assembly where students reflect on their growth and inspire their peers.
+
+**Section C3: One Class, One Kampong, One Serangoon**
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide26.png)
+
+18 - SSS has consistently pride herself with a strong culture of care as a core strength. The Student Development Team (SDT) plays a critical role in the planning, implementing and monitoring to guide our Serangoon StaRs. Allow me to share broadly key directional shifts over the past few years:
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide27.png)
+
+19 - In 2023, the team noted the importance of care element in the work we do, and we renamed the Case Management Team to Care and Case Management Team (C2MT). We discussed roles and responsibilities within SDT, upstream and downstream measures, and looked into streamlining and integrating processes to help uplift our students with additional needs. This outlines the importance of inclusivity.
+
+
+20 - In 2024, we started making shifts and embarked on ‘One Class, One Kampong, One Serangoon’. Firstly, having our Year Heads and School Counsellors follow up with their cohorts to ensure greater Teacher-Student Relationships, and reallocating Educational Support processes into Year Head and Student Management workflows. The C2MT triage workflow was also formulated and digitalized, and the SD road maps were drawn out. The class ecosystem data toolkit was introduced to consolidate key information through a data analytics dashboard, comprising check-in surveys, social network analysis and various class-based information parameters.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide28.png)
+
+21 - In 2025, the School Staff Developer, HOD/Data Management and HOD/CCE joined the C2MT. This allowed us to better coordinate upstream measures, strengthened the use of data and looked into further building staff capacity. For the first time, the respective level FTs and subject teachers came together to discuss about the students during the conduct grade exercise. The sharing of good practices was also enhanced, with multiple sharing sessions at Staff Contact Time by FTs, for FTs. This allowed FTs to better provide more timely and targeted support at the class level.
 
 22 - To further strengthen the class ecosystem this year, level themes have been translated into clear cohort goals and communicated to staff and students at the start of the year. These will guide class directions and individual targets, ensuring greater coherence in student development. To strengthen alignment between students' developmental experiences and level themes, the following enhancements will be implemented in 2026.
 
-23 - [Click] Learning and reflection from StaRs Programme will be aligned to level themes and cohort goals. The Emerging 21st Century Competencies framework will be systematically woven into the class ecosystem approach, with identified competencies embedded in reflection activities and students recording their development in the CCE journal.
+23 - Learning and reflection from StaRs Programme will be aligned to level themes and cohort goals. The Emerging 21st Century Competencies framework will be systematically woven into the class ecosystem approach, with identified competencies embedded in reflection activities and students recording their development in the CCE journal.
 
-24 - [Click] Secondly, with greater use of data and providing teachers with autonomy to build a positive classroom culture, time was set aside for individual class bonding activities, with class committee leaders actively involved in the planning and implementation of bonding sessions.
+24 - Secondly, with greater use of data and providing teachers with autonomy to build a positive classroom culture, time was set aside for individual class bonding activities, with class committee leaders actively involved in the planning and implementation of bonding sessions.
 
 25 - We are also expanding our Form Teacher (FT) data toolkit: with SDCD's Enhanced Social-Emotional Competency Rating Tool (My SEI) to help teachers better understand and support students' social-emotional development. All insights and student development progress will then be documented in CCE journals to facilitate person-centred Parent Engagement Sessions.
 
-26 - [Slide 29] The School Leaders will walk the talk in our efforts to grow our Serangoon StaRs. All students will continue to have direct access to the SLs to dialogue and provide their views and feedback. SLs will also do home visits to support our students with additional needs. We strongly believe that a strong culture of care is the foundation of effective learning. When our students feel supported and understood, they are then better positioned to excel.
+[](/images/About%20Us/Principal's%20Message%202026/Slide29.png)
+
+26 - The School Leaders will walk the talk in our efforts to grow our Serangoon StaRs. All students will continue to have direct access to the SLs to dialogue and provide their views and feedback. SLs will also do home visits to support our students with additional needs. We strongly believe that a strong culture of care is the foundation of effective learning. When our students feel supported and understood, they are then better positioned to excel.
 
 **D.	Curriculum and Instruction**
 
