@@ -4,6 +4,7 @@ permalink: /about-us/principalsmessage/
 description: ""
 variant: markdown
 ---
+
 ### Principal's Message
 
 <img src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
@@ -571,3 +572,5 @@ and most importantly, students of Serangoon Secondary School.
 **Mr. Fu Chuan Chong**
 <br>*Director, School of Hospitality, Republic Polytechnic*
 <br>Former student of SSS
+
+<hr>
