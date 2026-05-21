@@ -208,9 +208,21 @@ The learning continues beyond the trip itself, with post-trip sharing sessions a
 
 35 - Debating continues to be a signature platform shared across all three language streams, with students from the Chinese, Malay, and Tamil units participating in both school-based and national competitions. These experiences sharpen critical thinking, strengthen communication skills, and build the confidence to articulate perspectives with clarity and conviction.
 
-36 - [Slide 36] Beyond debating, each unit also offers enrichment programmes that connect students to their cultural roots in meaningful ways. The Chinese Language Unit's Xin Yao Appreciation Workshop brings students closer to Singapore's local Chinese music heritage through music, storytelling, and lyric writing. [Slide 37] The Malay Language Unit engages students through culturally authentic activities that deepen their appreciation of Malay language and traditions. [Slide 38] The Tamil Language Unit similarly nurtures students' connection to Tamil culture and identity through purposeful and engaging learning experiences.
+[](/images/About%20Us/Principal's%20Message%202026/Slide36.png)
 
-37 - [Slide 39] The Humanities Engagement Programme builds knowledge and passion progressively — from investigating water quality at our school pond in Secondary 1, to exploring Singapore's history at Kranji War Cemetery and Fort Siloso in Secondary 2, to engaging with real-world issues through their electives in Secondary 3. [Slide 40] Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamzah and Mr Matt Yee have transformed feedback and harnessed AI for Socratic questioning and targeted essay, while  collaborating with NIE and the Academy of Singapore Teachers, to keep our curriculum at the cutting edge.
+36 - Beyond debating, each unit also offers enrichment programmes that connect students to their cultural roots in meaningful ways. The Chinese Language Unit's Xin Yao Appreciation Workshop brings students closer to Singapore's local Chinese music heritage through music, storytelling, and lyric writing.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide37.png)
+
+The Malay Language Unit engages students through culturally authentic activities that deepen their appreciation of Malay language and traditions.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide38.png)
+
+The Tamil Language Unit similarly nurtures students' connection to Tamil culture and identity through purposeful and engaging learning experiences.
+
+[](/images/About%20Us/Principal's%20Message%202026/Slide39.png)
+
+37 - The Humanities Engagement Programme builds knowledge and passion progressively — from investigating water quality at our school pond in Secondary 1, to exploring Singapore's history at Kranji War Cemetery and Fort Siloso in Secondary 2, to engaging with real-world issues through their electives in Secondary 3. [Slide 40] Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamzah and Mr Matt Yee have transformed feedback and harnessed AI for Socratic questioning and targeted essay, while  collaborating with NIE and the Academy of Singapore Teachers, to keep our curriculum at the cutting edge.
 
 Section D2B:CG2
 
