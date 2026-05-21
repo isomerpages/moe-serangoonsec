@@ -503,3 +503,71 @@ We envision our youth alumni as partners and mentors who can inspire, guide, and
 90 - Thank you for your presence today.
 
 <hr>
+
+Good morning,
+
+**School Advisory Committee Members, **
+
+**Principal, Mr Remington Chen, **
+
+Vice-Principals, teachers, parents,
+
+and most importantly, students of Serangoon Secondary School.
+
+2 - It is such a privilege for me to be here today at the 98th Prize Presentation Day. Today is not just about awards or grades. It is about celebrating effort, growth, and the journey each of you has taken to get here.
+
+3 - First, my heartiest congratulations to all prize recipients. Your hard work and perseverance have brought you here. But remember, it is not just about the awards. The late nights, the challenges you overcame, and the small steps you have taken to improve yourselves are just as important. They form the foundation of your future success.
+
+4 - I would like to recognise a few individuals who have gone above and beyond. Alumni Lum Yip Hon, Derren, will receive the 2nd Tier Friends of SSS Award for his ongoing contributions. As Senior Cadet Inspector, he has led the NPCC drill team, mentored new cadets, and volunteered regularly. His dedication shows that leadership and giving back can continue long after you leave school.
+
+5 - This year’s valedictorian, Richelle Lim Jia Rui, has excelled in academics, conduct, and CCA while holding top leadership roles.  She has been nominated for the Lee Kuan Yew All Round Excellence Award and received the Red Cross Youth Director’s Award in 2025. Richelle proves that hard work, discipline, and passion can take you far in every area of life.
+
+6 - Their stories remind us that success is not just about grades. It is about character, contribution, leadership, and the impact you have on others.
+
+7 - Today, I want to share three points with you. First, the value of school partnerships. Second, my personal education journey in this school. Third, why life skills and soft skills matter as much as academic achievements.
+
+8 - One-way schools prepare you for life is through partnerships with our Institutes of Higher Learning. 
+
+9 - These collaborations give you opportunities to experience learning in real-life contexts, beyond the classroom.
+
+10 - Partnering with Institutes of Higher Learning (IHLs), like ITEs, polytechnics or universities, is important for secondary schools for several key reasons, especially in preparing students for life beyond the classroom:
+
+11 - IHLs allow students to try out subjects, projects, or disciplines they might not have at school. These help them discover interests, strengths, and potential career paths early, reducing uncertainty when choosing post-secondary education.
+
+12 - Familiarity with the teaching styles at IHLs, project-based work, and collaborative learning platforms prepare students for the demands of polytechnics or universities. They develop confidence and skills that make the transition smoother and less intimidating.
+
+13 - In short, partnering with IHLs allows students like you, experience learning in “real world” contexts, develop essential life skills and soft skills, explore future pathways, and build confidence for life after school. It transforms education from just preparing for exams to preparing for life.
+
+14 - On that note, the partnership between Serangoon Secondary School and Republic Polytechnic aligns perfectly with the recent 2026 Minister of Education Committee of Supply debate. During the session, Minister Desmond Lee highlighted the importance of Education and Career Guidance, real-world learning, and career fairs under the theme: "We Learn for Life Together: Building a ‘We First’ Society through Education."
+
+15 - You will be happy to learn that more than 700 Serangoon Secondary students have already benefited from our mass learning journeys and talks from 2024 to date. This sustained collaboration ensures that students like you, gain the clarity and confidence they need to navigate future pathways as they work toward their #GreaterMe.
+
+16 - Next, I’d like to share a bit about my personal journey in this school. I’m a proud alumnus of SSS, but the truth is, my time here wasn’t always smooth. During my years here from 1984 to 1990, I focused heavily on my CCA, and as a result, my academic performance suffered.
+
+17 - In my first year, I failed almost all my subjects and had to move from the Express stream to the Normal stream. Later, my first attempt at the O Levels didn’t go well either. It was a tough period—my options seemed limited, and I felt disheartened.
+
+18 - But these setbacks taught me something important. They are part of the journey, a start on growth and progress. I learned to refocus and persevere. I also learned the importance of taking chances. My principal then, offered me the chance to retake my O Levels. While hesitant, the “yes”, helped me to discover possibilities I never would have known otherwise. Slowly, things began to turn around through support and trust from teachers, and new friends.
+
+20 - Taking a quote from my student at a conference. “You miss 100 percent of the chances you do not take”. Life rarely offers second invitations. Growth happens when you grab the opportunities in front of you. Remember, a stumble does not define you. How you respond, pick yourself up and keep moving forward is what truly defines you.
+
+21 - Finally, let’s talk about skills beyond academics. Grades are important and they measure knowledge, but academics alone cannot prepare you for the real world.
+
+22 - Life skills such as resilience, adaptability, problem-solving, and self-awareness teaches you how to respond when life does not go as planned. They help you recover from setbacks, make decisions, and keep moving forward even when things get tough.
+
+23 - Soft skills such as communication, teamwork, empathy, and leadership allow you to connect with people, collaborate effectively, and influence others positively.
+
+24 - Think of it this way. Academics open doors, but life and soft skills determine how far you go once you are inside. Your grades may get you into university or a job, but your ability to adapt, communicate, and work with others is what helps you thrive and make a real impact.
+
+25 - In summary, academics give you knowledge. Life skills give you resilience. Soft skills give you influence. Together, they prepare you not just to succeed in tests, but to succeed in life.
+
+26 - To all teachers of Serangoon Secondary School, thank you for all your selfless efforts in guiding these students, not just academically but in the lives, you are shaping in this school.
+
+27 - To all parents gathered here, you are a pillar of strength for your children. Your continuous support and encouragement for your child may go unnoticed, but it is essential and greatly appreciated. Today, put your anxieties aside and be proud of your child for what they have achieved.
+
+28 - And finally, to the students, remember - success is not just about grades or awards. It is about the person you are becoming. No matter your post-secondary pathway – Junior College, Polytechnic, ITE or other institutions, keep learning, keep growing, take chances, fail sometimes, pick yourself up, and keep moving forward. Your journey is your story. Make it one worth telling.
+
+29 - Once again - CONGRATULATIONS!!
+
+**Mr. Fu Chuan Chong**
+<br>*Director, School of Hospitality, Republic Polytechnic*
+<br>Former student of SSS
