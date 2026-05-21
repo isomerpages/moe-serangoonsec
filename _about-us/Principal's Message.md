@@ -232,27 +232,27 @@ Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamz
 
 38 - Innovation is at the heart of our Craft and Technology Department, spanning Design and Technology, Nutrition and Food Science, and Art. In Design and Technology, our collaboration with Samsung brings Interactive Flat Displays and tablets into the classroom, while our partnership with STUCK Design's HYPERSKETCH platform deepens students' AI literacy and design thinking. Students also showcase their skills at competitions such as the D&amp;T Awards and the Design Innovation Challenge. 
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide42.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide42.png)
 
 In Nutrition and Food Science, the Connecting Heartily Project empowers students to create nutritious, sustainable food products addressing real-world health challenges. This year, Secondary 3 students visited Lee Wee Brothers for authentic industry exposure, developing not just culinary skills but also critical thinking and a sense of responsibility towards community health.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide43.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide43.png)
 
 In Art, students progress from foundational visual literacy to advanced portfolio development, enriched by gallery visits and a Design Immersion Programme with tertiary institutions that bridge secondary education to future career pathways. Across all three units, our Craft and Technology Department cultivates creative problem-solving, digital literacy, and social responsibility — preparing students to be creatively confident and future-ready.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide44.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide44.png)
 
 39 - Our Science Department operates on a deliberate 4-year roadmap to ensure every experience is purposeful and progressive — inspiring students to inquire like scientists and innovate using science. This comes to life through initiatives like the Science Garden Project, where students grow their own vegetables to explore food security, and STEM activities such as designing water filtration systems, solar ovens, and marble runs at the Science Centre.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide45.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide45.png)
 
 40 - I am also proud to launch The Elemental Forge, our revamped Science Talent Framework, which takes a structured, tiered approach to nurturing scientific talent — from lab and field experiences to design thinking and competitions.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide46.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide46.png)
 
 On that note, I would like to celebrate Ethan and Javier from 4N8, who represented our school at the 27th International Elementz Fair. Their AI-powered recycling sorter, RecySense, earned them a well-deserved Silver Award. Please join me in congratulating them. Our students from Infocomm Club have also done us proud, with the team comprising Javier, Fernando from 4N8 and Brandon from 4N7 clinching the first place in the RoboCup 2026, Under 19 category.
 
-[](/images/About%20Us/Principal's%20Message%202026/Slide47.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide47.png)
 
 41 - Our Mathematics Department brings the joy of discovery to life through signature programmes that extend learning beyond the classroom. Sec 1 students engage in game-based activities on Mathematics Learning Day to build reasoning and communication skills, while Pi Day sparks curiosity through hands-on exploration. At the upper secondary level, our Financial Literacy Programme connects Mathematics to real-world applications in budgeting, investment, and scam awareness. EdTech tools like SLS FA-Math and the Adaptive Learning System further empower students through personalised feedback and self-directed learning.
 
