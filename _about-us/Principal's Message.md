@@ -8,97 +8,112 @@ variant: markdown
 
 <img src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 97TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  25TH APRIL 2025, 9.00 AM**
+**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 98TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  30TH APRIL 2026, 9.00 AM**
 
 <br><br><br><br>
 
-Mr. Andy Ng, 
-Guest of Honour, Member, School Advisory Committee
+Good morning
 
-School Divisions, S1, Superintendent, Mr Ling Khoon Chow 
+Mr. Fu Chuan Chong, 
+Director, School of Hospitality, Republic Polytechnic, former student of SSS
 
 Fellow Members, School Advisory Committee
 
-Distinguished partners, parents and guests of the school 
+Distinguished partners, Alumni, representatives from CDAC, Mendaki, SINDA, MOE HQ, government and industry partners, Grassroot Leaders
+
+Parents and guests of the school 
 
 Teachers, staff members and students
 
 Ladies and gentlemen
 
-
 ***A.	Introduction and Welcome***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide1.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide1.png)
 
-1 - Welcome to our 97th Prize Presentation Day. We are privileged to have Mr. Andy Ng with us as our Guest-of-Honour on this momentous occasion. As we gather here this morning, we mark nearly a century of educational excellence and also celebrate the remarkable achievements of our school community.
+1 - Welcome to our 98th Prize Presentation Day. We are honoured to have Mr Fu Chuan Chong with us as our Guest-of-Honour on this special occasion. As we come together this morning, we commemorate nearly a century of educational excellence and celebrating the outstanding accomplishments of our school community. 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide2.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide2.png)
 
-2 - Looking across this assembly today fills me with immense pride. We are here not simply to hand out awards, but to acknowledge a year of growth, resilience, and success. This ceremony represents both a milestone in our school's rich history and a stepping stone towards our future aspirations. This is also a wonderful occasion where we celebrate the outstanding achievements of our students – a testament to their hard work, perseverance, and the pursuit of excellence. Today is not just about acknowledging individual successes, but also about recognizing the supportive environment and the strategic direction that empowers every student to reach their fullest potential.
+2 - Looking across this assembly fills me with immense humility. We are here not simply to hand out awards, but to celebrate a year of growth, resilience, and success — a milestone in our school's history and a stepping stone towards our future. Today, we honour the outstanding achievements of our students and staff, a testament to their hard work and perseverance. And we recognise, too, the supportive environment that empowers every one of them to reach their fullest potential.  
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide3.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide3.png)
 
-3 - Serangoon Secondary School stands tall with a proud and illustrious heritage, having nurtured generations of leaders who have shaped our nation’s destiny—including Mr Edmund William Barker, former Cabinet Minister; Mr Tee Tua Bah, former Commissioner of Police;
+3 - This school carries a proud heritage, having nurtured generations of leaders who have shaped our nation — among them Mr Edmund William Barker, former Cabinet Minister;
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide4.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide4.png)
 
-Dr Wong Poh Poh, internationally renowned climate change scholar and IPCC contributor; and Mr Ngiam Tong Dow, one of Singapore’s most respected Permanent Secretaries.
+Mr Tee Tua Bah, former Commissioner of Police;
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide5.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide5.png)
 
-Our alumni, found across the heartlands, exemplify the values of integrity, resilience, and compassion—true Serangoon sons and daughters who are not only leaders in their fields but also pillars of their families and communities. We pay tribute to the steadfast members of the Serangoon Alumni, whose continued support keeps our school’s legacy vibrant and strong.
+Dr Wong Poh Poh, internationally renowned climate change scholar and IPCC (Intergovernmental Panel on Climate Change) contributor; and
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide6.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide6.png)
 
-At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with pride and heartfelt gratitude.
+Mr Ngiam Tong Dow, one of Singapore's most respected top Civil Service Permanent Secretaries.
+
+![](/images/About%20Us/Principal's%20Message%202026/Slide7.png)
+
+Our alumni embody integrity, resilience, and compassion — leaders in their fields and pillars of their communities. We pay tribute to the Serangoon Alumni, whose continued support keeps our school's legacy vibrant and strong.
 
 ***B.	P’s Directional Setting of 54321 ***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide7.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide8.png)
 
-4 - Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our mission to equip, empower, and embolden every StaR to reach their fullest potential.
+4 - At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with heartfelt gratitude.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide8.png)
+***B.	P’s Directional Setting of 54321 ***
 
-5 - To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into **Curriculum Group 1 (Languages and Humanities)** and **Curriculum Group 2 (STEM subjects)**, overseen by experienced academic leaders. Equally important is **Curriculum Group 3**, dedicated to holistic **Student Development Teams**, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
+![](/images/About%20Us/Principal's%20Message%202026/Slide9.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide9.png)
+5 - In 2024 – 2025, I have shared our school's 5-4-3-2-1 framework, which guides us in our mission to equip, empower, and embolden every StaR to reach their fullest potential. We have continued to drive the school forward in this endeavour. 
 
-6 - Furthermore, we build this structure up with clear focus and coherence through** Level Themes** that guide our students’ experience year by year. Academically, students progress from **'Transition' in Secondary 1**, through 'Discovery' and 'Building Up', culminating in becoming **'Future Ready Learners' in Secondary 4/5**. In parallel, their developmental journey moves from **'Understanding &amp; Leading Self' to 'Understanding Others &amp; Working Together', 'Impacting &amp; Inspiring Others'**, and finally **'Striving for Excellence &amp; Looking Ahead'**. This intentional sequencing ensures progressive development across all facets of our students’ education. 
+![](/images/About%20Us/Principal's%20Message%202026/Slide10.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide10.png)
+6 - Our IP subjects are organised into curriculum groups. Curriculum Group 1, or CG1, comprises Languages and Humanities, while Curriculum Group 2, or CG2, comprises STEM subjects. Together, CG1 and CG2 form the Academic Curriculum, overseen by an experienced team of Heads of Department and guided by our School Leaders. The Student Development Curriculum is organised under Curriculum Group 3, or CG3, and includes Physical Education, Co-Curricular Activities, Character and Citizenship Education, as well as the Year Head Curriculum. By balancing intellectual growth with character development, this structure embodies our commitment to a future-ready Total Curriculum.
 
-7 - We have embarked on a curriculum strategic planning review over the last two years to enhance the holistic learning experience for our Serangoon StaRs. Central to this effort is our comprehensive **Four-Year Learning Road Maps**, spanning from Secondary 1 through to Secondary 4 and 5 customised across G1, G2 and G3 profiles to cater to the needs of different learners. These roadmaps, carefully aligned with the MOE’s Work Plan Seminars and Curriculum Outcomes. It provides a clear, progressive, and holistic structure for our educational programmes. It integrates not just the academic subjects, but also vital Student Development areas like Character and Citizenship Education (CCE), the Year Head Curriculum, and Values-in-Action (VIA), alongside key programmes such as our Applied Learning and Learning for Life Programmes. This ensures we are systematically building essential knowledge, skills, and values, including the crucial 21st Century Competencies and proficiency in Educational Technology, which I will focus on later.
+![](/images/About%20Us/Principal's%20Message%202026/Slide11.png)
 
-8 - Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
+7 - Building on this structure, Level Themes provide clear focus and coherence, guiding students through a purposeful journey year by year. In Lower Secondary, the focus is on understanding self and working well with others harmoniously. In Upper Secondary, we guide our StaRs to step up their impact and influence. 
+
+8 - Academically, they move from 'Transition' in Secondary 1 to becoming 'Future Ready Learners' by Secondary 4. In parallel, their personal development grows from self-understanding to striving for excellence and looking ahead. Together, these pathways ensure holistic growth across every level.
+
+![](/images/About%20Us/Principal's%20Message%202026/Slide12.png)
+
+9 - Over the past two years, Serangoon Secondary has undertaken a curriculum review to enhance holistic learning. At its core are Four-Year Learning Road Maps, spanning Secondary 1 to 4. Aligned with MOE's outcomes, these road maps integrate academic subjects with student development areas — CCE, VIA, and E21CC — systematically building the knowledge, skills, and values our students need.
+
+![](/images/About%20Us/Principal's%20Message%202026/Slide13.png)
+
+10 - Today, I am delighted to share how we are stepping up our efforts to empower our staff in building our StaRs across student development and instructional programmes.This is done through the Student Development Four-Year Learning Roadmap to grow our StaRs holistically and guide their development throughout their secondary school journey. 
 
 ***C.	Enhancing the Culture of Care with Class Ecosystem***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide11.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide14.png)
 
-9 - In growing our StaRs holistically, the Four-Year Learning Roadmap provides a structured and progressive framework that guides students' personal growth and character development throughout their secondary school journey.
+11 - Today, I am happy to share how we have made further enhancements to our class Ecosystem.
 
 **Section C1: StaRs Programme**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide12.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide15.png)
 
-In alignment to the level themes, the StaRs Programme is a series of three engaging programmes that take place throughout the year, designed to enrich our students' educational experience. The StaRs programme contributes significantly in our efforts to develop future-ready students who possess the essential competencies outlined in the MOE's 21st Century Competencies framework.
+12 - Our signature StaRs Programme is a series of three engaging programmes that take place throughout the year, designed to enrich our students’ educational experience. The various StaRs Programme activities are aligned to our level themes for a coherent student experience. Allow me to share some of our StaRs’ learning in the StaRs Programme from Term 1 this year.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide13.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide16.png)
 
-Allow me to illustrate with some examples. Our StaRs Programme 1 pushes boundaries through experiential learning.
+13 - Our Secondary 1 took part in the outdoor adventure camps in March. Various experiences here serve as powerful platforms for character development, where students cultivate essential life skills including resilience and collaborative teamwork. I particularly like the last photo with our Sec 1 StaRs coming together with their class flags, as one cohort.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide14.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide17.png)
 
-When our Secondary 1 and 3 students participate in outdoor adventure camps, they aren't just engaging in physical activities – they are developing resilience, teamwork, and leadership skills.
+14 - The Secondary 2 Applied Learning Module represents another cornerstone of our programme, where students engage with authentic, real-world challenges that demand innovative solutions. Students had the chance to work in teams, develop their analytical thinking abilities and opportunities to demonstrate and present their learnings – perfectly embedding E21CC within.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide15.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide18.png)
 
-I'm particularly proud of our Secondary 2 students' involvement in the Applied Learning Module. By tackling real-world problems, they're developing critical thinking skills and learning to apply their knowledge in practical situations. This is exactly what the E21CC framework emphasises – the ability to connect classroom learning with real-world applications.
+15 - Our Secondary 3 students benefit tremendously from structured visits to Institutes of Higher Learning, gaining invaluable exposure to diverse academic pathways and career possibilities. These experiences empower them to make well-informed decisions about their future educational and professional trajectories.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide16.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide19.png)
 
-Our Secondary 4 and 5 students' visits to Institutes of Higher Learning provide them with valuable insights into future pathways, helping them make informed decisions about their careers and further education. Through these programmes, we are nurturing confident and self-directed learners who are ready to thrive in an ever-changing world.
+16 - Last but not least, our Secondary 4 and 5 students engage in comprehensive Education and Career Guidance portfolio development, where they refine their personal statements and enhance their interview competencies through mentorship and practice sessions.
 
 ***Section C2: Overseas Learning Journeys***
 
