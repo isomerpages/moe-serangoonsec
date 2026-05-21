@@ -380,7 +380,9 @@ synthetic field, and completed the upgrading of our toilets, giving our students
 
 65 - LED Lights and DC Fans
 
-[Slide 71] All classrooms will be equipped with LED lights and DC fans, creating a brighter, cooler, and more conducive learning environment for our students.
+[](/images/About%20Us/Principal's%20Message%202026/Slide71.png)
+
+All classrooms will be equipped with LED lights and DC fans, creating a brighter, cooler, and more conducive learning environment for our students.
 
 66 - Air-conditioned School Hall
 
