@@ -8,635 +8,498 @@ variant: markdown
 
 <img src="/images/School%20Management%20Team/Chen_Fook_Pang_v2.jpg" style="width:215px; height:315px; margin-right:20px; border:0.5px solid Gainsboro; padding: 5px" align="Left">
 
-**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 97TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  25TH APRIL 2025, 9.00 AM**
+**SPEECH BY MR CHEN FOOK PANG, PRINCIPAL, SERANGOON SECONDARY SCHOOL, AT THE 98TH PRIZE PRESENTATION DAY AT SERANGOON SECONDARY SCHOOL ON FRIDAY  30TH APRIL 2026, 9.00 AM**
 
 <br><br><br><br>
 
-Mr. Andy Ng, 
-Guest of Honour, Member, School Advisory Committee
+Good morning
 
-School Divisions, S1, Superintendent, Mr Ling Khoon Chow 
+Mr. Fu Chuan Chong, 
+Director, School of Hospitality, Republic Polytechnic, former student of SSS
 
 Fellow Members, School Advisory Committee
 
-Distinguished partners, parents and guests of the school 
+Distinguished partners, Alumni, representatives from CDAC, Mendaki, SINDA, MOE HQ, government and industry partners, Grassroot Leaders
+
+Parents and guests of the school 
 
 Teachers, staff members and students
 
 Ladies and gentlemen
 
-
 ***A.	Introduction and Welcome***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide1.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide1.png)
 
-1 - Welcome to our 97th Prize Presentation Day. We are privileged to have Mr. Andy Ng with us as our Guest-of-Honour on this momentous occasion. As we gather here this morning, we mark nearly a century of educational excellence and also celebrate the remarkable achievements of our school community.
+1 - Welcome to our 98th Prize Presentation Day. We are honoured to have Mr Fu Chuan Chong with us as our Guest-of-Honour on this special occasion. As we come together this morning, we commemorate nearly a century of educational excellence and celebrating the outstanding accomplishments of our school community. 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide2.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide2.png)
 
-2 - Looking across this assembly today fills me with immense pride. We are here not simply to hand out awards, but to acknowledge a year of growth, resilience, and success. This ceremony represents both a milestone in our school's rich history and a stepping stone towards our future aspirations. This is also a wonderful occasion where we celebrate the outstanding achievements of our students – a testament to their hard work, perseverance, and the pursuit of excellence. Today is not just about acknowledging individual successes, but also about recognizing the supportive environment and the strategic direction that empowers every student to reach their fullest potential.
+2 - Looking across this assembly fills me with immense humility. We are here not simply to hand out awards, but to celebrate a year of growth, resilience, and success — a milestone in our school's history and a stepping stone towards our future. Today, we honour the outstanding achievements of our students and staff, a testament to their hard work and perseverance. And we recognise, too, the supportive environment that empowers every one of them to reach their fullest potential.  
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide3.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide3.png)
 
-3 - Serangoon Secondary School stands tall with a proud and illustrious heritage, having nurtured generations of leaders who have shaped our nation’s destiny—including Mr Edmund William Barker, former Cabinet Minister; Mr Tee Tua Bah, former Commissioner of Police;
+3 - This school carries a proud heritage, having nurtured generations of leaders who have shaped our nation — among them Mr Edmund William Barker, former Cabinet Minister;
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide4.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide4.png)
 
-Dr Wong Poh Poh, internationally renowned climate change scholar and IPCC contributor; and Mr Ngiam Tong Dow, one of Singapore’s most respected Permanent Secretaries.
+Mr Tee Tua Bah, former Commissioner of Police;
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide5.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide5.png)
 
-Our alumni, found across the heartlands, exemplify the values of integrity, resilience, and compassion—true Serangoon sons and daughters who are not only leaders in their fields but also pillars of their families and communities. We pay tribute to the steadfast members of the Serangoon Alumni, whose continued support keeps our school’s legacy vibrant and strong.
+Dr Wong Poh Poh, internationally renowned climate change scholar and IPCC (Intergovernmental Panel on Climate Change) contributor; and
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide6.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide6.png)
 
-At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with pride and heartfelt gratitude.
+Mr Ngiam Tong Dow, one of Singapore's most respected top Civil Service Permanent Secretaries.
 
-***B.	P’s Directional Setting of 54321 ***
+![](/images/About%20Us/Principal's%20Message%202026/Slide7.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide7.png)
+Our alumni embody integrity, resilience, and compassion — leaders in their fields and pillars of their communities. We pay tribute to the Serangoon Alumni, whose continued support keeps our school's legacy vibrant and strong.
 
-4 - Last year, I shared about our school’s 5-4-3-2-1 framework, guiding us in our mission to equip, empower, and embolden every StaR to reach their fullest potential.
+![](/images/About%20Us/Principal's%20Message%202026/Slide8.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide8.png)
+4 - At the heart of this legacy are our dedicated teachers, who shape minds, build character, and guide every student with care and conviction. To all our educators and staff—your tireless devotion lights the path forward for each Serangoon StaR, and we salute you with heartfelt gratitude.
 
-5 - To drive this mission effectively, we have organised our curriculum carefully and thoughtfully. Our academic subjects are grouped into **Curriculum Group 1 (Languages and Humanities)** and **Curriculum Group 2 (STEM subjects)**, overseen by experienced academic leaders. Equally important is **Curriculum Group 3**, dedicated to holistic **Student Development Teams**, encompassing PE, Co-Curricular Activities, and CCE. This structure ensures a balanced focus on both intellectual growth and character development, embodying our commitment to a truly 'Total Curriculum' that is future ready.
+***B.	P’s Directional Setting of 54321***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide9.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide9.png)
 
-6 - Furthermore, we build this structure up with clear focus and coherence through** Level Themes** that guide our students’ experience year by year. Academically, students progress from **'Transition' in Secondary 1**, through 'Discovery' and 'Building Up', culminating in becoming **'Future Ready Learners' in Secondary 4/5**. In parallel, their developmental journey moves from **'Understanding &amp; Leading Self' to 'Understanding Others &amp; Working Together', 'Impacting &amp; Inspiring Others'**, and finally **'Striving for Excellence &amp; Looking Ahead'**. This intentional sequencing ensures progressive development across all facets of our students’ education. 
+5 - In 2024 – 2025, I have shared our school's 5-4-3-2-1 framework, which guides us in our mission to equip, empower, and embolden every StaR to reach their fullest potential. We have continued to drive the school forward in this endeavour. 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide10.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide10.png)
 
-7 - We have embarked on a curriculum strategic planning review over the last two years to enhance the holistic learning experience for our Serangoon StaRs. Central to this effort is our comprehensive **Four-Year Learning Road Maps**, spanning from Secondary 1 through to Secondary 4 and 5 customised across G1, G2 and G3 profiles to cater to the needs of different learners. These roadmaps, carefully aligned with the MOE’s Work Plan Seminars and Curriculum Outcomes. It provides a clear, progressive, and holistic structure for our educational programmes. It integrates not just the academic subjects, but also vital Student Development areas like Character and Citizenship Education (CCE), the Year Head Curriculum, and Values-in-Action (VIA), alongside key programmes such as our Applied Learning and Learning for Life Programmes. This ensures we are systematically building essential knowledge, skills, and values, including the crucial 21st Century Competencies and proficiency in Educational Technology, which I will focus on later.
+6 - Our IP subjects are organised into curriculum groups. Curriculum Group 1, or CG1, comprises Languages and Humanities, while Curriculum Group 2, or CG2, comprises STEM subjects. Together, CG1 and CG2 form the Academic Curriculum, overseen by an experienced team of Heads of Department and guided by our School Leaders. The Student Development Curriculum is organised under Curriculum Group 3, or CG3, and includes Physical Education, Co-Curricular Activities, Character and Citizenship Education, as well as the Year Head Curriculum. By balancing intellectual growth with character development, this structure embodies our commitment to a future-ready Total Curriculum.
 
-8 - Today, I am happy to share how we are intensifying efforts for our staff to continue building our StaRs in both student development area and instructional programmes.
+![](/images/About%20Us/Principal's%20Message%202026/Slide11.png)
+
+7 - Building on this structure, Level Themes provide clear focus and coherence, guiding students through a purposeful journey year by year. In Lower Secondary, the focus is on understanding self and working well with others harmoniously. In Upper Secondary, we guide our StaRs to step up their impact and influence. 
+
+8 - Academically, they move from 'Transition' in Secondary 1 to becoming 'Future Ready Learners' by Secondary 4. In parallel, their personal development grows from self-understanding to striving for excellence and looking ahead. Together, these pathways ensure holistic growth across every level.
+
+![](/images/About%20Us/Principal's%20Message%202026/Slide12.png)
+
+9 - Over the past two years, Serangoon Secondary has undertaken a curriculum review to enhance holistic learning. At its core are Four-Year Learning Road Maps, spanning Secondary 1 to 4. Aligned with MOE's outcomes, these road maps integrate academic subjects with student development areas — CCE, VIA, and E21CC — systematically building the knowledge, skills, and values our students need.
+
+![](/images/About%20Us/Principal's%20Message%202026/Slide13.png)
+
+10 - Today, I am delighted to share how we are stepping up our efforts to empower our staff in building our StaRs across student development and instructional programmes.This is done through the Student Development Four-Year Learning Roadmap to grow our StaRs holistically and guide their development throughout their secondary school journey. 
 
 ***C.	Enhancing the Culture of Care with Class Ecosystem***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide11.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide14.png)
 
-9 - In growing our StaRs holistically, the Four-Year Learning Roadmap provides a structured and progressive framework that guides students' personal growth and character development throughout their secondary school journey.
+11 - Today, I am happy to share how we have made further enhancements to our class Ecosystem.
 
 **Section C1: StaRs Programme**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide12.png)
+![](/images/About%20Us/Principal's%20Message%202026/Slide15.png)
 
-In alignment to the level themes, the StaRs Programme is a series of three engaging programmes that take place throughout the year, designed to enrich our students' educational experience. The StaRs programme contributes significantly in our efforts to develop future-ready students who possess the essential competencies outlined in the MOE's 21st Century Competencies framework.
+12 - Our signature StaRs Programme is a series of three engaging programmes that take place throughout the year, designed to enrich our students’ educational experience. The various StaRs Programme activities are aligned to our level themes for a coherent student experience. Allow me to share some of our StaRs’ learning in the StaRs Programme from Term 1 this year.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide13.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide16.png)
 
-Allow me to illustrate with some examples. Our StaRs Programme 1 pushes boundaries through experiential learning.
+13 - Our Secondary 1 took part in the outdoor adventure camps in March. Various experiences here serve as powerful platforms for character development, where students cultivate essential life skills including resilience and collaborative teamwork. I particularly like the last photo with our Sec 1 StaRs coming together with their class flags, as one cohort.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide14.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide17.png)
 
-When our Secondary 1 and 3 students participate in outdoor adventure camps, they aren't just engaging in physical activities – they are developing resilience, teamwork, and leadership skills.
+14 - The Secondary 2 Applied Learning Module represents another cornerstone of our programme, where students engage with authentic, real-world challenges that demand innovative solutions. Students had the chance to work in teams, develop their analytical thinking abilities and opportunities to demonstrate and present their learnings – perfectly embedding E21CC within.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide15.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide18.png)
 
-I'm particularly proud of our Secondary 2 students' involvement in the Applied Learning Module. By tackling real-world problems, they're developing critical thinking skills and learning to apply their knowledge in practical situations. This is exactly what the E21CC framework emphasises – the ability to connect classroom learning with real-world applications.
+15 - Our Secondary 3 students benefit tremendously from structured visits to Institutes of Higher Learning, gaining invaluable exposure to diverse academic pathways and career possibilities. These experiences empower them to make well-informed decisions about their future educational and professional trajectories.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide16.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide19.png)
 
-Our Secondary 4 and 5 students' visits to Institutes of Higher Learning provide them with valuable insights into future pathways, helping them make informed decisions about their careers and further education. Through these programmes, we are nurturing confident and self-directed learners who are ready to thrive in an ever-changing world.
+16 - Last but not least, our Secondary 4 and 5 students engage in comprehensive Education and Career Guidance portfolio development, where they refine their personal statements and enhance their interview competencies through mentorship and practice sessions.
 
 ***Section C2: Overseas Learning Journeys***
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide17.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide20.png)
 
-11 - Our overseas learning journeys are also pivotal in enriching our Serangoon StaRs’ educational experience and contribute significantly to developing their 21st-century competencies. Following the pandemic, alongside myself, my Vice-Principals and various Key Personnel have strategically planned for these internationalisaion trips with purpose and intentionality, to ensure meaningful learning opportunities for our students. After successful recce trips to Brunei and Vietnam in 2023, the fruits of the groundwork blossomed in 2024 when we successfully conducted two transformative trips. 
+17 - Overseas learning journeys remain central to developing our students' 21st Century Competencies. Building on recce trips to Brunei and Vietnam in 2023, 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide18.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide21.png)
 
-In June 2024, around thirty of our students embarked on a journey to Brunei, while another group visited Vietnam in November. These experiences challenge our students to step out of their comfort zones, adapt to new environments, and develop the cultural sensitivity that forms a vital part of the E21CC framework.
+we expanded the programme in 2025 with a third destination  —  China —
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide19.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide22.png)
 
-The friendships formed, the perspectives gained, and the self-discovery that occurs during these journeys contribute significantly to **building confident, culturally aware individuals who can thrive in global settings**. The learning does not end with the trip.
+reflecting our commitment to a structured,
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide20.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide23.png)
 
-Our students return not just with enhanced global awareness, but with strengthened leadership capabilities, improved communication skills, and a deeper sense of responsibility to contribute to their school community. Through post-trip sharing sessions at our school assembly, the students shared their learning insights and inspired their juniors to broaden their perspectives as well. 
+progressive global learning experience in ASEAN and Asia.  These journeys push students to step beyond their comfort zones, 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide21.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide24.png)
 
-This year, I am pleased to share that we are expanding our horizons further by including Xiamen, China in addition to Brunei and Ho Chi Minh, Vietnam, to our overseas learning journeys. 
+building cultural sensitivity, resilience, and cross-cultural communication skills. 
 
-***Section C3: One Class, One Kampong, One Serangoon***
+[](/images/About%20Us/Principal's%20Message%202026/Slide25.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide22.png)
+The learning continues beyond the trip itself, with post-trip sharing sessions at assembly where students reflect on their growth and inspire their peers.
 
-12 - To deepen our culture of care in the Serangoon family, we have embarked on an initiative since 2024 - **'One Class, One Kampong, One Serangoon'**. Every student matters. This approach is both inclusive and targeted - we focus on uplifting our students through enhanced class experiences while ensuring dedicated and more customized support for those who may require them.
+**Section C3: One Class, One Kampong, One Serangoon**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide23.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide26.png)
 
-13 - The Student Development Team has worked tirelessly to enhance this support network via a more cohesive support system for our students. I am particularly proud of how our Form Teachers have embraced this initiative. They now have access to a **specially designed FT toolbox**, equipped with valuable resources including data analytics dashboard, SEL check-in surveys, and social network analysis. This **data-driven approach** helps our teachers understand their students better and provide more timely and targeted support.
+18 - SSS has consistently pride herself with a strong culture of care as a core strength. The Student Development Team (SDT) plays a critical role in the planning, implementing and monitoring to guide our Serangoon StaRs. Allow me to share broadly key directional shifts over the past few years:
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide24.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide27.png)
 
-14 - While data gives valuable insights, it's how we leverage this information that truly transforms our class ecosystem. Our teachers engage in purposeful collaboration, triangulating various data points to build comprehensive student profiles. This **data-informed, team-based approach** ensures that every decision we make, from classroom seating arrangements, student leadership opportunities or the adjustment in strategies or interventional plan can all contribute meaningfully to building a positive class culture where every student can thrive.
+19 - In 2023, the team noted the importance of care element in the work we do, and we renamed the Case Management Team to Care and Case Management Team (C2MT). We discussed roles and responsibilities within SDT, upstream and downstream measures, and looked into streamlining and integrating processes to help uplift our students with additional needs. This outlines the importance of inclusivity.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide25.png)
 
-15 - In our Staff Contact Time sessions, teachers regularly exchange innovative strategies for building positive classroom cultures. These sharing sessions have become a vibrant platform for professional growth and community building.
+20 - In 2024, we started making shifts and embarked on ‘One Class, One Kampong, One Serangoon’. Firstly, having our Year Heads and School Counsellors follow up with their cohorts to ensure greater Teacher-Student Relationships, and reallocating Educational Support processes into Year Head and Student Management workflows. The C2MT triage workflow was also formulated and digitalized, and the SD road maps were drawn out. The class ecosystem data toolkit was introduced to consolidate key information through a data analytics dashboard, comprising check-in surveys, social network analysis and various class-based information parameters.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide26.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide28.png)
 
-16 - Besides the Key Personnel and teachers, non-teaching staff and School Leaders are also part of the class ecosystem. In fact, our Vice Principals play a pivotal role in nurturing a vibrant class ecosystem and fostering a deep culture of care through our differentiated approach to student management.
+21 - In 2025, the School Staff Developer, HOD/Data Management and HOD/CCE joined the C2MT. This allowed us to better coordinate upstream measures, strengthened the use of data and looked into further building staff capacity. For the first time, the respective level FTs and subject teachers came together to discuss about the students during the conduct grade exercise. The sharing of good practices was also enhanced, with multiple sharing sessions at Staff Contact Time by FTs, for FTs. This allowed FTs to better provide more timely and targeted support at the class level.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide27.png)
+22 - To further strengthen the class ecosystem this year, level themes have been translated into clear cohort goals and communicated to staff and students at the start of the year. These will guide class directions and individual targets, ensuring greater coherence in student development. To strengthen alignment between students' developmental experiences and level themes, the following enhancements will be implemented in 2026.
 
-We take on a **school within a school approach**, with VP Mrs Wong overseeing the lower secondary levels while Mr Marc helms the upper secondary levels. Through structured engagement sessions with all classes, the VPs have touchpoints with students to engage them on their level goals and cohort programmes. The VPs are also engaged in dialogues with Form Teachers, to better understand the class dynamics and individual student needs, enabling us to craft responsive support structures. Both Mrs Wong and Mr Marc have journeyed alongside our teachers and even worked directly with students who need additional guidance. This hands-on approach has strengthened relationships across the school community and created multiple touchpoints for student support, contributing to a more nurturing class ecosystem. 
+23 - Learning and reflection from StaRs Programme will be aligned to level themes and cohort goals. The Emerging 21st Century Competencies framework will be systematically woven into the class ecosystem approach, with identified competencies embedded in reflection activities and students recording their development in the CCE journal.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide28.png)
+24 - Secondly, with greater use of data and providing teachers with autonomy to build a positive classroom culture, time was set aside for individual class bonding activities, with class committee leaders actively involved in the planning and implementation of bonding sessions.
 
-The Serangoon StaRs have direct access to the SLs to talk, dialogue, chit chat on anything and the distance between them and SL is zero. I have put in place a very flat structure. And SLs will do home visit to support our High Needs Students and families.
+25 - We are also expanding our Form Teacher (FT) data toolkit: with SDCD's Enhanced Social-Emotional Competency Rating Tool (My SEI) to help teachers better understand and support students' social-emotional development. All insights and student development progress will then be documented in CCE journals to facilitate person-centred Parent Engagement Sessions.
 
-17 - The 'One Class, One Kampong, One Serangoon' initiative embodies our belief that a **strong culture of care** is the foundation of effective learning. When our students feel supported and under
-stood, they are then better positioned to excel.
-D.	Curriculum and Instruction
+[](/images/About%20Us/Principal's%20Message%202026/Slide29.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide29.png)
+26 - The School Leaders will walk the talk in our efforts to grow our Serangoon StaRs. All students will continue to have direct access to the SLs to dialogue and provide their views and feedback. SLs will also do home visits to support our students with additional needs. We strongly believe that a strong culture of care is the foundation of effective learning. When our students feel supported and understood, they are then better positioned to excel.
 
-18 - In 2024, I highlighted how our academic departments have tailored learning experiences for our Serangoon StaRs that will equip them with the skills and attributes they need to thrive in today's world. I outlined the programmes and pedagogical approaches in each of our academic departments.
+**D.	Curriculum and Instruction**
 
-***Section D1: Acknowledgement and Celebration of Success***
+[](/images/About%20Us/Principal's%20Message%202026/Slide30.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide30.png)
+27 - In the last two years, I have shared how our academic departments have tailored learning experiences for our Serangoon StaRs that will equip them with the skills and attributes they need to thrive in today’s world.
 
-19 - Before I go any further, allow me to take a moment to acknowledge the quiet determination and collective effort behind the Class of 2024’s performance in the National Examinations. 
+**Section D1: Acknowledgement and Celebration of Success**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide31.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide31.png)
 
-Across most subjects, we witnessed steady and heartening progress. A greater number of our N-level students have qualified for important next steps — be it Secondary 5, the Polytechnic Foundation Programme, or the Direct-Entry Scheme to Polytechnic. 
+28 - Before I go further, let me acknowledge the Class of 2025's National Examination results. Across both N and O Levels, we saw an encouraging upward trend — more students qualifying for polytechnic pathways and post-secondary options of their choice. The Early Admission Exercise also saw strong uptake, with a significant proportion securing placements ahead of results day. These results reflect our students' resilience and the steadfast support of our teachers and families.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide32.png)
+29 - Today, we celebrate not just results, but the character and perseverance that made them possible. 
 
-Among our O-level students, there was a notable increase in those from both the Express and Normal (Academic) courses achieving five or more O-level passes. 
+**Section D2: Department signature programmes**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide33.png)
+**Section D2A: CG1**
 
-These accomplishments are not merely academic milestones; they are a testament to our students’ resilience, their commitment to growth, and the steadfast guidance of our teachers and families. 
+[](/images/About%20Us/Principal's%20Message%202026/Slide32.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide34.png)
+30 - At the heart of our learning culture is collaboration — the belief that learning is most powerful when connections are made across disciplines, mirroring the real world. Learning comes alive when subjects connect. Our Secondary 1 Inter-departmental Project Work brings together English Language, Science, and Humanities, guiding students through real-world experimentation, research, and presentation — breaking down subject silos and building holistic problem-solving skills. Students work together to construct a water filtration system, learn about soil composition from Geography lesson and finally presenting the project in front of their peers.
 
-In addition, the Early Admission Exercise, which enables students to progress and access learning opportunities in IHLs and JCs, 
+[](/images/About%20Us/Principal's%20Message%202026/Slide33.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide35.png)
+31 - Our English Language and Literature teachers believe that to truly understand a subject, students need to feel it. The 'Script to Stage' programme, now in its second year, has students staging their own plays — building adaptive thinking, collaboration, and communication along the way. As student Chelsy from 2H1 put it, "Bringing us out of the classroom to stage our play has made us more interested in the subject.".
 
-has gained strong support from parents, many of whom choose to take a leap of faith by securing placements for their children even before the release of national examination results.
+32 - This year, EL department expanded our Talent Development Programme with 'Plates to Plays', where students explore creative writing under a professional artiste through the NAC Artist-in-Residence scheme, drawing on the uniquely Singaporean experience of food to find their own voices.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide36.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide34.png)
 
-20 - Today, we celebrate not just results, but the character and perseverance that made them possible.
+33 - Innovation continues in the classroom too — Ms Timmie Tan's 'Character Chatbot' lets students interact directly with literary characters, an approach so well-received it was shared at the SG Learning Designers' Circle.
 
-***Section D2: Department signature programmes
-Section D2A: CG1*
+[](/images/About%20Us/Principal's%20Message%202026/Slide35.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide37.png)
+34 - Our Mother Tongue Language Department ignites a joyful learning experience for students through enriching and authentic cultural experiences, deepening their linguistic proficiency while fostering a profound appreciation for their heritage and identity.
 
-21 - One of the cornerstones of our dynamic learning culture is **collaboration**. We firmly believe that learning is most powerful when connections are made across disciplines, mirroring the interconnectedness of the real world. A prime example of this synergy is our **Secondary 1 Inter-departmental Project Work**. Here, our **English Language, Science,** and **Humanities Departments** come together, guiding students through real-world learning that involves experimentation, research, and oral presentation. Students learn to integrate knowledge and skills from different domains, break down traditional subject silos and develop holistic problem-solving abilities. 
+35 - Debating continues to be a signature platform shared across all three language streams, with students from the Chinese, Malay, and Tamil units participating in both school-based and national competitions. These experiences sharpen critical thinking, strengthen communication skills, and build the confidence to articulate perspectives with clarity and conviction.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide38.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide36.png)
 
-22 - **Experiential learning activities are supported by innovative application of knowledge**. An example is the English Language and Literature Department's 'Script-to-Stage' enrichment with an exciting two-part Literature project. It illustrates our students' enthusiasm and growing love for literature. The journey began on Saturday, 19 April this year, when 30 of our Secondary 1 and 2 students attended the ‘Wicked’ musical at Marina Bay Sands. Inspired by the show’s storytelling, they are now channeling that energy into performing scenes from their literature texts —“LIVE! At the Wet Market" and “Thank You, Ma’am“. We look forward to them taking the stage in Term 3, Week 2.
+36 - Beyond debating, each unit also offers enrichment programmes that connect students to their cultural roots in meaningful ways. The Chinese Language Unit's Xin Yao Appreciation Workshop brings students closer to Singapore's local Chinese music heritage through music, storytelling, and lyric writing.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide39.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide37.png)
 
-23 - What has stood out to the team of Literature teachers: Ms Timmie Tan, Mr Shawn Seah and Ms Caritas Lee, is how enthusiastic our students have been. They have displayed remarkable initiative—offering one another feedback on their delivery and emotional expression. They even brainstormed creative ways to build props as a team, showcasing a strong sense of teamwork.
+The Malay Language Unit engages students through culturally authentic activities that deepen their appreciation of Malay language and traditions.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide40.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide38.png)
 
-24 - In a conversation I had with one the teachers-in-charge, Ms Caritas Lee, she mentioned that it is thrilling to witness the endless possibilities of what students can achieve when they set their minds to bring a subject to life. Projects of this nature help our students express themselves confidently and develop empathy for the diverse experiences of others. Truly, this is an example of how our teachers take the path less beaten to bring Literature off the page, onto the stage.
+The Tamil Language Unit similarly nurtures students' connection to Tamil culture and identity through purposeful and engaging learning experiences.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide41.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide39.png)
 
-25 - Our Mother Tongue Language department ignites a joyful learning experience for students through enriching and authentic cultural experiences as well as engaging task-based activities. This approach not only deepens students’ linguistic proficiency, but also fosters a profound appreciation for their heritage, empowering them to connect with their roots in meaningful ways. In May 2024, the Chinese Language Unit organised its inaugural inter-class debate for Sec 3 StaRs. The event aimed to enhance students’ information skills through active and effective communication and collaboration. A second edition of the event is scheduled to take place later this year.
+37 - The Humanities Engagement Programme builds knowledge and passion progressively — from investigating water quality at our school pond in Secondary 1, to exploring Singapore's history at Kranji War Cemetery and Fort Siloso in Secondary 2, to engaging with real-world issues through their electives in Secondary 3.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide42.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide40.png)
 
-26 - Our Humanities Department does not just cultivate knowledge, but a genuine passion for understanding the world around us. Through the dynamic power of Inquiry-Based Learning across History, Geography, and Social Studies, we empower our students to become active explorers.
+Our teachers lead the way in innovation — Mr Jeff Mak, Mr Daniel Fung, Mr Hamzah and Mr Matt Yee have transformed feedback and harnessed AI for Socratic questioning and targeted essay, while  collaborating with NIE and the Academy of Singapore Teachers, to keep our curriculum at the cutting edge.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide43.png)
+**Section D2B:CG2**
 
-**Innovation** is also evident in the **authentic, immersive investigations** conducted by our **Humanities students – be it exploring geographical hazards in our neighbourhood or tourism trends at Marina Bay.** This vibrant approach not only strengthens their critical and inventive thinking skills but, more importantly, sparks a true **Joyful Learning** that will stay with them long after they leave our classrooms. 
+[](/images/About%20Us/Principal's%20Message%202026/Slide41.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide44.png)
+38 - Innovation is at the heart of our Craft and Technology Department, spanning Design and Technology, Nutrition and Food Science, and Art. In Design and Technology, our collaboration with Samsung brings Interactive Flat Displays and tablets into the classroom, while our partnership with STUCK Design's HYPERSKETCH platform deepens students' AI literacy and design thinking. Students also showcase their skills at competitions such as the D&amp;T Awards and the Design Innovation Challenge. 
 
-For example, Ms Ashirah conducted a **Sec 1 Geographical Investigation lesson to assess and investigate on the quality of water of our school pond.** Students need to make observations of the surrounding area of the school pond and make visual analysis of the water to decide on the water quality. The whole lesson aims to get students to engage students in experiencing the 5 stages of Geographical Investigation themselves. 
+[](/images/About%20Us/Principal's%20Message%202026/Slide42.png)
 
-***Section D2B:CG2***
+In Nutrition and Food Science, the Connecting Heartily Project empowers students to create nutritious, sustainable food products addressing real-world health challenges. This year, Secondary 3 students visited Lee Wee Brothers for authentic industry exposure, developing not just culinary skills but also critical thinking and a sense of responsibility towards community health.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide45.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide43.png)
 
-27 - Alongside collaboration, **innovation** is central to how we approach teaching and learning. Within the respective curriculum groups, we constantly seek creative and effective ways to ignite curiosity and make learning deeply meaningful. You see this innovative spirit in the **project-based approach** adopted by our Craft and Technology department, empowering students to become creative thinkers and problem-solvers as they design and ideate. 
+In Art, students progress from foundational visual literacy to advanced portfolio development, enriched by gallery visits and a Design Immersion Programme with tertiary institutions that bridge secondary education to future career pathways. Across all three units, our Craft and Technology Department cultivates creative problem-solving, digital literacy, and social responsibility — preparing students to be creatively confident and future-ready.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide46.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide44.png)
 
-28 - I would like to spotlight our school’s collaboration with Samsung, supported by the CPDD D&amp;T Unit. This partnership sees Samsung providing their S8 and S9 tablets to our school's Secondary 4 D&amp;T students. The initiative aims to explore how students can use tablets to further enhance their coursework processes, allowing them to explore innovative design solutions and enhance their technical skills while developing essential 21st Century Competencies (21CC) skills.
+39 - Our Science Department operates on a deliberate 4-year roadmap to ensure every experience is purposeful and progressive — inspiring students to inquire like scientists and innovate using science. This comes to life through initiatives like the Science Garden Project, where students grow their own vegetables to explore food security, and STEM activities such as designing water filtration systems, solar ovens, and marble runs at the Science Centre.
 
-The following will be captured in the slide:
+[](/images/About%20Us/Principal's%20Message%202026/Slide45.png)
 
-Using the Samsung tablets, students can: 
+40 - I am also proud to launch The Elemental Forge, our revamped Science Talent Framework, which takes a structured, tiered approach to nurturing scientific talent — from lab and field experiences to design thinking and competitions.
 
--	Create and maintain their design journals digitally, which helps them develop digital literacy.
--	Sketch designs and create digital prototypes using Samsung’s trademark creator S-pens to foster creativity and innovation.
--	Leverage on multimedia elements into their design solutions helps them understand complex concepts better, enhancing their critical thinking and problem-solving abilities.
+[](/images/About%20Us/Principal's%20Message%202026/Slide46.png)
 
-This collaboration underscores the commitment of both Serangoon Secondary School and Samsung to foster a forward-thinking educational environment, ultimately preparing students their career as well as future technological advancements.
+On that note, I would like to celebrate Ethan and Javier from 4N8, who represented our school at the 27th International Elementz Fair. Their AI-powered recycling sorter, RecySense, earned them a well-deserved Silver Award. Please join me in congratulating them. Our students from Infocomm Club have also done us proud, with the team comprising Javier, Fernando from 4N8 and Brandon from 4N7 clinching the first place in the RoboCup 2026, Under 19 category.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide47.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide47.png)
 
-29 - Also, our collaboration with industry partner STUCK Design introduces an innovative AI booth featuring the HYPERSKETCH App on iPads, offering students a hands-on experience in AI-driven design for D&amp;T, Art, and schoolwide improvement projects. This initiative cultivates crucial digital skills like AI literacy and digital sketching, while also enhancing critical and inventive thinking as students generate and evaluate AI-powered design solutions. By embracing this technology, we empower our students to push the boundaries of creativity, solve complex problems, and envision innovative solutions for the future.
+41 - Our Mathematics Department brings the joy of discovery to life through signature programmes that extend learning beyond the classroom. Sec 1 students engage in game-based activities on Mathematics Learning Day to build reasoning and communication skills, while Pi Day sparks curiosity through hands-on exploration. At the upper secondary level, our Financial Literacy Programme connects Mathematics to real-world applications in budgeting, investment, and scam awareness. EdTech tools like SLS FA-Math and the Adaptive Learning System further empower students through personalised feedback and self-directed learning.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide48.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide48.png)
 
-30 - The Nutrition and Food Science (NFS) unit celebrates the achievements of our Secondary 3 NFS students in the Connecting Heartily Project. This initiative, aligned with the theme of World Health Day, empowers our students to create and modify dishes that promote adult health, focusing on managing conditions such as diabetes and obesity. Each group of students is tasked with selecting and preparing three dishes that are not only delicious but also nutritionally balanced to support adult health. They will need to research and understand the dietary requirements for managing diabetes and obesity and creatively adapt recipes to meet these needs. This involves careful planning, ingredient selection, and cooking techniques that enhance the health benefits of their dishes.
+42 - I am also proud to congratulate Ms Eleanor Cheong, together with Science teacher Ms Caelyn Lim, for clinching the People's Choice Award and emerging as Champion in the STEM Teacher Challenge in 2025 — a wonderful testament to the creativity and dedication of our teachers in pushing the boundaries of teaching and learning.
 
-31 - The following will be captured in the slide:
+43 - This culture of collaboration and innovation, championed by every department, does more than create exciting lessons — it actively cultivates the competencies our students need for the future: critical thinking, adaptability, creativity, and effective communication. We are equally committed to how learning takes place. Our curricular approaches — spanning content, pedagogy, and assessment — are designed to ignite a genuine Joy of Learning.
 
-Through this project, our students not only hone their culinary skills but also develop important competencies such as critical thinking, creativity, and collaboration. Additionally, the project fosters social-emotional learning by encouraging empathy, resilience, and a sense of responsibility towards community health.
+[](/images/About%20Us/Principal's%20Message%202026/Slide49.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide49.png)
+44 - Underpinning all of this is our commitment to curriculum leadership. Through the Leadership in Curriculum and Instruction (LCI) framework, I am personally committed to developing the curriculum leadership capabilities of our School Management Team — ensuring our educational practices remain dynamic, responsive, and progressive, supported by the systemic use of data.
 
-32 - Importantly, this project helps students see the connection between their learning and real-world contexts. By addressing real health issues and creating practical solutions, students understand the impact of their work beyond the classroom. They learn how dietary choices can influence health outcomes and gain insights into the challenges faced by individuals with health conditions. We are also honored to have a nutritionist, Ms Gladys Wong from Khoo Teck Puat Hospital join us, enriching our students' understanding of healthcare and wellness. This project exemplifies our commitment to holistic education, preparing our students to be thoughtful, innovative, and caring individuals.
+**E.	EdTech 2030 Masterplan **
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide50.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide50.png)
 
-33 - Our Science Department is igniting a powerful vision, one that actively cultivates the 3 ‘IN-s’ in our students. This multifaceted approach ensures our students are not just learning topics in Science, but are truly **INspired by Science, INquire like Scientists, and INnovate using Science.** We achieve this by immersing them in the dynamic practices of science through robust **inquiry-based learning**. Furthermore, we strategically connect their learning to the real-world through a diverse array of enriching programmes, including impactful learning journeys and engaging workshops.
+45 - At Serangoon Secondary School, our EdTech journey is guided by the vision that "Teaching and learning can take place anytime, anywhere, with the appropriate digital device." This vision drives a transformative shift towards a digitally empowered learning experience, where students rely on their Personal Learning Devices to support their educational journey wherever learning is facilitated through EdTech-enabled approaches.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide51.png)
+**Core Digital Learning Experience**
 
-34 - Here, you can see our Math teachers using EdTech Feedback Assistant and SLS Adaptive Learning system to promote self-directed learning of Mathematics. **We spark the joy of discovery** through signature programmes like **Computational Thinking** in Mathematics and the **Math Learning Day** where students apply their knowledge of Math in games.
+[](/images/About%20Us/Principal's%20Message%202026/Slide51.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide52.png)
+46 - Over the past few years, we have made significant strides in building this ecosystem. In 2024, we launched our structured Home-Based Learning routine, enabling students to learn from home on alternate Fridays using their devices. We also introduced Generative AI tools to our staff, digitalised key administrative workflows, and conducted a thorough review of our EdTech priorities — laying the groundwork for a four-year digital literacies curriculum and maximising the use of the Student Learning Space platform.
 
-35 - This dedicated culture of collaboration and innovation, championed by every department, does more than just create exciting lessons and programs. In truth, we seek to actively cultivate the **emerging and essential competencies and skills our students need for the future: critical thinking, adaptability, creativity, and effective communication**. The dynamic, supportive, and forward-looking environment shaped by our staff provides the fertile ground upon which the successes we celebrate today have grown.
+[](/images/About%20Us/Principal's%20Message%202026/Slide52.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide53.png)
+47 - In 2025, we deepened our efforts through targeted staff training in partnership with ETD, the formation of an EdTech Taskforce, and the development of a comprehensive EdTech ecosystem paper that articulates how device-centric environments can transform teaching and learning. We also shared our journey with our cluster schools through a sharing session entitled "Building on Strengths, Ensuring Continuity" — a testament to our commitment to growing together as a community of educators.
 
-36 - Furthermore, we are deeply committed to how learning takes place. Our **curricular approaches** – encompassing **content, pedagogy, and assessment** – are designed to ignite a genuine **Joy of Learning**. We prioritise leveraging **Educational Technology as a learning multiplier**, embarking on **MOE’s EdTech Masterplan 2030,** in creating an authentic learning experience that foster engagement, sparkle curiosity, and nurture creativity. We believe that learning should be an active and engaging process that prepares students not just for a life of tests, but the **test of life**.
+[](/images/About%20Us/Principal's%20Message%202026/Slide53.png)
 
-37 - The following will be captured in the slide:
-As your Principal, I am also personally committed to developing the **curriculum leadership capabilities** of our **School Management Team** through the **Leadership in Curriculum and Instruction (LCI)** framework, ensuring that our educational practices remain dynamic, responsive, and progressive. This commitment to continuous improvement, supported by the systemic use of data, underpins everything we do.
+48 - Looking ahead to 2026, we will continue to align our EdTech and 21st Century Competencies efforts for greater synergy, with three planned ETD consultancies to strengthen our implementation and ensure our students emerge as confident, self-directed, and technologically adept learners ready for the future.
 
-***E. EdTech 2030 Masterplan ***
+**F. Strategic Approach for E21CC in SSS**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide54.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide54.png)
 
-38 - At Serangoon Secondary School, our EdTech ecosystem is guided by the vision that “Teaching and learning can take place anytime, anywhere, with the appropriate digital device.” This vision drives a transformative shift from traditional teaching methods towards a digitally empowered learning experience. Through this ecosystem, students are enabled to rely primarily, if not entirely, on their Personal Learning Devices (PLDs) to support their educational journey, wherever the learning design is facilitated through EdTech-enabled approaches.
+49 - We are guided by the Framework for 21st Century Competencies and Student Outcomes (21CC Framework) which articulates MOE’s vision for holistic student development. Values form the core, supported by Social-Emotional Competencies, and extended through the Emerging 21st Century Competencies (E21CC) domains. At SSS, we are taking on a phased approach to emphasise alignment in our existing programmes and focusing on professional capacity building.
 
-**39 - Core Digital Learning Experience**
+[](/images/About%20Us/Principal's%20Message%202026/Slide55.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide55.png)
+50 - Rather than treating E21CC as a standalone initiative, we have started integrating it within existing curriculum structures from 2024 to 2025, notably the Four-Year Learning Roadmaps. Departments mapped their programmes and syllabi to relevant E21CC domains: Languages and Humanities focused on Communication, Collaboration, and Information Skills; STEM subjects emphasized Critical, Adaptive, and Inventive Thinking; Student Development areas prioritized Social-Emotional Competencies and Civic, Global, and Cross-Cultural Literacy. A stocktaking exercise was done to reveal the extent of E21CC presence and identify areas needing greater intentionality and alignment. This mapping surfaced existing competency development and identified opportunities to strengthen it across levels.
 
-At the core of this ecosystem lies a device-centric learning environment that redefines how students engage with educational content. Learning is enhanced through active participation in pedagogically designed experiences, utilising platforms such as the Student Learning Space (SLS) and Google Classroom. These are grounded in sound educational principles, underpinned by the EdTech Pedagogical Scaffold (EdTech PS).
-Through this framework, we aim to nurture digitally empowered, future-ready learners who demonstrate the following attributes:
+[](/images/About%20Us/Principal's%20Message%202026/Slide56.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide56.png)
+51 - From this year, we take on a professional learning approach, for teachers to have common understanding of the development milestones in the respective domains and strengthen the intentionality to explicitly integrate E21CC into their lesson objectives through appropriate lesson designs and assessment when opportune.
 
-**40 - Digitally-Empowered 21st Century Learners**
+**G.	Supporting our Staff**
 
-The following will be captured in the slide:
+[](/images/About%20Us/Principal's%20Message%202026/Slide57.png)
 
-•	Self-directed in setting learning goals and managing their learning processes using a variety of digital tools and platforms.
-•	Collaborative and connected through co-construction and sharing of knowledge with peers via digital media.
+52 - To foster a culture of continuous reflection and growth among our teachers, the school has placed strong emphasis on professional learning for our staff. 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide57.png)
+**Section G1: Staff Professional Learning**
 
-**41 - Digitally Literate Individuals**
+[](/images/About%20Us/Principal's%20Message%202026/Slide58.png)
 
-The following will be captured in the slide:
+53 - Since establishing the Teacher Leaders Council in 2023, we have witnessed remarkable growth in our professional development culture. This year, we have expanded the TLC to include associate members, creating a structured pathway for educators to develop within the teaching track and fostering the next generation of teacher leaders.
 
-•	Proficient in applying digital literacy and technological skills to critically evaluate and synthesise information.
-•	Practise cyber wellness by engaging with technology in a safe, responsible, and discerning manner.
+[](/images/About%20Us/Principal's%20Message%202026/Slide59.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide58.png)
+54 - The TLC continues to drive professional growth across four key areas as shown in this image. In Educational Technology, the TLC played an integral role in designing SLS-based training modules that immersed teachers in the learner's experience, advancing our EdTech Masterplan 2030 initiatives. In 21st Century Competencies, our teachers are equipped to nurture future-ready students who think critically, collaborate effectively, and communicate confidently. In Assessment Literacy, teachers are better equipped to implement assessment methods that support learning rather than merely measure it. Finally, our Instructional Mentoring programme, which has supported beginning teachers, is now being extended to experienced teachers as well — reinforcing our commitment to pedagogical excellence at every level.
 
-**42 - Empathetic, Technologically Adept Innovators**
+[](/images/About%20Us/Principal's%20Message%202026/Slide60.png)
 
-The following will be captured in the slide:
+55 - The TLC has also demonstrated outstanding leadership by mounting Professional Learning Workshops on Student Motivation, helping us create learning environments that foster engagement, curiosity, and creativity. I commend the TLC for their dedication and leadership — their work exemplifies our commitment to empowering every educator to bring out the very best in our students.
 
-•	Employ human-centred methodologies to identify needs and develop solutions to real-world problems.
-•	Effectively leverage a wide range of digital tools to design and implement innovative solutions.
+**Section G2: SWBC **
 
-Students develop these capabilities through technology-enhanced lessons involving digital note-taking and organisation, interactive annotations, real-time collaboration, time management using digital platforms, the cultivation of information literacy, and meaningful communication using PLDs.
+[](/images/About%20Us/Principal's%20Message%202026/Slide61.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide59.png)
+56 - We began in 2023 with the theme Leading Living — my promise to staff that I would take care of them, so they could, in turn, take care of the school. From extended family care leave to time for personal medical needs, these gestures mattered deeply. Staff no longer had to worry about choosing between their responsibilities and their family commitments.
 
-**43 - Infrastructure and Tools**
+57 - From there, we kept asking: what more can we do? We shifted CCA and meeting days, introduced TGIF afternoons, and gave staff the gift of time. What followed proved something important — when you trust people, they rise to the occasion. Serangoon staff upheld their professionalism even as more was given to them. We are, as I like to say, an uncommon breed.
 
-The foundation of our EdTech ecosystem is supported by robust infrastructure. Every student is issued a Personal Learning Device from Secondary 1. These devices are integrated with core platforms such as the SLS and Google Workspace, including Gmail, Google Calendar, Google Tasks, Google Drive, and other specialised applications for annotation and note-taking. This integrated suite ensures consistent and reliable access to learning materials and communication tools.
+[](/images/About%20Us/Principal's%20Message%202026/Slide62.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide60.png)
+Because we care.
 
-**44 - Development of Digital Literacies:**
+58 - That conviction has only grown stronger. We moved to more online end-of-year meetings and extended the PVT framework. Most recently, we completed renovations to our Staff Pantry, creating a vibrant and welcoming space for our teachers. More Flexible Workplace Arrangements are now on the horizon.
 
-Students will be systematically equipped with key digital literacies (DLTS) necessary for future readiness by leveraging efforts across the total curriculum to strengthen DLTS, and infusing DLTS into content and learning experiences across the total curriculum. The school also seeks to strengthen Cyber Wellness for students’ safe interaction with technology by establishing a Cyber Wellness strategy working with HOD/CCE.
+**Section G3: FWA**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide60.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide63.png)
 
-**45 - Pedagogical Approaches **
+59 - Our commitment to staff well-being goes beyond professional development. Building on our Flexible Work Arrangements framework, we have taken a more systematic approach this year — giving staff greater flexibility in when they work (flexi-time), where they work (flexi-place), and how their workload is structured (flexi-load), all aligned with the Teacher Work Management Framework. Work-from-Home arrangements are now structured around designated days each term, with clear guidelines for all parties.
 
-As part of the Ministry of Education’s EdTech Masterplan 2030, the school will be adopting E-Pedagogy using a range of unique learning experiences and key applications of technology (KATs). This includes facilitating paperless learning experiences, encouraging digital content creation and curation, enabling real-time feedback and assessment, fostering interactive and collaborative learning activities, supporting self-directed learning opportunities, and creating personalised learning pathways for each student.
+[](/images/About%20Us/Principal's%20Message%202026/Slide64.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide61.png)
+Our Part-Time Employment scheme and individualised arrangements continue to show that flexibility and educational excellence can go hand in hand.
 
-**46 - Integration of Key 21st Century Competencies (21CC)
-Critical, Adaptive, and Inventive Thinking (CAIT)** Our ecosystem nurtures higher-order thinking through digital artefact creation, self- and peer-assessment, digital portfolios, coding, and data analytics tasks.
-**Communication, Collaboration, and Information Skills (CCI)** Platforms such as SLS and Google Classroom provide extensive opportunities for students to refine their communication and collaboration skills. These are fostered through activities such as peer reviews, group projects, online discussions, and digital presentations. Regular opportunities for reflection and feedback are embedded to help students become more aware of their progress and areas for further growth in these competencies. The school also explore **using technology as an enabler to develop and assess 21CC.** In particular, to use tech-developed solutions e.g. 21CC Navigator to develop and assess complex and “hard to assess” skills.
+[](/images/About%20Us/Principal's%20Message%202026/Slide65.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide62.png)
+Looking ahead, we are actively exploring early dismissal arrangements for Term 3, 2026, and remain committed to regular reviews to ensure our FWA policies evolve with our staff's needs.
 
-**47 - Implementation Strategy**
+**H.	Building and Infrastructure**
 
-The implementation of our EdTech ecosystem is guided by a systematic approach involving PLD distribution and management, technical support, and professional development for staff. Teachers participate in continuous training, some of which are conducted in partnership with Educational Technology Division, to stay abreast of digital pedagogies, while students attend regular digital literacy workshops. The Teacher Leaders’ Council (TLC) is also designing SLS-based online modules that both meet the school’s training goals and immerse teachers in the learner’s experience—encouraging innovation and deeper EdTech integration. Feedback from all stakeholders informs ongoing improvements to ensure sustained relevance and impact.
+[](/images/About%20Us/Principal's%20Message%202026/Slide66.png)
 
-This transformation empowers students to manage their learning effectively, collaborate meaningfully, and thrive in a dynamic digital world. Beyond equipping students for academic excellence, the ecosystem prepares them for future workplace expectations where digital fluency is essential.
+60 - As part of our ongoing efforts to provide the best possible education for our students,
 
-**48 - National Network Contribution (Not verbalised)**
+[](/images/About%20Us/Principal's%20Message%202026/Slide67.png)
 
-Serangoon Secondary School is committed to contributing to the Ministry of Education’s vision of a national EdTech network. We envision this through greater collaboration with parents to reinforce school-led EdTech efforts. This includes aligning home practices with the school’s cyber wellness strategies to ensure a consistent and supportive environment for students' digital development.
+we continue work in infrastructure-upgrading projects. These enhancements will significantly improve the teaching and learning environment for all staff and students.
 
-***F.	Supporting our Staff***
+[](/images/About%20Us/Principal's%20Message%202026/Slide68.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide62.png)
+61 - I am pleased to share about the redesign of the Student Activity Centre, the ORION Room to transform it into a safe, welcoming, and student-centred space. We envision the ORION Room as a multi-functional space. Students can seek support through peer conversations and counselling. It will be a hub for student-led initiatives and other bonding activities, encouraging positive peer relationships. 
 
-49 - To help our teachers reflect and grow continuously, the school has placed great emphasis on our teachers’ professional development. 
+62 - Importantly, student agency is at the heart of this redesign. Student leaders are actively involved in shaping the purpose and functions of the space. We want this space to reflect students’ voices, while also fostering a strong sense of ownership and belonging within the school.
 
-**Section F1: Staff Professional Development**
+63 - As we embark on our infrastructure enhancement projects, we remain cognizant that these are also powerful platforms for student leadership development. Last year marked significant milestones in our efforts to enhance the school environment for our students.
 
-50 - In 2023, we have established the **Teacher Leaders Council (TLC),** comprising our Senior Teachers. 
+[](/images/About%20Us/Principal's%20Message%202026/Slide69.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide63.png)
+We successfully commissioned the Student Services Hub, a one-stop centre providing critical support services to our students. We also realised the long-awaited
 
-The TLC mounts various platforms for the sharing of expertise, mentoring and driving innovation in teaching and learning. To do so effectively, the TLC fosters strong collaborative relationships between Middle Managers and Teacher Leaders. This partnership has been instrumental in building our teachers' pedagogical capabilities, guided by the Singapore Teaching Practice framework. This support system allows both expertise and experience to flow freely between our educational leaders.
+[](/images/About%20Us/Principal's%20Message%202026/Slide70.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide64.png)
+synthetic field, and completed the upgrading of our toilets, giving our students fresh and improved facilities.
 
-51 - Our professional development strategy aligns closely with both our Desired Outcomes of Education and our Future of Learning initiatives. We've focused on four key areas when mounting our professional development efforts.
+64 - Building on this momentum, I am pleased to announce a series of infrastructure upgrading projects that will further transform our school environment. These enhancements reflect our unwavering commitment to providing a conducive and welcoming space where our students and staff can thrive. The upgrading works include:
 
-52 - First, we are investing heavily in Educational Technology competencies, enabling our teachers to harness digital tools effectively in their classrooms. Secondly, in the development of 21st Century Competencies, to equip our teachers to nurture future-ready students who can think critically, collaborate effectively, and communicate confidently. Third, we've strengthened our teachers' Assessment Literacy, enabling them to better understand and implement various assessment methods that support learning rather than merely measuring it. Finally, we've enhanced our Instructional Mentoring capabilities, creating a sustainable cycle of professional growth where experienced educators guide and support their colleagues.
+65 - LED Lights and DC Fans
 
-**Section F2: FWA**
+[](/images/About%20Us/Principal's%20Message%202026/Slide71.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide65.png)
+All classrooms will be equipped with LED lights and DC fans, creating a brighter, cooler, and more conducive learning environment for our students.
 
-53 - Teaching is more than just a profession; it's a calling that demands dedication, energy, and time. We understand that our educators and staff members also have personal lives, family commitments, and different needs at various life stages. This recognition has driven our commitment to implementing and continuously refining our **Flexible Work Arrangements (FWA).**
+66 - Air-conditioned School Hall
 
-54 - Over the past year, we've made significant strides in creating a more accommodating workplace. In line with the Ministry of Education's (MOE) commitment to supporting staff through various life stages, our FWA framework encompasses **flex-time, flex-place, and flex-load arrangements,** all designed to support staff while ensuring we maintain our high standards of education and student care.
+Our school hall will be air-conditioned, ensuring that students, staff, parents, and guests can fully enjoy significant occasions such as our Prize Presentation Day, Graduation Ceremony, and concerts in comfort and ease.
 
-55 - I'm particularly pleased with how we've managed to integrate flexibility into our daily operations. Our timetabling process now considers personal circumstances where possible. We have successfully implemented home-based work during specific periods, for our staff to better balance their professional and personal responsibilities more effectively.
+67 - Repainting of School Buildings and Classrooms
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide66.png)
+Our school campus will be refreshed and reimagined through a vibrant palette of colours that brings energy and character to our classrooms and buildings. Rather than uniformity, the colour scheme will celebrate our school's unity in diversity, giving each space a distinct identity.
 
-56 - The following will be captured in the slide:
+68 - Reimagined Canteen
 
-Through our Part-Time Employment scheme and case-by-case arrangements, the school remains confident that flexibility and excellence in education can go hand in hand.
+[](/images/About%20Us/Principal's%20Message%202026/Slide72.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide67.png)
+The reimagined canteen will be far more than just a dining space. Thoughtfully designed as a phone-free premier social hub, it will engage and stimulate the senses, foster meaningful connections among students, provide a platform for showcasing individual talents, and support collaborative group work.
 
-The following will be captured in the slide:
+69 - Creative Hub
 
-57 - The School Management Team will continue to conduct regular reviews on FWA to foster a supportive and adaptable working environment for all staff.
+[](/images/About%20Us/Principal's%20Message%202026/Slide73.png)
 
-***G. Building and Infrastructure***
+The Creative Hub will serve as a dynamic extension of our learning spaces, seamlessly connecting our arts, science, and language building into a vibrant node of creativity and expression. It will be a space where the arts in all forms flourish, talents are celebrated, and outdoor teaching and learning come alive. Students will be encouraged to experiment freely with arts and crafts, music, and the natural environment, nurturing curiosity, imagination, and a love for learning.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide68.png)
+70 - At the heart of all these upgrading projects is the spirit of student agency and staff participation. By involving our school community in shaping these spaces, we foster a deep sense of ownership, pride, and belonging — ensuring that these are not merely physical upgrades, but meaningful investments in the soul of our school.
 
-58 - As part of our ongoing efforts to provide the best possible education for our students, I am excited to announce a series of infrastructure-upgrading projects. These enhancements will significantly improve the teaching and learning environment for all staff and students. The upgrading works include:
+**I.	Our Partnerships**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide69.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide74.png)
 
-•	A new Synthetic Football Field: 
+71 - No school thrives in isolation. Our partnerships with external stakeholders — be it industry partners, community organisations, or institutions of higher learning — are integral to enriching the schooling experience we provide.
 
-The following will be captured in the slide:
+[](/images/About%20Us/Principal's%20Message%202026/Slide75.png)
 
-A state-of-the-art sports facility that will provide our students with a safe and durable space to engage in physical activities and sports.
+These collaborations allow us to tap into a wider pool of expertise, resources, and real-world perspectives that would be difficult to replicate within the school alone. By building a strong community of support around our students, we are able to create opportunities that are more diverse, meaningful, and relevant — preparing them not just for examinations, but for life beyond school.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide70.png)
+72 - In our partnerships with Self-help groups, we continue our vital partnerships with CDAC, SINDA, and MENDAKI to support students through their diverse programmes.  Beyond academic support, our students also contribute actively to the community.
 
-•	Outdoor Learning Spaces: 
+[](/images/About%20Us/Principal's%20Message%202026/Slide76.png)
 
-The following will be captured in the slide:
-Additional areas that will allow students to learn and explore in a more interactive and engaging way.
-![](/images/About%20Us/Principal's%20Message%202025/Slide71.png)
-![](/images/About%20Us/Principal's%20Message%202025/Slide72.png)
+A prime example is our Malay Dance group, which recently partnered with the Police Headquarters to support and perform for their Hari Raya Celebrations, fostering strong ties with our uniformed partners.
 
-•	New Canteen Design:
+[](/images/About%20Us/Principal's%20Message%202026/Slide77.png)
 
-The following will be captured in the slide:
-•	A modern and hygienic dining space that will provide students with a comfortable and enjoyable experience.
+Last year, our school embarked on its first year of partnership with Nanyang Polytechnic (NYP) School of Engineering (SEG), centred on an opportunity for students who had applied to NYP SEG courses as their first choice through the EAE. To date, we are also exploring possible ECG collaborations with Republic Polytechnic, NAFA-University of the Arts Singapore and LASALLE College of the Arts.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide73.png)
+**Section I1: PSG**
 
-•	New Lifts Installation:
+[](/images/About%20Us/Principal's%20Message%202026/Slide78.png)
 
-The following will be captured in the slide:
+73 - Our school takes a multi-channel approach to parent engagement, ensuring parents are active partners in their child's education. Parent Engagement Sessions are held twice a year for one-to-one conversations with form teachers, complemented by level-specific touchpoints aligned to key student milestones — from the Sec 1 Parent Engagement and CCA Orientation to the Sec 4 and 5 Post-Secondary Pathways Talk.
 
-•	Improved accessibility for all members of the school community.
+[](/images/About%20Us/Principal's%20Message%202026/Slide79.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide74.png)
+74 - Since 2025, we have deepened this partnership through two key efforts. The first is our parent-for-parent engagement model, where parents share insights and strategies with fellow parents — particularly in supporting students with Special Educational Needs.
 
-•	**Air Conditioning of School Hall:** A more comfortable and conducive space for assemblies, performances, and events.
+[](/images/About%20Us/Principal's%20Message%202026/Slide80.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide75.png)
+75 - The second is our Solution-Focused approach, introduced with last year's Sec 1 cohort. This represents a deliberate shift from problem-centred to possibility-focused communication — emphasising strengths, collaborative problem-solving, and co-creating success narratives with families.
 
-•	Makers Space Upgrading Work: 
+**Section I2: Alumni**
 
-The following will be captured in the slide:
+[](/images/About%20Us/Principal's%20Message%202026/Slide81.png)
 
-•	Enhanced facilities for creative expression and collaboration.
+76 - We are also taking deliberate steps to build a vibrant youth alumni community that stays connected to Serangoon Secondary and gives back meaningfully. Through existing initiatives like Learning from the StaRs, our alumni are returning to share their post-secondary experiences and insights with our graduating cohorts. 
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide76.png)
+We envision our youth alumni as partners and mentors who can inspire, guide, and contribute their growing expertise to enrich the school community. A wonderful example of this is Eugene, who is currently reading Architecture at Temasek Polytechnic and has gone above and beyond by actively collaborating with us on the redesign of our school canteen — bringing his emerging skills and fresh perspectives to a space that every Serangoon StaR calls their own. Eugene's involvement exemplifies the kind of meaningful, reciprocal relationship we hope to cultivate with our alumni — one where their growth and our school's growth go hand in hand. Let us welcome Eugene up on stage!
 
-•	New Science Eco Garden Upgrading Work: 
-The following will be captured in the slide:
-•	An innovative space for hands-on learning and exploration of science and sustainability
+**Section I4: School Advisory Committee**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide77.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide82.png)
 
-59 - These upgrading projects will make our school a more vibrant and exciting place to learn and teach. They will:
+77 - Our School Advisory Committee remains an invaluable partner in enriching our students' learning beyond the classroom. Through Brown Bag Series sessions, Prize Presentation Day addresses, and programme engagements, our SAC members bring authentic stories of resilience, adaptability, and success that resonate deeply with our students. Their contributions have been wide-ranging and meaningful. Mr Desmond Fu, our SAC Chairman, has championed the unity and resilience that define our school community. Mr Roger Foong opened students' eyes to the value of non-linear career journeys, while Mr Andy Ng powerfully demonstrated that success extends beyond academic grades. Ms Gladys Wong's participation in our Connecting Heartily programme further deepened students' understanding of real-world applications of their learning.
 
-•	Enhance Student Experience: 
-The following will be captured in the slide:
-•	Provide students with modern and functional facilities that support their academic, physical, and creative development.
-•	Support Teaching and Learning: 
-The following will be captured in the slide:
-•	Offer staff and students a conducive and inspiring environment that fosters engagement, creativity, and innovation.
-60 - Foster Community: 
-The following will be captured in the slide:
-•	Create spaces that encourage collaboration, interaction, and a sense of belonging among students, staff, and parents.
+[](/images/About%20Us/Principal's%20Message%202026/Slide83.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide78.png)
+78 - We are also pleased to welcome two new members to our SAC — Dr Tan Lay Pheng, Director at NAFA-University of The Arts Singapore, and Mr Chua Kwan Ping, Deputy CEO, Asia Pacific Sustainable Aviation Centre (APSAC).. We look forward to the perspectives and expertise they will bring to our school community. Through their continued commitment, our SAC strengthens the bridge between school and community — ensuring our students are prepared not just academically, but as confident, adaptable individuals ready to make their mark on the world.
 
-61 - As we embark on our infrastructure enhancement projects, we remain cognisant that these are also powerful platforms for student leadership development. As representatives of the student population, the student leaders are actively involved in the design considerations for our toilets and canteen renovations. They are empowered to be the voice of their peers and have a say in shaping the spaces they use daily. Their insights will not only lead to more user-centric designs but also deepened their sense of belonging to our school.
+[](/images/About%20Us/Principal's%20Message%202026/Slide84.png)
 
-This ownership transforms our school from just a place of learning into a true home that we can all be genuinely proud of.
+79 - Our partnership with parents is built on three foundations — Respectful Communication, Being Role Models, and Building Real Connections. Guided by the MOE Engagement Charter, we foster meaningful dialogue through open conversations and established channels, while respecting everyone's work-life harmony.
 
-62 - We are thrilled to embark on these upgrading projects, which will undoubtedly take our school to the next level and usher in the future of learning. We believe that these enhancements will have a positive impact on our students' educational journey and overall school experience.
+[](/images/About%20Us/Principal's%20Message%202026/Slide85.png)
 
-***H. Our Partnerships***
+80 - I would like to sincerely thank all our parents for upholding the MOE Engagement Charter — your commitment to respectful and constructive communication makes a real difference to our school community and, most importantly, to your children. We are truly grateful for your trust and partnership.
 
-Section H1: Self-Helf Groups
+[](/images/About%20Us/Principal's%20Message%202026/Slide86.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide79.png)
+81 - Looking ahead, we’re committed to strengthening these partnerships further. Recent parent feedback highlights how our collaborative approach - from arranging bridging programmes for transitioning students to facilitating school transfers for students with medical needs - demonstrates our commitment to supporting each family's unique circumstances. To our parents, your partnership remains invaluable. When we work together with shared understanding and purpose, we create an environment where every StaR can truly shine.
 
-63 - Our commitment to building a robust support network for our students has continued to progress. 
+**J.	Close**
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide80.png)
+82 - In closing, it is my hope that today’s Prize Presentation Day be a celebration of all that our StaRs have accomplished and all that they aspire to become.
 
-In 2024, we forged vital partnerships with CDAC, SINDA, and MENDAKI, expanding our capacity to support students through their diverse programmes. I'm particularly pleased to share that through our enhanced collaboration with SINDA, we successfully established a centre within our campus in January this year, serving not just our students but youths across the northeast region. In addition, we are partnering MENDAKI and CDAC to further support our students by tapping into their resources and expertise to provide targeted support—be it in academic, life skills development, or financial assistance. These partnerships allow us to extend a stronger safety net for our students, particularly those who may benefit from additional guidance. MENDAKI and CDAC (collaboration in brief) (to insert photo with SINDA CEO, two photos with MENDAKI with 3 logos and include the title for partnership for success: one slide)
+[](/images/About%20Us/Principal's%20Message%202026/Slide87.png)
 
-***Section H2: PSG***
+83 - At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide81.png)
+84 - From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
 
-64 - The strength of our school community continues to grow through our dynamic Parent Support Group and alumni network. Working closely with Dads for Life since 2023, we have introduced impactful initiatives like the Navigating Teen Years talk and father-child bonding activities. These programmes have created meaningful opportunities for parents, especially fathers, to actively participate in their children's educational journey.
+[](/images/About%20Us/Principal's%20Message%202026/Slide88.png)
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide82.png)
+85 - Our School Admin Team is the heartbeat of our administrative operations, providing essential support, guidance, and expertise that keep our school running smoothly day in and day out.
 
-65 - These partnerships reflect our belief that education extends beyond the classroom, and that strong community support is essential for our students' success. 
+[](/images/About%20Us/Principal's%20Message%202026/Slide89.png)
 
-66 - Next, I am delighted to share an important development in our school-home partnership journey. Working hand in hand with our parent community, we have co-constructed meaningful guidelines across three key areas that will strengthen how we work together in nurturing our StaRs. This collaborative approach reflects our belief that the best outcomes emerge when schools and families unite with a shared understanding and common purpose. 
+86 - Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide83.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide90.png)
 
-67 - **First, Respectful Communication.** Guided by the MOE Engagement Charter as shared by our minister, we are focused on creating meaningful dialogue that serves our children's best interests. We encourage open conversations where both educators and parents listen to and truly understand each other's perspectives about each and every child. To maintain professional boundaries and work-life harmony, we've established clear communication channels and timeframes. Our teachers use official platforms to share updates and respond to queries during working hours. This structure ensures that communication remains effective while respecting everyone's personal time and space.
+87 - On this note, I would like to extend my heartiest congratulations to all the staff who are promoted in April 2026.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide84.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide91.png)
 
-68 - **Second, we focus on being Role Models.** This role extends far beyond academic guidance. We believe in finding joy in everyday learning experiences with our children. When adults show enthusiasm for learning and resilience in facing challenges, children readily absorb these positive attitudes. We aim to build confidence in our students not by doing things for them, but by believing in their abilities and encouraging them to take responsibility. 
+88 - Reflecting on my years at Serangoon Secondary School, Staff Welfare has been one of the most important domains driving us forward. I have always believed that taking care of the school means taking care of our people first. To lift a quote from our founding father, our late PM LKY "For the young, let me tell you the sky has turned brighter. There's a glorious rainbow that beckons those with the spirit of adventure. And there are rich findings at the end of the rainbow. To the young and to the not-so-old, I say, look at that horizon, follow that rainbow, go ride it."  Diving deeper into the text, he meant to say that  This signals hope and optimism after a difficult period. “Sky has turned brighter” suggests clouds/trouble have passed. For students, it frames the future as full of possibility, not fear..The “rainbow” = new opportunities, dreams, goals. But it only “beckons” — calls out to — people willing to take risks and explore. No adventure, no rainbow...“Rich findings” = growth, skills, friendships, purpose, character. It’s about what you become on the journey...“Young and not-so-old” = Inclusive. This isn’t just for Sec 1s — staff, alumni, parents can all still chase dreams...Have vision. Lift your eyes beyond the daily grind...“Follow that rainbow” = Commit to the journey. It takes Self-directedness and Resilience....“Go ride it” = Don’t just watch — act. Be bold. This is the call to agency and leadership. 
 
-The following will be captured in the slide:
+[](/images/About%20Us/Principal's%20Message%202026/Slide92.png)
 
-Whether it's a teacher guiding a student to solve a complex problem independently, or a parent allowing their child to manage their own school preparations, these moments help build self-reliance, autonomy, and confidence. Our actions speak louder than words - when we demonstrate integrity, empathy, and resilience in our daily interactions, we're teaching valuable life lessons.
+89 - I would like to thank the core planning committee led by VP/ Mrs Wong, VP/ Mr Marc, VPA/ Mr Raja, HOD C&amp;T/ Alvin, HOD Data Management/ Pei Lin and HOD Science/ Sze Gin and the entire school team for their hard work and perseverance, without which this 98th Prize Presentation Day would not have been possible.
 
-![](/images/About%20Us/Principal's%20Message%202025/Slide85.png)
+[](/images/About%20Us/Principal's%20Message%202026/Slide93.png)
 
-69 - **Third, we emphasise building Real Connections in this increasingly digital world.**
+90 - Thank you for your presence today.
 
-Para 69A: Meaningful relationships
-
-We recognise that meaningful relationships are built through shared experiences and genuine conversations, both online and offline. At school, we create opportunities for face-to-face interactions through collaborative projects, group discussions, and community activities. We're also mindful of helping our students develop healthy habits in using technology. This means teaching them to use digital tools effectively while maintaining control over their screen time. 
-
-![](/images/About%20Us/Principal's%20Message%202025/Slide86.png)
-
-Para 69B: No handphone policy
-
-The school has deliberately and progressively implemented a no-handphone policy during curriculum hours, first introducing it to lower secondary levels with successful implementation supported by staff and consistent rationalisation with students. Following this success, the policy was extended to upper secondary levels as well. 
-
-The following will be captured in the slide:
-
-This minimises distractions and allow students to be meaningfully engaged with teachers and peers. We provide a balanced mix of engaging online and offline activities, and we encourage parents to do the same at home. Whether it's participating in outdoor learning experiences, engaging in sports, or having device-free family meals, these moments help build better habits and stronger bonds within your family.
-
-70 - Looking ahead, we're committed to strengthening these partnerships further. We're exploring new ways for more meaningful parent engagement, providing more opportunities for greater parent child bonding opportunities and supporting families in navigating the digital landscape. (not verbalised)
-
-71 - To our parents - your partnership is invaluable. When we work together, we invariably create an environment where every child can flourish.
-
-***I.	Close***
-
-![](/images/About%20Us/Principal's%20Message%202025/Slide87.png)
-
-72 - In closing, it is my hope that today’s Prize Presentation Day be a celebration of all that our StaRs have accomplished and all that they aspire to become. 
-
-![](/images/About%20Us/Principal's%20Message%202025/Slide88.png)
-
-73 - At the heart of our school community is our One StaR Family. As a One StaR Family, we work hard together to make Serangoon Secondary a whole greater than the sum of its parts. The bonds we share are not just valuable; they are the very essence of who we are and what we strive to achieve together as a school.
-
-74 - From this nucleus, we have our 2 Core Teams. These are our Education Officers, and our School Admin Team. Together, our school’s 2 Core Teams serve as the backbone of our school.
-
-![](/images/About%20Us/Principal's%20Message%202025/Slide89.png)
-
-75 - Our School Admin Team is the heartbeat of our administrative operations, providing essential support, guidance, and expertise that keep our school running smoothly day in and day out.
-
-![](/images/About%20Us/Principal's%20Message%202025/Slide90.png)
-
-76 - Our Education Officers are our unsung heroes who work hard behind the scenes and in the forefront every day to enable us to fulfil our core business as a school, that is to deliver a high-quality education to every student.
-
-![](/images/About%20Us/Principal's%20Message%202025/Slide91.png)
-
-77 - I would like to thank the core planning committee led by VP Mrs Wong, VP Mr Marc, VPA/Mr Raja, HOD/Maths Poh Ling and the entire school team for their hard work and perseverance, without which this 97th Prize Presentation Day would not have been possible. 
-
-78 - Thank you for your presence today.
-
-
-*Mr Chen Fook Pang* 
-<br>**Principal** 
-<br>25 April 2025
-
-Click [here](https://www.serangoonsec.moe.edu.sg/principal-s-message-2024/) for the Principal's archived messages.
-
-<hr>
-
-### GOH Speech for Serangoon Secondary School’s 97th PPD (2025)
-
-![](/images/About%20Us/Principal's%20Message%202025/andy_ng.jpg)
-
-**2025 Serangoon Secondary School 
-97th Prize Presentation Day 
-Guest-of-Honour Speech by Mr Andy Ng**
-
-Good morning Principal, teachers, parents, community partners – and most importantly, the amazing students of Serangoon Secondary School – the Serangoon StaRs!
-
-It’s a real honour to be here today – not just to celebrate your achievements, but to come back to the very school that shaped me in more ways than I expected.
-
-I graduated from Serangoon Secondary in 1992. Back then, the uniform looked different, the canteen food was cheaper, and the only AI we knew was “aiyah!” when we forgot our homework.
-
-If I’m being honest… I wasn’t what you'd call a top student. I have dyslexia – and back then, not many people understood what that meant. I struggled to keep up. I stared at English papers feeling lost, and I failed more than once – in tests, in confidence, even in friendships.
-
-But through those struggles, I learned something powerful: how to figure things out in my own way. I had to find my rhythm, ask for help, try again – and again. That mindset didn’t just help me survive school – it helped me become who I am today: an entrepreneur, problem solver, and yes – still a lifelong learner.
-
-So today, I want to share three things I wish someone told me when I was in your shoes. Three ideas that I hope you carry with you long after the certificates are framed and the refreshments are gone.
-
-1 - LEARN HOW TO LEARN
-
-It’s not just about what you score – it’s about how you grow.
-Back in school, I thought the smartest kids were the ones who always got full marks. But later, I realised the real superpower is this: the ability to learn how to learn – to pick up new skills, bounce back from mistakes, and keep improving.
-
-Take someone like MrBeast – one of the biggest YouTubers in the world today. He didn’t just wake up one day and become famous. He spent years studying how YouTube works. He watched thousands of videos, analysed what made people click, tested different ideas, and learned from every failure. He didn’t stop learning just because he left school – he made learning his secret weapon.
-
-That’s the mindset that matters. Whether you’re learning to code, trying out a new CCA, or just figuring out how to manage your time better – the ability to keep learning, even when it’s hard, will take you further than any single exam score.
-
-2 - THE WORLD IS UNCERTAIN – But So Are All Adventures
-
-We live in fast-changing times. Jobs are shifting. Technology is evolving faster than TikTok trends.
-
-But here’s the good news: You don’t need to have everything figured out right now. What you do need is the ability to adapt, explore, and stay curious.
-
-You’re already getting a taste of this through your Applied Learning and EdTech programmes. Drones, 3D printing, programming – that’s not science fiction. That’s you, getting future-ready. You’re learning to solve real-world problems, work in teams, and think on your feet.
-
-And while not everything will go smoothly, remember: progress beats perfection. Every misstep is a lesson. Every challenge is a chance to grow.
-The future doesn’t belong to those who know all the answers. It belongs to those who keep learning new ones.
-
-3 - DEFINE SUCCESS FOR YOURSELF
-
-Success isn’t a one-size-fits-all formula.
-
-Some of you might become doctors or engineers. Others might start businesses, work in the arts, or champion social causes. All are valid.
-
-At Serangoon Secondary, you’re already learning what it means to lead, serve, and contribute. Your Community Youth Leadership programme, your VIA projects, your class, CCA, and level experiences – these aren’t just activities to fill a logbook. They’re shaping your character. They’re helping you discover what matters to you.
-
-Define success in your own terms. Ask: What am I good at? What do I enjoy? What kind of impact do I want to make? Your purpose doesn’t have to look like anyone else’s – but it does need to mean something to you.
-
-CLOSING THOUGHTS
-
-So, Serangoon StaRs, as you look ahead to what’s next, I leave you with these three ideas:
-
-- Learn How to Learn – Stay curious. Try. Fail. Try again.
-- Embrace Uncertainty – Because that’s where the adventures are.
-- Define Success for Yourself – Not by someone else’s standards, but by your own purpose and values.
-- 
-You have the support of your teachers, your families, your peers – and you have the potential to make a real difference.
-
-Let me end with a quote from Maya Angelou: “Do the best you can until you know better. Then when you know better, do better.”
-
-Keep learning. Keep growing. And above all – keep shining,
-
-Thank you.
-
-
-*Mr Andy Ng* 
-<br>**GOH, Member, School Advisory Committee** 
-<br>25 April 2025
 <hr>
