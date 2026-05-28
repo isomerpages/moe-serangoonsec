@@ -40,12 +40,21 @@ Send us your queries and feedback [here](https://form.gov.sg/#!/6004f8860a4eb300
 <br>
 <br>
 
-##### 5. New Service Centre Location
+##### 5. PLD (Personal Learning Device) Repairs and Technical Issues
 
-![](/images/new_PLD_service_centre_location.jpg)
+If your child’s PLD is damaged or experiencing a technical issue, please contact **Mr Imran (ICT Manager)** at **8907 9165** to report the issue. An assessment of the situation issue will be carried out and we will advise on the appropriate next steps.
 
-<p><a href="mailto:svcctr@servlink.com.sg">Email Servlink Technologies</a></p>
+This applies to all PLD-related concerns, including:
 
+	•	Physical damage (cracked screen, damaged casing, faulty keyboard, etc.)
+	•	Hardware issues (battery, charging, power)
+	•	Software issues affecting the device’s functionality
+
+Please note that repairs handled without prior notification to the school may affect your child’s eligibility for a temporary loan device during the repair period.
+
+For any other ICT-related matters, you may also reach Mr Imran at the same number during school hours.
+
+<hr>
 
 ##### 6. DMA Parent Guides
 1) Click on the links below to access the guides:
