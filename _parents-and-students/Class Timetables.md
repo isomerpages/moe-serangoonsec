@@ -6,6 +6,23 @@ variant: markdown
 ---
 ### Class Timetables
 
+##### 2026 Semester 2 Class Timetable
+Download the class timetable by clicking on the pdf or scanning the QR code below to download on your mobile devices.
+
+<img src="/images/Class%20Timetables/2026_Sem_2_Timetable_Odd_Week_Class_qrcode.png" style="width:223px;height:240px;margin-right:15px;" align="left">
+
+[Semester 2 Odd Week Class](/files/Parents%20and%20Students/Class%20Timetables/Serangoon_Sec_Sem_2_Odd_Week_Classes_25_June_2026.pdf)
+
+<br> <br> <br> <br> <br>
+
+<img src="/images/Class%20Timetables/2026_Sem_2_Timetable_Even_Week_Class_qrcode.png" style="width:223px;height:240px;margin-right:15px;" align="left">
+
+[Semester 2 Even Week Class](/files/Parents%20and%20Students/Class%20Timetables/Serangoon_Sec_Sem_2_Even_Week_Classes_25_June_2026.pdf)
+
+<br> <br> <br> <br> <br>
+
+<hr>
+
 ##### 2026 Semester 1 Class Timetable
 Download the class timetable by clicking on the pdf or scanning the QR code below to download on your mobile devices.
 
