@@ -145,14 +145,10 @@ The learning continues beyond the trip itself, with post-trip sharing sessions a
 
 18 - SSS has consistently pride herself with a strong culture of care as a core strength. The Student Development Team (SDT) plays a critical role in the planning, implementing and monitoring to guide our Serangoon StaRs. Allow me to share broadly key directional shifts over the past few years:
 
-![](/images/About%20Us/Principal's%20Message%202026/Slide27.png)
-
 19 - In 2023, the team noted the importance of care element in the work we do, and we renamed the Case Management Team to Care and Case Management Team (C2MT). We discussed roles and responsibilities within SDT, upstream and downstream measures, and looked into streamlining and integrating processes to help uplift our students with additional needs. This outlines the importance of inclusivity.
 
 
 20 - In 2024, we started making shifts and embarked on ‘One Class, One Kampong, One Serangoon’. Firstly, having our Year Heads and School Counsellors follow up with their cohorts to ensure greater Teacher-Student Relationships, and reallocating Educational Support processes into Year Head and Student Management workflows. The C2MT triage workflow was also formulated and digitalized, and the SD road maps were drawn out. The class ecosystem data toolkit was introduced to consolidate key information through a data analytics dashboard, comprising check-in surveys, social network analysis and various class-based information parameters.
-
-![](/images/About%20Us/Principal's%20Message%202026/Slide28.png)
 
 21 - In 2025, the School Staff Developer, HOD/Data Management and HOD/CCE joined the C2MT. This allowed us to better coordinate upstream measures, strengthened the use of data and looked into further building staff capacity. For the first time, the respective level FTs and subject teachers came together to discuss about the students during the conduct grade exercise. The sharing of good practices was also enhanced, with multiple sharing sessions at Staff Contact Time by FTs, for FTs. This allowed FTs to better provide more timely and targeted support at the class level.
 
