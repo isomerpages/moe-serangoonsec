@@ -8,15 +8,16 @@ variant: markdown
 
 ##### 2026 Term 3 Letter to Parents
 
-Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2026_Term_1_Letter_to_Parents.pdf) to view.
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2026_Term_3_Letter_to_Parents.pdf) to view.
 
 <hr>
 
 ##### 2026 Term 2 Letter to Parents
 
-Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2026_Term_1_Letter_to_Parents.pdf) to view.
+Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2026_Term_2_Letter_to_Parents.pdf) to view.
 
 <hr>
+
 ##### 2026 Term 1 Letter to Parents
 
 Click [here](/files/Parents%20and%20Students/Letters%20to%20Parents%20&amp;%20Guardians/2026_Term_1_Letter_to_Parents.pdf) to view.
