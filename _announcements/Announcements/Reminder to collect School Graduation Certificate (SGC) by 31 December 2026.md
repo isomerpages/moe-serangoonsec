@@ -19,8 +19,8 @@ We seek your understanding that your SGC will not be available for collection fr
 
 **Please collect your SGC from General Office (GO) during school operating hours.  Do note that collection of SGC is only available on Monday, Wednesday and Friday at the following times**:
 
-**•	Mondays and Wednesdays (Between 3pm to 5pm)
-<br>•	Fridays (Between 2pm to 5pm)**
+**•	 Mondays and Wednesdays (Between 3pm to 5pm)
+<br>•	 Fridays (Between 2pm to 5pm)**
 
 **Collection Procedures:**
 <br>You are required to:
