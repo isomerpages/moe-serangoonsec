@@ -5,19 +5,21 @@ variant: markdown
 description: ""
 third_nav_title: Announcements
 ---
-### Character Awards 2025
+### Character Awards 2026
 
-![](/images/Announcements/ECHA_Slide_banner_for_school_website_2025.jpg)
+![](/images/Announcements/echa_banner_2026.png)
 
-##### e-Nominations are now open till 7 Aug 2025.
+##### e-Nominations are now open till 11 Aug 2026.
 
 <b>ELIGIBILITY CRITERIA</b>
 
 1 - The nominee is a Singapore citizen.
+
 2 - The nominee is a role model in conduct (behaviours and actions) and attitude.
+
 3 - The nominee must consistently demonstrate good character and values such as:
 
-<br>• School values: Self-directedness; Harmony; Integrity; ResilieNce; and Excellence; and/or
+<br>•	School values: Self-directedness; Harmony; Integrity; ResilieNce; and Excellence; and/or
 
 <br>•	Civic responsibility
 
@@ -26,5 +28,6 @@ third_nav_title: Announcements
 We look forward to your nominations.
 
 Thank you.
+
 
 <hr>
