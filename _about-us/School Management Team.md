@@ -11,7 +11,6 @@ variant: markdown
 | Name  | Designation |
 |---|---|
 | Mr Chen Fook Pang | Principal |
-| Mr Lim Kah Leong Marc | Vice-Principal |
 | Mrs Wong-Lim Puay Kheng | Vice-Principal |
 | Mr Nadarajan Thevar | Vice-Principal (Administration) |
 
