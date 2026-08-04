@@ -20,7 +20,6 @@ variant: markdown
 | Committee Member |Mr Chua Kwan Ping  |
 | Committee Member |Dr Tan Lay Pheng  |
 | SAC Secretariat |Mrs Wong-Lim Puay Kheng  |
-| SAC Secretariat | Mr Lim Kah Leong Marc  |
 | SAC Secretariat | Mr Meyyappan Nadarajan Thevar  |
 | SAC Secretariat | Mdm Mahadevan Jaya  |
 | SAC Secretariat |Ms Susan Lim Gim Peng  |
