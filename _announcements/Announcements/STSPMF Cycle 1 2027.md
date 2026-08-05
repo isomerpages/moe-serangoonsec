@@ -27,10 +27,12 @@ d)	Is not concurrently receiving school pocket money from another STSPMF disburs
 
 e)	Has not been a STSPMF beneficiary for 24 months for the whole schooling years of primary and secondary school and 48 months for post-secondary school.
 
-**To apply, please inform your child/ward to collect the STSPMF application form from school’s General Office or download the attached forms and submit the completed/signed application form & supporting documents to the GO latest by 11 Sep 2026 (Fri).  Please note that late applications will not be accepted.    **
+**To apply, please inform your child/ward to collect the STSPMF application form from school’s General Office or download the attached forms and submit the completed/signed application form &amp; supporting documents to the GO latest by 11 Sep 2026 (Fri).  Please note that late applications will not be accepted.    **
 
 Please contact General Office (GO) at Tel: 63851589 for enquiries.
 
 Thank you.
 
 
+
+<hr>
