@@ -33,6 +33,7 @@ Please contact General Office (GO) at Tel: 63851589 for enquiries.
 
 Thank you.
 
+[Annex A 2027 STSPMF Application Form for Schools](/files/Announcements/Annex_A___2027_STSPMF_Application_Form_for_schools.pdf)
 
-
+[Annex B 2027 Income Declaration Form](/files/Announcements/Annex_B___2027_Income_declaration_form.pdf)
 <hr>
