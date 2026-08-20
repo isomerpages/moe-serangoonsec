@@ -11,13 +11,14 @@ variant: markdown
 
 | Date |  |Event|
 | -------- | -------- | -------- |
-| 05/08/2026:     |1.|[STSPMF (Cycle 1 2027)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2027/)|
-| 30/07/2026:     |2.| [Character Awards 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2026/)|
-| 09/07/2026:     |3.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2026/)|
-| 14/05/2026:     |4.| [Travel Declaration for 2026 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-jun/)|
-| 13/05/2026:     |5.| [Canteen Stall Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/canteen-stall-advertisement/)|
-| 26/02/2026:     |6.|[Travel Declaration for 2026 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-mar/)|
-| 07/01/2026:     |7.| [2025 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-o-level-results-release/) |
+| 20/08/2026:     |1.|[Travel Declaration for 2026 September Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-sep/)|
+| 05/08/2026:     |2.|[STSPMF (Cycle 1 2027)](https://www.serangoonsec.moe.edu.sg/announcements/announcements/stspmf-cycle-1-2027/)|
+| 30/07/2026:     |3.| [Character Awards 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/character-awards-2026/)|
+| 09/07/2026:     |4.| [Reminder to Collect School Graduation Certificate (SGC) by 31 December 2026](https://www.serangoonsec.moe.edu.sg/announcements/announcements/rem-sgc-2026/)|
+| 14/05/2026:     |5.| [Travel Declaration for 2026 Mid-Year Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-jun/)|
+| 13/05/2026:     |6.| [Canteen Stall Advertisement](https://www.serangoonsec.moe.edu.sg/announcements/announcements/canteen-stall-advertisement/)|
+| 26/02/2026:     |7.|[Travel Declaration for 2026 March Holidays](https://www.serangoonsec.moe.edu.sg/announcements/announcements/travel-dcl-2026-mar/)|
+| 07/01/2026:     |8.| [2025 GCE O-Level Results Release](https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-o-level-results-release/) |
 
 ##### 2025 Events
 
