@@ -1,0 +1,75 @@
+---
+layout: homepage
+title: Serangoon Secondary School
+description: Secondary School
+image: /images/isomer-logo.svg
+permalink: /
+notification: ":: Welcome to Serangoon Secondary School! ::"
+sections:
+  - hero:
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /srss/announcements/
+        - title: SSS On Facebook
+          description: ""
+          url: https://www.facebook.com/serangoonsecsg/
+        - title: SSS On Instagram
+          description: ""
+          url: https://www.instagram.com/serangoonsecondary/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/
+      background: /images/20230302_100639.jpg
+  - infopic:
+      title: 2025 GCE O-Level Examination Results Release
+      subtitle: Announcements
+      id: infopic
+      description: The O-level Examination results will be released on 14 January
+        2026, Wednesday.
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-o-level-results-release/
+      image: /images/Announcements/n_level_results_2023.jpg
+      alt: Image alt text
+  - infopic:
+      title: SSS Secondary 1 Registration 2025
+      subtitle: School event
+      id: infopic
+      description: Scan the QR code for more details.
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sec-1-reg-2025/
+      image: /images/Announcements/2025_Sec_1_Reg_Banner_small.jpg
+      alt: Image alt text
+  - infopic:
+      title: 2025 GCE N-Level Examination Results
+      subtitle: Announcements
+      id: infopic
+      description: The N-Level Examination results will be released on 18 December
+        2025, Thursday.
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/2025-gce-nlevel-results/
+      image: /images/Announcements/n_level_results_2023.jpg
+      alt: Image alt text
+  - infopic:
+      title: Celebrating 95 Years of Enduring Legacy
+      subtitle: Announcements
+      id: infopic
+      description: Join us in commemorating 95 years of SSS’s rich history,
+        achievements, and community impact. Here's to honouring the past and
+        embracing the future together!
+      button: Click here to read more
+      url: https://www.serangoonsec.moe.edu.sg/announcements/announcements/sss-95-years/
+      image: /images/Announcements/sss_95_ann.gif
+      alt: Image alt text
+  - infopic:
+      title: SSS in the News
+      subtitle: Latest news
+      id: infopic
+      description: Daughter leaves secondary school with many life changing lessons
+        and good memories
+      button: CLICK HERE TO READ MORE
+      url: /parents-and-students/sss-in-the-news/
+      image: /images/Parents & Students/SSS in the
+        News/Daughter_leaves_secondary_school_with_many_life_changing_lessons_and_good_memories.jpg
+      alt: Image alt text
+---

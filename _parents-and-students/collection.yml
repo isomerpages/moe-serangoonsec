@@ -1,0 +1,49 @@
+collections:
+  parents-and-students:
+    output: true
+    order:
+      - Respecting Our Staff.md
+      - SSS in the News.md
+      - Letters to Parents & Guardians.md
+      - Class Timetables.md
+      - 2026 Student Handbook.md
+      - Post Sec Educational Pathways/.keep
+      - Post Sec Educational Pathways/Post Secondary Education Pathways.md
+      - Post Sec Educational Pathways/SSS ECG Padlet.md
+      - Post Sec Educational Pathways/MySkillsFuture Portal.md
+      - Post Sec Educational Pathways/For GCE O Level Students.md
+      - Post Sec Educational Pathways/For GCE N Level Students.md
+      - Post Sec Educational Pathways/Directory of Post Secondary Education
+        Institutions.md
+      - General Matters/.keep
+      - General Matters/2026 Booklists.md
+      - General Matters/2025 Booklists.md
+      - General Matters/Sales of Books & Uniforms FAQ.md
+      - General Matters/Canteen Menu.md
+      - General Matters/2024 Booklists.md
+      - General Matters/School Fire Drill 2024.md
+      - General Matters/2023 Booklists.md
+      - General Matters/Blended Learning.md
+      - General Matters/Digital Access Programme by IMDA.md
+      - General Matters/Family Matters at School.md
+      - General Matters/Parents Gateway.md
+      - General Matters/School E Resource Repository (SERR).md
+      - General Matters/SSS Learning Hub (School Library).md
+      - General Matters/Student Learning Space (SLS).md
+      - General Matters/Submission of Electronic Medical Certificate.md
+      - Lower Sec/.keep
+      - Lower Sec/Secondary 1 Parent Engagement Session and CCA Orientation
+        2026.md
+      - Lower Sec/Sec 2 Subject Allocation Exercise.md
+      - Upper Sec/.keep
+      - Upper Sec/Sec 3 Parent Webinar.md
+      - Upper Sec/Sec 3 Academic Sharing on English, Mathematics, Science and
+        CCAs & LEAPS 2 System.md
+      - Upper Sec/Sec 4 & 5 Parent Talk.md
+      - Upper Sec/Learning from our SSStars.md
+      - Parent Support Group.md
+      - SSS Alumni/.keep
+      - SSS Alumni/Alumni Overview.md
+      - SSS Alumni/Alumni Recognition.md
+      - National Digital Literacy Programme.md
+      - Student Details Form (SDF) Portal.md

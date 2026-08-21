@@ -1,0 +1,31 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - SAC Chairman's Message.md
+      - Principal's Message.md
+      - Principal's Message Archive/Principal's Message 2025.md
+      - Principal's Message Archive/.keep
+      - Principal's Message Archive/Principal's Message 2024.md
+      - Principal's Message Archive/Principal's Message 2023.md
+      - Vice Principal's Message.md
+      - Vice Principal (Admin)'s Message.md
+      - School Staff Developer's Message.md
+      - HODs' and YHs' Messages.md
+      - HOD (Data Management)'s Message.md
+      - Vision, Mission, Values, Philosophy, and Strategic Thrusts.md
+      - School Identity.md
+      - School History.md
+      - School Stories/.keep
+      - School Stories/Seeking, Striving and Serving Through UGs.md
+      - School Stories/Setting Our Sights High.md
+      - School Stories/Celebrating Class Punctuality with Breakfast.md
+      - School Stories/Healthy Eating, Healthy Relationships.md
+      - School Stories/Project Ablaze.md
+      - School Stories/A School That Cares.md
+      - School Stories/95 Years of History.md
+      - School Management Team.md
+      - School Advisory Committee.md
+      - Staff.md
+      - Respecting Our Staff.md
+      - Contact Us.md

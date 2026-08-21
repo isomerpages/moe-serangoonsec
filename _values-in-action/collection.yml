@@ -1,0 +1,5 @@
+collections:
+  values-in-action:
+    output: true
+    order:
+      - Values In Action (VIA).md

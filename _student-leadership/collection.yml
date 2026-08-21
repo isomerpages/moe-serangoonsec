@@ -1,0 +1,11 @@
+collections:
+  student-leadership:
+    output: true
+    order:
+      - Student Leadership.md
+      - Overview.md
+      - SSS Student Leadership Framework.md
+      - Prefectorial Board.md
+      - CCA Leaders.md
+      - Class Committee.md
+      - Peer Support Leaders.md
