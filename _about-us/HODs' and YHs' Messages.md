@@ -29,8 +29,8 @@ variant: markdown
 
 <li><a href="/hod-data-management-message/">Message</a> by Mrs Lim Pei Lin, <br>HOD (Data Management)</li>
 
-<li><a href="/student-development/year-head-team/message-yh-ls/">Message</a> by Mr Tay Ming Yang, <br>YH (Lower Secondary)</li>
+<li><a href="/student-development/year-head-team/message-yh-ls/">Message</a> by Mr Ng Wee Nghee, <br>YH (Lower Secondary)</li>
 
-<li><a href="/student-development/year-head-team/message-yh-us/">Message</a> by Mdm Lum Cindy, <br>YH (Upper Secondary)</li>
+<li><a href="/student-development/year-head-team/message-yh-us/">Message</a> by Mr Tay Ming Yang, <br>YH (Upper Secondary)</li>
 
 <hr>
