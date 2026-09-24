@@ -70,6 +70,6 @@ Through the above initiatives and programmes, we aim to nurture well-rounded ind
 
 Together, let’s work hand in hand to empower every Serangoon StaR to SHINE, for the growth of self and the good of others.
 
-<i>Mdm Cindy Lum</i>
+<i>Mr Tay Ming Yang</i>
 <br><b>Year Head</b>
 <hr>
