@@ -72,6 +72,6 @@ The respective level themes are very much aligned to supporting the transitionin
 
 The various interactions, programmes and activities present valuable learning opportunities for students to grow in character and inspire the joy of learning. Every student is unique, and we want to nurture each child to his or her fullest potential. To do so, strong school-home partnership is critical to provide the effective environments for our students to develop through structures and routines. The teachers will partner the parents as trusted adults who will journey with our students, through the ups and downs as they navigate this journey. Together, we empower every Serangoon StaR to SHINE, for the growth of self and good of others.
 
-<b>Mdm Cindy Lum</b>
+<b>Mr Ng Wee Nghee</b>
 <br><i>Year Head</i>
 <hr>
